@@ -14,29 +14,34 @@ import { getSkillsDirectory } from './utils/paths';
 export function activate(context: vscode.ExtensionContext) {
   console.log('Lobstore Skills is now active');
 
-  // Create providers
-  const skillsProvider = new SkillsTreeProvider();
-  const installedProvider = new InstalledTreeProvider();
+  try {
+    // Create providers
+    console.log('Creating SkillsTreeProvider...');
+    const skillsProvider = new SkillsTreeProvider();
+    console.log('Creating InstalledTreeProvider...');
+    const installedProvider = new InstalledTreeProvider();
 
-  // Register tree views
-  const skillsView = vscode.window.createTreeView('lobstoreSkills', {
-    treeDataProvider: skillsProvider,
-    showCollapseAll: true,
-  });
+    // Register tree views
+    console.log('Registering tree views...');
+    const skillsView = vscode.window.createTreeView('lobstoreSkills', {
+      treeDataProvider: skillsProvider,
+      showCollapseAll: true,
+    });
 
-  const installedView = vscode.window.createTreeView('lobstoreInstalled', {
-    treeDataProvider: installedProvider,
-  });
+    const installedView = vscode.window.createTreeView('lobstoreInstalled', {
+      treeDataProvider: installedProvider,
+    });
+    console.log('Tree views registered successfully');
 
-  // ============================================
-  // Refresh command
-  // ============================================
-  context.subscriptions.push(
-    vscode.commands.registerCommand('lobstore.refresh', () => {
-      skillsProvider.refresh();
-      installedProvider.refresh();
-    })
-  );
+    // ============================================
+    // Refresh command
+    // ============================================
+    context.subscriptions.push(
+      vscode.commands.registerCommand('lobstore.refresh', () => {
+        skillsProvider.refresh();
+        installedProvider.refresh();
+      })
+    );
 
   // ============================================
   // Search command
@@ -195,22 +200,26 @@ export function activate(context: vscode.ExtensionContext) {
     })
   );
 
-  // Add disposables
-  context.subscriptions.push(skillsView, installedView);
+    // Add disposables
+    context.subscriptions.push(skillsView, installedView);
 
-  // Welcome message
-  const hasShownWelcome = context.globalState.get('lobstore.welcomeShown');
-  if (!hasShownWelcome) {
-    const skillsDir = getSkillsDirectory();
-    vscode.window.showInformationMessage(
-      `🦞 Lobstore Skills ready! Skills install to ${skillsDir}`,
-      'Configure'
-    ).then(choice => {
-      if (choice === 'Configure') {
-        vscode.commands.executeCommand('workbench.action.openSettings', 'lobstore');
-      }
-    });
-    context.globalState.update('lobstore.welcomeShown', true);
+    // Welcome message
+    const hasShownWelcome = context.globalState.get('lobstore.welcomeShown');
+    if (!hasShownWelcome) {
+      const skillsDir = getSkillsDirectory();
+      vscode.window.showInformationMessage(
+        `🦞 Lobstore Skills ready! Skills install to ${skillsDir}`,
+        'Configure'
+      ).then(choice => {
+        if (choice === 'Configure') {
+          vscode.commands.executeCommand('workbench.action.openSettings', 'lobstore');
+        }
+      });
+      context.globalState.update('lobstore.welcomeShown', true);
+    }
+  } catch (error: any) {
+    console.error('Lobstore Skills activation failed:', error);
+    vscode.window.showErrorMessage(`Lobstore Skills failed to activate: ${error.message}`);
   }
 }
 

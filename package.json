@@ -2,7 +2,7 @@
   "name": "lobstore-skills",
   "displayName": "Lobstore Skills",
   "description": "Browse, preview, and install 1500+ AI agent skills from MoltHub. Instant loading with auto-updates. Perfect companion for GitHub Copilot.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "garrettsiegel",
   "repository": {
     "type": "git",
