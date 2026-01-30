@@ -415,6 +415,48 @@
       "category": "Other"
     },
     {
+      "slug": "alirezarezvani/aws-solution-architect",
+      "name": "Aws Solution Architect",
+      "description": "By alirezarezvani",
+      "category": "DevOps"
+    },
+    {
+      "slug": "alirezarezvani/product-strategist",
+      "name": "Product Strategist",
+      "description": "By alirezarezvani",
+      "category": "Other"
+    },
+    {
+      "slug": "alirezarezvani/senior-architect",
+      "name": "Senior Architect",
+      "description": "By alirezarezvani",
+      "category": "Other"
+    },
+    {
+      "slug": "alirezarezvani/senior-backend",
+      "name": "Senior Backend",
+      "description": "By alirezarezvani",
+      "category": "Backend"
+    },
+    {
+      "slug": "alirezarezvani/senior-computer-vision",
+      "name": "Senior Computer Vision",
+      "description": "By alirezarezvani",
+      "category": "Other"
+    },
+    {
+      "slug": "alirezarezvani/senior-devops",
+      "name": "Senior Devops",
+      "description": "By alirezarezvani",
+      "category": "DevOps"
+    },
+    {
+      "slug": "alirezarezvani/ui-design-system",
+      "name": "Ui Design System",
+      "description": "By alirezarezvani",
+      "category": "Frontend"
+    },
+    {
       "slug": "alonw0/molt-bar",
       "name": "Molt Bar",
       "description": "By alonw0",
@@ -1087,6 +1129,12 @@
       "category": "Other"
     },
     {
+      "slug": "bennewton999/blackops-center",
+      "name": "Blackops Center",
+      "description": "By bennewton999",
+      "category": "Other"
+    },
+    {
       "slug": "bert-builder/tavily",
       "name": "Tavily",
       "description": "By bert-builder",
@@ -1306,6 +1354,12 @@
       "slug": "brokemac79/webchat-audio-notifications",
       "name": "Webchat Audio Notifications",
       "description": "By brokemac79",
+      "category": "Other"
+    },
+    {
+      "slug": "bryant-ba/aliyun-search",
+      "name": "Aliyun Search",
+      "description": "By bryant-ba",
       "category": "Other"
     },
     {
@@ -1612,6 +1666,18 @@
       "slug": "cnyezi/a-stock-analysis",
       "name": "A Stock Analysis",
       "description": "By cnyezi",
+      "category": "Other"
+    },
+    {
+      "slug": "consort-tech/organize-tg",
+      "name": "Organize Tg",
+      "description": "By consort-tech",
+      "category": "Other"
+    },
+    {
+      "slug": "coolmanns/canva-connect",
+      "name": "Canva Connect",
+      "description": "By coolmanns",
       "category": "Other"
     },
     {
@@ -2395,6 +2461,12 @@
       "category": "Other"
     },
     {
+      "slug": "ericarnoldy/hass-cli",
+      "name": "Hass Cli",
+      "description": "By ericarnoldy",
+      "category": "Other"
+    },
+    {
       "slug": "ericrosenberg/jellyseerr",
       "name": "Jellyseerr",
       "description": "By ericrosenberg",
@@ -3057,6 +3129,12 @@
     {
       "slug": "ipedrax/antigravity-image-gen",
       "name": "Antigravity Image Gen",
+      "description": "By ipedrax",
+      "category": "Other"
+    },
+    {
+      "slug": "ipedrax/multiple-personas",
+      "name": "Multiple Personas",
       "description": "By ipedrax",
       "category": "Other"
     },
@@ -3757,6 +3835,12 @@
       "category": "Other"
     },
     {
+      "slug": "joetomasone/dashboard",
+      "name": "Dashboard",
+      "description": "By joetomasone",
+      "category": "Other"
+    },
+    {
       "slug": "joeynyc/govee-lights",
       "name": "Govee Lights",
       "description": "By joeynyc",
@@ -3880,6 +3964,12 @@
       "slug": "julianengel/remind-me",
       "name": "Remind Me",
       "description": "By julianengel",
+      "category": "Other"
+    },
+    {
+      "slug": "junwatu/r2-storage",
+      "name": "R2 Storage",
+      "description": "By junwatu",
       "category": "Other"
     },
     {
@@ -4309,6 +4399,18 @@
       "category": "Other"
     },
     {
+      "slug": "leeguooooo/work-report",
+      "name": "Work Report",
+      "description": "By leeguooooo",
+      "category": "Other"
+    },
+    {
+      "slug": "leeguooooo/yapi",
+      "name": "Yapi",
+      "description": "By leeguooooo",
+      "category": "Backend"
+    },
+    {
       "slug": "leohan123123/autofillin",
       "name": "Autofillin",
       "description": "By leohan123123",
@@ -4343,6 +4445,288 @@
       "name": "Icloud Findmy",
       "description": "By liamnichols",
       "category": "DevOps"
+    },
+    {
+      "slug": "lijie420461340/ai-slides",
+      "name": "Ai Slides",
+      "description": "By lijie420461340",
+      "category": "AI & ML"
+    },
+    {
+      "slug": "lijie420461340/applicant-screening",
+      "name": "Applicant Screening",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/batch-convert",
+      "name": "Batch Convert",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/batch-processor",
+      "name": "Batch Processor",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/chat-with-pdf",
+      "name": "Chat With Pdf",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/contract-review",
+      "name": "Contract Review",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/contract-template",
+      "name": "Contract Template",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/cover-letter",
+      "name": "Cover Letter",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/cv-builder",
+      "name": "Cv Builder",
+      "description": "By lijie420461340",
+      "category": "Frontend"
+    },
+    {
+      "slug": "lijie420461340/data-extractor",
+      "name": "Data Extractor",
+      "description": "By lijie420461340",
+      "category": "Data"
+    },
+    {
+      "slug": "lijie420461340/dev-slides",
+      "name": "Dev Slides",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/doc-parser",
+      "name": "Doc Parser",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/doc-pipeline",
+      "name": "Doc Pipeline",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/docx-manipulation",
+      "name": "Docx Manipulation",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/excel-automation",
+      "name": "Excel Automation",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/expense-report",
+      "name": "Expense Report",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/form-builder",
+      "name": "Form Builder",
+      "description": "By lijie420461340",
+      "category": "Frontend"
+    },
+    {
+      "slug": "lijie420461340/html-slides",
+      "name": "Html Slides",
+      "description": "By lijie420461340",
+      "category": "AI & ML"
+    },
+    {
+      "slug": "lijie420461340/html-to-ppt",
+      "name": "Html To Ppt",
+      "description": "By lijie420461340",
+      "category": "AI & ML"
+    },
+    {
+      "slug": "lijie420461340/invoice-organizer",
+      "name": "Invoice Organizer",
+      "description": "By lijie420461340",
+      "category": "Payments"
+    },
+    {
+      "slug": "lijie420461340/invoice-template",
+      "name": "Invoice Template",
+      "description": "By lijie420461340",
+      "category": "Payments"
+    },
+    {
+      "slug": "lijie420461340/job-description",
+      "name": "Job Description",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/layout-analyzer",
+      "name": "Layout Analyzer",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/mcp-hub",
+      "name": "Mcp Hub",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/md-slides",
+      "name": "Md Slides",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/md-to-office",
+      "name": "Md To Office",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/meeting-notes",
+      "name": "Meeting Notes",
+      "description": "By lijie420461340",
+      "category": "Productivity"
+    },
+    {
+      "slug": "lijie420461340/n8n-workflow",
+      "name": "N8n Workflow",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/nda-generator",
+      "name": "Nda Generator",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/offer-letter",
+      "name": "Offer Letter",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/office-mcp",
+      "name": "Office Mcp",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/office-to-md",
+      "name": "Office To Md",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/pdf-compress",
+      "name": "Pdf Compress",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/pdf-converter",
+      "name": "Pdf Converter",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/pdf-extraction",
+      "name": "Pdf Extraction",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/pdf-merge-split",
+      "name": "Pdf Merge Split",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/pdf-ocr",
+      "name": "Pdf Ocr",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/pdf-to-docx",
+      "name": "Pdf To Docx",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/pptx-manipulation",
+      "name": "Pptx Manipulation",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/proposal-writer",
+      "name": "Proposal Writer",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/report-generator",
+      "name": "Report Generator",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/resume-tailor",
+      "name": "Resume Tailor",
+      "description": "By lijie420461340",
+      "category": "AI & ML"
+    },
+    {
+      "slug": "lijie420461340/smart-ocr",
+      "name": "Smart Ocr",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/table-extractor",
+      "name": "Table Extractor",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/template-engine",
+      "name": "Template Engine",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/weekly-report",
+      "name": "Weekly Report",
+      "description": "By lijie420461340",
+      "category": "Other"
+    },
+    {
+      "slug": "lijie420461340/xlsx-manipulation",
+      "name": "Xlsx Manipulation",
+      "description": "By lijie420461340",
+      "category": "Other"
     },
     {
       "slug": "lirantal/railil",
@@ -5803,6 +6187,12 @@
       "category": "Other"
     },
     {
+      "slug": "meekotharaccoon/solarpunk-evidence-logger",
+      "name": "Solarpunk Evidence Logger",
+      "description": "By meekotharaccoon",
+      "category": "Other"
+    },
+    {
       "slug": "meirkad/bright-data",
       "name": "Bright Data",
       "description": "By meirkad",
@@ -6166,6 +6556,12 @@
       "slug": "nastrology/1",
       "name": "1",
       "description": "By nastrology",
+      "category": "Other"
+    },
+    {
+      "slug": "navendugoyal19/self-improvement",
+      "name": "Self Improvement",
+      "description": "By navendugoyal19",
       "category": "Other"
     },
     {
@@ -6763,6 +7159,12 @@
       "category": "Other"
     },
     {
+      "slug": "pepperbotts/gmail-manager",
+      "name": "Gmail Manager",
+      "description": "By pepperbotts",
+      "category": "AI & ML"
+    },
+    {
       "slug": "peterokase42/dont-hack-me",
       "name": "Dont Hack Me",
       "description": "By peterokase42",
@@ -7150,6 +7552,12 @@
       "slug": "rjmcgirr-pl/salesforce-dx",
       "name": "Salesforce Dx",
       "description": "By rjmcgirr-pl",
+      "category": "Other"
+    },
+    {
+      "slug": "rjmoggach/communication-coach",
+      "name": "Communication Coach",
+      "description": "By rjmoggach",
       "category": "Other"
     },
     {
@@ -8151,6 +8559,12 @@
     {
       "slug": "stuhorsman/apewisdom",
       "name": "Apewisdom",
+      "description": "By stuhorsman",
+      "category": "Other"
+    },
+    {
+      "slug": "stuhorsman/openinsider",
+      "name": "Openinsider",
       "description": "By stuhorsman",
       "category": "Other"
     },
@@ -9217,7 +9631,7 @@
       "category": "Other"
     }
   ],
-  "total": 1536,
-  "lastUpdated": "2026-01-30T03:13:12.178Z",
+  "total": 1605,
+  "lastUpdated": "2026-01-30T06:15:05.679Z",
   "version": "1.0.0"
 }
