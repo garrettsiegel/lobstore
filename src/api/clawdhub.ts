@@ -94,8 +94,8 @@ class ClawdHubAPI {
 
       // Fallback: Load from bundled JSON file
       try {
-        const extensionPath = path.join(__dirname, '..');
-        const dataPath = path.join(extensionPath, 'data', 'skills.json');
+        // __dirname is <extension>/dist/api/, go up two levels to <extension>/, then to data/
+        const dataPath = path.join(__dirname, '..', '..', 'data', 'skills.json');
         
         console.log(`Loading skills from bundled file: ${dataPath}`);
         const content = await fs.readFile(dataPath, 'utf-8');

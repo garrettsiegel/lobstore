@@ -1,12 +1,12 @@
 {
   "name": "lobstore-skills",
   "displayName": "Lobstore Skills",
-  "description": "Browse, preview, and download AI agent skills from ClawdHub",
-  "version": "0.1.0",
-  "publisher": "your-publisher-name",
+  "description": "Browse, preview, and install 1500+ AI agent skills from MoltHub. Instant loading with auto-updates. Perfect companion for GitHub Copilot.",
+  "version": "0.1.2",
+  "publisher": "garrettsiegel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/lobstore-skills"
+    "url": "https://github.com/garrettsiegel/lobstore"
   },
   "engines": {
     "vscode": "^1.85.0"
@@ -148,7 +148,7 @@
         },
         "lobstore.dataUrl": {
           "type": "string",
-          "default": "https://raw.githubusercontent.com/your-username/lobstore-skills/main/data/skills.json",
+          "default": "https://raw.githubusercontent.com/garrettsiegel/lobstore/main/data/skills.json",
           "description": "URL to fetch pre-built skills data (auto-updates daily)"
         }
       }

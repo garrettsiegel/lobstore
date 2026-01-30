@@ -1,8 +1,8 @@
 # 🦞 Lobstore Skills
 
-A VS Code extension that allows you to browse, preview, and download AI agent skills from [MoltHub](https://github.com/moltbot/skills).
+A VS Code extension that allows you to browse, preview, and download AI agent skills from [MoltHub Skills Repository](https://github.com/moltbot/skills).
 
-Similar to [Awesome Copilot](https://marketplace.visualstudio.com/items?itemName=TimHeuer.awesome-copilot), but pulls from the moltbot/skills GitHub repository instead.
+Similar to [Awesome Copilot](https://marketplace.visualstudio.com/items?itemName=TimHeuer.awesome-copilot), but specifically designed for the moltbot/skills ecosystem with instant loading and auto-updates.
 
 ## Features
 
@@ -29,18 +29,20 @@ Similar to [Awesome Copilot](https://marketplace.visualstudio.com/items?itemName
 
 ## Folder Structure
 
-Downloaded skills are installed to:
+Downloaded skills are installed to your workspace by default:
 
 ```
-~/.copilot/skills/
+.github/skills/           ← Workspace skills (recommended)
+OR
+~/.copilot/skills/        ← Global skills
 └── skill-name/
-    ├── SKILL.md          ← Main skill file (Copilot reads this)
+    ├── SKILL.md          ← Main skill file
     ├── scripts/          ← Optional helper scripts
     ├── references/       ← Optional reference docs
     └── examples/         ← Optional examples
 ```
 
-GitHub Copilot automatically detects and uses skills from this location when you have `chat.useAgentSkills` enabled.
+GitHub Copilot automatically detects skills in `.github/skills/` within your workspace.
 
 ## Compatibility
 
@@ -64,8 +66,9 @@ All these tools use the same [AgentSkills](https://agentskills.io) open standard
 
 | Setting | Default | Description |
 |---------|---------|-------------|
-| `lobstore.skillsDirectory` | `~/.copilot/skills` | Where to install skills |
+| `lobstore.skillsDirectory` | `<workspace>/.github/skills` | Where to install skills (leave empty for workspace default) |
 | `lobstore.registryUrl` | `https://api.github.com/repos/moltbot/skills` | Skills repository URL |
+| `lobstore.dataUrl` | `https://raw.githubusercontent.com/garrettsiegel/lobstore/main/data/skills.json` | URL for auto-updating skills data |
 
 ## Commands
 
@@ -150,7 +153,7 @@ npm run compile && npm run copy-data
 ### Project Structure
 
 ```
-lobstore-skills/
+lobstore/
 ├── .github/
 │   └── workflows/
 │       └── sync-skills.yml    ← Daily auto-update workflow
