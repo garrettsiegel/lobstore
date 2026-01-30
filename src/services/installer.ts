@@ -23,10 +23,13 @@ export interface InstalledSkillInfo {
 export async function installSkill(slug: string, force: boolean = false): Promise<string> {
   const api = getAPI();
   const skillsDir = getSkillsDirectory();
-  const targetDir = path.join(skillsDir, slug);
+  
+  // Use only the skill name (not username/skillname) for the folder
+  const skillName = slug.split('/')[1];
+  const targetDir = path.join(skillsDir, skillName);
 
   // Check if exists
-  const existing = await findInstalledSkill(slug);
+  const existing = await findInstalledSkill(skillName);
   if (existing && !force) {
     const choice = await vscode.window.showWarningMessage(
       `"${slug}" is already installed. Overwrite?`,

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="margin:0">
+<canvas id="c" width="128" height="128"></canvas>
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+
+// Background
+ctx.fillStyle = '#f8f9fa';
+ctx.beginPath();
+ctx.arc(64, 64, 60, 0, Math.PI * 2);
+ctx.fill();
+
+// Body
+const bodyGrad = ctx.createLinearGradient(0, 40, 0, 100);
+bodyGrad.addColorStop(0, '#ff6b6b');
+bodyGrad.addColorStop(1, '#d73a4a');
+ctx.fillStyle = bodyGrad;
+ctx.beginPath();
+ctx.ellipse(64, 70, 26, 32, 0, 0, Math.PI * 2);
+ctx.fill();
+
+// Head
+ctx.beginPath();
+ctx.arc(64, 48, 17, 0, Math.PI * 2);
+ctx.fill();
+
+// Left claw
+ctx.fillStyle = '#ff8787';
+ctx.beginPath();
+ctx.moveTo(36, 54);
+ctx.quadraticCurveTo(26, 50, 22, 44);
+ctx.quadraticCurveTo(19, 40, 21, 36);
+ctx.lineTo(27, 40);
+ctx.quadraticCurveTo(31, 46, 37, 50);
+ctx.closePath();
+ctx.fill();
+ctx.fillStyle = '#ff6b6b';
+ctx.beginPath();
+ctx.ellipse(29, 42, 7, 5, 0, 0, Math.PI * 2);
+ctx.fill();
+
+// Right claw
+ctx.fillStyle = '#ff8787';
+ctx.beginPath();
+ctx.moveTo(92, 54);
+ctx.quadraticCurveTo(102, 50, 106, 44);
+ctx.quadraticCurveTo(109, 40, 107, 36);
+ctx.lineTo(101, 40);
+ctx.quadraticCurveTo(97, 46, 91, 50);
+ctx.closePath();
+ctx.fill();
+ctx.fillStyle = '#ff6b6b';
+ctx.beginPath();
+ctx.ellipse(99, 42, 7, 5, 0, 0, Math.PI * 2);
+ctx.fill();
+
+// Eyes
+ctx.fillStyle = 'white';
+ctx.beginPath();
+ctx.arc(58, 46, 3.5, 0, Math.PI * 2);
+ctx.fill();
+ctx.beginPath();
+ctx.arc(70, 46, 3.5, 0, Math.PI * 2);
+ctx.fill();
+ctx.fillStyle = '#2d3436';
+ctx.beginPath();
+ctx.arc(59, 46, 2, 0, Math.PI * 2);
+ctx.fill();
+ctx.beginPath();
+ctx.arc(71, 46, 2, 0, Math.PI * 2);
+ctx.fill();
+
+// Smile
+ctx.strokeStyle = '#c92a2a';
+ctx.lineWidth = 2;
+ctx.lineCap = 'round';
+ctx.beginPath();
+ctx.moveTo(58, 54);
+ctx.quadraticCurveTo(64, 57, 70, 54);
+ctx.stroke();
+
+// Tail
+ctx.fillStyle = '#ff8787';
+ctx.fillRect(55, 96, 18, 7);
+ctx.fillStyle = '#ff6b6b';
+ctx.fillRect(53, 103, 22, 7);
+ctx.fillStyle = '#d73a4a';
+ctx.beginPath();
+ctx.moveTo(51, 110);
+ctx.lineTo(64, 122);
+ctx.lineTo(77, 110);
+ctx.closePath();
+ctx.fill();
+
+// Legs
+ctx.strokeStyle = '#d73a4a';
+ctx.lineWidth = 3;
+ctx.beginPath();
+ctx.moveTo(50, 78);
+ctx.lineTo(42, 88);
+ctx.stroke();
+ctx.beginPath();
+ctx.moveTo(54, 82);
+ctx.lineTo(48, 92);
+ctx.stroke();
+ctx.beginPath();
+ctx.moveTo(78, 78);
+ctx.lineTo(86, 88);
+ctx.stroke();
+ctx.beginPath();
+ctx.moveTo(74, 82);
+ctx.lineTo(80, 92);
+ctx.stroke();
+
+// Download
+const link = document.createElement('a');
+link.download = 'icon.png';
+link.href = canvas.toDataURL();
+link.click();
+</script>
+</body>
+</html>

@@ -139,19 +139,25 @@
         "lobstore.skillsDirectory": {
           "type": "string",
           "default": "",
-          "description": "Custom directory for installing skills. Leave empty to use ~/.copilot/skills"
+          "description": "Custom directory for installing skills. Leave empty to use workspace .github/skills/"
         },
         "lobstore.registryUrl": {
           "type": "string",
-          "default": "https://clawdhub.com",
-          "description": "ClawdHub registry URL"
+          "default": "https://api.github.com/repos/moltbot/skills",
+          "description": "Skills repository URL (GitHub API endpoint)"
+        },
+        "lobstore.dataUrl": {
+          "type": "string",
+          "default": "https://raw.githubusercontent.com/your-username/lobstore-skills/main/data/skills.json",
+          "description": "URL to fetch pre-built skills data (auto-updates daily)"
         }
       }
     }
   },
   "scripts": {
-    "vscode:prepublish": "npm run compile",
+    "vscode:prepublish": "npm run compile && npm run copy-data",
     "compile": "tsc -p ./",
+    "copy-data": "mkdir -p dist/data && cp data/skills.json dist/data/skills.json",
     "watch": "tsc -watch -p ./",
     "lint": "eslint src --ext ts",
     "package": "vsce package",

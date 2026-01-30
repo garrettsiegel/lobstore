@@ -120,7 +120,12 @@ export class SkillsTreeProvider implements vscode.TreeDataProvider<TreeItem> {
 
     // Return category items
     return Array.from(categories.entries())
-      .sort(([a], [b]) => a.localeCompare(b))
+      .sort(([a], [b]) => {
+        // Sort 'Other' to the end
+        if (a === 'Other') return 1;
+        if (b === 'Other') return -1;
+        return a.localeCompare(b);
+      })
       .map(([name, skills]) => new CategoryItem(name, skills));
   }
 }
@@ -134,23 +139,34 @@ class CategoryItem extends vscode.TreeItem {
     public readonly skills: Skill[]
   ) {
     super(categoryName, vscode.TreeItemCollapsibleState.Collapsed);
-    this.description = `${skills.length} skills`;
+    this.description = `${skills.length} skill${skills.length === 1 ? '' : 's'}`;
     this.iconPath = new vscode.ThemeIcon('folder');
     this.contextValue = 'category';
   }
 }
 
 /**
- * Skill item with preview and download icons
+ * Skill item that behaves like a clickable markdown file
  */
 export class SkillItem extends vscode.TreeItem {
   constructor(public readonly skill: Skill) {
     super(skill.name, vscode.TreeItemCollapsibleState.None);
 
-    this.description = skill.version ? `v${skill.version}` : '';
+    // Make it look like a markdown file
+    this.label = `${skill.name}.skill.md`;
+    this.description = skill.description;
     this.tooltip = this.createTooltip();
     this.contextValue = 'skill';
-    this.iconPath = new vscode.ThemeIcon('symbol-method');
+    
+    // Use markdown file icon
+    this.iconPath = new vscode.ThemeIcon('markdown');
+    
+    // Make it clickable - opens preview on single click
+    this.command = {
+      command: 'lobstore.preview',
+      title: 'Preview Skill',
+      arguments: [this]
+    };
   }
 
   private createTooltip(): vscode.MarkdownString {
@@ -168,7 +184,7 @@ export class SkillItem extends vscode.TreeItem {
       md.appendMarkdown(`**Tags:** ${this.skill.tags.join(', ')}\n`);
     }
 
-    md.appendMarkdown('\n---\n*Click preview to see SKILL.md, click download to install*');
+    md.appendMarkdown('\n---\n*Click to preview, right-click to download*');
     return md;
   }
 }

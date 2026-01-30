@@ -82,13 +82,16 @@ export function activate(context: vscode.ExtensionContext) {
         content = detail.content || '# No content available';
         title = `${detail.name} (SKILL.md)`;
 
-        // Show in virtual document
-        const uri = vscode.Uri.parse(`lobstore-preview:${item.skill.slug}.md`);
+        // Create temp file with proper .md extension for markdown rendering
+        const os = await import('os');
+        const fs = await import('fs/promises');
+        const tempDir = os.tmpdir();
+        const tempFile = path.join(tempDir, `${item.skill.slug.replace('/', '-')}.SKILL.md`);
+        await fs.writeFile(tempFile, content, 'utf-8');
+        
+        const uri = vscode.Uri.file(tempFile);
         const doc = await vscode.workspace.openTextDocument(uri);
         await vscode.window.showTextDocument(doc, { preview: true });
-
-        // Register content provider for this
-        previewContent.set(item.skill.slug, content);
 
       } catch (e: any) {
         vscode.window.showErrorMessage(`Preview failed: ${e.message}`);
@@ -127,8 +130,9 @@ export function activate(context: vscode.ExtensionContext) {
           () => installSkill(item.skill.slug)
         );
 
+        const relativePath = vscode.workspace.asRelativePath(skillPath);
         const choice = await vscode.window.showInformationMessage(
-          `✅ Installed "${item.skill.name}"`,
+          `✅ Installed "${item.skill.name}" to ${relativePath}`,
           'Open SKILL.md',
           'Reveal in Finder'
         );

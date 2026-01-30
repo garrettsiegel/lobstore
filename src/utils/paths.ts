@@ -18,8 +18,14 @@ export function getSkillsDirectory(): string {
     return expandPath(customDir);
   }
 
-  // Default: ~/.copilot/skills
-  return path.join(os.homedir(), '.copilot', 'skills');
+  // Default: workspace .github/skills (for GitHub Copilot)
+  const workspaceFolder = vscode.workspace.workspaceFolders?.[0];
+  if (workspaceFolder) {
+    return path.join(workspaceFolder.uri.fsPath, '.github', 'skills');
+  }
+
+  // Fallback to home directory if no workspace
+  return path.join(os.homedir(), '.github', 'skills');
 }
 
 /**
@@ -29,11 +35,17 @@ export function getAllSkillDirectories(): string[] {
   const dirs: string[] = [];
   const home = os.homedir();
 
-  // Primary
+  // Primary (workspace .github/skills)
   dirs.push(getSkillsDirectory());
 
   // Other common locations
+  const workspaceFolder = vscode.workspace.workspaceFolders?.[0];
   const others = [
+    ...(workspaceFolder ? [
+      path.join(workspaceFolder.uri.fsPath, '.github', 'skills'),
+      path.join(workspaceFolder.uri.fsPath, '.github', 'copilot', 'skills')
+    ] : []),
+    path.join(home, '.github', 'skills'),
     path.join(home, '.copilot', 'skills'),
     path.join(home, '.claude', 'skills'),
     path.join(home, '.clawdbot', 'skills'),
