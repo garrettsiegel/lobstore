@@ -1393,6 +1393,12 @@
       "category": "Other"
     },
     {
+      "slug": "cgallic/wake-up",
+      "name": "Wake Up",
+      "description": "By cgallic",
+      "category": "Other"
+    },
+    {
       "slug": "chair4ce/swarm",
       "name": "Swarm",
       "description": "By chair4ce",
@@ -1437,6 +1443,12 @@
     {
       "slug": "chipagosfinest/just-fucking-cancel",
       "name": "Just Fucking Cancel",
+      "description": "By chipagosfinest",
+      "category": "Other"
+    },
+    {
+      "slug": "chipagosfinest/language-learning",
+      "name": "Language Learning",
       "description": "By chipagosfinest",
       "category": "Other"
     },
@@ -1517,6 +1529,12 @@
       "name": "Lightning",
       "description": "By clawd21",
       "category": "Other"
+    },
+    {
+      "slug": "clawd21/ui-test",
+      "name": "Ui Test",
+      "description": "By clawd21",
+      "category": "Frontend"
     },
     {
       "slug": "clawd800/onchat",
@@ -1675,6 +1693,12 @@
       "category": "Other"
     },
     {
+      "slug": "danbennettuk/voice-note-to-midi",
+      "name": "Voice Note To Midi",
+      "description": "By danbennettuk",
+      "category": "Productivity"
+    },
+    {
       "slug": "danfedick/nomad",
       "name": "Nomad",
       "description": "By danfedick",
@@ -1702,6 +1726,12 @@
       "slug": "danman60/tesla-skill",
       "name": "Tesla Skill",
       "description": "By danman60",
+      "category": "Other"
+    },
+    {
+      "slug": "dannyshmueli/chart-image",
+      "name": "Chart Image",
+      "description": "By dannyshmueli",
       "category": "Other"
     },
     {
@@ -2578,6 +2608,24 @@
       "slug": "francisbrero/confluence",
       "name": "Confluence",
       "description": "By francisbrero",
+      "category": "Other"
+    },
+    {
+      "slug": "franky0617/bluetooth-monitor",
+      "name": "Bluetooth Monitor",
+      "description": "By franky0617",
+      "category": "Other"
+    },
+    {
+      "slug": "franky0617/crypto-gold-monitor",
+      "name": "Crypto Gold Monitor",
+      "description": "By franky0617",
+      "category": "Web3"
+    },
+    {
+      "slug": "franky0617/etf-assistant",
+      "name": "Etf Assistant",
+      "description": "By franky0617",
       "category": "Other"
     },
     {
@@ -3991,8 +4039,20 @@
       "category": "Other"
     },
     {
+      "slug": "koba42corp/chia-walletconnect",
+      "name": "Chia Walletconnect",
+      "description": "By koba42corp",
+      "category": "Other"
+    },
+    {
       "slug": "koba42corp/dexie",
       "name": "Dexie",
+      "description": "By koba42corp",
+      "category": "Other"
+    },
+    {
+      "slug": "koba42corp/go4me",
+      "name": "Go4me",
       "description": "By koba42corp",
       "category": "Other"
     },
@@ -4009,6 +4069,12 @@
       "category": "Other"
     },
     {
+      "slug": "koba42corp/sage-wallet",
+      "name": "Sage Wallet",
+      "description": "By koba42corp",
+      "category": "Other"
+    },
+    {
       "slug": "koba42corp/spacescan",
       "name": "Spacescan",
       "description": "By koba42corp",
@@ -4017,6 +4083,12 @@
     {
       "slug": "koba42corp/vinculum",
       "name": "Vinculum",
+      "description": "By koba42corp",
+      "category": "Other"
+    },
+    {
+      "slug": "koba42corp/wojak-ink",
+      "name": "Wojak Ink",
       "description": "By koba42corp",
       "category": "Other"
     },
@@ -5650,6 +5722,12 @@
       "slug": "marcbickel/morning-manifesto",
       "name": "Morning Manifesto",
       "description": "By marcbickel",
+      "category": "Other"
+    },
+    {
+      "slug": "mariovallereyes/luma-event-manager",
+      "name": "Luma Event Manager",
+      "description": "By mariovallereyes",
       "category": "Other"
     },
     {
@@ -7351,6 +7429,18 @@
       "category": "Other"
     },
     {
+      "slug": "seanrea/recgov-availability",
+      "name": "Recgov Availability",
+      "description": "By seanrea",
+      "category": "AI & ML"
+    },
+    {
+      "slug": "seanrea/ridb-search",
+      "name": "Ridb Search",
+      "description": "By seanrea",
+      "category": "Other"
+    },
+    {
       "slug": "sebastian-buitrag0/clawdbot-backup",
       "name": "Clawdbot Backup",
       "description": "By sebastian-buitrag0",
@@ -8059,6 +8149,12 @@
       "category": "Other"
     },
     {
+      "slug": "stuhorsman/apewisdom",
+      "name": "Apewisdom",
+      "description": "By stuhorsman",
+      "category": "Other"
+    },
+    {
       "slug": "stuhorsman/quiver",
       "name": "Quiver",
       "description": "By stuhorsman",
@@ -8380,6 +8476,18 @@
       "slug": "tobiasbischoff/fizzy-cli",
       "name": "Fizzy Cli",
       "description": "By tobiasbischoff",
+      "category": "Other"
+    },
+    {
+      "slug": "tolibear/promptify-skill",
+      "name": "Promptify Skill",
+      "description": "By tolibear",
+      "category": "Other"
+    },
+    {
+      "slug": "tolibear/promptify",
+      "name": "Promptify",
+      "description": "By tolibear",
       "category": "Other"
     },
     {
@@ -8809,6 +8917,18 @@
       "category": "Social & Media"
     },
     {
+      "slug": "vnagin/zoom-manager-clawd",
+      "name": "Zoom Manager Clawd",
+      "description": "By vnagin",
+      "category": "Other"
+    },
+    {
+      "slug": "voidcooks/clawd-presence",
+      "name": "Clawd Presence",
+      "description": "By voidcooks",
+      "category": "Other"
+    },
+    {
       "slug": "voydz/planka-cli",
       "name": "Planka Cli",
       "description": "By voydz",
@@ -9025,6 +9145,12 @@
       "category": "Other"
     },
     {
+      "slug": "zack-schrag/treeline-money",
+      "name": "Treeline Money",
+      "description": "By zack-schrag",
+      "category": "Other"
+    },
+    {
       "slug": "zats/brave-images",
       "name": "Brave Images",
       "description": "By zats",
@@ -9073,6 +9199,12 @@
       "category": "Other"
     },
     {
+      "slug": "zbruceli/unifai-trading-suite",
+      "name": "Unifai Trading Suite",
+      "description": "By zbruceli",
+      "category": "AI & ML"
+    },
+    {
       "slug": "zerofire03/system-monitor",
       "name": "System Monitor",
       "description": "By zerofire03",
@@ -9085,7 +9217,7 @@
       "category": "Other"
     }
   ],
-  "total": 1514,
-  "lastUpdated": "2026-01-30T01:01:04.829Z",
+  "total": 1536,
+  "lastUpdated": "2026-01-30T01:44:22.133Z",
   "version": "1.0.0"
 }
