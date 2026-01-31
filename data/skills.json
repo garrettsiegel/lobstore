@@ -316,6 +316,20 @@
       "author": "aaronn"
     },
     {
+      "slug": "aatmaan1/agent-orchestrator",
+      "name": "Agent Orchestrator",
+      "description": "By aatmaan1",
+      "category": "Other",
+      "author": "aatmaan1"
+    },
+    {
+      "slug": "aatmaan1/communication-skill",
+      "name": "Communication Skill",
+      "description": "By aatmaan1",
+      "category": "Other",
+      "author": "aatmaan1"
+    },
+    {
       "slug": "abe238/adversarial-prompting",
       "name": "Adversarial Prompting",
       "description": "By abe238",
@@ -342,6 +356,13 @@
       "description": "By abgohel",
       "category": "Other",
       "author": "abgohel"
+    },
+    {
+      "slug": "abhinavjp/ms-outlook-teams-assistant",
+      "name": "Ms Outlook Teams Assistant",
+      "description": "By abhinavjp",
+      "category": "Other",
+      "author": "abhinavjp"
     },
     {
       "slug": "abk234/searxng",
@@ -1093,6 +1114,13 @@
       "author": "anshumanbh"
     },
     {
+      "slug": "antibitcoin/deepclaw",
+      "name": "Deepclaw",
+      "description": "By antibitcoin",
+      "category": "Other",
+      "author": "antibitcoin"
+    },
+    {
       "slug": "anwitch/engram",
       "name": "Engram",
       "description": "By anwitch",
@@ -1639,6 +1667,41 @@
       "author": "baofeidyz"
     },
     {
+      "slug": "barneyjm/context",
+      "name": "Context",
+      "description": "By barneyjm",
+      "category": "Other",
+      "author": "barneyjm"
+    },
+    {
+      "slug": "barneyjm/journey",
+      "name": "Journey",
+      "description": "By barneyjm",
+      "category": "Other",
+      "author": "barneyjm"
+    },
+    {
+      "slug": "barneyjm/places",
+      "name": "Places",
+      "description": "By barneyjm",
+      "category": "Other",
+      "author": "barneyjm"
+    },
+    {
+      "slug": "barneyjm/query",
+      "name": "Query",
+      "description": "By barneyjm",
+      "category": "Other",
+      "author": "barneyjm"
+    },
+    {
+      "slug": "barneyjm/relationship",
+      "name": "Relationship",
+      "description": "By barneyjm",
+      "category": "Other",
+      "author": "barneyjm"
+    },
+    {
       "slug": "basher83/vibetunnel",
       "name": "Vibetunnel",
       "description": "By basher83",
@@ -1786,6 +1849,13 @@
       "author": "bilalmohamed187-cpu"
     },
     {
+      "slug": "billhao/nosi",
+      "name": "Nosi",
+      "description": "By billhao",
+      "category": "Other",
+      "author": "billhao"
+    },
+    {
       "slug": "billyutw/web-search",
       "name": "Web Search",
       "description": "By billyutw",
@@ -1863,6 +1933,13 @@
       "author": "bjesuiter"
     },
     {
+      "slug": "blackstorm/4todo",
+      "name": "4todo",
+      "description": "By blackstorm",
+      "category": "Productivity",
+      "author": "blackstorm"
+    },
+    {
       "slug": "blqke/beepctl",
       "name": "Beepctl",
       "description": "By blqke",
@@ -1905,11 +1982,32 @@
       "author": "bobot-agent"
     },
     {
+      "slug": "bobrenze-bot/agent-news",
+      "name": "Agent News",
+      "description": "By bobrenze-bot",
+      "category": "Other",
+      "author": "bobrenze-bot"
+    },
+    {
+      "slug": "bobrenze-bot/commit-analyzer",
+      "name": "Commit Analyzer",
+      "description": "By bobrenze-bot",
+      "category": "Other",
+      "author": "bobrenze-bot"
+    },
+    {
       "slug": "bohdanpodvirnyi/strava",
       "name": "Strava",
       "description": "By bohdanpodvirnyi",
       "category": "Other",
       "author": "bohdanpodvirnyi"
+    },
+    {
+      "slug": "bonk-moltbot/toon",
+      "name": "Toon",
+      "description": "By bonk-moltbot",
+      "category": "Other",
+      "author": "bonk-moltbot"
     },
     {
       "slug": "borahm/charger",
@@ -2311,6 +2409,13 @@
       "author": "claudiusaipro"
     },
     {
+      "slug": "clawbot-ved/neondb-skill",
+      "name": "Neondb Skill",
+      "description": "By clawbot-ved",
+      "category": "Other",
+      "author": "clawbot-ved"
+    },
+    {
       "slug": "clawd-maf/cad-agent",
       "name": "Cad Agent",
       "description": "By clawd-maf",
@@ -2386,6 +2491,13 @@
       "description": "By clawpedia",
       "category": "Other",
       "author": "clawpedia"
+    },
+    {
+      "slug": "clawzai/bnb-chain",
+      "name": "Bnb Chain",
+      "description": "By clawzai",
+      "category": "AI & ML",
+      "author": "clawzai"
     },
     {
       "slug": "clockworksquirrel/searxng-local",
@@ -2540,6 +2652,20 @@
       "description": "By cpojer",
       "category": "Other",
       "author": "cpojer"
+    },
+    {
+      "slug": "cpppppp7/fluxa-x402-payment",
+      "name": "Fluxa X402 Payment",
+      "description": "By cpppppp7",
+      "category": "Payments",
+      "author": "cpppppp7"
+    },
+    {
+      "slug": "crankaddict/section11",
+      "name": "Section11",
+      "description": "By crankaddict",
+      "category": "Other",
+      "author": "crankaddict"
     },
     {
       "slug": "crufro/moltspace",
@@ -2785,6 +2911,13 @@
       "description": "By davestarling",
       "category": "Other",
       "author": "davestarling"
+    },
+    {
+      "slug": "davidbenjaminnovotny/moltslist",
+      "name": "Moltslist",
+      "description": "By davidbenjaminnovotny",
+      "category": "Other",
+      "author": "davidbenjaminnovotny"
     },
     {
       "slug": "davideasaf/monarch-money",
@@ -3053,6 +3186,13 @@
       "author": "deepmindomega"
     },
     {
+      "slug": "deepmindomega/zhipu-mcp-tools",
+      "name": "Zhipu Mcp Tools",
+      "description": "By deepmindomega",
+      "category": "Other",
+      "author": "deepmindomega"
+    },
+    {
       "slug": "demandgap/stock-evaluator",
       "name": "Stock Evaluator",
       "description": "By demandgap",
@@ -3142,6 +3282,13 @@
       "description": "By dillera",
       "category": "Other",
       "author": "dillera"
+    },
+    {
+      "slug": "dilomcfly/n8n-automation",
+      "name": "N8n Automation",
+      "description": "By dilomcfly",
+      "category": "Other",
+      "author": "dilomcfly"
     },
     {
       "slug": "dimagious/notion-skill",
@@ -3410,6 +3557,13 @@
       "author": "eduarddriessen1"
     },
     {
+      "slug": "edyyy62/adcp-advertising",
+      "name": "Adcp Advertising",
+      "description": "By edyyy62",
+      "category": "Other",
+      "author": "edyyy62"
+    },
+    {
       "slug": "eesb99/rlm",
       "name": "Rlm",
       "description": "By eesb99",
@@ -3548,6 +3702,20 @@
       "description": "By epheterson",
       "category": "Other",
       "author": "epheterson"
+    },
+    {
+      "slug": "epwhesq/claw-club",
+      "name": "Claw Club",
+      "description": "By epwhesq",
+      "category": "Other",
+      "author": "epwhesq"
+    },
+    {
+      "slug": "erdgeclaw/base-signal-feed",
+      "name": "Base Signal Feed",
+      "description": "By erdgeclaw",
+      "category": "Other",
+      "author": "erdgeclaw"
     },
     {
       "slug": "erdgeclaw/gopass",
@@ -3723,6 +3891,13 @@
       "description": "By ferreirapablo",
       "category": "Other",
       "author": "ferreirapablo"
+    },
+    {
+      "slug": "festoinc/jiraandconfluence",
+      "name": "Jiraandconfluence",
+      "description": "By festoinc",
+      "category": "Other",
+      "author": "festoinc"
     },
     {
       "slug": "finderstrategy-cyber/antigravity-balance",
@@ -3949,11 +4124,25 @@
       "author": "gentrycopsy"
     },
     {
+      "slug": "georgi/nodetool",
+      "name": "Nodetool",
+      "description": "By georgi",
+      "category": "Other",
+      "author": "georgi"
+    },
+    {
       "slug": "gillberto1/moltwallet",
       "name": "Moltwallet",
       "description": "By gillberto1",
       "category": "Other",
       "author": "gillberto1"
+    },
+    {
+      "slug": "gizmogremlin/openclaw-skill-voice-ai-voices",
+      "name": "Openclaw Skill Voice Ai Voices",
+      "description": "By gizmogremlin",
+      "category": "AI & ML",
+      "author": "gizmogremlin"
     },
     {
       "slug": "gizmogremlin/openclaw-voiceai-voice-agent",
@@ -4355,8 +4544,64 @@
       "author": "heythisischris"
     },
     {
+      "slug": "hhhh124hhhh/10-of-my-most-popular-text-to-image-series-prompts-78b0897e",
+      "name": "10 Of My Most Popular Text To Image Series Prompts 78b0897e",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5",
+      "name": "15 Inspiring Examples Of Midjourney Color Prompts  45ec1ef5",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e",
+      "name": "15 Inspiring Examples Of Midjourney Color Prompts  D5f6c66e",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/5-ai-prompts-that-will-transform-your-writing-fore-222d9418",
+      "name": "5 Ai Prompts That Will Transform Your Writing Fore 222d9418",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/50-ai-templates-to-save-time-and-improve-productiv-545d62aa",
+      "name": "50 Ai Templates To Save Time And Improve Productiv 545d62aa",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b",
+      "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For 335a199b",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab",
       "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For 4ac228ab",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26",
+      "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For Aefb3d26",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853",
+      "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For E41bb853",
       "description": "By hhhh124hhhh",
       "category": "AI & ML",
       "author": "hhhh124hhhh"
@@ -4369,10 +4614,31 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/a-beginner-s-guide-to-chatgpt-prompt-engineering-d-1a601e99",
+      "name": "A Beginner S Guide To Chatgpt Prompt Engineering D 1a601e99",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec",
+      "name": "A Beginner S Guide To Chatgpt Prompt Engineering D 558bdbec",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/ad-creative-generator",
       "name": "Ad Creative Generator",
       "description": "By hhhh124hhhh",
       "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/ai-assistant-prompt-template-examples-templafy-hel-90af51ce",
+      "name": "Ai Assistant Prompt Template Examples Templafy Hel 90af51ce",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
       "author": "hhhh124hhhh"
     },
     {
@@ -4385,6 +4651,34 @@
     {
       "slug": "hhhh124hhhh/ai-image-generation-prompts-0d857478",
       "name": "Ai Image Generation Prompts 0d857478",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/ai-image-generation-prompts-3991f149",
+      "name": "Ai Image Generation Prompts 3991f149",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/ai-image-generation-prompts-9142af54",
+      "name": "Ai Image Generation Prompts 9142af54",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/ai-image-prompts-for-eye-catching-marketing-creati-4e43d568",
+      "name": "Ai Image Prompts For Eye Catching Marketing Creati 4e43d568",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/ai-image-prompts-for-eye-catching-marketing-creati-d97f99e2",
+      "name": "Ai Image Prompts For Eye Catching Marketing Creati D97f99e2",
       "description": "By hhhh124hhhh",
       "category": "AI & ML",
       "author": "hhhh124hhhh"
@@ -4404,6 +4698,48 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/ai-prompts-5-best-techniques-for-writing-prompts-279e77b3",
+      "name": "Ai Prompts 5 Best Techniques For Writing Prompts 279e77b3",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/ai-prompts-5-best-techniques-for-writing-prompts-ee46eff2",
+      "name": "Ai Prompts 5 Best Techniques For Writing Prompts Ee46eff2",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd",
+      "name": "Any Prompt Tips For Someone New To Midjourney 9f5dbedd",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/best-practices-for-llm-prompt-engineering-palantir-4a296dff",
+      "name": "Best Practices For Llm Prompt Engineering Palantir 4a296dff",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/best-practices-for-prompt-engineering-with-the-ope-f26e9557",
+      "name": "Best Practices For Prompt Engineering With The Ope F26e9557",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/best-stable-diffusion-prompts-guide-with-examples-b5e23001",
+      "name": "Best Stable Diffusion Prompts Guide With Examples B5e23001",
+      "description": "By hhhh124hhhh",
+      "category": "Frontend",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/developing-writing-prompts-center-for-excellence-i-d6362a24",
       "name": "Developing Writing Prompts Center For Excellence I D6362a24",
       "description": "By hhhh124hhhh",
@@ -4411,8 +4747,50 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/examples-of-prompts-prompt-engineering-guide-61f443e2",
+      "name": "Examples Of Prompts Prompt Engineering Guide 61f443e2",
+      "description": "By hhhh124hhhh",
+      "category": "Frontend",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/examples-of-prompts-prompt-engineering-guide-647441e3",
+      "name": "Examples Of Prompts Prompt Engineering Guide 647441e3",
+      "description": "By hhhh124hhhh",
+      "category": "Frontend",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c",
+      "name": "Free Ai Prompt Generator For Chatgpt Gemini More Q 6e800b2c",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f",
       "name": "Generative Ai Prompt Samples Generative Ai On Vert 49f1ea7f",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9",
+      "name": "Harpa Ai Crafting Exceptional Prompts For Midjourn 05e5faa9",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/how-to-craft-the-perfect-prompt-70fa4961",
+      "name": "How To Craft The Perfect Prompt 70fa4961",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/introduction-to-prompt-templates-in-langchain-come-35ee588c",
+      "name": "Introduction To Prompt Templates In Langchain Come 35ee588c",
       "description": "By hhhh124hhhh",
       "category": "AI & ML",
       "author": "hhhh124hhhh"
@@ -4432,8 +4810,78 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/r-promptengineering-on-reddit-after-1000-hours-of--94ff76c5",
+      "name": "R Promptengineering On Reddit After 1000 Hours Of  94ff76c5",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/r-promptengineering-on-reddit-after-1000-hours-of--e2cf1489",
+      "name": "R Promptengineering On Reddit After 1000 Hours Of  E2cf1489",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/r-promptengineering-on-reddit-ai-prompting-tips-fr-cad7c366",
+      "name": "R Promptengineering On Reddit Ai Prompting Tips Fr Cad7c366",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/responsible-prompting-course-llm-prompt-templates--cd3cd6fd",
+      "name": "Responsible Prompting Course Llm Prompt Templates  Cd3cd6fd",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1",
+      "name": "Stable Diffusion Prompt Guide Basic To Advanced Ex 750475b1",
+      "description": "By hhhh124hhhh",
+      "category": "Frontend",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/the-2026-guide-to-prompt-engineering-ibm-4a7e73bd",
+      "name": "The 2026 Guide To Prompt Engineering Ibm 4a7e73bd",
+      "description": "By hhhh124hhhh",
+      "category": "Frontend",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/the-ultimate-guide-to-writing-effective-ai-prompts-65c2a3a3",
+      "name": "The Ultimate Guide To Writing Effective Ai Prompts 65c2a3a3",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/the-ultimate-guide-to-writing-effective-ai-prompts-e33e853e",
+      "name": "The Ultimate Guide To Writing Effective Ai Prompts E33e853e",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/tiktok-ai-model-generator",
       "name": "Tiktok Ai Model Generator",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/use-prompt-templates-generative-ai-on-vertex-ai-go-b2e80920",
+      "name": "Use Prompt Templates Generative Ai On Vertex Ai Go B2e80920",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/use-prompt-templates-generative-ai-on-vertex-ai-go-b5765981",
+      "name": "Use Prompt Templates Generative Ai On Vertex Ai Go B5765981",
       "description": "By hhhh124hhhh",
       "category": "AI & ML",
       "author": "hhhh124hhhh"
@@ -4549,6 +4997,13 @@
       "description": "By hsooooo",
       "category": "Other",
       "author": "hsooooo"
+    },
+    {
+      "slug": "hukifl1/clankedin",
+      "name": "Clankedin",
+      "description": "By hukifl1",
+      "category": "Other",
+      "author": "hukifl1"
     },
     {
       "slug": "humanji7/solobuddy",
@@ -5622,10 +6077,59 @@
       "author": "jordanprater"
     },
     {
+      "slug": "jordanprater/polymarketcli",
+      "name": "Polymarketcli",
+      "description": "By jordanprater",
+      "category": "Other",
+      "author": "jordanprater"
+    },
+    {
       "slug": "jordanprater/telegram-create-bot",
       "name": "Telegram Create Bot",
       "description": "By jordanprater",
       "category": "Other",
+      "author": "jordanprater"
+    },
+    {
+      "slug": "jordanprater/twittertrends",
+      "name": "Twittertrends",
+      "description": "By jordanprater",
+      "category": "Social & Media",
+      "author": "jordanprater"
+    },
+    {
+      "slug": "jordanprater/xtrends",
+      "name": "Xtrends",
+      "description": "By jordanprater",
+      "category": "Other",
+      "author": "jordanprater"
+    },
+    {
+      "slug": "jordanprater/yahoofinance",
+      "name": "Yahoofinance",
+      "description": "By jordanprater",
+      "category": "Other",
+      "author": "jordanprater"
+    },
+    {
+      "slug": "jordanprater/youtube-summarize",
+      "name": "Youtube Summarize",
+      "description": "By jordanprater",
+      "category": "Social & Media",
+      "author": "jordanprater"
+    },
+    {
+      "slug": "jordanprater/youtube-thumbnail-grabber",
+      "name": "Youtube Thumbnail Grabber",
+      "description": "By jordanprater",
+      "category": "AI & ML",
+      "author": "jordanprater"
+    },
+    {
+      "slug": "jordanprater/youtube-video-downloader",
+      "name": "Youtube Video Downloader",
+      "description": "By jordanprater",
+      "category": "Social & Media",
       "author": "jordanprater"
     },
     {
@@ -6455,6 +6959,13 @@
       "author": "latisen"
     },
     {
+      "slug": "laurentenhoor/moltresearch",
+      "name": "Moltresearch",
+      "description": "By laurentenhoor",
+      "category": "Other",
+      "author": "laurentenhoor"
+    },
+    {
       "slug": "lc0rp/ask-questions-if-underspecified",
       "name": "Ask Questions If Underspecified",
       "description": "By lc0rp",
@@ -6999,6 +7510,13 @@
       "description": "By luluf0x",
       "category": "Social & Media",
       "author": "luluf0x"
+    },
+    {
+      "slug": "lunarcmd/moltbook-interact",
+      "name": "Moltbook Interact",
+      "description": "By lunarcmd",
+      "category": "Other",
+      "author": "lunarcmd"
     },
     {
       "slug": "luoandorder/todoist-rs",
@@ -8548,6 +9066,13 @@
       "author": "masonc15"
     },
     {
+      "slug": "mastergoogler/opensoul",
+      "name": "Opensoul",
+      "description": "By mastergoogler",
+      "category": "Other",
+      "author": "mastergoogler"
+    },
+    {
       "slug": "matrixy/agent-browser-clawdbot",
       "name": "Agent Browser Clawdbot",
       "description": "By matrixy",
@@ -8637,6 +9162,13 @@
       "description": "By meirkad",
       "category": "Data",
       "author": "meirkad"
+    },
+    {
+      "slug": "mejango/juicy",
+      "name": "Juicy",
+      "description": "By mejango",
+      "category": "Frontend",
+      "author": "mejango"
     },
     {
       "slug": "merend/openai-tts-python",
@@ -9430,6 +9962,13 @@
       "author": "mrgoodb"
     },
     {
+      "slug": "mrinvincible29/exchange-rates",
+      "name": "Exchange Rates",
+      "description": "By mrinvincible29",
+      "category": "Other",
+      "author": "mrinvincible29"
+    },
+    {
       "slug": "mrlynn/mongodb-atlas-admin",
       "name": "Mongodb Atlas Admin",
       "description": "By mrlynn",
@@ -9645,6 +10184,13 @@
       "description": "By nerveband",
       "category": "Backend",
       "author": "nerveband"
+    },
+    {
+      "slug": "nesdeq/serper",
+      "name": "Serper",
+      "description": "By nesdeq",
+      "category": "Other",
+      "author": "nesdeq"
     },
     {
       "slug": "nevo-david/postiz",
@@ -9941,6 +10487,13 @@
       "author": "noreplyboter"
     },
     {
+      "slug": "noreplyboter/polymarket-all-in-one",
+      "name": "Polymarket All In One",
+      "description": "By noreplyboter",
+      "category": "Other",
+      "author": "noreplyboter"
+    },
+    {
       "slug": "notabhay/grok-search",
       "name": "Grok Search",
       "description": "By notabhay",
@@ -10193,11 +10746,53 @@
       "author": "orlyjamie"
     },
     {
+      "slug": "orosha-ai/agent-observability-dashboard",
+      "name": "Agent Observability Dashboard",
+      "description": "By orosha-ai",
+      "category": "Other",
+      "author": "orosha-ai"
+    },
+    {
+      "slug": "orosha-ai/agent-relay-digest",
+      "name": "Agent Relay Digest",
+      "description": "By orosha-ai",
+      "category": "Other",
+      "author": "orosha-ai"
+    },
+    {
+      "slug": "orosha-ai/agent-trust-validator",
+      "name": "Agent Trust Validator",
+      "description": "By orosha-ai",
+      "category": "Other",
+      "author": "orosha-ai"
+    },
+    {
       "slug": "orosha-ai/agentic-compass",
       "name": "Agentic Compass",
       "description": "By orosha-ai",
       "category": "Other",
       "author": "orosha-ai"
+    },
+    {
+      "slug": "orosha-ai/mcp-registry-manager",
+      "name": "Mcp Registry Manager",
+      "description": "By orosha-ai",
+      "category": "Other",
+      "author": "orosha-ai"
+    },
+    {
+      "slug": "orosha-ai/osint-graph-analyzer",
+      "name": "Osint Graph Analyzer",
+      "description": "By orosha-ai",
+      "category": "Other",
+      "author": "orosha-ai"
+    },
+    {
+      "slug": "osadchiynikita/agentpixels-skill",
+      "name": "Agentpixels Skill",
+      "description": "By osadchiynikita",
+      "category": "Other",
+      "author": "osadchiynikita"
     },
     {
       "slug": "oskarstark/paperless-ngx",
@@ -10443,6 +11038,13 @@
       "description": "By peterw",
       "category": "Other",
       "author": "peterw"
+    },
+    {
+      "slug": "piyushduggal-source/pandic-office",
+      "name": "Pandic Office",
+      "description": "By piyushduggal-source",
+      "category": "Other",
+      "author": "piyushduggal-source"
     },
     {
       "slug": "pjb157/doubleword-api",
@@ -10844,6 +11446,13 @@
       "author": "rdewolff"
     },
     {
+      "slug": "rdosec/tesrtastasra-asdasd",
+      "name": "Tesrtastasra Asdasd",
+      "description": "By rdosec",
+      "category": "Other",
+      "author": "rdosec"
+    },
+    {
       "slug": "rdosec/tmux-2",
       "name": "Tmux 2",
       "description": "By rdosec",
@@ -10975,6 +11584,13 @@
       "description": "By rjnpage",
       "category": "Other",
       "author": "rjnpage"
+    },
+    {
+      "slug": "rknoche6/fast-browser-use",
+      "name": "Fast Browser Use",
+      "description": "By rknoche6",
+      "category": "Other",
+      "author": "rknoche6"
     },
     {
       "slug": "robbyczgw-cla/agent-protocol",
@@ -11761,6 +12377,13 @@
       "author": "spclaudehome"
     },
     {
+      "slug": "spclaudehome/crabnet",
+      "name": "Crabnet",
+      "description": "By spclaudehome",
+      "category": "Other",
+      "author": "spclaudehome"
+    },
+    {
       "slug": "spclaudehome/skill-vetter",
       "name": "Skill Vetter",
       "description": "By spclaudehome",
@@ -11780,6 +12403,13 @@
       "description": "By spendit-ai",
       "category": "Web3",
       "author": "spendit-ai"
+    },
+    {
+      "slug": "srcnysf/clawslist",
+      "name": "Clawslist",
+      "description": "By srcnysf",
+      "category": "DevOps",
+      "author": "srcnysf"
     },
     {
       "slug": "ss251/qr-auction-bidder",
@@ -12300,6 +12930,20 @@
       "author": "stuhorsman"
     },
     {
+      "slug": "sumeetchougule/chaoschain",
+      "name": "Chaoschain",
+      "description": "By sumeetchougule",
+      "category": "AI & ML",
+      "author": "sumeetchougule"
+    },
+    {
+      "slug": "sunnyguoyuan/office-xyz",
+      "name": "Office Xyz",
+      "description": "By sunnyguoyuan",
+      "category": "Other",
+      "author": "sunnyguoyuan"
+    },
+    {
       "slug": "surfer77/evm-wallet",
       "name": "Evm Wallet",
       "description": "By surfer77",
@@ -12482,10 +13126,73 @@
       "author": "thegovind"
     },
     {
+      "slug": "thegovind/azure-ai-evaluation-py",
+      "name": "Azure Ai Evaluation Py",
+      "description": "By thegovind",
+      "category": "AI & ML",
+      "author": "thegovind"
+    },
+    {
       "slug": "thegovind/azure-ai-projects-py",
       "name": "Azure Ai Projects Py",
       "description": "By thegovind",
       "category": "AI & ML",
+      "author": "thegovind"
+    },
+    {
+      "slug": "thegovind/azure-ai-transcription-py",
+      "name": "Azure Ai Transcription Py",
+      "description": "By thegovind",
+      "category": "AI & ML",
+      "author": "thegovind"
+    },
+    {
+      "slug": "thegovind/azure-ai-voicelive-py",
+      "name": "Azure Ai Voicelive Py",
+      "description": "By thegovind",
+      "category": "AI & ML",
+      "author": "thegovind"
+    },
+    {
+      "slug": "thegovind/azure-cosmos-py",
+      "name": "Azure Cosmos Py",
+      "description": "By thegovind",
+      "category": "DevOps",
+      "author": "thegovind"
+    },
+    {
+      "slug": "thegovind/azure-identity-py",
+      "name": "Azure Identity Py",
+      "description": "By thegovind",
+      "category": "DevOps",
+      "author": "thegovind"
+    },
+    {
+      "slug": "thegovind/azure-keyvault-py",
+      "name": "Azure Keyvault Py",
+      "description": "By thegovind",
+      "category": "DevOps",
+      "author": "thegovind"
+    },
+    {
+      "slug": "thegovind/azure-storage-blob-py",
+      "name": "Azure Storage Blob Py",
+      "description": "By thegovind",
+      "category": "DevOps",
+      "author": "thegovind"
+    },
+    {
+      "slug": "thegovind/github-issue-creator",
+      "name": "Github Issue Creator",
+      "description": "By thegovind",
+      "category": "Other",
+      "author": "thegovind"
+    },
+    {
+      "slug": "thegovind/podcast-generation",
+      "name": "Podcast Generation",
+      "description": "By thegovind",
+      "category": "Other",
       "author": "thegovind"
     },
     {
@@ -12713,11 +13420,25 @@
       "author": "thomeksolutions"
     },
     {
+      "slug": "tiagom101/ipinfo",
+      "name": "Ipinfo",
+      "description": "By tiagom101",
+      "category": "Other",
+      "author": "tiagom101"
+    },
+    {
       "slug": "timenotspace/notion-api",
       "name": "Notion Api",
       "description": "By timenotspace",
       "category": "Backend",
       "author": "timenotspace"
+    },
+    {
+      "slug": "tmchow/hzl",
+      "name": "Hzl",
+      "description": "By tmchow",
+      "category": "Other",
+      "author": "tmchow"
     },
     {
       "slug": "tmchow/telegram-compose",
@@ -13224,6 +13945,34 @@
       "author": "veeky-kumar"
     },
     {
+      "slug": "veeramanikandanr48/accessibility",
+      "name": "Accessibility",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/agent-development",
+      "name": "Agent Development",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/ai-sdk-core",
+      "name": "Ai Sdk Core",
+      "description": "By veeramanikandanr48",
+      "category": "AI & ML",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/ai-sdk-ui",
+      "name": "Ai Sdk Ui",
+      "description": "By veeramanikandanr48",
+      "category": "AI & ML",
+      "author": "veeramanikandanr48"
+    },
+    {
       "slug": "veeramanikandanr48/angular-architect",
       "name": "Angular Architect",
       "description": "By veeramanikandanr48",
@@ -13245,8 +13994,134 @@
       "author": "veeramanikandanr48"
     },
     {
+      "slug": "veeramanikandanr48/auto-animate",
+      "name": "Auto Animate",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/azure-auth",
+      "name": "Azure Auth",
+      "description": "By veeramanikandanr48",
+      "category": "DevOps",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/backtest-expert",
+      "name": "Backtest Expert",
+      "description": "By veeramanikandanr48",
+      "category": "Testing",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/better-auth",
+      "name": "Better Auth",
+      "description": "By veeramanikandanr48",
+      "category": "Security",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/brand-analyzer",
+      "name": "Brand Analyzer",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/breadth-chart-analyst",
+      "name": "Breadth Chart Analyst",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/cicd-pipeline-generator",
+      "name": "Cicd Pipeline Generator",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/claude-agent-sdk",
+      "name": "Claude Agent Sdk",
+      "description": "By veeramanikandanr48",
+      "category": "AI & ML",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/clerk-auth",
+      "name": "Clerk Auth",
+      "description": "By veeramanikandanr48",
+      "category": "Security",
+      "author": "veeramanikandanr48"
+    },
+    {
       "slug": "veeramanikandanr48/cli-developer",
       "name": "Cli Developer",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/codebase-documenter",
+      "name": "Codebase Documenter",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/cryptocurrency-trader-skill",
+      "name": "Cryptocurrency Trader Skill",
+      "description": "By veeramanikandanr48",
+      "category": "Web3",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/dividend-growth-pullback-screener",
+      "name": "Dividend Growth Pullback Screener",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/docker-containerization",
+      "name": "Docker Containerization",
+      "description": "By veeramanikandanr48",
+      "category": "AI & ML",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/earnings-calendar",
+      "name": "Earnings Calendar",
+      "description": "By veeramanikandanr48",
+      "category": "Productivity",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/economic-calendar-fetcher",
+      "name": "Economic Calendar Fetcher",
+      "description": "By veeramanikandanr48",
+      "category": "Productivity",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/institutional-flow-tracker",
+      "name": "Institutional Flow Tracker",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/market-environment-analysis",
+      "name": "Market Environment Analysis",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/market-news-analyst",
+      "name": "Market News Analyst",
       "description": "By veeramanikandanr48",
       "category": "Other",
       "author": "veeramanikandanr48"
@@ -13259,10 +14134,31 @@
       "author": "veeramanikandanr48"
     },
     {
+      "slug": "veeramanikandanr48/options-strategy-advisor",
+      "name": "Options Strategy Advisor",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/pair-trade-screener",
+      "name": "Pair Trade Screener",
+      "description": "By veeramanikandanr48",
+      "category": "AI & ML",
+      "author": "veeramanikandanr48"
+    },
+    {
       "slug": "veeramanikandanr48/pentest",
       "name": "Pentest",
       "description": "By veeramanikandanr48",
       "category": "Testing",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/portfolio-manager",
+      "name": "Portfolio Manager",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
       "author": "veeramanikandanr48"
     },
     {
@@ -13273,8 +14169,36 @@
       "author": "veeramanikandanr48"
     },
     {
+      "slug": "veeramanikandanr48/research-paper-writer",
+      "name": "Research Paper Writer",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/scenario-analyzer",
+      "name": "Scenario Analyzer",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/sector-analyst",
+      "name": "Sector Analyst",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
       "slug": "veeramanikandanr48/secure-code-guardian",
       "name": "Secure Code Guardian",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/seo-optimizer",
+      "name": "Seo Optimizer",
       "description": "By veeramanikandanr48",
       "category": "Other",
       "author": "veeramanikandanr48"
@@ -13315,8 +14239,22 @@
       "author": "veeramanikandanr48"
     },
     {
+      "slug": "veeramanikandanr48/stanley-druckenmiller-investment",
+      "name": "Stanley Druckenmiller Investment",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
       "slug": "veeramanikandanr48/swift-expert",
       "name": "Swift Expert",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/technical-analyst",
+      "name": "Technical Analyst",
       "description": "By veeramanikandanr48",
       "category": "Other",
       "author": "veeramanikandanr48"
@@ -13336,8 +14274,29 @@
       "author": "veeramanikandanr48"
     },
     {
+      "slug": "veeramanikandanr48/test-specialist",
+      "name": "Test Specialist",
+      "description": "By veeramanikandanr48",
+      "category": "Testing",
+      "author": "veeramanikandanr48"
+    },
+    {
       "slug": "veeramanikandanr48/typescript-pro",
       "name": "Typescript Pro",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/us-market-bubble-detector",
+      "name": "Us Market Bubble Detector",
+      "description": "By veeramanikandanr48",
+      "category": "Other",
+      "author": "veeramanikandanr48"
+    },
+    {
+      "slug": "veeramanikandanr48/us-stock-analysis",
+      "name": "Us Stock Analysis",
       "description": "By veeramanikandanr48",
       "category": "Other",
       "author": "veeramanikandanr48"
@@ -13518,6 +14477,13 @@
       "author": "vishnubedi3"
     },
     {
+      "slug": "vishnubedi3/plan-executor",
+      "name": "Plan Executor",
+      "description": "By vishnubedi3",
+      "category": "Other",
+      "author": "vishnubedi3"
+    },
+    {
       "slug": "visiongeist/coolify",
       "name": "Coolify",
       "description": "By visiongeist",
@@ -13607,6 +14573,13 @@
       "description": "By waldekmastykarz",
       "category": "Other",
       "author": "waldekmastykarz"
+    },
+    {
+      "slug": "walkamolee/ralph-loop-writer",
+      "name": "Ralph Loop Writer",
+      "description": "By walkamolee",
+      "category": "Other",
+      "author": "walkamolee"
     },
     {
       "slug": "weird-aftertaste/komodo",
@@ -13798,6 +14771,13 @@
       "author": "xobi667"
     },
     {
+      "slug": "xqicxx/advanced-skill-creator",
+      "name": "Advanced Skill Creator",
+      "description": "By xqicxx",
+      "category": "Other",
+      "author": "xqicxx"
+    },
+    {
       "slug": "xsir0/frontend-design-extractor",
       "name": "Frontend Design Extractor",
       "description": "By xsir0",
@@ -13838,6 +14818,13 @@
       "description": "By yakelb0815",
       "category": "Other",
       "author": "yakelb0815"
+    },
+    {
+      "slug": "yconst/request-approval",
+      "name": "Request Approval",
+      "description": "By yconst",
+      "category": "Other",
+      "author": "yconst"
     },
     {
       "slug": "yixinli867/skill-creator-2",
@@ -14008,7 +14995,7 @@
       "author": "zonder"
     }
   ],
-  "total": 2001,
-  "lastUpdated": "2026-01-31T16:00:36.925Z",
+  "total": 2142,
+  "lastUpdated": "2026-01-31T20:32:53.344Z",
   "version": "1.1.0"
 }
