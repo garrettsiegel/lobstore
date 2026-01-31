@@ -8,6 +8,7 @@ import * as path from 'path';
 import AdmZip from 'adm-zip';
 import { getAPI } from '../api/clawdhub';
 import { getSkillsDirectory, ensureDir, exists, findInstalledSkill } from '../utils/paths';
+import { scanSkillContent, formatIssuesForDisplay, SecurityScanResult } from './security-scanner';
 
 export interface InstalledSkillInfo {
   slug: string;
@@ -15,12 +16,19 @@ export interface InstalledSkillInfo {
   description: string;
   version?: string;
   path: string;
+  securityScore?: number;
+}
+
+export interface InstallOptions {
+  force?: boolean;
+  bypassSecurity?: boolean;
 }
 
 /**
- * Download and install a skill
+ * Download and install a skill with security scanning
  */
-export async function installSkill(slug: string, force: boolean = false): Promise<string> {
+export async function installSkill(slug: string, options: InstallOptions = {}): Promise<string> {
+  const { force = false, bypassSecurity = false } = options;
   const api = getAPI();
   const skillsDir = getSkillsDirectory();
   
@@ -47,15 +55,102 @@ export async function installSkill(slug: string, force: boolean = false): Promis
   // Download
   const zipBuffer = await api.downloadSkill(slug);
 
-  // Extract
-  await extractZip(zipBuffer, targetDir);
+  // Extract to temp location first for security scanning
+  const tempDir = path.join(skillsDir, `.temp-${skillName}-${Date.now()}`);
+  await extractZip(zipBuffer, tempDir);
 
-  // Verify
-  const skillMd = path.join(targetDir, 'SKILL.md');
-  if (!(await exists(skillMd))) {
-    await fs.rm(targetDir, { recursive: true, force: true });
+  // Find and scan SKILL.md
+  const skillMdPath = path.join(tempDir, 'SKILL.md');
+  if (!(await exists(skillMdPath))) {
+    await fs.rm(tempDir, { recursive: true, force: true });
     throw new Error('Invalid skill: missing SKILL.md');
   }
+
+  const skillContent = await fs.readFile(skillMdPath, 'utf-8');
+  const scanResult = scanSkillContent(skillContent, 'SKILL.md');
+
+  // Handle security scan results
+  if (!scanResult.safe && !bypassSecurity) {
+    // Show security report
+    const reportMd = formatIssuesForDisplay(scanResult);
+    
+    // Create temp file for security report
+    const os = await import('os');
+    const reportPath = path.join(os.tmpdir(), `security-report-${skillName}.md`);
+    await fs.writeFile(reportPath, reportMd, 'utf-8');
+    
+    // Show report in editor
+    const reportUri = vscode.Uri.file(reportPath);
+    await vscode.window.showTextDocument(await vscode.workspace.openTextDocument(reportUri), { preview: true });
+
+    // Clean up temp extraction
+    await fs.rm(tempDir, { recursive: true, force: true });
+
+    // Show blocking message with options
+    const choice = await vscode.window.showErrorMessage(
+      `⛔ Security scan blocked "${slug}" (Score: ${scanResult.score}/100). ${scanResult.issues.length} issue(s) found.`,
+      { modal: true },
+      'View Report',
+      'Force Install (Risky)',
+      'Cancel'
+    );
+
+    if (choice === 'Force Install (Risky)') {
+      // Confirm force install
+      const confirm = await vscode.window.showWarningMessage(
+        `⚠️ Are you sure you want to install "${slug}" despite security warnings? This could be dangerous.`,
+        { modal: true },
+        'Yes, I understand the risks',
+        'Cancel'
+      );
+
+      if (confirm === 'Yes, I understand the risks') {
+        return installSkill(slug, { force: true, bypassSecurity: true });
+      }
+    }
+
+    throw new Error('Installation blocked due to security concerns');
+  }
+
+  // Show warning for non-critical issues
+  if (scanResult.issues.length > 0 && scanResult.safe) {
+    const warningChoice = await vscode.window.showWarningMessage(
+      `⚠️ "${slug}" has ${scanResult.issues.length} minor security notice(s) (Score: ${scanResult.score}/100). Continue?`,
+      'Install Anyway',
+      'View Details',
+      'Cancel'
+    );
+
+    if (warningChoice === 'View Details') {
+      const reportMd = formatIssuesForDisplay(scanResult);
+      const os = await import('os');
+      const reportPath = path.join(os.tmpdir(), `security-report-${skillName}.md`);
+      await fs.writeFile(reportPath, reportMd, 'utf-8');
+      await vscode.window.showTextDocument(await vscode.workspace.openTextDocument(vscode.Uri.file(reportPath)), { preview: true });
+      
+      // Clean up and cancel
+      await fs.rm(tempDir, { recursive: true, force: true });
+      throw new Error('Cancelled');
+    } else if (warningChoice !== 'Install Anyway') {
+      await fs.rm(tempDir, { recursive: true, force: true });
+      throw new Error('Cancelled');
+    }
+  }
+
+  // Move from temp to final location
+  if (await exists(targetDir)) {
+    await fs.rm(targetDir, { recursive: true, force: true });
+  }
+  await fs.rename(tempDir, targetDir);
+
+  // Save security score metadata
+  const metadataPath = path.join(targetDir, '.security-scan.json');
+  await fs.writeFile(metadataPath, JSON.stringify({
+    scanDate: new Date().toISOString(),
+    score: scanResult.score,
+    issueCount: scanResult.issues.length,
+    safe: scanResult.safe
+  }, null, 2), 'utf-8');
 
   return targetDir;
 }

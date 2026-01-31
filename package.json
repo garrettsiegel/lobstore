@@ -2,7 +2,7 @@
   "name": "lobstore-skills",
   "displayName": "Lobstore Skills",
   "description": "Browse, preview, and install 1500+ AI agent skills from MoltHub. Instant loading with auto-updates. Perfect companion for GitHub Copilot.",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "publisher": "garrettsiegel",
   "repository": {
     "type": "git",
@@ -102,6 +102,11 @@
         "command": "lobstore.revealInFinder",
         "title": "Reveal in Finder",
         "icon": "$(folder-opened)"
+      },
+      {
+        "command": "lobstore.securityScan",
+        "title": "Security Scan",
+        "icon": "$(shield)"
       }
     ],
     "menus": {
@@ -129,6 +134,11 @@
           "group": "inline@2"
         },
         {
+          "command": "lobstore.securityScan",
+          "when": "view == lobstoreSkills && viewItem == skill",
+          "group": "security"
+        },
+        {
           "command": "lobstore.openInBrowser",
           "when": "view == lobstoreSkills && viewItem == skill"
         },
@@ -141,6 +151,11 @@
           "command": "lobstore.revealInFinder",
           "when": "view == lobstoreInstalled && viewItem == installedSkill",
           "group": "inline@2"
+        },
+        {
+          "command": "lobstore.securityScan",
+          "when": "view == lobstoreInstalled && viewItem == installedSkill",
+          "group": "security"
         },
         {
           "command": "lobstore.uninstall",

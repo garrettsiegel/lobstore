@@ -79,8 +79,44 @@ All these tools use the same [AgentSkills](https://agentskills.io) open standard
 | `Lobstore: Preview` | Preview a skill's SKILL.md |
 | `Lobstore: Download` | Install a skill |
 | `Lobstore: Uninstall` | Remove an installed skill |
+| `Lobstore: Security Scan` | Scan a skill for security issues before/after install |
 | `Lobstore: Open in Browser` | View skill on GitHub |
 | `Lobstore: Reveal in Finder` | Show installed skill in file manager |
+
+## 🛡️ Security Scanning
+
+Lobstore includes built-in security scanning that automatically checks skills before installation. This helps protect you from:
+
+### Detected Threats
+
+| Category | Examples |
+|----------|----------|
+| **Destructive Commands** | `rm -rf /`, system wipes, fork bombs |
+| **Remote Code Execution** | `curl ... \| bash`, download-and-execute patterns |
+| **Credential Exfiltration** | Sending API keys, tokens, or passwords to external servers |
+| **Sensitive File Access** | Reading `~/.ssh`, `~/.aws`, or other credential files |
+| **Reverse Shells** | Netcat, socat, or other backdoor patterns |
+| **Prompt Injection** | Instructions that try to override AI safety guidelines |
+| **Permission Escalation** | Suspicious chmod/chown operations |
+| **Persistence Mechanisms** | Cron jobs, systemd services, launchd agents |
+
+### How It Works
+
+1. **Automatic Scan**: Every skill is scanned before installation
+2. **Blocking**: Critical/high-severity issues block installation
+3. **Warnings**: Medium/low issues show a warning but allow installation
+4. **Manual Scan**: Right-click any skill → "Security Scan" to preview the report
+5. **Bypass Option**: Trusted skills can force-install with explicit confirmation
+
+### Security Score
+
+Each skill receives a score from 0-100:
+- 🟢 **90-100**: Safe - No significant issues
+- 🟡 **70-89**: Caution - Minor concerns
+- 🟠 **50-69**: Warning - Review recommended
+- 🔴 **0-49**: Blocked - Installation prevented
+
+**Note:** Security scanning is not foolproof. Always review skills from unknown authors.
 
 ## Architecture
 

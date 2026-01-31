@@ -234,9 +234,63 @@ export function activate(context: vscode.ExtensionContext) {
 
         installedProvider.refresh();
       } catch (e: any) {
-        if (e.message !== 'Cancelled') {
+        if (e.message !== 'Cancelled' && !e.message.includes('security')) {
           vscode.window.showErrorMessage(`Install failed: ${e.message}`);
         }
+      }
+    })
+  );
+
+  // ============================================
+  // Security Scan command - scan before download
+  // ============================================
+  context.subscriptions.push(
+    vscode.commands.registerCommand('lobstore.securityScan', async (item: SkillItem | InstalledSkillItem) => {
+      if (!item) {
+        vscode.window.showErrorMessage('No skill selected');
+        return;
+      }
+
+      try {
+        const { scanSkillContent, formatIssuesForDisplay } = await import('./services/security-scanner');
+        const fs = await import('fs/promises');
+        const os = await import('os');
+        
+        let content: string;
+        let skillName: string;
+
+        if (item instanceof InstalledSkillItem) {
+          // Scan installed skill
+          const skillMdPath = path.join(item.skill.path, 'SKILL.md');
+          content = await fs.readFile(skillMdPath, 'utf-8');
+          skillName = item.skill.name;
+        } else {
+          // Fetch and scan remote skill
+          const api = getAPI();
+          const detail = await vscode.window.withProgress(
+            { location: vscode.ProgressLocation.Notification, title: 'Fetching skill for scan...' },
+            () => api.getSkillDetail(item.skill.slug)
+          );
+          content = detail.content || '';
+          skillName = item.skill.name;
+        }
+
+        const scanResult = scanSkillContent(content, 'SKILL.md');
+        const reportMd = formatIssuesForDisplay(scanResult);
+        
+        const reportPath = path.join(os.tmpdir(), `security-scan-${skillName.replace(/[^a-zA-Z0-9]/g, '-')}.md`);
+        await fs.writeFile(reportPath, reportMd, 'utf-8');
+        
+        const doc = await vscode.workspace.openTextDocument(vscode.Uri.file(reportPath));
+        await vscode.window.showTextDocument(doc, { preview: true });
+
+        const statusIcon = scanResult.safe ? '✅' : '⛔';
+        vscode.window.showInformationMessage(
+          `${statusIcon} Security scan complete for "${skillName}": Score ${scanResult.score}/100`
+        );
+
+      } catch (e: any) {
+        vscode.window.showErrorMessage(`Security scan failed: ${e.message}`);
       }
     })
   );
