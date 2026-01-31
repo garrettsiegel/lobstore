@@ -60,6 +60,89 @@ export function activate(context: vscode.ExtensionContext) {
   );
 
   // ============================================
+  // Filter by Category command
+  // ============================================
+  context.subscriptions.push(
+    vscode.commands.registerCommand('lobstore.filterByCategory', async () => {
+      const categories = skillsProvider.getCategories();
+      
+      if (categories.length === 0) {
+        vscode.window.showInformationMessage('No categories available');
+        return;
+      }
+
+      const items = [
+        { label: '$(clear-all) Show All', category: null },
+        ...categories.map(c => ({ label: `$(folder) ${c}`, category: c }))
+      ];
+
+      const selected = await vscode.window.showQuickPick(items, {
+        placeHolder: 'Filter skills by category',
+        title: 'Select Category'
+      });
+
+      if (selected) {
+        skillsProvider.filterByCategory(selected.category);
+      }
+    })
+  );
+
+  // ============================================
+  // Filter by Integration command
+  // ============================================
+  context.subscriptions.push(
+    vscode.commands.registerCommand('lobstore.filterByIntegration', async () => {
+      const integrations = skillsProvider.getIntegrations();
+      
+      if (integrations.length === 0) {
+        vscode.window.showInformationMessage('No integrations detected in skills');
+        return;
+      }
+
+      const integrationIcons: Record<string, string> = {
+        telegram: '📱',
+        discord: '💬',
+        slack: '💼',
+        twitter: '🐦',
+        github: '🐙',
+        jira: '📋',
+        notion: '📝',
+        linear: '📊',
+        stripe: '💳',
+        openai: '🤖',
+        anthropic: '🧠',
+      };
+
+      const items = [
+        { label: '$(clear-all) Show All', integration: null },
+        ...integrations.map(i => ({
+          label: `${integrationIcons[i] || '🔗'} ${i.charAt(0).toUpperCase() + i.slice(1)}`,
+          integration: i
+        }))
+      ];
+
+      const selected = await vscode.window.showQuickPick(items, {
+        placeHolder: 'Filter skills by integration type',
+        title: 'Select Integration'
+      });
+
+      if (selected) {
+        skillsProvider.filterByIntegration(selected.integration);
+      }
+    })
+  );
+
+  // ============================================
+  // Clear Filters command
+  // ============================================
+  context.subscriptions.push(
+    vscode.commands.registerCommand('lobstore.clearFilters', () => {
+      skillsProvider.clearFilters();
+      vscode.window.showInformationMessage('Filters cleared');
+    })
+  );
+
+  // ============================================
   // Preview command - shows SKILL.md content
   // ============================================
   context.subscriptions.push(

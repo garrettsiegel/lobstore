@@ -12,18 +12,37 @@ export interface Skill {
   name: string;
   description: string;
   version?: string;
+  latestVersion?: string;
   author?: string;
   downloads?: number;
   stars?: number;
+  pushes?: number;
   tags?: string[];
   category?: string;
   updatedAt?: string;
+  // Dependency metadata (AgentSkills standard)
+  compatibility?: string;
+  platforms?: ('macos' | 'windows' | 'linux')[];
+  requiredBins?: string[];  // e.g., ['git', 'docker', 'jq']
+  requiredEnv?: string[];   // e.g., ['OPENAI_API_KEY', 'GITHUB_TOKEN']
+  license?: string;
+  // Integration type for filtering
+  integration?: string;     // e.g., 'telegram', 'discord', 'slack'
 }
 
 export interface SkillDetail extends Skill {
   content: string; // SKILL.md content
   changelog?: string;
   files?: string[];
+  // Parsed from SKILL.md frontmatter
+  parsedMetadata?: {
+    name?: string;
+    description?: string;
+    compatibility?: string;
+    license?: string;
+    allowedTools?: string[];
+    metadata?: Record<string, string>;
+  };
 }
 
 export interface SearchResult {
@@ -49,7 +68,7 @@ class ClawdHubAPI {
   constructor() {
     const config = vscode.workspace.getConfiguration('lobstore');
     this.baseUrl = config.get<string>('registryUrl', 'https://api.github.com/repos/moltbot/skills');
-    this.dataUrl = config.get<string>('dataUrl', 'https://raw.githubusercontent.com/your-username/lobstore-skills/main/data/skills.json');
+    this.dataUrl = config.get<string>('dataUrl', 'https://raw.githubusercontent.com/garrettsiegel/lobstore/main/data/skills.json');
   }
 
   clearCache(): void {
@@ -158,6 +177,35 @@ class ClawdHubAPI {
   }
 
   /**
+   * Parse SKILL.md frontmatter (AgentSkills standard)
+   */
+  private parseFrontmatter(content: string): SkillDetail['parsedMetadata'] {
+    const match = content.match(/^---\n([\s\S]*?)\n---/);
+    if (!match) return undefined;
+
+    const fm = match[1];
+    const metadata: SkillDetail['parsedMetadata'] = {};
+
+    // Parse simple key: value pairs
+    const nameMatch = fm.match(/^name:\s*['"]?(.+?)['"]?\s*$/m);
+    if (nameMatch) metadata.name = nameMatch[1];
+
+    const descMatch = fm.match(/^description:\s*['"]?(.+?)['"]?\s*$/m);
+    if (descMatch) metadata.description = descMatch[1];
+
+    const compatMatch = fm.match(/^compatibility:\s*['"]?(.+?)['"]?\s*$/m);
+    if (compatMatch) metadata.compatibility = compatMatch[1];
+
+    const licenseMatch = fm.match(/^license:\s*['"]?(.+?)['"]?\s*$/m);
+    if (licenseMatch) metadata.license = licenseMatch[1];
+
+    const toolsMatch = fm.match(/^allowed-tools:\s*(.+)$/m);
+    if (toolsMatch) metadata.allowedTools = toolsMatch[1].split(/\s+/);
+
+    return metadata;
+  }
+
+  /**
    * Get skill details including SKILL.md content
    */
   async getSkillDetail(slug: string): Promise<SkillDetail> {
@@ -176,12 +224,16 @@ class ClawdHubAPI {
 
     const content = await response.text();
     const skillName = slug.split('/')[1];
+    const parsedMetadata = this.parseFrontmatter(content);
     
     return {
       slug,
-      name: this.formatName(skillName),
-      description: `By ${slug.split('/')[0]}`,
+      name: parsedMetadata?.name || this.formatName(skillName),
+      description: parsedMetadata?.description || `By ${slug.split('/')[0]}`,
       content,
+      parsedMetadata,
+      compatibility: parsedMetadata?.compatibility,
+      license: parsedMetadata?.license,
     } as SkillDetail;
   }
 

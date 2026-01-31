@@ -53,7 +53,7 @@ Skills from ClawdHub work with:
 | GitHub Copilot | `~/.copilot/skills/` |
 | Claude Code | `~/.claude/skills/` |
 | Codex | `~/.codex/skills/` |
-| Moltbot/Clawdbot | `~/.clawdbot/skills/` |
+| Moltbot/OpenClaw | `~/.openclaw/skills/` |
 
 All these tools use the same [AgentSkills](https://agentskills.io) open standard.
 

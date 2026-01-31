@@ -1891,21 +1891,21 @@
       "category": "Other"
     },
     {
-      "slug": "clawdbot51-oss/supermemory",
+      "slug": "openclaw51-oss/supermemory",
       "name": "Supermemory",
-      "description": "By clawdbot51-oss",
+      "description": "By openclaw51-oss",
       "category": "Other"
     },
     {
-      "slug": "clawdbotborges/elevenlabs-music",
+      "slug": "openclawborges/elevenlabs-music",
       "name": "Elevenlabs Music",
-      "description": "By clawdbotborges",
+      "description": "By openclawborges",
       "category": "Other"
     },
     {
-      "slug": "clawdbotborges/elevenlabs-stt",
+      "slug": "openclawborges/elevenlabs-stt",
       "name": "Elevenlabs Stt",
-      "description": "By clawdbotborges",
+      "description": "By openclawborges",
       "category": "Other"
     },
     {
@@ -3253,14 +3253,14 @@
       "category": "Social & Media"
     },
     {
-      "slug": "gtrusler/clawdbot-filesystem",
-      "name": "Clawdbot Filesystem",
+      "slug": "gtrusler/openclaw-filesystem",
+      "name": "OpenClaw Filesystem",
       "description": "By gtrusler",
       "category": "Other"
     },
     {
-      "slug": "gtrusler/clawdbot-security-suite",
-      "name": "Clawdbot Security Suite",
+      "slug": "gtrusler/openclaw-security-suite",
+      "name": "OpenClaw Security Suite",
       "description": "By gtrusler",
       "category": "Frontend"
     },
@@ -3559,8 +3559,8 @@
       "category": "Other"
     },
     {
-      "slug": "hopyky/clawdbot-update-plus",
-      "name": "Clawdbot Update Plus",
+      "slug": "hopyky/openclaw-update-plus",
+      "name": "OpenClaw Update Plus",
       "description": "By hopyky",
       "category": "Other"
     },
@@ -3823,8 +3823,8 @@
       "category": "Other"
     },
     {
-      "slug": "janhcla/clawdbot-documentation-expert",
-      "name": "Clawdbot Documentation Expert",
+      "slug": "janhcla/openclaw-documentation-expert",
+      "name": "OpenClaw Documentation Expert",
       "description": "By janhcla",
       "category": "Other"
     },
@@ -4273,8 +4273,8 @@
       "category": "Other"
     },
     {
-      "slug": "jiasenl/clawdbot-skill-homebridge",
-      "name": "Clawdbot Skill Homebridge",
+      "slug": "jiasenl/openclaw-skill-homebridge",
+      "name": "OpenClaw Skill Homebridge",
       "description": "By jiasenl",
       "category": "Other"
     },
@@ -4735,7 +4735,7 @@
       "category": "Data"
     },
     {
-      "slug": "kesslerio/mineru-pdf-parser-clawdbot-skill",
+      "slug": "kesslerio/mineru-pdf-parser-openclaw-skill",
       "name": "Mineru Pdf Parser Clawdbot Skill",
       "description": "By kesslerio",
       "category": "Other"

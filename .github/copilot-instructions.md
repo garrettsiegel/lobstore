@@ -44,7 +44,7 @@ const uri = vscode.Uri.parse(`lobstore-preview:${slug}.md`);
 The extension checks multiple directories for installed skills (see `getAllSkillDirectories()`):
 - `~/.copilot/skills` (primary)
 - `~/.claude/skills`
-- `~/.clawdbot/skills`
+- `~/.openclaw/skills`
 
 This enables cross-tool compatibility with the AgentSkills standard.
 

@@ -48,7 +48,7 @@ export function getAllSkillDirectories(): string[] {
     path.join(home, '.github', 'skills'),
     path.join(home, '.copilot', 'skills'),
     path.join(home, '.claude', 'skills'),
-    path.join(home, '.clawdbot', 'skills'),
+    path.join(home, '.openclaw', 'skills'),
   ];
 
   for (const dir of others) {
