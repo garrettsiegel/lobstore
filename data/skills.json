@@ -1,6 +1,13 @@
 {
   "skills": [
     {
+      "slug": "0731coderlee-sudo/wechat-publisher",
+      "name": "Wechat Publisher",
+      "description": "By 0731coderlee-sudo",
+      "category": "Other",
+      "author": "0731coderlee-sudo"
+    },
+    {
       "slug": "0xadamsu/game-light-tracker",
       "name": "Game Light Tracker",
       "description": "By 0xadamsu",
@@ -22,6 +29,27 @@
       "author": "0xdaxiongya"
     },
     {
+      "slug": "0xdismissals/clawnance",
+      "name": "Clawnance",
+      "description": "By 0xdismissals",
+      "category": "Other",
+      "author": "0xdismissals"
+    },
+    {
+      "slug": "0xguardbot/megaeth",
+      "name": "Megaeth",
+      "description": "By 0xguardbot",
+      "category": "Web3",
+      "author": "0xguardbot"
+    },
+    {
+      "slug": "0xjordansg-yolo/openclaw-twitter",
+      "name": "Openclaw Twitter",
+      "description": "By 0xjordansg-yolo",
+      "category": "Social & Media",
+      "author": "0xjordansg-yolo"
+    },
+    {
       "slug": "0xm1kr/doppel-architect",
       "name": "Doppel Architect",
       "description": "By 0xm1kr",
@@ -33,6 +61,13 @@
       "name": "Doppel Block Builder",
       "description": "By 0xm1kr",
       "category": "Frontend",
+      "author": "0xm1kr"
+    },
+    {
+      "slug": "0xm1kr/doppel-erc-8004",
+      "name": "Doppel Erc 8004",
+      "description": "By 0xm1kr",
+      "category": "Other",
       "author": "0xm1kr"
     },
     {
@@ -50,6 +85,20 @@
       "author": "0xm1kr"
     },
     {
+      "slug": "0xmasayoshi/sushiswap-api",
+      "name": "Sushiswap Api",
+      "description": "By 0xmasayoshi",
+      "category": "Backend",
+      "author": "0xmasayoshi"
+    },
+    {
+      "slug": "0xmasayoshi/sushiswap-sdk",
+      "name": "Sushiswap Sdk",
+      "description": "By 0xmasayoshi",
+      "category": "Other",
+      "author": "0xmasayoshi"
+    },
+    {
       "slug": "0xmevdad/openswarm-fight-club",
       "name": "Openswarm Fight Club",
       "description": "By 0xmevdad",
@@ -62,6 +111,48 @@
       "description": "By 0xmythril",
       "category": "Other",
       "author": "0xmythril"
+    },
+    {
+      "slug": "0xnagato/antigravity-swarm",
+      "name": "Antigravity Swarm",
+      "description": "By 0xnagato",
+      "category": "Other",
+      "author": "0xnagato"
+    },
+    {
+      "slug": "0xnagato/captcha",
+      "name": "Captcha",
+      "description": "By 0xnagato",
+      "category": "Other",
+      "author": "0xnagato"
+    },
+    {
+      "slug": "0xnagato/hustle",
+      "name": "Hustle",
+      "description": "By 0xnagato",
+      "category": "Other",
+      "author": "0xnagato"
+    },
+    {
+      "slug": "0xnagato/orchestrator",
+      "name": "Orchestrator",
+      "description": "By 0xnagato",
+      "category": "Other",
+      "author": "0xnagato"
+    },
+    {
+      "slug": "0xnagato/skill-porter",
+      "name": "Skill Porter",
+      "description": "By 0xnagato",
+      "category": "Other",
+      "author": "0xnagato"
+    },
+    {
+      "slug": "0xnb-dev/frame-builder",
+      "name": "Frame Builder",
+      "description": "By 0xnb-dev",
+      "category": "Frontend",
+      "author": "0xnb-dev"
     },
     {
       "slug": "0xnb-dev/openclaw-frame-builder-skills",
@@ -83,6 +174,13 @@
       "description": "By 0xreisearch",
       "category": "Other",
       "author": "0xreisearch"
+    },
+    {
+      "slug": "0xrichyrich/nudge-marketplace",
+      "name": "Nudge Marketplace",
+      "description": "By 0xrichyrich",
+      "category": "Other",
+      "author": "0xrichyrich"
     },
     {
       "slug": "0xrikt/clawarena",
@@ -372,11 +470,39 @@
       "author": "10e9928a"
     },
     {
+      "slug": "10e9928a/email-daily-summary",
+      "name": "Email Daily Summary",
+      "description": "By 10e9928a",
+      "category": "AI & ML",
+      "author": "10e9928a"
+    },
+    {
+      "slug": "10e9928a/super-skills",
+      "name": "Super Skills",
+      "description": "By 10e9928a",
+      "category": "Other",
+      "author": "10e9928a"
+    },
+    {
       "slug": "10e9928a/task-decomposer",
       "name": "Task Decomposer",
       "description": "By 10e9928a",
       "category": "Productivity",
       "author": "10e9928a"
+    },
+    {
+      "slug": "10xcoldleads/maton-gateway",
+      "name": "Maton Gateway",
+      "description": "By 10xcoldleads",
+      "category": "Other",
+      "author": "10xcoldleads"
+    },
+    {
+      "slug": "10xcoldleads/maton",
+      "name": "Maton",
+      "description": "By 10xcoldleads",
+      "category": "Other",
+      "author": "10xcoldleads"
     },
     {
       "slug": "1lystore/1ly-payments",
@@ -440,6 +566,13 @@
       "description": "By 362224222",
       "category": "Other",
       "author": "362224222"
+    },
+    {
+      "slug": "402goose/compact-state",
+      "name": "Compact State",
+      "description": "By 402goose",
+      "category": "Other",
+      "author": "402goose"
     },
     {
       "slug": "4xiomdev/whoop-central",
@@ -589,8 +722,36 @@
       "author": "abakermi"
     },
     {
+      "slug": "abdhilabs/agent-credit-system",
+      "name": "Agent Credit System",
+      "description": "By abdhilabs",
+      "category": "Other",
+      "author": "abdhilabs"
+    },
+    {
       "slug": "abdhilabs/config-guardian",
       "name": "Config Guardian",
+      "description": "By abdhilabs",
+      "category": "Other",
+      "author": "abdhilabs"
+    },
+    {
+      "slug": "abdhilabs/karmabank-minimal",
+      "name": "Karmabank Minimal",
+      "description": "By abdhilabs",
+      "category": "Other",
+      "author": "abdhilabs"
+    },
+    {
+      "slug": "abdhilabs/karmabank-usdc",
+      "name": "Karmabank Usdc",
+      "description": "By abdhilabs",
+      "category": "Other",
+      "author": "abdhilabs"
+    },
+    {
+      "slug": "abdhilabs/karmabank",
+      "name": "Karmabank",
       "description": "By abdhilabs",
       "category": "Other",
       "author": "abdhilabs"
@@ -636,6 +797,13 @@
       "description": "By abhinavjp",
       "category": "Other",
       "author": "abhinavjp"
+    },
+    {
+      "slug": "abhiramee08b021/outlook-email",
+      "name": "Outlook Email",
+      "description": "By abhiramee08b021",
+      "category": "AI & ML",
+      "author": "abhiramee08b021"
     },
     {
       "slug": "abhishek-official1/clawvox",
@@ -715,6 +883,13 @@
       "author": "acastellana"
     },
     {
+      "slug": "acfranzen/glance",
+      "name": "Glance",
+      "description": "By acfranzen",
+      "category": "Other",
+      "author": "acfranzen"
+    },
+    {
       "slug": "ad2546/context-optimizer",
       "name": "Context Optimizer",
       "description": "By ad2546",
@@ -778,6 +953,13 @@
       "author": "adarshmishra07"
     },
     {
+      "slug": "adarshmishra07/clawcontrol",
+      "name": "Clawcontrol",
+      "description": "By adarshmishra07",
+      "category": "Other",
+      "author": "adarshmishra07"
+    },
+    {
       "slug": "adboio/agentmail",
       "name": "Agentmail",
       "description": "By adboio",
@@ -785,11 +967,25 @@
       "author": "adboio"
     },
     {
+      "slug": "addisonhellum/deepthink",
+      "name": "Deepthink",
+      "description": "By addisonhellum",
+      "category": "Other",
+      "author": "addisonhellum"
+    },
+    {
       "slug": "adebayoabdushaheed-a11y/afame",
       "name": "Afame",
       "description": "By adebayoabdushaheed-a11y",
       "category": "Other",
       "author": "adebayoabdushaheed-a11y"
+    },
+    {
+      "slug": "adibirzu/openclaw-security-monitor",
+      "name": "Openclaw Security Monitor",
+      "description": "By adibirzu",
+      "category": "Security",
+      "author": "adibirzu"
     },
     {
       "slug": "adinvadim/2captcha",
@@ -932,6 +1128,13 @@
       "author": "agentandbot-design"
     },
     {
+      "slug": "agentossoftware/agentos-mesh",
+      "name": "Agentos Mesh",
+      "description": "By agentossoftware",
+      "category": "Other",
+      "author": "agentossoftware"
+    },
+    {
       "slug": "agentossoftware/agentos-sdk",
       "name": "Agentos Sdk",
       "description": "By agentossoftware",
@@ -1037,6 +1240,55 @@
       "author": "aisa-one"
     },
     {
+      "slug": "aisadevco/aisa-financial-data-api",
+      "name": "Aisa Financial Data Api",
+      "description": "By aisadevco",
+      "category": "AI & ML",
+      "author": "aisadevco"
+    },
+    {
+      "slug": "aisapay/aisa-financial-data",
+      "name": "Aisa Financial Data",
+      "description": "By aisapay",
+      "category": "AI & ML",
+      "author": "aisapay"
+    },
+    {
+      "slug": "aisapay/aisa-media-gen",
+      "name": "Aisa Media Gen",
+      "description": "By aisapay",
+      "category": "AI & ML",
+      "author": "aisapay"
+    },
+    {
+      "slug": "aisapay/aisa-multi-source-search",
+      "name": "Aisa Multi Source Search",
+      "description": "By aisapay",
+      "category": "AI & ML",
+      "author": "aisapay"
+    },
+    {
+      "slug": "aisapay/aisa-twitter-api",
+      "name": "Aisa Twitter Api",
+      "description": "By aisapay",
+      "category": "AI & ML",
+      "author": "aisapay"
+    },
+    {
+      "slug": "aisapay/aisa-youtube-search",
+      "name": "Aisa Youtube Search",
+      "description": "By aisapay",
+      "category": "AI & ML",
+      "author": "aisapay"
+    },
+    {
+      "slug": "aisapay/financial-data",
+      "name": "Financial Data",
+      "description": "By aisapay",
+      "category": "Data",
+      "author": "aisapay"
+    },
+    {
       "slug": "ajanraj/yahoo-finance",
       "name": "Yahoo Finance",
       "description": "By ajanraj",
@@ -1107,6 +1359,13 @@
       "author": "ak-khalis"
     },
     {
+      "slug": "aka-anoop/personal-finance",
+      "name": "Personal Finance",
+      "description": "By aka-anoop",
+      "category": "Other",
+      "author": "aka-anoop"
+    },
+    {
       "slug": "akdeepankar/clip-it",
       "name": "Clip It",
       "description": "By akdeepankar",
@@ -1149,6 +1408,20 @@
       "author": "akshatgada"
     },
     {
+      "slug": "akshatgada/polygon-pos-dev",
+      "name": "Polygon Pos Dev",
+      "description": "By akshatgada",
+      "category": "Other",
+      "author": "akshatgada"
+    },
+    {
+      "slug": "alaa-eddine/moltron-skill-creator",
+      "name": "Moltron Skill Creator",
+      "description": "By alaa-eddine",
+      "category": "Other",
+      "author": "alaa-eddine"
+    },
+    {
       "slug": "alaa-eddine/pinescript-quant-analysis",
       "name": "Pinescript Quant Analysis",
       "description": "By alaa-eddine",
@@ -1184,11 +1457,39 @@
       "author": "albertnjcn"
     },
     {
+      "slug": "aleph8/virustotal-security-scanner",
+      "name": "Virustotal Security Scanner",
+      "description": "By aleph8",
+      "category": "Security",
+      "author": "aleph8"
+    },
+    {
+      "slug": "aleph8/virustotal-security",
+      "name": "Virustotal Security",
+      "description": "By aleph8",
+      "category": "Security",
+      "author": "aleph8"
+    },
+    {
+      "slug": "aleph8/virustotal",
+      "name": "Virustotal",
+      "description": "By aleph8",
+      "category": "Other",
+      "author": "aleph8"
+    },
+    {
       "slug": "alex-indi/weeek-tasks",
       "name": "Weeek Tasks",
       "description": "By alex-indi",
       "category": "Productivity",
       "author": "alex-indi"
+    },
+    {
+      "slug": "alexander-morris/muse",
+      "name": "Muse",
+      "description": "By alexander-morris",
+      "category": "Other",
+      "author": "alexander-morris"
     },
     {
       "slug": "alexander-spring/browser-cash",
@@ -1695,6 +1996,20 @@
       "author": "amirmabhout"
     },
     {
+      "slug": "amitabhainarunachala/agentic-ai-gold-test",
+      "name": "Agentic Ai Gold Test",
+      "description": "By amitabhainarunachala",
+      "category": "AI & ML",
+      "author": "amitabhainarunachala"
+    },
+    {
+      "slug": "amitabhainarunachala/agentic-ai-gold",
+      "name": "Agentic Ai Gold",
+      "description": "By amitabhainarunachala",
+      "category": "AI & ML",
+      "author": "amitabhainarunachala"
+    },
+    {
       "slug": "amoghacloud/openclaws",
       "name": "Openclaws",
       "description": "By amoghacloud",
@@ -1721,6 +2036,27 @@
       "description": "By amogower",
       "category": "Other",
       "author": "amogower"
+    },
+    {
+      "slug": "ampedfinance/amped-defi-plugin",
+      "name": "Amped Defi Plugin",
+      "description": "By ampedfinance",
+      "category": "Other",
+      "author": "ampedfinance"
+    },
+    {
+      "slug": "ampedfinance/amped-defi-publish",
+      "name": "Amped Defi Publish",
+      "description": "By ampedfinance",
+      "category": "Other",
+      "author": "ampedfinance"
+    },
+    {
+      "slug": "ampedfinance/amped-defi",
+      "name": "Amped Defi",
+      "description": "By ampedfinance",
+      "category": "Other",
+      "author": "ampedfinance"
     },
     {
       "slug": "ampedfinance/amped-openclaw",
@@ -1755,6 +2091,13 @@
       "name": "Hyperliquid Trading",
       "description": "By anajuliabit",
       "category": "Frontend",
+      "author": "anajuliabit"
+    },
+    {
+      "slug": "anajuliabit/mamo",
+      "name": "Mamo",
+      "description": "By anajuliabit",
+      "category": "Other",
       "author": "anajuliabit"
     },
     {
@@ -1919,6 +2262,13 @@
       "author": "andrewjiang"
     },
     {
+      "slug": "andrewleonardi/shellf",
+      "name": "Shellf",
+      "description": "By andrewleonardi",
+      "category": "Other",
+      "author": "andrewleonardi"
+    },
+    {
       "slug": "andreyz/towns-protocol",
       "name": "Towns Protocol",
       "description": "By andreyz",
@@ -1991,6 +2341,13 @@
     {
       "slug": "anjieyang/claw-brawl",
       "name": "Claw Brawl",
+      "description": "By anjieyang",
+      "category": "Other",
+      "author": "anjieyang"
+    },
+    {
+      "slug": "anjieyang/clawbrawl",
+      "name": "Clawbrawl",
       "description": "By anjieyang",
       "category": "Other",
       "author": "anjieyang"
@@ -2087,6 +2444,20 @@
       "author": "anthonyfrancis"
     },
     {
+      "slug": "anthonymq/idfm-journey-navitia",
+      "name": "Idfm Journey Navitia",
+      "description": "By anthonymq",
+      "category": "Other",
+      "author": "anthonymq"
+    },
+    {
+      "slug": "anthonymq/idfm-journey-skill",
+      "name": "Idfm Journey Skill",
+      "description": "By anthonymq",
+      "category": "Other",
+      "author": "anthonymq"
+    },
+    {
       "slug": "antibitcoin/deepclaw",
       "name": "Deepclaw",
       "description": "By antibitcoin",
@@ -2099,6 +2470,13 @@
       "description": "By anton-roos",
       "category": "Other",
       "author": "anton-roos"
+    },
+    {
+      "slug": "antoniocirclemind/browser-smooth",
+      "name": "Browser Smooth",
+      "description": "By antoniocirclemind",
+      "category": "Other",
+      "author": "antoniocirclemind"
     },
     {
       "slug": "antoniocirclemind/smooth-browser",
@@ -2246,6 +2624,13 @@
       "description": "By architect-sis",
       "category": "Other",
       "author": "architect-sis"
+    },
+    {
+      "slug": "arein/concierge",
+      "name": "Concierge",
+      "description": "By arein",
+      "category": "Other",
+      "author": "arein"
     },
     {
       "slug": "arein/gram",
@@ -2458,6 +2843,13 @@
       "author": "artur-zhdan"
     },
     {
+      "slug": "arturoaguileraa/test-omnia",
+      "name": "Test Omnia",
+      "description": "By arturoaguileraa",
+      "category": "Testing",
+      "author": "arturoaguileraa"
+    },
+    {
       "slug": "artyomx33/cross-pollination-engine",
       "name": "Cross Pollination Engine",
       "description": "By artyomx33",
@@ -2512,6 +2904,27 @@
       "description": "By artyomx33",
       "category": "Other",
       "author": "artyomx33"
+    },
+    {
+      "slug": "arubiku/mia-content-creator",
+      "name": "Mia Content Creator",
+      "description": "By arubiku",
+      "category": "Other",
+      "author": "arubiku"
+    },
+    {
+      "slug": "arubiku/mia-polymarket-trader",
+      "name": "Mia Polymarket Trader",
+      "description": "By arubiku",
+      "category": "Other",
+      "author": "arubiku"
+    },
+    {
+      "slug": "arubiku/mia-twitter-stealth",
+      "name": "Mia Twitter Stealth",
+      "description": "By arubiku",
+      "category": "Social & Media",
+      "author": "arubiku"
     },
     {
       "slug": "arun-8687/deepwiki",
@@ -2743,6 +3156,111 @@
       "description": "By atlas-secint",
       "category": "Other",
       "author": "atlas-secint"
+    },
+    {
+      "slug": "atlaspa/openclaw-bastion-pro",
+      "name": "Openclaw Bastion Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-bastion",
+      "name": "Openclaw Bastion",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-egress-pro",
+      "name": "Openclaw Egress Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-ledger-pro",
+      "name": "Openclaw Ledger Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-marshal-pro",
+      "name": "Openclaw Marshal Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-marshal",
+      "name": "Openclaw Marshal",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-sentinel-pro",
+      "name": "Openclaw Sentinel Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-sentinel",
+      "name": "Openclaw Sentinel",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-sentry-pro",
+      "name": "Openclaw Sentry Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-signet-pro",
+      "name": "Openclaw Signet Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-triage-pro",
+      "name": "Openclaw Triage Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-triage",
+      "name": "Openclaw Triage",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-vault-pro",
+      "name": "Openclaw Vault Pro",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-vault",
+      "name": "Openclaw Vault",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
+    },
+    {
+      "slug": "atlaspa/openclaw-warden",
+      "name": "Openclaw Warden",
+      "description": "By atlaspa",
+      "category": "Other",
+      "author": "atlaspa"
     },
     {
       "slug": "atomtanstudio/craft-do",
@@ -2997,6 +3515,13 @@
       "author": "awaaate"
     },
     {
+      "slug": "awlevin/flight-search",
+      "name": "Flight Search",
+      "description": "By awlevin",
+      "category": "Other",
+      "author": "awlevin"
+    },
+    {
       "slug": "awspace/pdf",
       "name": "Pdf",
       "description": "By awspace",
@@ -3053,6 +3578,13 @@
       "author": "azrijamil"
     },
     {
+      "slug": "azzgo/aria2-json-rpc",
+      "name": "Aria2 Json Rpc",
+      "description": "By azzgo",
+      "category": "Other",
+      "author": "azzgo"
+    },
+    {
       "slug": "ba1022043446/moltbeach",
       "name": "Moltbeach",
       "description": "By ba1022043446",
@@ -3102,6 +3634,13 @@
       "author": "bachirdiop-bidew"
     },
     {
+      "slug": "back2matching/snakey",
+      "name": "Snakey",
+      "description": "By back2matching",
+      "category": "Other",
+      "author": "back2matching"
+    },
+    {
       "slug": "badaramoni/agentmemory",
       "name": "Agentmemory",
       "description": "By badaramoni",
@@ -3121,6 +3660,27 @@
       "description": "By bagwatcher",
       "category": "Other",
       "author": "bagwatcher"
+    },
+    {
+      "slug": "banghasan/jadwal-sholat-banghasan",
+      "name": "Jadwal Sholat Banghasan",
+      "description": "By banghasan",
+      "category": "Other",
+      "author": "banghasan"
+    },
+    {
+      "slug": "banghasan/jadwal-sholat",
+      "name": "Jadwal Sholat",
+      "description": "By banghasan",
+      "category": "Other",
+      "author": "banghasan"
+    },
+    {
+      "slug": "banghasan/sholat",
+      "name": "Sholat",
+      "description": "By banghasan",
+      "category": "Other",
+      "author": "banghasan"
     },
     {
       "slug": "baofeidyz/feishu-leave-request",
@@ -3263,6 +3823,13 @@
       "author": "bbdyno"
     },
     {
+      "slug": "bderiel/open-ralph",
+      "name": "Open Ralph",
+      "description": "By bderiel",
+      "category": "Other",
+      "author": "bderiel"
+    },
+    {
       "slug": "behrangsa/tootbot",
       "name": "Tootbot",
       "description": "By behrangsa",
@@ -3375,6 +3942,13 @@
       "author": "bguidolim"
     },
     {
+      "slug": "bharathjanumpally/claw-permission-firewall",
+      "name": "Claw Permission Firewall",
+      "description": "By bharathjanumpally",
+      "category": "Other",
+      "author": "bharathjanumpally"
+    },
+    {
       "slug": "bheemreddy181/qmd-local-search",
       "name": "Qmd Local Search",
       "description": "By bheemreddy181",
@@ -3415,6 +3989,13 @@
       "description": "By big-roman123",
       "category": "Other",
       "author": "big-roman123"
+    },
+    {
+      "slug": "bigdonuts0/caldav-calendar-1-0-1",
+      "name": "Caldav Calendar 1 0 1",
+      "description": "By bigdonuts0",
+      "category": "Productivity",
+      "author": "bigdonuts0"
     },
     {
       "slug": "biguntroll/tesla-tessie",
@@ -3606,6 +4187,13 @@
       "author": "bluemeda"
     },
     {
+      "slug": "bluepointdigital/vector-memory",
+      "name": "Vector Memory",
+      "description": "By bluepointdigital",
+      "category": "Other",
+      "author": "bluepointdigital"
+    },
+    {
       "slug": "blueprintstudioco/fieldfix",
       "name": "Fieldfix",
       "description": "By blueprintstudioco",
@@ -3632,6 +4220,13 @@
       "description": "By bmdhodl",
       "category": "DevOps",
       "author": "bmdhodl"
+    },
+    {
+      "slug": "bobholamovic/paddleocr-doc-parsing",
+      "name": "Paddleocr Doc Parsing",
+      "description": "By bobholamovic",
+      "category": "Other",
+      "author": "bobholamovic"
     },
     {
       "slug": "bobot-agent/usage-export",
@@ -3837,6 +4432,20 @@
       "author": "boyangwang"
     },
     {
+      "slug": "bramdo/quantum-lab",
+      "name": "Quantum Lab",
+      "description": "By bramdo",
+      "category": "Other",
+      "author": "bramdo"
+    },
+    {
+      "slug": "bramdo/quantumlab",
+      "name": "Quantumlab",
+      "description": "By bramdo",
+      "category": "AI & ML",
+      "author": "bramdo"
+    },
+    {
       "slug": "brandonwise/ai-humanizer",
       "name": "Ai Humanizer",
       "description": "By brandonwise",
@@ -3921,11 +4530,25 @@
       "author": "briansmith80"
     },
     {
+      "slug": "bro3886/gtasks-cli",
+      "name": "Gtasks Cli",
+      "description": "By bro3886",
+      "category": "Productivity",
+      "author": "bro3886"
+    },
+    {
       "slug": "brokemac79/webchat-audio-notifications",
       "name": "Webchat Audio Notifications",
       "description": "By brokemac79",
       "category": "Other",
       "author": "brokemac79"
+    },
+    {
+      "slug": "brookswood/moltcombinator",
+      "name": "Moltcombinator",
+      "description": "By brookswood",
+      "category": "Other",
+      "author": "brookswood"
     },
     {
       "slug": "brucko/neo",
@@ -4180,6 +4803,13 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/ga4-api",
+      "name": "Ga4 Api",
+      "description": "By byungkyu",
+      "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/gmail",
       "name": "Gmail",
       "description": "By byungkyu",
@@ -4236,6 +4866,13 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/google-play",
+      "name": "Google Play",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/google-search-console",
       "name": "Google Search Console",
       "description": "By byungkyu",
@@ -4245,6 +4882,13 @@
     {
       "slug": "byungkyu/google-sheets",
       "name": "Google Sheets",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/google-slides",
+      "name": "Google Slides",
       "description": "By byungkyu",
       "category": "Other",
       "author": "byungkyu"
@@ -4275,6 +4919,20 @@
       "name": "Jotform",
       "description": "By byungkyu",
       "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/klaviyo",
+      "name": "Klaviyo",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/mailchimp",
+      "name": "Mailchimp",
+      "description": "By byungkyu",
+      "category": "AI & ML",
       "author": "byungkyu"
     },
     {
@@ -4355,6 +5013,13 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/woocommerce",
+      "name": "Woocommerce",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/xero",
       "name": "Xero",
       "description": "By byungkyu",
@@ -4404,11 +5069,25 @@
       "author": "c0rv0s"
     },
     {
+      "slug": "c0rv0s/clawdvine",
+      "name": "Clawdvine",
+      "description": "By c0rv0s",
+      "category": "Other",
+      "author": "c0rv0s"
+    },
+    {
       "slug": "c4chuan/csdn-publisher",
       "name": "Csdn Publisher",
       "description": "By c4chuan",
       "category": "Other",
       "author": "c4chuan"
+    },
+    {
+      "slug": "caebixus/chaterimo-openclaw-skill",
+      "name": "Chaterimo Openclaw Skill",
+      "description": "By caebixus",
+      "category": "Other",
+      "author": "caebixus"
     },
     {
       "slug": "calebwin/clawslist-skill",
@@ -4432,6 +5111,20 @@
       "author": "callmedas69"
     },
     {
+      "slug": "callmedas69/credential-manager",
+      "name": "Credential Manager",
+      "description": "By callmedas69",
+      "category": "Other",
+      "author": "callmedas69"
+    },
+    {
+      "slug": "callmedas69/social-post",
+      "name": "Social Post",
+      "description": "By callmedas69",
+      "category": "Social & Media",
+      "author": "callmedas69"
+    },
+    {
       "slug": "camelsprout/duckdb-cli-ai-skills",
       "name": "Duckdb Cli Ai Skills",
       "description": "By camelsprout",
@@ -4444,6 +5137,27 @@
       "description": "By capevace",
       "category": "Other",
       "author": "capevace"
+    },
+    {
+      "slug": "cariciman/moltium",
+      "name": "Moltium",
+      "description": "By cariciman",
+      "category": "Other",
+      "author": "cariciman"
+    },
+    {
+      "slug": "carlosfmtz/social-content-generator",
+      "name": "Social Content Generator",
+      "description": "By carlosfmtz",
+      "category": "Social & Media",
+      "author": "carlosfmtz"
+    },
+    {
+      "slug": "carlosfmtz/social-content",
+      "name": "Social Content",
+      "description": "By carlosfmtz",
+      "category": "Social & Media",
+      "author": "carlosfmtz"
     },
     {
       "slug": "carlulsoe/parakeet-stt",
@@ -4600,6 +5314,20 @@
       "author": "cgnl"
     },
     {
+      "slug": "cgtreadw/accessibility-toolkit",
+      "name": "Accessibility Toolkit",
+      "description": "By cgtreadw",
+      "category": "Other",
+      "author": "cgtreadw"
+    },
+    {
+      "slug": "cgtreadw/health-guardian",
+      "name": "Health Guardian",
+      "description": "By cgtreadw",
+      "category": "Other",
+      "author": "cgtreadw"
+    },
+    {
       "slug": "chainyoda/aaveclaw",
       "name": "Aaveclaw",
       "description": "By chainyoda",
@@ -4668,6 +5396,62 @@
       "description": "By chattyclaw",
       "category": "Web3",
       "author": "chattyclaw"
+    },
+    {
+      "slug": "chaunceyliu/aiusd-skill-agent",
+      "name": "Aiusd Skill Agent",
+      "description": "By chaunceyliu",
+      "category": "AI & ML",
+      "author": "chaunceyliu"
+    },
+    {
+      "slug": "chaunceyliu/aiusd-skills",
+      "name": "Aiusd Skills",
+      "description": "By chaunceyliu",
+      "category": "AI & ML",
+      "author": "chaunceyliu"
+    },
+    {
+      "slug": "chaunceyliu/aiusd-trade-agent",
+      "name": "Aiusd Trade Agent",
+      "description": "By chaunceyliu",
+      "category": "AI & ML",
+      "author": "chaunceyliu"
+    },
+    {
+      "slug": "chaunceyliu/test1",
+      "name": "Test1",
+      "description": "By chaunceyliu",
+      "category": "Testing",
+      "author": "chaunceyliu"
+    },
+    {
+      "slug": "chaunceyliu/testat1",
+      "name": "Testat1",
+      "description": "By chaunceyliu",
+      "category": "Testing",
+      "author": "chaunceyliu"
+    },
+    {
+      "slug": "chaunceyliu/trade-agent",
+      "name": "Trade Agent",
+      "description": "By chaunceyliu",
+      "category": "Other",
+      "author": "chaunceyliu"
+    },
+    {
+      "slug": "chaunceyliu/trade-with-aiusd",
+      "name": "Trade With Aiusd",
+      "description": "By chaunceyliu",
+      "category": "AI & ML",
+      "author": "chaunceyliu"
+    },
+    {
+      "slug": "chefbc2k/moltmotion",
+      "name": "Moltmotion",
+      "description": "By chefbc2k",
+      "category": "Other",
+      "author": "chefbc2k"
     },
     {
       "slug": "chengjiaxiongkf/aliyun-oss-upload",
@@ -4913,6 +5697,13 @@
       "description": "By chyinan",
       "category": "Frontend",
       "author": "chyinan"
+    },
+    {
+      "slug": "ciooo44/clawos",
+      "name": "Clawos",
+      "description": "By ciooo44",
+      "category": "Other",
+      "author": "ciooo44"
     },
     {
       "slug": "cktc/moltpost",
@@ -5230,6 +6021,13 @@
       "author": "cmp343-art"
     },
     {
+      "slug": "cnqso/calorie-counter",
+      "name": "Calorie Counter",
+      "description": "By cnqso",
+      "category": "Other",
+      "author": "cnqso"
+    },
+    {
       "slug": "cnyezi/a-stock-analysis",
       "name": "A Stock Analysis",
       "description": "By cnyezi",
@@ -5242,6 +6040,13 @@
       "description": "By code-with-brian",
       "category": "Other",
       "author": "code-with-brian"
+    },
+    {
+      "slug": "codedao12/discord-hub",
+      "name": "Discord Hub",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
     },
     {
       "slug": "codedao12/facebook",
@@ -5314,6 +6119,13 @@
       "author": "codejika"
     },
     {
+      "slug": "codewithnathan97/kilocli-coding-agent",
+      "name": "Kilocli Coding Agent",
+      "description": "By codewithnathan97",
+      "category": "Other",
+      "author": "codewithnathan97"
+    },
+    {
       "slug": "codezz/brainrepo",
       "name": "Brainrepo",
       "description": "By codezz",
@@ -5335,10 +6147,45 @@
       "author": "coolmanns"
     },
     {
+      "slug": "coolmanns/postiz-clawed",
+      "name": "Postiz Clawed",
+      "description": "By coolmanns",
+      "category": "Other",
+      "author": "coolmanns"
+    },
+    {
       "slug": "coolmanns/postiz-ext",
       "name": "Postiz Ext",
       "description": "By coolmanns",
       "category": "Other",
+      "author": "coolmanns"
+    },
+    {
+      "slug": "coolmanns/postiz-extended",
+      "name": "Postiz Extended",
+      "description": "By coolmanns",
+      "category": "Other",
+      "author": "coolmanns"
+    },
+    {
+      "slug": "coolmanns/postiz-pro",
+      "name": "Postiz Pro",
+      "description": "By coolmanns",
+      "category": "Other",
+      "author": "coolmanns"
+    },
+    {
+      "slug": "coolmanns/remarkable-tablet",
+      "name": "Remarkable Tablet",
+      "description": "By coolmanns",
+      "category": "Other",
+      "author": "coolmanns"
+    },
+    {
+      "slug": "coolmanns/social-scheduler-extended",
+      "name": "Social Scheduler Extended",
+      "description": "By coolmanns",
+      "category": "Social & Media",
       "author": "coolmanns"
     },
     {
@@ -5517,6 +6364,13 @@
       "author": "crimsondevil333333"
     },
     {
+      "slug": "crimsondevil333333/crimson-devlog-agent",
+      "name": "Crimson Devlog Agent",
+      "description": "By crimsondevil333333",
+      "category": "Other",
+      "author": "crimsondevil333333"
+    },
+    {
       "slug": "crimsondevil333333/memory-keeper",
       "name": "Memory Keeper",
       "description": "By crimsondevil333333",
@@ -5587,11 +6441,53 @@
       "author": "cryptomouse000"
     },
     {
+      "slug": "cryptotooldev/arb-injection",
+      "name": "Arb Injection",
+      "description": "By cryptotooldev",
+      "category": "Other",
+      "author": "cryptotooldev"
+    },
+    {
+      "slug": "cryptotooldev/arbinjectionskill",
+      "name": "Arbinjectionskill",
+      "description": "By cryptotooldev",
+      "category": "Other",
+      "author": "cryptotooldev"
+    },
+    {
       "slug": "ctbritt/firecrawl-skills",
       "name": "Firecrawl Skills",
       "description": "By ctbritt",
       "category": "Other",
       "author": "ctbritt"
+    },
+    {
+      "slug": "ctsolutionsdev/ct-accessibility-toolkit",
+      "name": "Ct Accessibility Toolkit",
+      "description": "By ctsolutionsdev",
+      "category": "Other",
+      "author": "ctsolutionsdev"
+    },
+    {
+      "slug": "ctsolutionsdev/ct-health-guardian",
+      "name": "Ct Health Guardian",
+      "description": "By ctsolutionsdev",
+      "category": "Other",
+      "author": "ctsolutionsdev"
+    },
+    {
+      "slug": "ctsolutionsdev/egvert-health-guardian",
+      "name": "Egvert Health Guardian",
+      "description": "By ctsolutionsdev",
+      "category": "Other",
+      "author": "ctsolutionsdev"
+    },
+    {
+      "slug": "ctsolutionsdev/proactive-health",
+      "name": "Proactive Health",
+      "description": "By ctsolutionsdev",
+      "category": "Other",
+      "author": "ctsolutionsdev"
     },
     {
       "slug": "cuba6112/tmux-agents",
@@ -5629,8 +6525,29 @@
       "author": "cyberboyayush"
     },
     {
+      "slug": "cyberengage/2233researchskill",
+      "name": "2233researchskill",
+      "description": "By cyberengage",
+      "category": "Other",
+      "author": "cyberengage"
+    },
+    {
+      "slug": "cyberengage/bad-ball-14",
+      "name": "Bad Ball 14",
+      "description": "By cyberengage",
+      "category": "Other",
+      "author": "cyberengage"
+    },
+    {
       "slug": "cyberengage/hello",
       "name": "Hello",
+      "description": "By cyberengage",
+      "category": "Other",
+      "author": "cyberengage"
+    },
+    {
+      "slug": "cyberengage/magic-8-ball",
+      "name": "Magic 8 Ball",
       "description": "By cyberengage",
       "category": "Other",
       "author": "cyberengage"
@@ -5643,10 +6560,52 @@
       "author": "cyberengage"
     },
     {
+      "slug": "cyberengage/research-skill-4455",
+      "name": "Research Skill 4455",
+      "description": "By cyberengage",
+      "category": "Other",
+      "author": "cyberengage"
+    },
+    {
+      "slug": "cyberengage/research-skill-copy",
+      "name": "Research Skill Copy",
+      "description": "By cyberengage",
+      "category": "Other",
+      "author": "cyberengage"
+    },
+    {
+      "slug": "cyberengage/research-skill4455",
+      "name": "Research Skill4455",
+      "description": "By cyberengage",
+      "category": "Other",
+      "author": "cyberengage"
+    },
+    {
+      "slug": "cyberengage/researchskill5566",
+      "name": "Researchskill5566",
+      "description": "By cyberengage",
+      "category": "Other",
+      "author": "cyberengage"
+    },
+    {
       "slug": "cyberengage/secure-sync",
       "name": "Secure Sync",
       "description": "By cyberengage",
       "category": "Other",
+      "author": "cyberengage"
+    },
+    {
+      "slug": "cyberengage/test-skil11122",
+      "name": "Test Skil11122",
+      "description": "By cyberengage",
+      "category": "Testing",
+      "author": "cyberengage"
+    },
+    {
+      "slug": "cyberengage/testresearchskill",
+      "name": "Testresearchskill",
+      "description": "By cyberengage",
+      "category": "Testing",
       "author": "cyberengage"
     },
     {
@@ -5662,6 +6621,13 @@
       "description": "By cyberfront-ai",
       "category": "Other",
       "author": "cyberfront-ai"
+    },
+    {
+      "slug": "cyberkov/pulse",
+      "name": "Pulse",
+      "description": "By cyberkov",
+      "category": "Other",
+      "author": "cyberkov"
     },
     {
       "slug": "cyberverse2/imitationgame-agent",
@@ -5699,6 +6665,13 @@
       "author": "d3layd"
     },
     {
+      "slug": "daaab/basename-agent",
+      "name": "Basename Agent",
+      "description": "By daaab",
+      "category": "Other",
+      "author": "daaab"
+    },
+    {
       "slug": "daaab/elevenlabs-phone-reminder-lite",
       "name": "Elevenlabs Phone Reminder Lite",
       "description": "By daaab",
@@ -5713,11 +6686,67 @@
       "author": "daaab"
     },
     {
+      "slug": "daaab/switchbot",
+      "name": "Switchbot",
+      "description": "By daaab",
+      "category": "Other",
+      "author": "daaab"
+    },
+    {
+      "slug": "daaab/walletconnect-agent",
+      "name": "Walletconnect Agent",
+      "description": "By daaab",
+      "category": "Other",
+      "author": "daaab"
+    },
+    {
+      "slug": "dadaliu0121/ai-conversation-summary",
+      "name": "Ai Conversation Summary",
+      "description": "By dadaliu0121",
+      "category": "AI & ML",
+      "author": "dadaliu0121"
+    },
+    {
+      "slug": "dadaliu0121/chat-conversation-summary",
+      "name": "Chat Conversation Summary",
+      "description": "By dadaliu0121",
+      "category": "Other",
+      "author": "dadaliu0121"
+    },
+    {
+      "slug": "dadaliu0121/dada-conversation-summary",
+      "name": "Dada Conversation Summary",
+      "description": "By dadaliu0121",
+      "category": "Other",
+      "author": "dadaliu0121"
+    },
+    {
+      "slug": "dadaliu0121/skills-ai-assistant",
+      "name": "Skills Ai Assistant",
+      "description": "By dadaliu0121",
+      "category": "AI & ML",
+      "author": "dadaliu0121"
+    },
+    {
       "slug": "dagmawibabi/addis-assistant-stt",
       "name": "Addis Assistant Stt",
       "description": "By dagmawibabi",
       "category": "Other",
       "author": "dagmawibabi"
+    },
+    {
+      "slug": "danbaranov/postproxy-skill",
+      "name": "Postproxy Skill",
+      "description": "By danbaranov",
+      "category": "Other",
+      "author": "danbaranov"
+    },
+    {
+      "slug": "danbaranov/postproxy",
+      "name": "Postproxy",
+      "description": "By danbaranov",
+      "category": "Other",
+      "author": "danbaranov"
     },
     {
       "slug": "danbennettuk/voice-note-to-midi",
@@ -5783,6 +6812,13 @@
       "author": "danmaps"
     },
     {
+      "slug": "dannydvm/openclaw-multi-brain",
+      "name": "Openclaw Multi Brain",
+      "description": "By dannydvm",
+      "category": "AI & ML",
+      "author": "dannydvm"
+    },
+    {
       "slug": "dannyshmueli/chart-image",
       "name": "Chart Image",
       "description": "By dannyshmueli",
@@ -5822,6 +6858,13 @@
       "name": "Polymarket Api",
       "description": "By dannyshmueli",
       "category": "Backend",
+      "author": "dannyshmueli"
+    },
+    {
+      "slug": "dannyshmueli/table-image-generator",
+      "name": "Table Image Generator",
+      "description": "By dannyshmueli",
+      "category": "Other",
       "author": "dannyshmueli"
     },
     {
@@ -5909,6 +6952,13 @@
       "author": "darkphoenix2704"
     },
     {
+      "slug": "darynqazaqstan01/qazaq-nomad",
+      "name": "Qazaq Nomad",
+      "description": "By darynqazaqstan01",
+      "category": "Testing",
+      "author": "darynqazaqstan01"
+    },
+    {
       "slug": "dasweltall/openclaw-auto-updater",
       "name": "Openclaw Auto Updater",
       "description": "By dasweltall",
@@ -5977,6 +7027,13 @@
       "description": "By davestarling",
       "category": "Other",
       "author": "davestarling"
+    },
+    {
+      "slug": "david-evaristo/lista-sms",
+      "name": "Lista Sms",
+      "description": "By david-evaristo",
+      "category": "Other",
+      "author": "david-evaristo"
     },
     {
       "slug": "david-evaristo/playwright-cli-2",
@@ -6107,6 +7164,13 @@
     {
       "slug": "dbalve/fast-io",
       "name": "Fast Io",
+      "description": "By dbalve",
+      "category": "Other",
+      "author": "dbalve"
+    },
+    {
+      "slug": "dbalve/fastio-skills",
+      "name": "Fastio Skills",
       "description": "By dbalve",
       "category": "Other",
       "author": "dbalve"
@@ -6315,6 +7379,13 @@
       "author": "dboyne"
     },
     {
+      "slug": "dbwang0130/clscli",
+      "name": "Clscli",
+      "description": "By dbwang0130",
+      "category": "Other",
+      "author": "dbwang0130"
+    },
+    {
       "slug": "dc-acronym/base-skill",
       "name": "Base Skill",
       "description": "By dc-acronym",
@@ -6392,6 +7463,13 @@
       "author": "deiu"
     },
     {
+      "slug": "dejimarquis/groupon-skill",
+      "name": "Groupon Skill",
+      "description": "By dejimarquis",
+      "category": "Other",
+      "author": "dejimarquis"
+    },
+    {
       "slug": "demandgap/stock-evaluator",
       "name": "Stock Evaluator",
       "description": "By demandgap",
@@ -6427,6 +7505,13 @@
       "author": "deploydon"
     },
     {
+      "slug": "derekross/clawstr",
+      "name": "Clawstr",
+      "description": "By derekross",
+      "category": "DevOps",
+      "author": "derekross"
+    },
+    {
       "slug": "desperado991128/peft",
       "name": "Peft",
       "description": "By desperado991128",
@@ -6460,6 +7545,13 @@
       "description": "By devpranoy",
       "category": "Other",
       "author": "devpranoy"
+    },
+    {
+      "slug": "dexploarer/lunchtable-tcg",
+      "name": "Lunchtable Tcg",
+      "description": "By dexploarer",
+      "category": "Other",
+      "author": "dexploarer"
     },
     {
       "slug": "dfinzer/opensea-mcp",
@@ -6518,6 +7610,20 @@
       "author": "dgriffin831"
     },
     {
+      "slug": "dhardie/llm-supervisor-agent",
+      "name": "Llm Supervisor Agent",
+      "description": "By dhardie",
+      "category": "AI & ML",
+      "author": "dhardie"
+    },
+    {
+      "slug": "dhardie/llm-supervisor",
+      "name": "Llm Supervisor",
+      "description": "By dhardie",
+      "category": "AI & ML",
+      "author": "dhardie"
+    },
+    {
       "slug": "dhruvkelawala/gousto",
       "name": "Gousto",
       "description": "By dhruvkelawala",
@@ -6567,6 +7673,13 @@
       "author": "digi604"
     },
     {
+      "slug": "digi604/swarmmarket2",
+      "name": "Swarmmarket2",
+      "description": "By digi604",
+      "category": "Other",
+      "author": "digi604"
+    },
+    {
       "slug": "digisal/youtrack-digisal",
       "name": "Youtrack Digisal",
       "description": "By digisal",
@@ -6600,6 +7713,13 @@
       "description": "By digitallyborn",
       "category": "Other",
       "author": "digitallyborn"
+    },
+    {
+      "slug": "dilate7/moltunes",
+      "name": "Moltunes",
+      "description": "By dilate7",
+      "category": "Other",
+      "author": "dilate7"
     },
     {
       "slug": "dillera/tube-summary",
@@ -6784,6 +7904,20 @@
       "author": "doonot"
     },
     {
+      "slug": "double729/double729-plansuite",
+      "name": "Double729 Plansuite",
+      "description": "By double729",
+      "category": "Frontend",
+      "author": "double729"
+    },
+    {
+      "slug": "double729/plansuite",
+      "name": "Plansuite",
+      "description": "By double729",
+      "category": "Frontend",
+      "author": "double729"
+    },
+    {
       "slug": "douglance/valinor",
       "name": "Valinor",
       "description": "By douglance",
@@ -6795,6 +7929,13 @@
       "name": "Affiliatematic",
       "description": "By dowands",
       "category": "Other",
+      "author": "dowands"
+    },
+    {
+      "slug": "dowands/reddapi",
+      "name": "Reddapi",
+      "description": "By dowands",
+      "category": "Backend",
       "author": "dowands"
     },
     {
@@ -6959,6 +8100,13 @@
       "author": "dub88"
     },
     {
+      "slug": "dubibubii/moltboard-art",
+      "name": "Moltboard Art",
+      "description": "By dubibubii",
+      "category": "Other",
+      "author": "dubibubii"
+    },
+    {
       "slug": "duffycoder/nano-banana-pro-openrouter",
       "name": "Nano Banana Pro Openrouter",
       "description": "By duffycoder",
@@ -7001,6 +8149,13 @@
       "author": "dustinjamest"
     },
     {
+      "slug": "dustinjamest/dynamic-skills",
+      "name": "Dynamic Skills",
+      "description": "By dustinjamest",
+      "category": "Other",
+      "author": "dustinjamest"
+    },
+    {
       "slug": "dustinjamest/skill-search",
       "name": "Skill Search",
       "description": "By dustinjamest",
@@ -7029,8 +8184,29 @@
       "author": "dvntydigital"
     },
     {
+      "slug": "dxdleady/diary-beast",
+      "name": "Diary Beast",
+      "description": "By dxdleady",
+      "category": "Other",
+      "author": "dxdleady"
+    },
+    {
+      "slug": "dxdleady/diarybeast-app",
+      "name": "Diarybeast App",
+      "description": "By dxdleady",
+      "category": "Other",
+      "author": "dxdleady"
+    },
+    {
       "slug": "dxdleady/diarybeast",
       "name": "Diarybeast",
+      "description": "By dxdleady",
+      "category": "Other",
+      "author": "dxdleady"
+    },
+    {
+      "slug": "dxdleady/openclaw-skill",
+      "name": "Openclaw Skill",
       "description": "By dxdleady",
       "category": "Other",
       "author": "dxdleady"
@@ -7092,6 +8268,13 @@
       "author": "e-man07"
     },
     {
+      "slug": "easonc13/overleaf",
+      "name": "Overleaf",
+      "description": "By easonc13",
+      "category": "Other",
+      "author": "easonc13"
+    },
+    {
       "slug": "easonc13/sui-move",
       "name": "Sui Move",
       "description": "By easonc13",
@@ -7120,6 +8303,13 @@
       "author": "echo-of-machines"
     },
     {
+      "slug": "eddanger/grok-imagine",
+      "name": "Grok Imagine",
+      "description": "By eddanger",
+      "category": "Other",
+      "author": "eddanger"
+    },
+    {
       "slug": "eddieivan01/check-network",
       "name": "Check Network",
       "description": "By eddieivan01",
@@ -7132,6 +8322,13 @@
       "description": "By eddygk",
       "category": "Other",
       "author": "eddygk"
+    },
+    {
+      "slug": "ediogoq/agropainel",
+      "name": "Agropainel",
+      "description": "By ediogoq",
+      "category": "AI & ML",
+      "author": "ediogoq"
     },
     {
       "slug": "edkief/kokoro-tts",
@@ -7181,6 +8378,90 @@
       "description": "By edwardirby",
       "category": "Other",
       "author": "edwardirby"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-acupuncture",
+      "name": "Book Acupuncture",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-alignment",
+      "name": "Book Alignment",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-art-lessons",
+      "name": "Book Art Lessons",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-barber",
+      "name": "Book Barber",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-car-wash",
+      "name": "Book Car Wash",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-electrician",
+      "name": "Book Electrician",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-fitness",
+      "name": "Book Fitness",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-florist",
+      "name": "Book Florist",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-nutritionist",
+      "name": "Book Nutritionist",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-tune-up",
+      "name": "Book Tune Up",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/book-web-developer",
+      "name": "Book Web Developer",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
+    },
+    {
+      "slug": "edwardrodriguez703-design/lokuli-service-booking",
+      "name": "Lokuli Service Booking",
+      "description": "By edwardrodriguez703-design",
+      "category": "Other",
+      "author": "edwardrodriguez703-design"
     },
     {
       "slug": "edyyy62/adcp-advertising",
@@ -7316,6 +8597,20 @@
       "author": "emasoudy"
     },
     {
+      "slug": "emberdesire/hopeids",
+      "name": "Hopeids",
+      "description": "By emberdesire",
+      "category": "Other",
+      "author": "emberdesire"
+    },
+    {
+      "slug": "emberdesire/jasper-recall",
+      "name": "Jasper Recall",
+      "description": "By emberdesire",
+      "category": "Other",
+      "author": "emberdesire"
+    },
+    {
       "slug": "emcmillan80/qmd-markdown-search",
       "name": "Qmd Markdown Search",
       "description": "By emcmillan80",
@@ -7414,6 +8709,13 @@
       "author": "endlessjour9527"
     },
     {
+      "slug": "endlessjour9527/rokid",
+      "name": "Rokid",
+      "description": "By endlessjour9527",
+      "category": "Other",
+      "author": "endlessjour9527"
+    },
+    {
       "slug": "engahmedsalah358-lgtm/ahmed",
       "name": "Ahmed",
       "description": "By engahmedsalah358-lgtm",
@@ -7491,6 +8793,13 @@
       "author": "epwhesq"
     },
     {
+      "slug": "epwhesq/vrtlly-claw-club",
+      "name": "Vrtlly Claw Club",
+      "description": "By epwhesq",
+      "category": "Other",
+      "author": "epwhesq"
+    },
+    {
       "slug": "erdgeclaw/base-signal-feed",
       "name": "Base Signal Feed",
       "description": "By erdgeclaw",
@@ -7510,6 +8819,20 @@
       "description": "By ericarnoldy",
       "category": "Other",
       "author": "ericarnoldy"
+    },
+    {
+      "slug": "erichy777/parallel-task-executor",
+      "name": "Parallel Task Executor",
+      "description": "By erichy777",
+      "category": "Productivity",
+      "author": "erichy777"
+    },
+    {
+      "slug": "erichy777/recursive-self-improvement",
+      "name": "Recursive Self Improvement",
+      "description": "By erichy777",
+      "category": "Other",
+      "author": "erichy777"
     },
     {
       "slug": "ericrosenberg/jellyseerr",
@@ -7694,6 +9017,13 @@
       "author": "fabriziogianni7"
     },
     {
+      "slug": "fabriziogianni7/openclast-wallet",
+      "name": "Openclast Wallet",
+      "description": "By fabriziogianni7",
+      "category": "Other",
+      "author": "fabriziogianni7"
+    },
+    {
       "slug": "fadeloo/tiangong-notebooklm-cli",
       "name": "Tiangong Notebooklm Cli",
       "description": "By fadeloo",
@@ -7764,6 +9094,20 @@
       "author": "fcavalcantirj"
     },
     {
+      "slug": "fcavalcantirj/solvr-kb",
+      "name": "Solvr Kb",
+      "description": "By fcavalcantirj",
+      "category": "Other",
+      "author": "fcavalcantirj"
+    },
+    {
+      "slug": "fcavalcantirj/solvr",
+      "name": "Solvr",
+      "description": "By fcavalcantirj",
+      "category": "Other",
+      "author": "fcavalcantirj"
+    },
+    {
       "slug": "fciaf420/molt-radio",
       "name": "Molt Radio",
       "description": "By fciaf420",
@@ -7792,6 +9136,13 @@
       "author": "felo-sparticle"
     },
     {
+      "slug": "fengjiajie/gemini-web-search",
+      "name": "Gemini Web Search",
+      "description": "By fengjiajie",
+      "category": "Other",
+      "author": "fengjiajie"
+    },
+    {
       "slug": "fernikolic/clawdentials-escrow",
       "name": "Clawdentials Escrow",
       "description": "By fernikolic",
@@ -7818,6 +9169,20 @@
       "description": "By fgbytes",
       "category": "Other",
       "author": "fgbytes"
+    },
+    {
+      "slug": "fianabates1/qlik",
+      "name": "Qlik",
+      "description": "By fianabates1",
+      "category": "Other",
+      "author": "fianabates1"
+    },
+    {
+      "slug": "fianabates1/test-wa",
+      "name": "Test Wa",
+      "description": "By fianabates1",
+      "category": "Testing",
+      "author": "fianabates1"
     },
     {
       "slug": "fiddlybit/whisper",
@@ -8198,6 +9563,34 @@
       "author": "foxdavidj"
     },
     {
+      "slug": "fpsjago/binance-dca-test",
+      "name": "Binance Dca Test",
+      "description": "By fpsjago",
+      "category": "Testing",
+      "author": "fpsjago"
+    },
+    {
+      "slug": "fpsjago/binance-dca-tool",
+      "name": "Binance Dca Tool",
+      "description": "By fpsjago",
+      "category": "Other",
+      "author": "fpsjago"
+    },
+    {
+      "slug": "fpsjago/binance-dca",
+      "name": "Binance Dca",
+      "description": "By fpsjago",
+      "category": "Other",
+      "author": "fpsjago"
+    },
+    {
+      "slug": "fpsjago/trading-research",
+      "name": "Trading Research",
+      "description": "By fpsjago",
+      "category": "Other",
+      "author": "fpsjago"
+    },
+    {
       "slug": "fr0gger/moltthreats",
       "name": "Moltthreats",
       "description": "By fr0gger",
@@ -8210,6 +9603,13 @@
       "description": "By fr0ziii",
       "category": "Other",
       "author": "fr0ziii"
+    },
+    {
+      "slug": "fr3nch13/openclaw-trakt",
+      "name": "Openclaw Trakt",
+      "description": "By fr3nch13",
+      "category": "Other",
+      "author": "fr3nch13"
     },
     {
       "slug": "fraction12/canvas-os",
@@ -8394,6 +9794,13 @@
       "author": "gabrivardqc123"
     },
     {
+      "slug": "galacticpuffin/lead-hunter",
+      "name": "Lead Hunter",
+      "description": "By galacticpuffin",
+      "category": "Other",
+      "author": "galacticpuffin"
+    },
+    {
       "slug": "galizki/13-day-sprint-method",
       "name": "13 Day Sprint Method",
       "description": "By galizki",
@@ -8466,6 +9873,13 @@
     {
       "slug": "gchapim/hackernews",
       "name": "Hackernews",
+      "description": "By gchapim",
+      "category": "Other",
+      "author": "gchapim"
+    },
+    {
+      "slug": "gchapim/oban-designer",
+      "name": "Oban Designer",
       "description": "By gchapim",
       "category": "Other",
       "author": "gchapim"
@@ -8779,6 +10193,13 @@
       "author": "glitch003"
     },
     {
+      "slug": "glitch003/vincent",
+      "name": "Vincent",
+      "description": "By glitch003",
+      "category": "Other",
+      "author": "glitch003"
+    },
+    {
       "slug": "glittercowboy/gsd",
       "name": "Gsd",
       "description": "By glittercowboy",
@@ -8919,11 +10340,25 @@
       "author": "gregm711"
     },
     {
+      "slug": "grenghis-khan/moltoverflow-latest",
+      "name": "Moltoverflow Latest",
+      "description": "By grenghis-khan",
+      "category": "Testing",
+      "author": "grenghis-khan"
+    },
+    {
       "slug": "grenghis-khan/moltoverflow",
       "name": "Moltoverflow",
       "description": "By grenghis-khan",
       "category": "Other",
       "author": "grenghis-khan"
+    },
+    {
+      "slug": "grewingm/bring",
+      "name": "Bring",
+      "description": "By grewingm",
+      "category": "Other",
+      "author": "grewingm"
     },
     {
       "slug": "gricha/dex",
@@ -8959,6 +10394,13 @@
       "description": "By grpaiva",
       "category": "Social & Media",
       "author": "grpaiva"
+    },
+    {
+      "slug": "grx21/sauna-calm",
+      "name": "Sauna Calm",
+      "description": "By grx21",
+      "category": "Other",
+      "author": "grx21"
     },
     {
       "slug": "grxkun/skill-mixer",
@@ -9283,6 +10725,13 @@
       "author": "hadifarnoud"
     },
     {
+      "slug": "hadihammurabi/gowok",
+      "name": "Gowok",
+      "description": "By hadihammurabi",
+      "category": "Other",
+      "author": "hadihammurabi"
+    },
+    {
       "slug": "hahahxx/web-search-instant",
       "name": "Web Search Instant",
       "description": "By hahahxx",
@@ -9325,6 +10774,34 @@
       "author": "halthelobster"
     },
     {
+      "slug": "hans1329/kpop-lightstick-trading",
+      "name": "Kpop Lightstick Trading",
+      "description": "By hans1329",
+      "category": "Other",
+      "author": "hans1329"
+    },
+    {
+      "slug": "hans1329/ktrendz-bonding-curve-trading",
+      "name": "Ktrendz Bonding Curve Trading",
+      "description": "By hans1329",
+      "category": "Other",
+      "author": "hans1329"
+    },
+    {
+      "slug": "hans1329/ktrendz-lightstick-trading",
+      "name": "Ktrendz Lightstick Trading",
+      "description": "By hans1329",
+      "category": "Other",
+      "author": "hans1329"
+    },
+    {
+      "slug": "hans1329/ktrendz-skill",
+      "name": "Ktrendz Skill",
+      "description": "By hans1329",
+      "category": "Other",
+      "author": "hans1329"
+    },
+    {
       "slug": "happybigmtn/bonero-miner",
       "name": "Bonero Miner",
       "description": "By happybigmtn",
@@ -9346,6 +10823,27 @@
       "author": "harrytou"
     },
     {
+      "slug": "harshhmaniya/linkedin-lead-gen",
+      "name": "Linkedin Lead Gen",
+      "description": "By harshhmaniya",
+      "category": "Other",
+      "author": "harshhmaniya"
+    },
+    {
+      "slug": "harshhmaniya/linkedin-lead-generation",
+      "name": "Linkedin Lead Generation",
+      "description": "By harshhmaniya",
+      "category": "Other",
+      "author": "harshhmaniya"
+    },
+    {
+      "slug": "harshhmaniya/x-post-automation",
+      "name": "X Post Automation",
+      "description": "By harshhmaniya",
+      "category": "Other",
+      "author": "harshhmaniya"
+    },
+    {
       "slug": "hartlco/miniflux-news",
       "name": "Miniflux News",
       "description": "By hartlco",
@@ -9364,6 +10862,13 @@
       "name": "Location Awareness",
       "description": "By hegghammer",
       "category": "Other",
+      "author": "hegghammer"
+    },
+    {
+      "slug": "hegghammer/newsapi-search",
+      "name": "Newsapi Search",
+      "description": "By hegghammer",
+      "category": "Backend",
       "author": "hegghammer"
     },
     {
@@ -9399,6 +10904,20 @@
       "name": "Daily Review",
       "description": "By henrino3",
       "category": "AI & ML",
+      "author": "henrino3"
+    },
+    {
+      "slug": "henrino3/heimdall-security",
+      "name": "Heimdall Security",
+      "description": "By henrino3",
+      "category": "Security",
+      "author": "henrino3"
+    },
+    {
+      "slug": "henrino3/heimdall",
+      "name": "Heimdall",
+      "description": "By henrino3",
+      "category": "Other",
       "author": "henrino3"
     },
     {
@@ -9619,6 +11138,13 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/animated-product-explainer",
+      "name": "Animated Product Explainer",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd",
       "name": "Any Prompt Tips For Someone New To Midjourney 9f5dbedd",
       "description": "By hhhh124hhhh",
@@ -9665,6 +11191,13 @@
       "name": "Brand Creative Suite",
       "description": "By hhhh124hhhh",
       "category": "Frontend",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/brand-story-video",
+      "name": "Brand Story Video",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
       "author": "hhhh124hhhh"
     },
     {
@@ -9808,10 +11341,59 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/lifestyle-product-shot",
+      "name": "Lifestyle Product Shot",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/marketing-promo-video",
+      "name": "Marketing Promo Video",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/merc-income-guide",
       "name": "Merc Income Guide",
       "description": "By hhhh124hhhh",
       "category": "Frontend",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/product-comparison-video",
+      "name": "Product Comparison Video",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/product-detail-shot",
+      "name": "Product Detail Shot",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/product-showcase-video",
+      "name": "Product Showcase Video",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/product-studio-shot",
+      "name": "Product Studio Shot",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/product-tutorial-video",
+      "name": "Product Tutorial Video",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
       "author": "hhhh124hhhh"
     },
     {
@@ -9864,6 +11446,13 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/quick-demo-video",
+      "name": "Quick Demo Video",
+      "description": "By hhhh124hhhh",
+      "category": "Frontend",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/r-promptengineering-on-reddit-after-1000-hours-of--94ff76c5",
       "name": "R Promptengineering On Reddit After 1000 Hours Of  94ff76c5",
       "description": "By hhhh124hhhh",
@@ -9913,10 +11502,38 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/seasonal-campaign-video",
+      "name": "Seasonal Campaign Video",
+      "description": "By hhhh124hhhh",
+      "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/seasonal-product-image",
+      "name": "Seasonal Product Image",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/self-taught-ml-career-path",
       "name": "Self Taught Ml Career Path",
       "description": "By hhhh124hhhh",
       "category": "AI & ML",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/social-media-carousel",
+      "name": "Social Media Carousel",
+      "description": "By hhhh124hhhh",
+      "category": "Social & Media",
+      "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hhhh124hhhh/social-media-story-video",
+      "name": "Social Media Story Video",
+      "description": "By hhhh124hhhh",
+      "category": "Social & Media",
       "author": "hhhh124hhhh"
     },
     {
@@ -9983,6 +11600,13 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/testimonial-montage",
+      "name": "Testimonial Montage",
+      "description": "By hhhh124hhhh",
+      "category": "Testing",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/the-2026-guide-to-prompt-engineering-ibm-4a7e73bd",
       "name": "The 2026 Guide To Prompt Engineering Ibm 4a7e73bd",
       "description": "By hhhh124hhhh",
@@ -10011,6 +11635,13 @@
       "author": "hhhh124hhhh"
     },
     {
+      "slug": "hhhh124hhhh/unboxing-experience-video",
+      "name": "Unboxing Experience Video",
+      "description": "By hhhh124hhhh",
+      "category": "Other",
+      "author": "hhhh124hhhh"
+    },
+    {
       "slug": "hhhh124hhhh/use-prompt-templates-generative-ai-on-vertex-ai-go-b2e80920",
       "name": "Use Prompt Templates Generative Ai On Vertex Ai Go B2e80920",
       "description": "By hhhh124hhhh",
@@ -10023,6 +11654,27 @@
       "description": "By hhhh124hhhh",
       "category": "AI & ML",
       "author": "hhhh124hhhh"
+    },
+    {
+      "slug": "hi-yu/mcd",
+      "name": "Mcd",
+      "description": "By hi-yu",
+      "category": "Other",
+      "author": "hi-yu"
+    },
+    {
+      "slug": "hi-yu/mcdonald-cn",
+      "name": "Mcdonald Cn",
+      "description": "By hi-yu",
+      "category": "Other",
+      "author": "hi-yu"
+    },
+    {
+      "slug": "hi-yu/mcdonald",
+      "name": "Mcdonald",
+      "description": "By hi-yu",
+      "category": "Other",
+      "author": "hi-yu"
     },
     {
       "slug": "hichana/one-skill-to-rule-them-all",
@@ -12944,11 +14596,32 @@
       "author": "idanmann10"
     },
     {
+      "slug": "ide-rea/ai-picture-book",
+      "name": "Ai Picture Book",
+      "description": "By ide-rea",
+      "category": "AI & ML",
+      "author": "ide-rea"
+    },
+    {
+      "slug": "ide-rea/baidu-search",
+      "name": "Baidu Search",
+      "description": "By ide-rea",
+      "category": "AI & ML",
+      "author": "ide-rea"
+    },
+    {
       "slug": "idoshamun/daily-dev",
       "name": "Daily Dev",
       "description": "By idoshamun",
       "category": "AI & ML",
       "author": "idoshamun"
+    },
+    {
+      "slug": "ifoster01/trpc-best-practices",
+      "name": "Trpc Best Practices",
+      "description": "By ifoster01",
+      "category": "Other",
+      "author": "ifoster01"
     },
     {
       "slug": "ignaciocervino/swiftui-empty-app-init",
@@ -12983,6 +14656,27 @@
       "name": "Agent Selfie",
       "description": "By iisweetheartii",
       "category": "Other",
+      "author": "iisweetheartii"
+    },
+    {
+      "slug": "iisweetheartii/agent-social",
+      "name": "Agent Social",
+      "description": "By iisweetheartii",
+      "category": "Social & Media",
+      "author": "iisweetheartii"
+    },
+    {
+      "slug": "iisweetheartii/agentgram-openclaw",
+      "name": "Agentgram Openclaw",
+      "description": "By iisweetheartii",
+      "category": "Other",
+      "author": "iisweetheartii"
+    },
+    {
+      "slug": "iisweetheartii/agentgram-social",
+      "name": "Agentgram Social",
+      "description": "By iisweetheartii",
+      "category": "Social & Media",
       "author": "iisweetheartii"
     },
     {
@@ -13084,6 +14778,20 @@
       "author": "impkind"
     },
     {
+      "slug": "imrkhn03/proactive-tasks",
+      "name": "Proactive Tasks",
+      "description": "By imrkhn03",
+      "category": "Productivity",
+      "author": "imrkhn03"
+    },
+    {
+      "slug": "imthatcarlos/clawdvine-skill-latest",
+      "name": "Clawdvine Skill Latest",
+      "description": "By imthatcarlos",
+      "category": "Testing",
+      "author": "imthatcarlos"
+    },
+    {
       "slug": "imthatcarlos/solana-swaps",
       "name": "Solana Swaps",
       "description": "By imthatcarlos",
@@ -13102,6 +14810,13 @@
       "name": "Secops By Joes",
       "description": "By inaor",
       "category": "Other",
+      "author": "inaor"
+    },
+    {
+      "slug": "inaor/some-other-youtube",
+      "name": "Some Other Youtube",
+      "description": "By inaor",
+      "category": "Social & Media",
       "author": "inaor"
     },
     {
@@ -13154,6 +14869,13 @@
       "author": "instant-picture"
     },
     {
+      "slug": "instant-picture/qmd-1-0-0",
+      "name": "Qmd 1 0 0",
+      "description": "By instant-picture",
+      "category": "Other",
+      "author": "instant-picture"
+    },
+    {
       "slug": "intellectiaai/intellectia-stock-screener",
       "name": "Intellectia Stock Screener",
       "description": "By intellectiaai",
@@ -13187,6 +14909,27 @@
       "description": "By ipedrax",
       "category": "Other",
       "author": "ipedrax"
+    },
+    {
+      "slug": "iqbalnaveliano/agent-browser-zd1dook9mtfz",
+      "name": "Agent Browser Zd1dook9mtfz",
+      "description": "By iqbalnaveliano",
+      "category": "Other",
+      "author": "iqbalnaveliano"
+    },
+    {
+      "slug": "iqbalnaveliano/bird-su",
+      "name": "Bird Su",
+      "description": "By iqbalnaveliano",
+      "category": "Other",
+      "author": "iqbalnaveliano"
+    },
+    {
+      "slug": "iqbalnaveliano/coding-opencode",
+      "name": "Coding Opencode",
+      "description": "By iqbalnaveliano",
+      "category": "Other",
+      "author": "iqbalnaveliano"
     },
     {
       "slug": "ira-hash/aap-passport",
@@ -13250,6 +14993,13 @@
       "description": "By itrocker",
       "category": "Other",
       "author": "itrocker"
+    },
+    {
+      "slug": "itsahedge/agent-council",
+      "name": "Agent Council",
+      "description": "By itsahedge",
+      "category": "Other",
+      "author": "itsahedge"
     },
     {
       "slug": "itsclawdbro/skill-defender",
@@ -13322,6 +15072,13 @@
       "author": "itsjaydesu"
     },
     {
+      "slug": "itsjustdri/ui-ux-design",
+      "name": "Ui Ux Design",
+      "description": "By itsjustdri",
+      "category": "Frontend",
+      "author": "itsjustdri"
+    },
+    {
       "slug": "itstauq/telegram-auto-topic",
       "name": "Telegram Auto Topic",
       "description": "By itstauq",
@@ -13369,6 +15126,13 @@
       "description": "By jackparnell",
       "category": "Other",
       "author": "jackparnell"
+    },
+    {
+      "slug": "jacobthejacobs/remindme",
+      "name": "Remindme",
+      "description": "By jacobthejacobs",
+      "category": "Other",
+      "author": "jacobthejacobs"
     },
     {
       "slug": "jacobzwj/bilibili-hot-monitor",
@@ -13441,6 +15205,13 @@
       "author": "jameslawton"
     },
     {
+      "slug": "jamesouttake/skill-guard",
+      "name": "Skill Guard",
+      "description": "By jamesouttake",
+      "category": "Other",
+      "author": "jamesouttake"
+    },
+    {
       "slug": "jamjamzxhy/a2a-market",
       "name": "A2a Market",
       "description": "By jamjamzxhy",
@@ -13476,11 +15247,32 @@
       "author": "jarchsclaw"
     },
     {
+      "slug": "jarrodjs/seats-aero",
+      "name": "Seats Aero",
+      "description": "By jarrodjs",
+      "category": "Other",
+      "author": "jarrodjs"
+    },
+    {
       "slug": "jash2368-collab/pro",
       "name": "Pro",
       "description": "By jash2368-collab",
       "category": "Other",
       "author": "jash2368-collab"
+    },
+    {
+      "slug": "jasonfdg/bidclub-ai",
+      "name": "Bidclub Ai",
+      "description": "By jasonfdg",
+      "category": "AI & ML",
+      "author": "jasonfdg"
+    },
+    {
+      "slug": "jasonfdg/bidclub",
+      "name": "Bidclub",
+      "description": "By jasonfdg",
+      "category": "Other",
+      "author": "jasonfdg"
     },
     {
       "slug": "jasonlnheath/moltlang-skill",
@@ -13644,6 +15436,13 @@
       "author": "jdrhyne"
     },
     {
+      "slug": "jdrhyne/duke-leto-test",
+      "name": "Duke Leto Test",
+      "description": "By jdrhyne",
+      "category": "Testing",
+      "author": "jdrhyne"
+    },
+    {
       "slug": "jdrhyne/ga4",
       "name": "Ga4",
       "description": "By jdrhyne",
@@ -13693,6 +15492,20 @@
       "author": "jdrhyne"
     },
     {
+      "slug": "jdrhyne/nutrient-document-processing",
+      "name": "Nutrient Document Processing",
+      "description": "By jdrhyne",
+      "category": "Other",
+      "author": "jdrhyne"
+    },
+    {
+      "slug": "jdrhyne/nutrient-openclaw",
+      "name": "Nutrient Openclaw",
+      "description": "By jdrhyne",
+      "category": "Other",
+      "author": "jdrhyne"
+    },
+    {
       "slug": "jdrhyne/sysadmin-toolbox",
       "name": "Sysadmin Toolbox",
       "description": "By jdrhyne",
@@ -13714,6 +15527,13 @@
       "author": "jdrolls"
     },
     {
+      "slug": "jeffaf/anime",
+      "name": "Anime",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
       "slug": "jeffaf/bluesky",
       "name": "Bluesky",
       "description": "By jeffaf",
@@ -13721,8 +15541,64 @@
       "author": "jeffaf"
     },
     {
+      "slug": "jeffaf/books",
+      "name": "Books",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
+      "slug": "jeffaf/breweries",
+      "name": "Breweries",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
       "slug": "jeffaf/council-of-the-wise",
       "name": "Council Of The Wise",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
+      "slug": "jeffaf/countries",
+      "name": "Countries",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
+      "slug": "jeffaf/harrypotter",
+      "name": "Harrypotter",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
+      "slug": "jeffaf/pokemon",
+      "name": "Pokemon",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
+      "slug": "jeffaf/recipes",
+      "name": "Recipes",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
+      "slug": "jeffaf/spacex",
+      "name": "Spacex",
+      "description": "By jeffaf",
+      "category": "Other",
+      "author": "jeffaf"
+    },
+    {
+      "slug": "jeffaf/starwars",
+      "name": "Starwars",
       "description": "By jeffaf",
       "category": "Other",
       "author": "jeffaf"
@@ -13863,6 +15739,13 @@
     {
       "slug": "jgm2025/devialet",
       "name": "Devialet",
+      "description": "By jgm2025",
+      "category": "Other",
+      "author": "jgm2025"
+    },
+    {
+      "slug": "jgm2025/veeam-mcp",
+      "name": "Veeam Mcp",
       "description": "By jgm2025",
       "category": "Other",
       "author": "jgm2025"
@@ -14155,6 +16038,13 @@
       "author": "jhumanj"
     },
     {
+      "slug": "jiacode/deepresearchwork",
+      "name": "Deepresearchwork",
+      "description": "By jiacode",
+      "category": "Other",
+      "author": "jiacode"
+    },
+    {
       "slug": "jiasenl/clawdbot-skill-homebridge",
       "name": "Clawdbot Skill Homebridge",
       "description": "By jiasenl",
@@ -14237,6 +16127,13 @@
       "description": "By jjannet",
       "category": "Other",
       "author": "jjannet"
+    },
+    {
+      "slug": "jk-0001/tax-planning",
+      "name": "Tax Planning",
+      "description": "By jk-0001",
+      "category": "Other",
+      "author": "jk-0001"
     },
     {
       "slug": "jk50505k/clawdhub-copy",
@@ -14358,6 +16255,13 @@
       "author": "jmartel-olvid"
     },
     {
+      "slug": "jmceleney/openclaw-safe-exec",
+      "name": "Openclaw Safe Exec",
+      "description": "By jmceleney",
+      "category": "Other",
+      "author": "jmceleney"
+    },
+    {
       "slug": "jmz1/skillcraft",
       "name": "Skillcraft",
       "description": "By jmz1",
@@ -14456,11 +16360,25 @@
       "author": "johanski"
     },
     {
+      "slug": "johnielee/privacy-cards",
+      "name": "Privacy Cards",
+      "description": "By johnielee",
+      "category": "Other",
+      "author": "johnielee"
+    },
+    {
       "slug": "johnmci/smalltalk",
       "name": "Smalltalk",
       "description": "By johnmci",
       "category": "Other",
       "author": "johnmci"
+    },
+    {
+      "slug": "johnnagro/isitwater",
+      "name": "Isitwater",
+      "description": "By johnnagro",
+      "category": "Other",
+      "author": "johnnagro"
     },
     {
       "slug": "johnsonfarmsus/claw-conductor",
@@ -14785,6 +16703,13 @@
       "author": "jotamed"
     },
     {
+      "slug": "jozh-bit/unzipped-skill",
+      "name": "Unzipped Skill",
+      "description": "By jozh-bit",
+      "category": "Other",
+      "author": "jozh-bit"
+    },
+    {
       "slug": "jp4g/ethereum-wingman",
       "name": "Ethereum Wingman",
       "description": "By jp4g",
@@ -14820,1316 +16745,21 @@
       "author": "jrbobbyhansen-pixel"
     },
     {
+      "slug": "jrswab/slipbot",
+      "name": "Slipbot",
+      "description": "By jrswab",
+      "category": "Other",
+      "author": "jrswab"
+    },
+    {
       "slug": "jschwerberg/ooze-agents",
       "name": "Ooze Agents",
       "description": "By jschwerberg",
       "category": "Other",
       "author": "jschwerberg"
-    },
-    {
-      "slug": "jtmuller5/boil",
-      "name": "Boil",
-      "description": "By jtmuller5",
-      "category": "Other",
-      "author": "jtmuller5"
-    },
-    {
-      "slug": "juampihernandez/talent-powers",
-      "name": "Talent Powers",
-      "description": "By juampihernandez",
-      "category": "Other",
-      "author": "juampihernandez"
-    },
-    {
-      "slug": "juanirm/logseq",
-      "name": "Logseq",
-      "description": "By juanirm",
-      "category": "Other",
-      "author": "juanirm"
-    },
-    {
-      "slug": "juanpin/yutori-web-research",
-      "name": "Yutori Web Research",
-      "description": "By juanpin",
-      "category": "Other",
-      "author": "juanpin"
-    },
-    {
-      "slug": "juanwall/moonbanking",
-      "name": "Moonbanking",
-      "description": "By juanwall",
-      "category": "Other",
-      "author": "juanwall"
-    },
-    {
-      "slug": "julian-r/vodoo",
-      "name": "Vodoo",
-      "description": "By julian-r",
-      "category": "Other",
-      "author": "julian-r"
-    },
-    {
-      "slug": "julian1645/research-tracker",
-      "name": "Research Tracker",
-      "description": "By julian1645",
-      "category": "Other",
-      "author": "julian1645"
-    },
-    {
-      "slug": "julianengel/domaindetails",
-      "name": "Domaindetails",
-      "description": "By julianengel",
-      "category": "AI & ML",
-      "author": "julianengel"
-    },
-    {
-      "slug": "julianengel/premium-domains",
-      "name": "Premium Domains",
-      "description": "By julianengel",
-      "category": "AI & ML",
-      "author": "julianengel"
-    },
-    {
-      "slug": "julianengel/r2-upload",
-      "name": "R2 Upload",
-      "description": "By julianengel",
-      "category": "Other",
-      "author": "julianengel"
-    },
-    {
-      "slug": "julianengel/remind-me",
-      "name": "Remind Me",
-      "description": "By julianengel",
-      "category": "Other",
-      "author": "julianengel"
-    },
-    {
-      "slug": "juliendbrt/emergence-codex-openclaw",
-      "name": "Emergence Codex Openclaw",
-      "description": "By juliendbrt",
-      "category": "Other",
-      "author": "juliendbrt"
-    },
-    {
-      "slug": "junaid1460/masonry-generate-image-and-video",
-      "name": "Masonry Generate Image And Video",
-      "description": "By junaid1460",
-      "category": "Other",
-      "author": "junaid1460"
-    },
-    {
-      "slug": "junebugg1214/glasses-to-social",
-      "name": "Glasses To Social",
-      "description": "By junebugg1214",
-      "category": "Social & Media",
-      "author": "junebugg1214"
-    },
-    {
-      "slug": "junwatu/r2-storage",
-      "name": "R2 Storage",
-      "description": "By junwatu",
-      "category": "Other",
-      "author": "junwatu"
-    },
-    {
-      "slug": "jusscubs/ore-miner",
-      "name": "Ore Miner",
-      "description": "By jusscubs",
-      "category": "Other",
-      "author": "jusscubs"
-    },
-    {
-      "slug": "justinburdett/flyio-cli",
-      "name": "Flyio Cli",
-      "description": "By justinburdett",
-      "category": "Other",
-      "author": "justinburdett"
-    },
-    {
-      "slug": "justinburdett/rssaurus",
-      "name": "Rssaurus",
-      "description": "By justinburdett",
-      "category": "Other",
-      "author": "justinburdett"
-    },
-    {
-      "slug": "justindobbs/openclaw-safety-coach",
-      "name": "Openclaw Safety Coach",
-      "description": "By justindobbs",
-      "category": "Other",
-      "author": "justindobbs"
-    },
-    {
-      "slug": "justinhartbiz/gedcom-explorer",
-      "name": "Gedcom Explorer",
-      "description": "By justinhartbiz",
-      "category": "Other",
-      "author": "justinhartbiz"
-    },
-    {
-      "slug": "justinhartbiz/yt-to-blog",
-      "name": "Yt To Blog",
-      "description": "By justinhartbiz",
-      "category": "Other",
-      "author": "justinhartbiz"
-    },
-    {
-      "slug": "justtrying1001/moltforsale",
-      "name": "Moltforsale",
-      "description": "By justtrying1001",
-      "category": "Other",
-      "author": "justtrying1001"
-    },
-    {
-      "slug": "jverdi/plaid",
-      "name": "Plaid",
-      "description": "By jverdi",
-      "category": "AI & ML",
-      "author": "jverdi"
-    },
-    {
-      "slug": "jwaynelowry/lobster-tank",
-      "name": "Lobster Tank",
-      "description": "By jwaynelowry",
-      "category": "Other",
-      "author": "jwaynelowry"
-    },
-    {
-      "slug": "k0nkupa/asana",
-      "name": "Asana",
-      "description": "By k0nkupa",
-      "category": "Other",
-      "author": "k0nkupa"
-    },
-    {
-      "slug": "k0nkupa/hyperliquid",
-      "name": "Hyperliquid",
-      "description": "By k0nkupa",
-      "category": "Frontend",
-      "author": "k0nkupa"
-    },
-    {
-      "slug": "k4ditano/notnative",
-      "name": "Notnative",
-      "description": "By k4ditano",
-      "category": "Other",
-      "author": "k4ditano"
-    },
-    {
-      "slug": "kaden-schutt/agentchan-org",
-      "name": "Agentchan Org",
-      "description": "By kaden-schutt",
-      "category": "Other",
-      "author": "kaden-schutt"
-    },
-    {
-      "slug": "kaelxsol/clawsnipe",
-      "name": "Clawsnipe",
-      "description": "By kaelxsol",
-      "category": "DevOps",
-      "author": "kaelxsol"
-    },
-    {
-      "slug": "kaima2022/x-followings-digest",
-      "name": "X Followings Digest",
-      "description": "By kaima2022",
-      "category": "Other",
-      "author": "kaima2022"
-    },
-    {
-      "slug": "kaimcpheeters/skirmish",
-      "name": "Skirmish",
-      "description": "By kaimcpheeters",
-      "category": "Other",
-      "author": "kaimcpheeters"
-    },
-    {
-      "slug": "kaiofreitas/lg-thinq",
-      "name": "Lg Thinq",
-      "description": "By kaiofreitas",
-      "category": "Other",
-      "author": "kaiofreitas"
-    },
-    {
-      "slug": "kaiofreitas/ticktick-api",
-      "name": "Ticktick Api",
-      "description": "By kaiofreitas",
-      "category": "Backend",
-      "author": "kaiofreitas"
-    },
-    {
-      "slug": "kaiofreitas/ticktick-tasks",
-      "name": "Ticktick Tasks",
-      "description": "By kaiofreitas",
-      "category": "Productivity",
-      "author": "kaiofreitas"
-    },
-    {
-      "slug": "kakatkarakshay/proton-pass",
-      "name": "Proton Pass",
-      "description": "By kakatkarakshay",
-      "category": "Other",
-      "author": "kakatkarakshay"
-    },
-    {
-      "slug": "kalijason/mac-tts",
-      "name": "Mac Tts",
-      "description": "By kalijason",
-      "category": "Other",
-      "author": "kalijason"
-    },
-    {
-      "slug": "kantorcodes/registry-broker-hashnet-openclaw",
-      "name": "Registry Broker Hashnet Openclaw",
-      "description": "By kantorcodes",
-      "category": "Other",
-      "author": "kantorcodes"
-    },
-    {
-      "slug": "kantorcodes/registry-broker-skills",
-      "name": "Registry Broker Skills",
-      "description": "By kantorcodes",
-      "category": "Other",
-      "author": "kantorcodes"
-    },
-    {
-      "slug": "kantorcodes/registry-broker",
-      "name": "Registry Broker",
-      "description": "By kantorcodes",
-      "category": "Other",
-      "author": "kantorcodes"
-    },
-    {
-      "slug": "karakuscem/beszel-check",
-      "name": "Beszel Check",
-      "description": "By karakuscem",
-      "category": "Other",
-      "author": "karakuscem"
-    },
-    {
-      "slug": "karatla/opencode-controller",
-      "name": "Opencode Controller",
-      "description": "By karatla",
-      "category": "Other",
-      "author": "karatla"
-    },
-    {
-      "slug": "karda8752/sawiex",
-      "name": "Sawiex",
-      "description": "By karda8752",
-      "category": "Other",
-      "author": "karda8752"
-    },
-    {
-      "slug": "kbanc85/claudia-agent-rms",
-      "name": "Claudia Agent Rms",
-      "description": "By kbanc85",
-      "category": "Other",
-      "author": "kbanc85"
-    },
-    {
-      "slug": "kcns008/kubernetes",
-      "name": "Kubernetes",
-      "description": "By kcns008",
-      "category": "DevOps",
-      "author": "kcns008"
-    },
-    {
-      "slug": "kdbhalala/apple-hig",
-      "name": "Apple Hig",
-      "description": "By kdbhalala",
-      "category": "Other",
-      "author": "kdbhalala"
-    },
-    {
-      "slug": "kdbhalala/ui-ux-master",
-      "name": "Ui Ux Master",
-      "description": "By kdbhalala",
-      "category": "Frontend",
-      "author": "kdbhalala"
-    },
-    {
-      "slug": "keithvassallomt/openclaw-nextcloud",
-      "name": "Openclaw Nextcloud",
-      "description": "By keithvassallomt",
-      "category": "DevOps",
-      "author": "keithvassallomt"
-    },
-    {
-      "slug": "kellyclaudeai/agentic-calling",
-      "name": "Agentic Calling",
-      "description": "By kellyclaudeai",
-      "category": "Other",
-      "author": "kellyclaudeai"
-    },
-    {
-      "slug": "kellyclaudeai/memory-system-v2",
-      "name": "Memory System V2",
-      "description": "By kellyclaudeai",
-      "category": "Other",
-      "author": "kellyclaudeai"
-    },
-    {
-      "slug": "kellyclaudeai/polymarket-trading",
-      "name": "Polymarket Trading",
-      "description": "By kellyclaudeai",
-      "category": "Other",
-      "author": "kellyclaudeai"
-    },
-    {
-      "slug": "kellyclaudeai/portfolio-risk-analyzer",
-      "name": "Portfolio Risk Analyzer",
-      "description": "By kellyclaudeai",
-      "category": "Other",
-      "author": "kellyclaudeai"
-    },
-    {
-      "slug": "kelsia14/reddit-cli",
-      "name": "Reddit Cli",
-      "description": "By kelsia14",
-      "category": "Other",
-      "author": "kelsia14"
-    },
-    {
-      "slug": "kelvis24/throwly-mcp",
-      "name": "Throwly Mcp",
-      "description": "By kelvis24",
-      "category": "Other",
-      "author": "kelvis24"
-    },
-    {
-      "slug": "kermankohli/routemesh-crypto-rpc",
-      "name": "Routemesh Crypto Rpc",
-      "description": "By kermankohli",
-      "category": "Web3",
-      "author": "kermankohli"
-    },
-    {
-      "slug": "kesslerio/academic-deep-research",
-      "name": "Academic Deep Research",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/activecampaign",
-      "name": "Activecampaign",
-      "description": "By kesslerio",
-      "category": "AI & ML",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/agentmail-kessler",
-      "name": "Agentmail Kessler",
-      "description": "By kesslerio",
-      "category": "AI & ML",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/amadeus-hotels",
-      "name": "Amadeus Hotels",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/apollo-io",
-      "name": "Apollo Io",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/attio-crm",
-      "name": "Attio Crm",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/babyconnect",
-      "name": "Babyconnect",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/calendly",
-      "name": "Calendly",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/camoufox-stealth-browser",
-      "name": "Camoufox Stealth Browser",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/camoufox-stealth",
-      "name": "Camoufox Stealth",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/campaign-orchestrator",
-      "name": "Campaign Orchestrator",
-      "description": "By kesslerio",
-      "category": "AI & ML",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/dialpad",
-      "name": "Dialpad",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/finance-news",
-      "name": "Finance News",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/fitbit-analytics",
-      "name": "Fitbit Analytics",
-      "description": "By kesslerio",
-      "category": "Data",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/frontend-design-ultimate",
-      "name": "Frontend Design Ultimate",
-      "description": "By kesslerio",
-      "category": "Frontend",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/google-messages-openclaw-skill",
-      "name": "Google Messages Openclaw Skill",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/imagemagick",
-      "name": "Imagemagick",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/kesslerio-stealth-browser",
-      "name": "Kesslerio Stealth Browser",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/klutch",
-      "name": "Klutch",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/lobster-jobs",
-      "name": "Lobster Jobs",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/mineru-pdf-parser-clawdbot-skill",
-      "name": "Mineru Pdf Parser Clawdbot Skill",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/multi-coding-agent",
-      "name": "Multi Coding Agent",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/oura-analytics",
-      "name": "Oura Analytics",
-      "description": "By kesslerio",
-      "category": "Data",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/phone-agent",
-      "name": "Phone Agent",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/pymupdf-pdf-parser-clawdbot-skill",
-      "name": "Pymupdf Pdf Parser Clawdbot Skill",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/shorten",
-      "name": "Shorten",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/soulcraft",
-      "name": "Soulcraft",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/stripe-cli",
-      "name": "Stripe Cli",
-      "description": "By kesslerio",
-      "category": "Payments",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/task-tracker",
-      "name": "Task Tracker",
-      "description": "By kesslerio",
-      "category": "Productivity",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/technews",
-      "name": "Technews",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kesslerio/url-shortener",
-      "name": "Url Shortener",
-      "description": "By kesslerio",
-      "category": "Other",
-      "author": "kesslerio"
-    },
-    {
-      "slug": "kevin19830331/bluebubbles",
-      "name": "Bluebubbles",
-      "description": "By kevin19830331",
-      "category": "Other",
-      "author": "kevin19830331"
-    },
-    {
-      "slug": "kevin37li/gettr-transcribe-summarize",
-      "name": "Gettr Transcribe Summarize",
-      "description": "By kevin37li",
-      "category": "Other",
-      "author": "kevin37li"
-    },
-    {
-      "slug": "kevin37li/mlx-whisper",
-      "name": "Mlx Whisper",
-      "description": "By kevin37li",
-      "category": "AI & ML",
-      "author": "kevin37li"
-    },
-    {
-      "slug": "kevinjinko/jinko-flight-search",
-      "name": "Jinko Flight Search",
-      "description": "By kevinjinko",
-      "category": "Other",
-      "author": "kevinjinko"
-    },
-    {
-      "slug": "keyfrog-21k/openclaw-finnhub",
-      "name": "Openclaw Finnhub",
-      "description": "By keyfrog-21k",
-      "category": "Other",
-      "author": "keyfrog-21k"
-    },
-    {
-      "slug": "kflohr/telecom-agent-skill",
-      "name": "Telecom Agent Skill",
-      "description": "By kflohr",
-      "category": "Other",
-      "author": "kflohr"
-    },
-    {
-      "slug": "kh3rwa1/autonomous-mobile-builder",
-      "name": "Autonomous Mobile Builder",
-      "description": "By kh3rwa1",
-      "category": "Frontend",
-      "author": "kh3rwa1"
-    },
-    {
-      "slug": "khaney64/quodd",
-      "name": "Quodd",
-      "description": "By khaney64",
-      "category": "Other",
-      "author": "khaney64"
-    },
-    {
-      "slug": "khj809/srt",
-      "name": "Srt",
-      "description": "By khj809",
-      "category": "Other",
-      "author": "khj809"
-    },
-    {
-      "slug": "khli01/memorylayer",
-      "name": "Memorylayer",
-      "description": "By khli01",
-      "category": "Other",
-      "author": "khli01"
-    },
-    {
-      "slug": "kime541200/openclaw-server-secure-skill",
-      "name": "Openclaw Server Secure Skill",
-      "description": "By kime541200",
-      "category": "Backend",
-      "author": "kime541200"
-    },
-    {
-      "slug": "kimoamer/respectful-responses-female",
-      "name": "Respectful Responses Female",
-      "description": "By kimoamer",
-      "category": "Other",
-      "author": "kimoamer"
-    },
-    {
-      "slug": "kinmeic/yoebao-bazi",
-      "name": "Yoebao Bazi",
-      "description": "By kinmeic",
-      "category": "Other",
-      "author": "kinmeic"
-    },
-    {
-      "slug": "kinmeic/yoebao-yao",
-      "name": "Yoebao Yao",
-      "description": "By kinmeic",
-      "category": "Other",
-      "author": "kinmeic"
-    },
-    {
-      "slug": "kipasdinding6969-alt/tesy",
-      "name": "Tesy",
-      "description": "By kipasdinding6969-alt",
-      "category": "Other",
-      "author": "kipasdinding6969-alt"
-    },
-    {
-      "slug": "kirch/clawpay",
-      "name": "Clawpay",
-      "description": "By kirch",
-      "category": "Payments",
-      "author": "kirch"
-    },
-    {
-      "slug": "kirillleventcov/grokipedia",
-      "name": "Grokipedia",
-      "description": "By kirillleventcov",
-      "category": "Other",
-      "author": "kirillleventcov"
-    },
-    {
-      "slug": "kn71gxkg16twyqz5wzkvt61sh17yjnpd/discord-doctor",
-      "name": "Discord Doctor",
-      "description": "By kn71gxkg16twyqz5wzkvt61sh17yjnpd",
-      "category": "Other",
-      "author": "kn71gxkg16twyqz5wzkvt61sh17yjnpd"
-    },
-    {
-      "slug": "koala73/whoopskill",
-      "name": "Whoopskill",
-      "description": "By koala73",
-      "category": "Other",
-      "author": "koala73"
-    },
-    {
-      "slug": "koba42corp/autoresponder",
-      "name": "Autoresponder",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/chia-walletconnect",
-      "name": "Chia Walletconnect",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/dexie",
-      "name": "Dexie",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/go4me",
-      "name": "Go4me",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/i-responder",
-      "name": "I Responder",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/mintgarden",
-      "name": "Mintgarden",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/rue-chialisp",
-      "name": "Rue Chialisp",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/sage-wallet",
-      "name": "Sage Wallet",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/spacescan",
-      "name": "Spacescan",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/vinculum",
-      "name": "Vinculum",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "koba42corp/wojak-ink",
-      "name": "Wojak Ink",
-      "description": "By koba42corp",
-      "category": "Other",
-      "author": "koba42corp"
-    },
-    {
-      "slug": "kodesweb3-lab/kogaion-playground-and-launchpad",
-      "name": "Kogaion Playground And Launchpad",
-      "description": "By kodesweb3-lab",
-      "category": "AI & ML",
-      "author": "kodesweb3-lab"
-    },
-    {
-      "slug": "koriyoshi2041/fabric-bridge",
-      "name": "Fabric Bridge",
-      "description": "By koriyoshi2041",
-      "category": "Other",
-      "author": "koriyoshi2041"
-    },
-    {
-      "slug": "koriyoshi2041/moltlist-marketplace",
-      "name": "Moltlist Marketplace",
-      "description": "By koriyoshi2041",
-      "category": "Other",
-      "author": "koriyoshi2041"
-    },
-    {
-      "slug": "koto9x/discord-voice-memo-upgrade",
-      "name": "Discord Voice Memo Upgrade",
-      "description": "By koto9x",
-      "category": "Other",
-      "author": "koto9x"
-    },
-    {
-      "slug": "kowl64/api-credentials-hygiene",
-      "name": "Api Credentials Hygiene",
-      "description": "By kowl64",
-      "category": "Backend",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/cpc-mpqc-competence-tracker-compliance-uk",
-      "name": "Cpc Mpqc Competence Tracker Compliance Uk",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/data-reconciliation-exceptions",
-      "name": "Data Reconciliation Exceptions",
-      "description": "By kowl64",
-      "category": "Data",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/drivers-hours-wtd-infringement-coach-uk",
-      "name": "Drivers Hours Wtd Infringement Coach Uk",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/dvsa-tc-audit-readiness-operator-licence-uk",
-      "name": "Dvsa Tc Audit Readiness Operator Licence Uk",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/excel-weekly-dashboard",
-      "name": "Excel Weekly Dashboard",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/incident-pcn-evidence-appeal-corrective-actions-uk",
-      "name": "Incident Pcn Evidence Appeal Corrective Actions Uk",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/linux-service-triage",
-      "name": "Linux Service Triage",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/n8n-workflow-automation",
-      "name": "N8n Workflow Automation",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/pa-admin-exec",
-      "name": "Pa Admin Exec",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/tachograph-infringement-triage-root-cause-uk",
-      "name": "Tachograph Infringement Triage Root Cause Uk",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "kowl64/transport-investigation-acas-aligned-pack",
-      "name": "Transport Investigation Acas Aligned Pack",
-      "description": "By kowl64",
-      "category": "Other",
-      "author": "kowl64"
-    },
-    {
-      "slug": "krajekisbtc/polymarketbtc",
-      "name": "Polymarketbtc",
-      "description": "By krajekisbtc",
-      "category": "Other",
-      "author": "krajekisbtc"
-    },
-    {
-      "slug": "krajekisbtc/polymarketbtcassistant",
-      "name": "Polymarketbtcassistant",
-      "description": "By krajekisbtc",
-      "category": "Other",
-      "author": "krajekisbtc"
-    },
-    {
-      "slug": "krajekisbtc/tests",
-      "name": "Tests",
-      "description": "By krajekisbtc",
-      "category": "Testing",
-      "author": "krajekisbtc"
-    },
-    {
-      "slug": "krausefx/beeper",
-      "name": "Beeper",
-      "description": "By krausefx",
-      "category": "Other",
-      "author": "krausefx"
-    },
-    {
-      "slug": "krausefx/homey-cli",
-      "name": "Homey Cli",
-      "description": "By krausefx",
-      "category": "Other",
-      "author": "krausefx"
-    },
-    {
-      "slug": "krausefx/post-at",
-      "name": "Post At",
-      "description": "By krausefx",
-      "category": "Other",
-      "author": "krausefx"
-    },
-    {
-      "slug": "kris-hansen/comanda",
-      "name": "Comanda",
-      "description": "By kris-hansen",
-      "category": "Other",
-      "author": "kris-hansen"
-    },
-    {
-      "slug": "krishna3554/echo-agent",
-      "name": "Echo Agent",
-      "description": "By krishna3554",
-      "category": "Other",
-      "author": "krishna3554"
-    },
-    {
-      "slug": "krishna3554/openclaw-echo-agent",
-      "name": "Openclaw Echo Agent",
-      "description": "By krishna3554",
-      "category": "Other",
-      "author": "krishna3554"
-    },
-    {
-      "slug": "kryptopaid/build-warden-agent",
-      "name": "Build Warden Agent",
-      "description": "By kryptopaid",
-      "category": "Frontend",
-      "author": "kryptopaid"
-    },
-    {
-      "slug": "kryptopaid/warden-studio-deploy",
-      "name": "Warden Studio Deploy",
-      "description": "By kryptopaid",
-      "category": "Other",
-      "author": "kryptopaid"
-    },
-    {
-      "slug": "kslee9572/trade-signal-ttx",
-      "name": "Trade Signal Ttx",
-      "description": "By kslee9572",
-      "category": "Other",
-      "author": "kslee9572"
-    },
-    {
-      "slug": "kslee9572/trade-signal",
-      "name": "Trade Signal",
-      "description": "By kslee9572",
-      "category": "Other",
-      "author": "kslee9572"
-    },
-    {
-      "slug": "ktaesthetix/vercel-composition-patterns",
-      "name": "Vercel Composition Patterns",
-      "description": "By ktaesthetix",
-      "category": "Other",
-      "author": "ktaesthetix"
-    },
-    {
-      "slug": "ktpriyatham/browser-ladder",
-      "name": "Browser Ladder",
-      "description": "By ktpriyatham",
-      "category": "Other",
-      "author": "ktpriyatham"
-    },
-    {
-      "slug": "ktpriyatham/triple-memory-skill",
-      "name": "Triple Memory Skill",
-      "description": "By ktpriyatham",
-      "category": "Other",
-      "author": "ktpriyatham"
-    },
-    {
-      "slug": "ktpriyatham/triple-memory",
-      "name": "Triple Memory",
-      "description": "By ktpriyatham",
-      "category": "Other",
-      "author": "ktpriyatham"
-    },
-    {
-      "slug": "kulotzkih/lex",
-      "name": "Lex",
-      "description": "By kulotzkih",
-      "category": "Other",
-      "author": "kulotzkih"
-    },
-    {
-      "slug": "kunoiiv/elysium-arcology-planner",
-      "name": "Elysium Arcology Planner",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/fork-aware-updater",
-      "name": "Fork Aware Updater",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/fork-radar-v2",
-      "name": "Fork Radar V2",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/longevity-bio-dashboard",
-      "name": "Longevity Bio Dashboard",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/molt-security-auditor-v3",
-      "name": "Molt Security Auditor V3",
-      "description": "By kunoiiv",
-      "category": "Security",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/molt-security-auditor",
-      "name": "Molt Security Auditor",
-      "description": "By kunoiiv",
-      "category": "Security",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/pos-arcology-forge",
-      "name": "Pos Arcology Forge",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/proof-of-memory",
-      "name": "Proof Of Memory",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/proof-of-quality",
-      "name": "Proof Of Quality",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/proof-of-share",
-      "name": "Proof Of Share",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kunoiiv/uptime-monitor",
-      "name": "Uptime Monitor",
-      "description": "By kunoiiv",
-      "category": "Other",
-      "author": "kunoiiv"
-    },
-    {
-      "slug": "kwall1/hubspot",
-      "name": "Hubspot",
-      "description": "By kwall1",
-      "category": "Other",
-      "author": "kwall1"
-    },
-    {
-      "slug": "kyjus25/clawdbot-jira-skill",
-      "name": "Clawdbot Jira Skill",
-      "description": "By kyjus25",
-      "category": "Other",
-      "author": "kyjus25"
-    },
-    {
-      "slug": "kylehowells/parakeet-mlx",
-      "name": "Parakeet Mlx",
-      "description": "By kylehowells",
-      "category": "AI & ML",
-      "author": "kylehowells"
-    },
-    {
-      "slug": "kylejfrost/openclaw-security-hardening",
-      "name": "Openclaw Security Hardening",
-      "description": "By kylejfrost",
-      "category": "Security",
-      "author": "kylejfrost"
-    },
-    {
-      "slug": "kylelol/clawdbites",
-      "name": "Clawdbites",
-      "description": "By kylelol",
-      "category": "Other",
-      "author": "kylelol"
-    },
-    {
-      "slug": "kys42/stock-info-explorer",
-      "name": "Stock Info Explorer",
-      "description": "By kys42",
-      "category": "Other",
-      "author": "kys42"
-    },
-    {
-      "slug": "kys42/stock-market-pro",
-      "name": "Stock Market Pro",
-      "description": "By kys42",
-      "category": "Other",
-      "author": "kys42"
-    },
-    {
-      "slug": "kyya/balance-checker",
-      "name": "Balance Checker",
-      "description": "By kyya",
-      "category": "Other",
-      "author": "kyya"
-    },
-    {
-      "slug": "l-mendez/chess",
-      "name": "Chess",
-      "description": "By l-mendez",
-      "category": "Other",
-      "author": "l-mendez"
-    },
-    {
-      "slug": "l-u-c-k-y/asana-agent-skill",
-      "name": "Asana Agent Skill",
-      "description": "By l-u-c-k-y",
-      "category": "Other",
-      "author": "l-u-c-k-y"
-    },
-    {
-      "slug": "l-u-c-k-y/asana-pat",
-      "name": "Asana Pat",
-      "description": "By l-u-c-k-y",
-      "category": "Other",
-      "author": "l-u-c-k-y"
-    },
-    {
-      "slug": "lachlanglasgow/project-tree",
-      "name": "Project Tree",
-      "description": "By lachlanglasgow",
-      "category": "Other",
-      "author": "lachlanglasgow"
-    },
-    {
-      "slug": "lamelas/himalaya",
-      "name": "Himalaya",
-      "description": "By lamelas",
-      "category": "Other",
-      "author": "lamelas"
-    },
-    {
-      "slug": "lao9s/mixpost",
-      "name": "Mixpost",
-      "description": "By lao9s",
-      "category": "Other",
-      "author": "lao9s"
-    },
-    {
-      "slug": "larsderidder/agent-content-pipeline",
-      "name": "Agent Content Pipeline",
-      "description": "By larsderidder",
-      "category": "Other",
-      "author": "larsderidder"
-    },
-    {
-      "slug": "larsderidder/hire",
-      "name": "Hire",
-      "description": "By larsderidder",
-      "category": "Other",
-      "author": "larsderidder"
-    },
-    {
-      "slug": "larsderidder/obsidian-tasks",
-      "name": "Obsidian Tasks",
-      "description": "By larsderidder",
-      "category": "Productivity",
-      "author": "larsderidder"
-    },
-    {
-      "slug": "larsderidder/openclaw-obsidian-tasks",
-      "name": "Openclaw Obsidian Tasks",
-      "description": "By larsderidder",
-      "category": "Productivity",
-      "author": "larsderidder"
-    },
-    {
-      "slug": "larsonreever/codeconductor",
-      "name": "Codeconductor",
-      "description": "By larsonreever",
-      "category": "Other",
-      "author": "larsonreever"
-    },
-    {
-      "slug": "laserducktales/obsidian-conversation-backup",
-      "name": "Obsidian Conversation Backup",
-      "description": "By laserducktales",
-      "category": "Other",
-      "author": "laserducktales"
-    },
-    {
-      "slug": "latentfreedom/multi-viewpoint-debates",
-      "name": "Multi Viewpoint Debates",
-      "description": "By latentfreedom",
-      "category": "Other",
-      "author": "latentfreedom"
-    },
-    {
-      "slug": "latisen/apple-mail-moltbot-skill",
-      "name": "Apple Mail Moltbot Skill",
-      "description": "By latisen",
-      "category": "AI & ML",
-      "author": "latisen"
-    },
-    {
-      "slug": "latisen/skill-email-management",
-      "name": "Skill Email Management",
-      "description": "By latisen",
-      "category": "AI & ML",
-      "author": "latisen"
-    },
-    {
-      "slug": "laurent-zhu/daily-ai-news-skill",
-      "name": "Daily Ai News Skill",
-      "description": "By laurent-zhu",
-      "category": "AI & ML",
-      "author": "laurent-zhu"
-    },
-    {
-      "slug": "laurentenhoor/moltresearch",
-      "name": "Moltresearch",
-      "description": "By laurentenhoor",
-      "category": "Other",
-      "author": "laurentenhoor"
-    },
-    {
-      "slug": "lavish0000/peaq-robotics",
-      "name": "Peaq Robotics",
-      "description": "By lavish0000",
-      "category": "Other",
-      "author": "lavish0000"
     }
   ],
-  "total": 2304,
-  "lastUpdated": "2026-02-05T06:20:49.655Z",
+  "total": 2394,
+  "lastUpdated": "2026-02-06T06:18:22.145Z",
   "version": "1.1.0"
 }
