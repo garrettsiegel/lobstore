@@ -64,6 +64,13 @@
       "author": "0xjordansg-yolo"
     },
     {
+      "slug": "0xjordansg-yolo/openclaw-aisa-finance-stock-equity-crypto-market-price-data-yahoo-finance-coinhacko",
+      "name": "Openclaw Aisa Finance Stock Equity Crypto Market Price Data Yahoo Finance Coinhacko",
+      "description": "By 0xjordansg-yolo",
+      "category": "AI & ML",
+      "author": "0xjordansg-yolo"
+    },
+    {
       "slug": "0xjordansg-yolo/openclaw-aisa-financial-stock-crypto-market-price-data",
       "name": "Openclaw Aisa Financial Stock Crypto Market Price Data",
       "description": "By 0xjordansg-yolo",
@@ -265,6 +272,20 @@
       "description": "By 0xrichyrich",
       "category": "Other",
       "author": "0xrichyrich"
+    },
+    {
+      "slug": "0xrikt/claw-werewolf-live",
+      "name": "Claw Werewolf Live",
+      "description": "By 0xrikt",
+      "category": "Other",
+      "author": "0xrikt"
+    },
+    {
+      "slug": "0xrikt/claw-werewolf",
+      "name": "Claw Werewolf",
+      "description": "By 0xrikt",
+      "category": "Other",
+      "author": "0xrikt"
     },
     {
       "slug": "0xrikt/clawarena",
@@ -673,6 +694,13 @@
       "author": "5hanth"
     },
     {
+      "slug": "77darius77/memory-curator",
+      "name": "Memory Curator",
+      "description": "By 77darius77",
+      "category": "Other",
+      "author": "77darius77"
+    },
+    {
       "slug": "801c07/molt-trader-skill",
       "name": "Molt Trader Skill",
       "description": "By 801c07",
@@ -862,6 +890,13 @@
       "author": "abe238"
     },
     {
+      "slug": "abeljseba/makeovern",
+      "name": "Makeovern",
+      "description": "By abeljseba",
+      "category": "Other",
+      "author": "abeljseba"
+    },
+    {
       "slug": "abgohel/canva",
       "name": "Canva",
       "description": "By abgohel",
@@ -960,6 +995,13 @@
       "author": "abtdomain"
     },
     {
+      "slug": "abyousef739/clawskillshield",
+      "name": "Clawskillshield",
+      "description": "By abyousef739",
+      "category": "DevOps",
+      "author": "abyousef739"
+    },
+    {
       "slug": "acastellana/genlayer-dev",
       "name": "Genlayer Dev",
       "description": "By acastellana",
@@ -1007,6 +1049,20 @@
       "description": "By ad2546",
       "category": "Other",
       "author": "ad2546"
+    },
+    {
+      "slug": "adamewozniak/turbine-trading-bot",
+      "name": "Turbine Trading Bot",
+      "description": "By adamewozniak",
+      "category": "Other",
+      "author": "adamewozniak"
+    },
+    {
+      "slug": "adamhjort/seo-autopilot",
+      "name": "Seo Autopilot",
+      "description": "By adamhjort",
+      "category": "Other",
+      "author": "adamhjort"
     },
     {
       "slug": "adamjsturrock/pinchedin",
@@ -1119,6 +1175,13 @@
       "description": "By adinvadim",
       "category": "Other",
       "author": "adinvadim"
+    },
+    {
+      "slug": "adisahani/phone-calling",
+      "name": "Phone Calling",
+      "description": "By adisahani",
+      "category": "Other",
+      "author": "adisahani"
     },
     {
       "slug": "aditya4206360-prog/sr1",
@@ -1380,6 +1443,20 @@
       "author": "aidanthebandit"
     },
     {
+      "slug": "aikarjal/wilma",
+      "name": "Wilma",
+      "description": "By aikarjal",
+      "category": "Other",
+      "author": "aikarjal"
+    },
+    {
+      "slug": "ailexminecraft7/aulifox",
+      "name": "Aulifox",
+      "description": "By ailexminecraft7",
+      "category": "Other",
+      "author": "ailexminecraft7"
+    },
+    {
       "slug": "ainekomacx/blog-to-kindle",
       "name": "Blog To Kindle",
       "description": "By ainekomacx",
@@ -1403,6 +1480,13 @@
     {
       "slug": "aisadocs/openclaw-aisa-llm-router",
       "name": "Openclaw Aisa Llm Router",
+      "description": "By aisadocs",
+      "category": "AI & ML",
+      "author": "aisadocs"
+    },
+    {
+      "slug": "aisadocs/openclaw-aisa-youtube-search-tracking",
+      "name": "Openclaw Aisa Youtube Search Tracking",
       "description": "By aisadocs",
       "category": "AI & ML",
       "author": "aisadocs"
@@ -1618,6 +1702,13 @@
       "author": "albertnjcn"
     },
     {
+      "slug": "alebrega/zyla-api-hub-skill",
+      "name": "Zyla Api Hub Skill",
+      "description": "By alebrega",
+      "category": "Backend",
+      "author": "alebrega"
+    },
+    {
       "slug": "aleph8/malicious-skill-test",
       "name": "Malicious Skill Test",
       "description": "By aleph8",
@@ -1653,11 +1744,25 @@
       "author": "alex-indi"
     },
     {
+      "slug": "alex-tradequo/moltflow",
+      "name": "Moltflow",
+      "description": "By alex-tradequo",
+      "category": "Other",
+      "author": "alex-tradequo"
+    },
+    {
       "slug": "alex-tradequo/whatsapp-automation-a2a",
       "name": "Whatsapp Automation A2a",
       "description": "By alex-tradequo",
       "category": "Other",
       "author": "alex-tradequo"
+    },
+    {
+      "slug": "alex3alex/openclaw-backup",
+      "name": "Openclaw Backup",
+      "description": "By alex3alex",
+      "category": "Other",
+      "author": "alex3alex"
     },
     {
       "slug": "alexander-morris/muse",
@@ -1709,6 +1814,13 @@
       "author": "alexrudloff"
     },
     {
+      "slug": "alexunitario-sketch/context-restore",
+      "name": "Context Restore",
+      "description": "By alexunitario-sketch",
+      "category": "Other",
+      "author": "alexunitario-sketch"
+    },
+    {
       "slug": "alexunitario-sketch/prompt-assemble",
       "name": "Prompt Assemble",
       "description": "By alexunitario-sketch",
@@ -1728,6 +1840,13 @@
       "description": "By alfrescian",
       "category": "Other",
       "author": "alfrescian"
+    },
+    {
+      "slug": "alhwyn/clawpify",
+      "name": "Clawpify",
+      "description": "By alhwyn",
+      "category": "Other",
+      "author": "alhwyn"
     },
     {
       "slug": "alien69flow/aitor",
@@ -2066,6 +2185,13 @@
       "author": "alopez3006"
     },
     {
+      "slug": "aloth/overleaf-skill",
+      "name": "Overleaf Skill",
+      "description": "By aloth",
+      "category": "Other",
+      "author": "aloth"
+    },
+    {
       "slug": "alphafactor/alpha",
       "name": "Alpha",
       "description": "By alphafactor",
@@ -2267,6 +2393,13 @@
       "description": "By amascia-gg",
       "category": "Other",
       "author": "amascia-gg"
+    },
+    {
+      "slug": "amaze28/moltvote-ai",
+      "name": "Moltvote Ai",
+      "description": "By amaze28",
+      "category": "AI & ML",
+      "author": "amaze28"
     },
     {
       "slug": "amir-ag/clawhub-skill-scanner",
@@ -3487,6 +3620,20 @@
       "author": "aszelem"
     },
     {
+      "slug": "atacan/record",
+      "name": "Record",
+      "description": "By atacan",
+      "category": "Other",
+      "author": "atacan"
+    },
+    {
+      "slug": "atacan/speechall-cli",
+      "name": "Speechall Cli",
+      "description": "By atacan",
+      "category": "Other",
+      "author": "atacan"
+    },
+    {
       "slug": "atakanermis/atlassian-mcp",
       "name": "Atlassian Mcp",
       "description": "By atakanermis",
@@ -3688,6 +3835,13 @@
       "description": "By auliollc",
       "category": "Other",
       "author": "auliollc"
+    },
+    {
+      "slug": "aurasecurity-creator/aura-security-scanner",
+      "name": "Aura Security Scanner",
+      "description": "By aurasecurity-creator",
+      "category": "Security",
+      "author": "aurasecurity-creator"
     },
     {
       "slug": "authensor/authensor-gateway",
@@ -3907,6 +4061,13 @@
       "author": "autogame-17"
     },
     {
+      "slug": "autogame-17/green-tea-persona",
+      "name": "Green Tea Persona",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
       "slug": "autogame-17/identity-manager",
       "name": "Identity Manager",
       "description": "By autogame-17",
@@ -3916,6 +4077,13 @@
     {
       "slug": "autogame-17/interaction-logger",
       "name": "Interaction Logger",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
+      "slug": "autogame-17/kusa",
+      "name": "Kusa",
       "description": "By autogame-17",
       "category": "Other",
       "author": "autogame-17"
@@ -4383,6 +4551,13 @@
       "author": "benhack20"
     },
     {
+      "slug": "benhuebner01/claw-video-generator",
+      "name": "Claw Video Generator",
+      "description": "By benhuebner01",
+      "category": "Other",
+      "author": "benhuebner01"
+    },
+    {
       "slug": "benjaminorthner/willhaben",
       "name": "Willhaben",
       "description": "By benjaminorthner",
@@ -4768,6 +4943,13 @@
       "author": "bmdhodl"
     },
     {
+      "slug": "bndkts/molt-md",
+      "name": "Molt Md",
+      "description": "By bndkts",
+      "category": "Other",
+      "author": "bndkts"
+    },
+    {
       "slug": "bobholamovic/paddleocr-doc-parsing",
       "name": "Paddleocr Doc Parsing",
       "description": "By bobholamovic",
@@ -4920,6 +5102,13 @@
       "description": "By boscoeuk",
       "category": "Other",
       "author": "boscoeuk"
+    },
+    {
+      "slug": "botmechanic/nexwave-gateway",
+      "name": "Nexwave Gateway",
+      "description": "By botmechanic",
+      "category": "Other",
+      "author": "botmechanic"
     },
     {
       "slug": "botond-rackhost/ansible-skill",
@@ -5097,6 +5286,13 @@
       "author": "briansmith80"
     },
     {
+      "slug": "britrik/publish-skill-vettr",
+      "name": "Publish Skill Vettr",
+      "description": "By britrik",
+      "category": "Other",
+      "author": "britrik"
+    },
+    {
       "slug": "bro3886/gtasks-cli",
       "name": "Gtasks Cli",
       "description": "By bro3886",
@@ -5144,6 +5340,13 @@
       "description": "By brucko",
       "category": "Other",
       "author": "brucko"
+    },
+    {
+      "slug": "brunkstr/stegstr",
+      "name": "Stegstr",
+      "description": "By brunkstr",
+      "category": "Other",
+      "author": "brunkstr"
     },
     {
       "slug": "bryant-ba/aliyun-search",
@@ -5321,6 +5524,13 @@
       "author": "byteroverinc"
     },
     {
+      "slug": "byungkyu/acuity-scheduling",
+      "name": "Acuity Scheduling",
+      "description": "By byungkyu",
+      "category": "Frontend",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/airtable",
       "name": "Airtable",
       "description": "By byungkyu",
@@ -5377,6 +5587,20 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/constant-contact",
+      "name": "Constant Contact",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/eventbrite",
+      "name": "Eventbrite",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/fathom-api",
       "name": "Fathom Api",
       "description": "By byungkyu",
@@ -5426,6 +5650,13 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/google-contacts",
+      "name": "Google Contacts",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/google-docs",
       "name": "Google Docs",
       "description": "By byungkyu",
@@ -5449,6 +5680,13 @@
     {
       "slug": "byungkyu/google-meet",
       "name": "Google Meet",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/google-merchant",
+      "name": "Google Merchant",
       "description": "By byungkyu",
       "category": "Other",
       "author": "byungkyu"
@@ -5482,6 +5720,13 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/google-tasks-api",
+      "name": "Google Tasks Api",
+      "description": "By byungkyu",
+      "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/google-workspace-admin",
       "name": "Google Workspace Admin",
       "description": "By byungkyu",
@@ -5503,8 +5748,22 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/jobber",
+      "name": "Jobber",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/jotform",
       "name": "Jotform",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/kit",
+      "name": "Kit",
       "description": "By byungkyu",
       "category": "Other",
       "author": "byungkyu"
@@ -5524,10 +5783,31 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/linkedin-api",
+      "name": "Linkedin Api",
+      "description": "By byungkyu",
+      "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/mailchimp",
       "name": "Mailchimp",
       "description": "By byungkyu",
       "category": "AI & ML",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/microsoft-excel",
+      "name": "Microsoft Excel",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/microsoft-to-do",
+      "name": "Microsoft To Do",
+      "description": "By byungkyu",
+      "category": "Other",
       "author": "byungkyu"
     },
     {
@@ -5542,6 +5822,13 @@
       "name": "Notion Api Skill",
       "description": "By byungkyu",
       "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/one-drive",
+      "name": "One Drive",
+      "description": "By byungkyu",
+      "category": "Other",
       "author": "byungkyu"
     },
     {
@@ -5587,8 +5874,36 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/squareup",
+      "name": "Squareup",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/stripe-api",
       "name": "Stripe Api",
+      "description": "By byungkyu",
+      "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/telegram-api",
+      "name": "Telegram Api",
+      "description": "By byungkyu",
+      "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/ticktick-api-skill",
+      "name": "Ticktick Api Skill",
+      "description": "By byungkyu",
+      "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/todoist-api",
+      "name": "Todoist Api",
       "description": "By byungkyu",
       "category": "Backend",
       "author": "byungkyu"
@@ -5748,6 +6063,13 @@
       "author": "caioiscoding"
     },
     {
+      "slug": "caiyundc880518/bililidownloader",
+      "name": "Bililidownloader",
+      "description": "By caiyundc880518",
+      "category": "Other",
+      "author": "caiyundc880518"
+    },
+    {
       "slug": "calebwin/clawslist-skill",
       "name": "Clawslist Skill",
       "description": "By calebwin",
@@ -5790,11 +6112,32 @@
       "author": "camelsprout"
     },
     {
+      "slug": "caopulan/openclaw-config",
+      "name": "Openclaw Config",
+      "description": "By caopulan",
+      "category": "Other",
+      "author": "caopulan"
+    },
+    {
+      "slug": "capachow/lens",
+      "name": "Lens",
+      "description": "By capachow",
+      "category": "Other",
+      "author": "capachow"
+    },
+    {
       "slug": "capevace/claw-events",
       "name": "Claw Events",
       "description": "By capevace",
       "category": "Other",
       "author": "capevace"
+    },
+    {
+      "slug": "capncoconut/x402hub",
+      "name": "X402hub",
+      "description": "By capncoconut",
+      "category": "Other",
+      "author": "capncoconut"
     },
     {
       "slug": "captchasco/captchas-openclaw",
@@ -5844,6 +6187,20 @@
       "description": "By carlulsoe",
       "category": "Other",
       "author": "carlulsoe"
+    },
+    {
+      "slug": "carol-gutianle/modelready",
+      "name": "Modelready",
+      "description": "By carol-gutianle",
+      "category": "Other",
+      "author": "carol-gutianle"
+    },
+    {
+      "slug": "cartoonitunes/bottyfans",
+      "name": "Bottyfans",
+      "description": "By cartoonitunes",
+      "category": "Other",
+      "author": "cartoonitunes"
     },
     {
       "slug": "cartoonitunes/ethereum-history",
@@ -6042,6 +6399,13 @@
       "author": "chandrasekar-r"
     },
     {
+      "slug": "charantejmandali18/voice-assistant",
+      "name": "Voice Assistant",
+      "description": "By charantejmandali18",
+      "category": "Other",
+      "author": "charantejmandali18"
+    },
+    {
       "slug": "charbeld/people-memories",
       "name": "People Memories",
       "description": "By charbeld",
@@ -6147,6 +6511,13 @@
       "author": "chefbc2k"
     },
     {
+      "slug": "chemzo/flirtingbots",
+      "name": "Flirtingbots",
+      "description": "By chemzo",
+      "category": "Other",
+      "author": "chemzo"
+    },
+    {
       "slug": "chengjiaxiongkf/aliyun-oss-upload",
       "name": "Aliyun Oss Upload",
       "description": "By chengjiaxiongkf",
@@ -6236,6 +6607,13 @@
       "description": "By chndranndr",
       "category": "Other",
       "author": "chndranndr"
+    },
+    {
+      "slug": "chocomintx/antigravity-rotator",
+      "name": "Antigravity Rotator",
+      "description": "By chocomintx",
+      "category": "Other",
+      "author": "chocomintx"
     },
     {
       "slug": "chocomintx/xiaohongshutools",
@@ -6357,6 +6735,13 @@
       "author": "christinetyip"
     },
     {
+      "slug": "chrisvel/tududi",
+      "name": "Tududi",
+      "description": "By chrisvel",
+      "category": "Other",
+      "author": "chrisvel"
+    },
+    {
       "slug": "chrisvoncsefalvay/wandb-monitor",
       "name": "Wandb Monitor",
       "description": "By chrisvoncsefalvay",
@@ -6383,6 +6768,13 @@
       "description": "By chuckiefan",
       "category": "Other",
       "author": "chuckiefan"
+    },
+    {
+      "slug": "chunhualiao/rose-docker-build-skill",
+      "name": "Rose Docker Build Skill",
+      "description": "By chunhualiao",
+      "category": "Frontend",
+      "author": "chunhualiao"
     },
     {
       "slug": "chuxo/einstein",
@@ -6630,6 +7022,20 @@
       "author": "clawzai"
     },
     {
+      "slug": "clementsutjiatma/niche",
+      "name": "Niche",
+      "description": "By clementsutjiatma",
+      "category": "Other",
+      "author": "clementsutjiatma"
+    },
+    {
+      "slug": "clinchcc/notesctl-skill-for-openclaw",
+      "name": "Notesctl Skill For Openclaw",
+      "description": "By clinchcc",
+      "category": "Productivity",
+      "author": "clinchcc"
+    },
+    {
       "slug": "cloakai-softwares/moltgov",
       "name": "Moltgov",
       "description": "By cloakai-softwares",
@@ -6670,6 +7076,13 @@
       "description": "By cluka-399",
       "category": "Other",
       "author": "cluka-399"
+    },
+    {
+      "slug": "clulessboy/ds160-autofill",
+      "name": "Ds160 Autofill",
+      "description": "By clulessboy",
+      "category": "Other",
+      "author": "clulessboy"
     },
     {
       "slug": "clvrobj/toggl",
@@ -6873,6 +7286,13 @@
       "description": "By codezz",
       "category": "AI & ML",
       "author": "codezz"
+    },
+    {
+      "slug": "colygon/vapi-skill",
+      "name": "Vapi Skill",
+      "description": "By colygon",
+      "category": "Backend",
+      "author": "colygon"
     },
     {
       "slug": "consort-tech/organize-tg",
@@ -7225,6 +7645,13 @@
       "author": "cryptotooldev"
     },
     {
+      "slug": "cryruz/agentsbank",
+      "name": "Agentsbank",
+      "description": "By cryruz",
+      "category": "Other",
+      "author": "cryruz"
+    },
+    {
       "slug": "ctbritt/firecrawl-skills",
       "name": "Firecrawl Skills",
       "description": "By ctbritt",
@@ -7477,6 +7904,20 @@
       "author": "d3layd"
     },
     {
+      "slug": "daaab/base-wallet",
+      "name": "Base Wallet",
+      "description": "By daaab",
+      "category": "Other",
+      "author": "daaab"
+    },
+    {
+      "slug": "daaab/basemail",
+      "name": "Basemail",
+      "description": "By daaab",
+      "category": "AI & ML",
+      "author": "daaab"
+    },
+    {
       "slug": "daaab/basename-agent",
       "name": "Basename Agent",
       "description": "By daaab",
@@ -7488,6 +7929,13 @@
       "name": "Elevenlabs Phone Reminder Lite",
       "description": "By daaab",
       "category": "Other",
+      "author": "daaab"
+    },
+    {
+      "slug": "daaab/ethermail",
+      "name": "Ethermail",
+      "description": "By daaab",
+      "category": "AI & ML",
       "author": "daaab"
     },
     {
@@ -7510,6 +7958,20 @@
       "description": "By daaab",
       "category": "Other",
       "author": "daaab"
+    },
+    {
+      "slug": "dacptn/deep-framework",
+      "name": "Deep Framework",
+      "description": "By dacptn",
+      "category": "Other",
+      "author": "dacptn"
+    },
+    {
+      "slug": "dacptn/pulse-magazine",
+      "name": "Pulse Magazine",
+      "description": "By dacptn",
+      "category": "Other",
+      "author": "dacptn"
     },
     {
       "slug": "dadaliu0121/ai-assistant-skills",
@@ -7862,6 +8324,1350 @@
       "author": "dasweltall"
     },
     {
+      "slug": "datadrivenconstruction/4d-simulation",
+      "name": "4d Simulation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/5000-projects-analysis",
+      "name": "5000 Projects Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/airflow-dag",
+      "name": "Airflow Dag",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/as-built-documentation",
+      "name": "As Built Documentation",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/as-built-tracker",
+      "name": "As Built Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/auto-estimate-generator",
+      "name": "Auto Estimate Generator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/batch-cad-converter",
+      "name": "Batch Cad Converter",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bid-analysis-comparator",
+      "name": "Bid Analysis Comparator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/big-data-analysis",
+      "name": "Big Data Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-clash-detection",
+      "name": "Bim Clash Detection",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-classification-ai",
+      "name": "Bim Classification Ai",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-consistency-checker",
+      "name": "Bim Consistency Checker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-cost-estimation-cwicr",
+      "name": "Bim Cost Estimation Cwicr",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-qto",
+      "name": "Bim Qto",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-to-schedule-4d",
+      "name": "Bim To Schedule 4d",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-validation-pipeline",
+      "name": "Bim Validation Pipeline",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-validation-report",
+      "name": "Bim Validation Report",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/bim-visual-programming-automation",
+      "name": "Bim Visual Programming Automation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/budget-variance-analyzer",
+      "name": "Budget Variance Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cad-to-data",
+      "name": "Cad To Data",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/capacity-planning",
+      "name": "Capacity Planning",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/carbon-calculator",
+      "name": "Carbon Calculator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cash-flow-forecaster",
+      "name": "Cash Flow Forecaster",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cashflow-forecaster",
+      "name": "Cashflow Forecaster",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/change-order-analysis",
+      "name": "Change Order Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/change-order-manager",
+      "name": "Change Order Manager",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/change-order-processor",
+      "name": "Change Order Processor",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/claims-documentation",
+      "name": "Claims Documentation",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/clash-detection-analysis",
+      "name": "Clash Detection Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/clash-resolution-analyzer",
+      "name": "Clash Resolution Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/co2-carbon-footprint",
+      "name": "Co2 Carbon Footprint",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/co2-estimation",
+      "name": "Co2 Estimation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/compliance-tracker",
+      "name": "Compliance Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/continuous-learning",
+      "name": "Continuous Learning",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/contract-clause-analyzer",
+      "name": "Contract Clause Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/contract-clause-extractor",
+      "name": "Contract Clause Extractor",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/contractor-matching-ai",
+      "name": "Contractor Matching Ai",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cost-estimation-resource",
+      "name": "Cost Estimation Resource",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/critical-path-analyzer",
+      "name": "Critical Path Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/csv-handler",
+      "name": "Csv Handler",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-assembly-builder",
+      "name": "Cwicr Assembly Builder",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-bid-analyzer",
+      "name": "Cwicr Bid Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-change-order",
+      "name": "Cwicr Change Order",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-comparison-tool",
+      "name": "Cwicr Comparison Tool",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-cost-calculator",
+      "name": "Cwicr Cost Calculator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-crew-optimizer",
+      "name": "Cwicr Crew Optimizer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-data-loader",
+      "name": "Cwicr Data Loader",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-data-validator",
+      "name": "Cwicr Data Validator",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-equipment-planner",
+      "name": "Cwicr Equipment Planner",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-escalation",
+      "name": "Cwicr Escalation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-historical-cost",
+      "name": "Cwicr Historical Cost",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-labor-scheduler",
+      "name": "Cwicr Labor Scheduler",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-location-factor",
+      "name": "Cwicr Location Factor",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-material-procurement",
+      "name": "Cwicr Material Procurement",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-material-substitution",
+      "name": "Cwicr Material Substitution",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-multilingual",
+      "name": "Cwicr Multilingual",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-overhead-markup",
+      "name": "Cwicr Overhead Markup",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-productivity-tracker",
+      "name": "Cwicr Productivity Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Productivity",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-quantity-matcher",
+      "name": "Cwicr Quantity Matcher",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-rate-updater",
+      "name": "Cwicr Rate Updater",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-report-generator",
+      "name": "Cwicr Report Generator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-resource-analyzer",
+      "name": "Cwicr Resource Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-risk-calculator",
+      "name": "Cwicr Risk Calculator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-schedule-integrator",
+      "name": "Cwicr Schedule Integrator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-subcontractor",
+      "name": "Cwicr Subcontractor",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-takeoff-helper",
+      "name": "Cwicr Takeoff Helper",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-unit-converter",
+      "name": "Cwicr Unit Converter",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-value-engineering",
+      "name": "Cwicr Value Engineering",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-waste-calculator",
+      "name": "Cwicr Waste Calculator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/cwicr-work-breakdown",
+      "name": "Cwicr Work Breakdown",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/daily-progress-report",
+      "name": "Daily Progress Report",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/daily-report-generator",
+      "name": "Daily Report Generator",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-anomaly-detector",
+      "name": "Data Anomaly Detector",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-evolution-analysis",
+      "name": "Data Evolution Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-lineage-tracker",
+      "name": "Data Lineage Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-model-designer",
+      "name": "Data Model Designer",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-profiler",
+      "name": "Data Profiler",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-quality-check",
+      "name": "Data Quality Check",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-silo-detection",
+      "name": "Data Silo Detection",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-source-audit",
+      "name": "Data Source Audit",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-type-classifier",
+      "name": "Data Type Classifier",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/data-visualization",
+      "name": "Data Visualization",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/decision-support",
+      "name": "Decision Support",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/defect-detection-ai",
+      "name": "Defect Detection Ai",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/delay-analysis",
+      "name": "Delay Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/df-merger",
+      "name": "Df Merger",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/dgn-to-excel",
+      "name": "Dgn To Excel",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/digital-twin-sync",
+      "name": "Digital Twin Sync",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/document-classification-nlp",
+      "name": "Document Classification Nlp",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/drawing-analyzer",
+      "name": "Drawing Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/drone-site-survey",
+      "name": "Drone Site Survey",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/dwg-to-excel",
+      "name": "Dwg To Excel",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/energy-simulation",
+      "name": "Energy Simulation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/enterprise-risk-aggregator",
+      "name": "Enterprise Risk Aggregator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/environmental-monitoring",
+      "name": "Environmental Monitoring",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/equipment-fleet-manager",
+      "name": "Equipment Fleet Manager",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/equipment-telematics",
+      "name": "Equipment Telematics",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/erp-data-extractor",
+      "name": "Erp Data Extractor",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/erp-integration-analysis",
+      "name": "Erp Integration Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/estimate-builder",
+      "name": "Estimate Builder",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/etl-pipeline",
+      "name": "Etl Pipeline",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/excel-to-bim",
+      "name": "Excel To Bim",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/few-shot-examples",
+      "name": "Few Shot Examples",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/gantt-chart",
+      "name": "Gantt Chart",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/historical-cost-analyzer",
+      "name": "Historical Cost Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/historical-data-manager",
+      "name": "Historical Data Manager",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/ids-checker",
+      "name": "Ids Checker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/ifc-data-extraction",
+      "name": "Ifc Data Extraction",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/ifc-qto-extraction",
+      "name": "Ifc Qto Extraction",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/ifc-to-excel",
+      "name": "Ifc To Excel",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/image-to-data",
+      "name": "Image To Data",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/incident-reporting",
+      "name": "Incident Reporting",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/input-validation",
+      "name": "Input Validation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/interoperability-analyzer",
+      "name": "Interoperability Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/json-parser",
+      "name": "Json Parser",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/kpi-dashboard",
+      "name": "Kpi Dashboard",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/labor-allocation",
+      "name": "Labor Allocation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/labor-productivity-analytics",
+      "name": "Labor Productivity Analytics",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/labor-productivity-analyzer",
+      "name": "Labor Productivity Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Productivity",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/labor-rate",
+      "name": "Labor Rate",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/lien-waiver-tracker",
+      "name": "Lien Waiver Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/lifecycle-carbon-calculator",
+      "name": "Lifecycle Carbon Calculator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/look-ahead-scheduler",
+      "name": "Look Ahead Scheduler",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/material-delivery-tracker",
+      "name": "Material Delivery Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/material-procurement-tracker",
+      "name": "Material Procurement Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/material-tracker",
+      "name": "Material Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/material-tracking-iot",
+      "name": "Material Tracking Iot",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/meeting-minutes-generator",
+      "name": "Meeting Minutes Generator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/multi-agent-estimation",
+      "name": "Multi Agent Estimation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/n8n-cost-estimation",
+      "name": "N8n Cost Estimation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/n8n-daily-report",
+      "name": "N8n Daily Report",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/n8n-photo-report",
+      "name": "N8n Photo Report",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/n8n-project-management",
+      "name": "N8n Project Management",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/n8n-pto-pipeline",
+      "name": "N8n Pto Pipeline",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/nobim-image-generator",
+      "name": "Nobim Image Generator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/ontology-mapper",
+      "name": "Ontology Mapper",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/open-data-integrator",
+      "name": "Open Data Integrator",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/pandas-construction-analysis",
+      "name": "Pandas Construction Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/parquet-converter",
+      "name": "Parquet Converter",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/payment-application-generator",
+      "name": "Payment Application Generator",
+      "description": "By datadrivenconstruction",
+      "category": "Payments",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/payment-application-processor",
+      "name": "Payment Application Processor",
+      "description": "By datadrivenconstruction",
+      "category": "Payments",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/pdf-report-generator",
+      "name": "Pdf Report Generator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/pdf-to-structured",
+      "name": "Pdf To Structured",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/predictive-analytics-construction",
+      "name": "Predictive Analytics Construction",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/price-api",
+      "name": "Price Api",
+      "description": "By datadrivenconstruction",
+      "category": "Backend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/productivity-analyzer",
+      "name": "Productivity Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Productivity",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/progress-photo-analyzer",
+      "name": "Progress Photo Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/project-closeout-checklist",
+      "name": "Project Closeout Checklist",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/project-kpi-dashboard",
+      "name": "Project Kpi Dashboard",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/prompt-templates",
+      "name": "Prompt Templates",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/punch-list-manager",
+      "name": "Punch List Manager",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/qto-report",
+      "name": "Qto Report",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/quality-control-workflow",
+      "name": "Quality Control Workflow",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/rag-construction",
+      "name": "Rag Construction",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/resource-allocation-optimizer",
+      "name": "Resource Allocation Optimizer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/resource-leveler",
+      "name": "Resource Leveler",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/retention-tracker",
+      "name": "Retention Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/rfi-management",
+      "name": "Rfi Management",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/risk-assessment-ml",
+      "name": "Risk Assessment Ml",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/rvt-to-excel",
+      "name": "Rvt To Excel",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/rvt-to-ifc",
+      "name": "Rvt To Ifc",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/safety-compliance-checker",
+      "name": "Safety Compliance Checker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/safety-inspection-checklist",
+      "name": "Safety Inspection Checklist",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/safety-inspection",
+      "name": "Safety Inspection",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/scenario-planner",
+      "name": "Scenario Planner",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/schedule-compression",
+      "name": "Schedule Compression",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/schedule-cost-link",
+      "name": "Schedule Cost Link",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/schedule-delay-analyzer",
+      "name": "Schedule Delay Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/schema-validation",
+      "name": "Schema Validation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/security-review-construction",
+      "name": "Security Review Construction",
+      "description": "By datadrivenconstruction",
+      "category": "Security",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/semantic-search-cwicr",
+      "name": "Semantic Search Cwicr",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/sensor-data-aggregator",
+      "name": "Sensor Data Aggregator",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/site-logistics-optimization",
+      "name": "Site Logistics Optimization",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/specification-extractor",
+      "name": "Specification Extractor",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/sql-query-builder",
+      "name": "Sql Query Builder",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/standards-compliance-checker",
+      "name": "Standards Compliance Checker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/subcontractor-payment-tracker",
+      "name": "Subcontractor Payment Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Payments",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/subcontractor-prequalification",
+      "name": "Subcontractor Prequalification",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/submittal-tracker",
+      "name": "Submittal Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/telegram-field-bot",
+      "name": "Telegram Field Bot",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/toolbox-talk-generator",
+      "name": "Toolbox Talk Generator",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/uberization-readiness",
+      "name": "Uberization Readiness",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/unit-price-database-manager",
+      "name": "Unit Price Database Manager",
+      "description": "By datadrivenconstruction",
+      "category": "Data",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/validation-rules-builder",
+      "name": "Validation Rules Builder",
+      "description": "By datadrivenconstruction",
+      "category": "Frontend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/verification-loop-construction",
+      "name": "Verification Loop Construction",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/voice-to-report",
+      "name": "Voice To Report",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/warranty-tracker",
+      "name": "Warranty Tracker",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/weather-api",
+      "name": "Weather Api",
+      "description": "By datadrivenconstruction",
+      "category": "Backend",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/weather-impact-analysis",
+      "name": "Weather Impact Analysis",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/weather-impact-scheduler",
+      "name": "Weather Impact Scheduler",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/workflow-automation",
+      "name": "Workflow Automation",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/xml-reader",
+      "name": "Xml Reader",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
       "slug": "davedean/agent-contact-card",
       "name": "Agent Contact Card",
       "description": "By davedean",
@@ -8023,6 +9829,20 @@
       "author": "davidkjelkerud"
     },
     {
+      "slug": "davidm413/bybit-order-book",
+      "name": "Bybit Order Book",
+      "description": "By davidm413",
+      "category": "Other",
+      "author": "davidm413"
+    },
+    {
+      "slug": "davidmosiah/chaos-singularity-skill",
+      "name": "Chaos Singularity Skill",
+      "description": "By davidmosiah",
+      "category": "Other",
+      "author": "davidmosiah"
+    },
+    {
       "slug": "davidrudduck/slack-context-memory",
       "name": "Slack Context Memory",
       "description": "By davidrudduck",
@@ -8077,6 +9897,13 @@
       "description": "By davienzomq",
       "category": "Other",
       "author": "davienzomq"
+    },
+    {
+      "slug": "davisdiehl/riddle",
+      "name": "Riddle",
+      "description": "By davisdiehl",
+      "category": "Other",
+      "author": "davisdiehl"
     },
     {
       "slug": "dawe35/image-router",
@@ -8345,6 +10172,13 @@
       "author": "dc-acronym"
     },
     {
+      "slug": "dcasem/clawdtalk-client",
+      "name": "Clawdtalk Client",
+      "description": "By dcasem",
+      "category": "Other",
+      "author": "dcasem"
+    },
+    {
       "slug": "ddevaal/azure-cli",
       "name": "Azure Cli",
       "description": "By ddevaal",
@@ -8515,6 +10349,13 @@
     {
       "slug": "developmentcats/coder-workspaces",
       "name": "Coder Workspaces",
+      "description": "By developmentcats",
+      "category": "Other",
+      "author": "developmentcats"
+    },
+    {
+      "slug": "developmentcats/homeassistant-assist",
+      "name": "Homeassistant Assist",
       "description": "By developmentcats",
       "category": "Other",
       "author": "developmentcats"
@@ -8751,6 +10592,20 @@
       "author": "dimitryvin"
     },
     {
+      "slug": "dimkag79/accountcreator",
+      "name": "Accountcreator",
+      "description": "By dimkag79",
+      "category": "Other",
+      "author": "dimkag79"
+    },
+    {
+      "slug": "dimkag79/slovecaptcha",
+      "name": "Slovecaptcha",
+      "description": "By dimkag79",
+      "category": "Other",
+      "author": "dimkag79"
+    },
+    {
       "slug": "dingshuxin353/feishu-file-fetch",
       "name": "Feishu File Fetch",
       "description": "By dingshuxin353",
@@ -8821,6 +10676,13 @@
       "author": "dlewis7444"
     },
     {
+      "slug": "dmdorta1111/nima-core",
+      "name": "Nima Core",
+      "description": "By dmdorta1111",
+      "category": "Other",
+      "author": "dmdorta1111"
+    },
+    {
       "slug": "doanbactam/agnxi-search-skill",
       "name": "Agnxi Search Skill",
       "description": "By doanbactam",
@@ -8861,6 +10723,55 @@
       "description": "By dommholland",
       "category": "Other",
       "author": "dommholland"
+    },
+    {
+      "slug": "dompi123/calendly-quick-book",
+      "name": "Calendly Quick Book",
+      "description": "By dompi123",
+      "category": "Frontend",
+      "author": "dompi123"
+    },
+    {
+      "slug": "dongsjoa-byte/cloudflare-r2",
+      "name": "Cloudflare R2",
+      "description": "By dongsjoa-byte",
+      "category": "DevOps",
+      "author": "dongsjoa-byte"
+    },
+    {
+      "slug": "dongsjoa-byte/cursor-council",
+      "name": "Cursor Council",
+      "description": "By dongsjoa-byte",
+      "category": "Other",
+      "author": "dongsjoa-byte"
+    },
+    {
+      "slug": "dongsjoa-byte/discord-governance",
+      "name": "Discord Governance",
+      "description": "By dongsjoa-byte",
+      "category": "Other",
+      "author": "dongsjoa-byte"
+    },
+    {
+      "slug": "dongsjoa-byte/google-ai-usage-monitor",
+      "name": "Google Ai Usage Monitor",
+      "description": "By dongsjoa-byte",
+      "category": "AI & ML",
+      "author": "dongsjoa-byte"
+    },
+    {
+      "slug": "dongsjoa-byte/promotion-review",
+      "name": "Promotion Review",
+      "description": "By dongsjoa-byte",
+      "category": "Other",
+      "author": "dongsjoa-byte"
+    },
+    {
+      "slug": "dongsjoa-byte/windows-remote",
+      "name": "Windows Remote",
+      "description": "By dongsjoa-byte",
+      "category": "Other",
+      "author": "dongsjoa-byte"
     },
     {
       "slug": "donny-son/joan-workflow",
@@ -9108,6 +11019,13 @@
       "author": "dru-ca"
     },
     {
+      "slug": "druxamb/open-airtime",
+      "name": "Open Airtime",
+      "description": "By druxamb",
+      "category": "AI & ML",
+      "author": "druxamb"
+    },
+    {
       "slug": "duartemartins/microsoft-ads-mcp",
       "name": "Microsoft Ads Mcp",
       "description": "By duartemartins",
@@ -9183,6 +11101,13 @@
       "description": "By dustinjamest",
       "category": "Other",
       "author": "dustinjamest"
+    },
+    {
+      "slug": "dustinparsons/drawthings",
+      "name": "Drawthings",
+      "description": "By dustinparsons",
+      "category": "Other",
+      "author": "dustinparsons"
     },
     {
       "slug": "dvdegenz/crustafarianism",
@@ -9297,6 +11222,13 @@
       "author": "dylanbaker24"
     },
     {
+      "slug": "dylanlacey/sysadmin-with-a-shell",
+      "name": "Sysadmin With A Shell",
+      "description": "By dylanlacey",
+      "category": "Other",
+      "author": "dylanlacey"
+    },
+    {
       "slug": "dylanpersonguy/clawdrug",
       "name": "Clawdrug",
       "description": "By dylanpersonguy",
@@ -9316,6 +11248,13 @@
       "description": "By easonai-5589",
       "category": "Other",
       "author": "easonai-5589"
+    },
+    {
+      "slug": "easonc13/lulu-monitor",
+      "name": "Lulu Monitor",
+      "description": "By easonc13",
+      "category": "Other",
+      "author": "easonc13"
     },
     {
       "slug": "easonc13/overleaf",
@@ -9372,6 +11311,13 @@
       "description": "By eddygk",
       "category": "Other",
       "author": "eddygk"
+    },
+    {
+      "slug": "edibez/priceforagent",
+      "name": "Priceforagent",
+      "description": "By edibez",
+      "category": "Other",
+      "author": "edibez"
     },
     {
       "slug": "ediogoq/agropainel",
@@ -10277,6 +12223,13 @@
       "author": "elitex45"
     },
     {
+      "slug": "elitex45/zscore",
+      "name": "Zscore",
+      "description": "By elitex45",
+      "category": "Other",
+      "author": "elitex45"
+    },
+    {
       "slug": "elithrar/web-perf",
       "name": "Web Perf",
       "description": "By elithrar",
@@ -10443,6 +12396,13 @@
       "description": "By enderfga",
       "category": "Other",
       "author": "enderfga"
+    },
+    {
+      "slug": "endgegnerbert-tech/muninn",
+      "name": "Muninn",
+      "description": "By endgegnerbert-tech",
+      "category": "Other",
+      "author": "endgegnerbert-tech"
     },
     {
       "slug": "endlessjour9527/r-wmi",
@@ -10648,6 +12608,13 @@
       "author": "esdras-sena"
     },
     {
+      "slug": "esorincom/downloads",
+      "name": "Downloads",
+      "description": "By esorincom",
+      "category": "Other",
+      "author": "esorincom"
+    },
+    {
       "slug": "espetey/buildlog",
       "name": "Buildlog",
       "description": "By espetey",
@@ -10709,6 +12676,13 @@
       "description": "By evgyur",
       "category": "Other",
       "author": "evgyur"
+    },
+    {
+      "slug": "extraterrest/alibaba-cloud-model-setup",
+      "name": "Alibaba Cloud Model Setup",
+      "description": "By extraterrest",
+      "category": "DevOps",
+      "author": "extraterrest"
     },
     {
       "slug": "eyeshaw/clawde",
@@ -10837,6 +12811,13 @@
       "author": "fcavalcantirj"
     },
     {
+      "slug": "fcavalcantirj/proactive-solvr",
+      "name": "Proactive Solvr",
+      "description": "By fcavalcantirj",
+      "category": "Other",
+      "author": "fcavalcantirj"
+    },
+    {
       "slug": "fcavalcantirj/solvr-kb",
       "name": "Solvr Kb",
       "description": "By fcavalcantirj",
@@ -10860,6 +12841,13 @@
     {
       "slug": "felipeoff/ant-design-skill",
       "name": "Ant Design Skill",
+      "description": "By felipeoff",
+      "category": "Other",
+      "author": "felipeoff"
+    },
+    {
+      "slug": "felipeoff/sonarqube-analyzer",
+      "name": "Sonarqube Analyzer",
       "description": "By felipeoff",
       "category": "Other",
       "author": "felipeoff"
@@ -10898,6 +12886,20 @@
       "description": "By fengjiajie",
       "category": "Other",
       "author": "fengjiajie"
+    },
+    {
+      "slug": "fenrirlabsnl/emoclaw",
+      "name": "Emoclaw",
+      "description": "By fenrirlabsnl",
+      "category": "Other",
+      "author": "fenrirlabsnl"
+    },
+    {
+      "slug": "fermionoid/senseguard",
+      "name": "Senseguard",
+      "description": "By fermionoid",
+      "category": "Other",
+      "author": "fermionoid"
     },
     {
       "slug": "fernikolic/clawdentials-escrow",
@@ -11131,6 +13133,13 @@
       "author": "firestream792"
     },
     {
+      "slug": "fliellerjulian/pref0",
+      "name": "Pref0",
+      "description": "By fliellerjulian",
+      "category": "Other",
+      "author": "fliellerjulian"
+    },
+    {
       "slug": "floflo777/mbc-20",
       "name": "Mbc 20",
       "description": "By floflo777",
@@ -11276,6 +13285,13 @@
       "description": "By fontstep",
       "category": "AI & ML",
       "author": "fontstep"
+    },
+    {
+      "slug": "foodaka/paytoll",
+      "name": "Paytoll",
+      "description": "By foodaka",
+      "category": "Payments",
+      "author": "foodaka"
     },
     {
       "slug": "foontinz/linkdapi",
@@ -11437,6 +13453,20 @@
       "description": "By franky0617",
       "category": "Other",
       "author": "franky0617"
+    },
+    {
+      "slug": "freeai-io/social-hub-server",
+      "name": "Social Hub Server",
+      "description": "By freeai-io",
+      "category": "Backend",
+      "author": "freeai-io"
+    },
+    {
+      "slug": "freeai-io/social-hub",
+      "name": "Social Hub",
+      "description": "By freeai-io",
+      "category": "Social & Media",
+      "author": "freeai-io"
     },
     {
       "slug": "freemanlafleur/24konbini",
@@ -12104,6 +14134,13 @@
       "author": "globalcaos"
     },
     {
+      "slug": "glory00789/moltbook-post-verified",
+      "name": "Moltbook Post Verified",
+      "description": "By glory00789",
+      "category": "Other",
+      "author": "glory00789"
+    },
+    {
       "slug": "gmickel/gno",
       "name": "Gno",
       "description": "By gmickel",
@@ -12200,6 +14237,13 @@
       "description": "By gravyxbt",
       "category": "Other",
       "author": "gravyxbt"
+    },
+    {
+      "slug": "greaber/clawparty",
+      "name": "Clawparty",
+      "description": "By greaber",
+      "category": "Other",
+      "author": "greaber"
     },
     {
       "slug": "gregm711/agentdomainservice",
@@ -12657,6 +14701,13 @@
       "author": "hail2skins"
     },
     {
+      "slug": "hakureirm/longport-mcp",
+      "name": "Longport Mcp",
+      "description": "By hakureirm",
+      "category": "Other",
+      "author": "hakureirm"
+    },
+    {
       "slug": "halthelobster/agent-orchestration",
       "name": "Agent Orchestration",
       "description": "By halthelobster",
@@ -12783,6 +14834,13 @@
       "author": "hartlco"
     },
     {
+      "slug": "haseebuchiha/freshbooks-cli",
+      "name": "Freshbooks Cli",
+      "description": "By haseebuchiha",
+      "category": "Other",
+      "author": "haseebuchiha"
+    },
+    {
       "slug": "heeyoapp/skillboss",
       "name": "Skillboss",
       "description": "By heeyoapp",
@@ -12839,6 +14897,48 @@
       "author": "henrino3"
     },
     {
+      "slug": "henrino3/ec-excalidraw",
+      "name": "Ec Excalidraw",
+      "description": "By henrino3",
+      "category": "Other",
+      "author": "henrino3"
+    },
+    {
+      "slug": "henrino3/ec-ralph-loop",
+      "name": "Ec Ralph Loop",
+      "description": "By henrino3",
+      "category": "Other",
+      "author": "henrino3"
+    },
+    {
+      "slug": "henrino3/ec-session-cleaner",
+      "name": "Ec Session Cleaner",
+      "description": "By henrino3",
+      "category": "Other",
+      "author": "henrino3"
+    },
+    {
+      "slug": "henrino3/ec-skill-sharer",
+      "name": "Ec Skill Sharer",
+      "description": "By henrino3",
+      "category": "Other",
+      "author": "henrino3"
+    },
+    {
+      "slug": "henrino3/ec-task-orchestrator",
+      "name": "Ec Task Orchestrator",
+      "description": "By henrino3",
+      "category": "Productivity",
+      "author": "henrino3"
+    },
+    {
+      "slug": "henrino3/ec-x-video-transcribe",
+      "name": "Ec X Video Transcribe",
+      "description": "By henrino3",
+      "category": "Other",
+      "author": "henrino3"
+    },
+    {
       "slug": "henrino3/heimdall-security",
       "name": "Heimdall Security",
       "description": "By henrino3",
@@ -12848,6 +14948,13 @@
     {
       "slug": "henrino3/heimdall",
       "name": "Heimdall",
+      "description": "By henrino3",
+      "category": "Other",
+      "author": "henrino3"
+    },
+    {
+      "slug": "henrino3/senior-engineering",
+      "name": "Senior Engineering",
       "description": "By henrino3",
       "category": "Other",
       "author": "henrino3"
@@ -12872,6 +14979,13 @@
       "description": "By heythisischris",
       "category": "Other",
       "author": "heythisischris"
+    },
+    {
+      "slug": "hfichter/umami-stats",
+      "name": "Umami Stats",
+      "description": "By hfichter",
+      "category": "Other",
+      "author": "hfichter"
     },
     {
       "slug": "hherzai-crypto/resumeclaw",
@@ -16227,6 +18341,13 @@
       "author": "hollaugo"
     },
     {
+      "slug": "homecity/snipit",
+      "name": "Snipit",
+      "description": "By homecity",
+      "category": "Other",
+      "author": "homecity"
+    },
+    {
       "slug": "hopyky/clawdbot-update-plus",
       "name": "Clawdbot Update Plus",
       "description": "By hopyky",
@@ -16549,6 +18670,20 @@
       "author": "ibitnoah"
     },
     {
+      "slug": "ice-coldbell/claw-land",
+      "name": "Claw Land",
+      "description": "By ice-coldbell",
+      "category": "Other",
+      "author": "ice-coldbell"
+    },
+    {
+      "slug": "ice-coldbell/clawland",
+      "name": "Clawland",
+      "description": "By ice-coldbell",
+      "category": "Other",
+      "author": "ice-coldbell"
+    },
+    {
       "slug": "icemilo414/cognitive-memory",
       "name": "Cognitive Memory",
       "description": "By icemilo414",
@@ -16591,10 +18726,38 @@
       "author": "ide-rea"
     },
     {
+      "slug": "ide-rea/ai-ppt-generator",
+      "name": "Ai Ppt Generator",
+      "description": "By ide-rea",
+      "category": "AI & ML",
+      "author": "ide-rea"
+    },
+    {
+      "slug": "ide-rea/baidu-baike-search",
+      "name": "Baidu Baike Search",
+      "description": "By ide-rea",
+      "category": "AI & ML",
+      "author": "ide-rea"
+    },
+    {
+      "slug": "ide-rea/baidu-scholar-search-skill",
+      "name": "Baidu Scholar Search Skill",
+      "description": "By ide-rea",
+      "category": "AI & ML",
+      "author": "ide-rea"
+    },
+    {
       "slug": "ide-rea/baidu-search",
       "name": "Baidu Search",
       "description": "By ide-rea",
       "category": "AI & ML",
+      "author": "ide-rea"
+    },
+    {
+      "slug": "ide-rea/deepresearch-conversation",
+      "name": "Deepresearch Conversation",
+      "description": "By ide-rea",
+      "category": "Other",
       "author": "ide-rea"
     },
     {
@@ -16603,6 +18766,13 @@
       "description": "By idoshamun",
       "category": "AI & ML",
       "author": "idoshamun"
+    },
+    {
+      "slug": "ifoster01/stripe-best-practices",
+      "name": "Stripe Best Practices",
+      "description": "By ifoster01",
+      "category": "Payments",
+      "author": "ifoster01"
     },
     {
       "slug": "ifoster01/trpc-best-practices",
@@ -16682,11 +18852,32 @@
       "author": "iisweetheartii"
     },
     {
+      "slug": "ijaack/arena-agent",
+      "name": "Arena Agent",
+      "description": "By ijaack",
+      "category": "Other",
+      "author": "ijaack"
+    },
+    {
+      "slug": "ijaack/erc8004-identity",
+      "name": "Erc8004 Identity",
+      "description": "By ijaack",
+      "category": "Other",
+      "author": "ijaack"
+    },
+    {
       "slug": "ijaack/whoop-tracker",
       "name": "Whoop Tracker",
       "description": "By ijaack",
       "category": "Other",
       "author": "ijaack"
+    },
+    {
+      "slug": "ikennaokpala/forge",
+      "name": "Forge",
+      "description": "By ikennaokpala",
+      "category": "Other",
+      "author": "ikennaokpala"
     },
     {
       "slug": "ilchemla/nimble-web-search",
@@ -16708,6 +18899,13 @@
       "description": "By imaginelogo",
       "category": "Other",
       "author": "imaginelogo"
+    },
+    {
+      "slug": "imaxtomas/mcp-ssh-manager",
+      "name": "Mcp Ssh Manager",
+      "description": "By imaxtomas",
+      "category": "Other",
+      "author": "imaxtomas"
     },
     {
       "slug": "impkind/amygdala-memory",
@@ -16771,6 +18969,13 @@
       "description": "By imrkhn03",
       "category": "Productivity",
       "author": "imrkhn03"
+    },
+    {
+      "slug": "imthatcarlos/clawdvine-skill-2",
+      "name": "Clawdvine Skill 2",
+      "description": "By imthatcarlos",
+      "category": "Other",
+      "author": "imthatcarlos"
     },
     {
       "slug": "imthatcarlos/clawdvine-skill-latest",
@@ -16890,835 +19095,9 @@
       "description": "By ipavlidakis",
       "category": "Frontend",
       "author": "ipavlidakis"
-    },
-    {
-      "slug": "ipedrax/antigravity-image-gen",
-      "name": "Antigravity Image Gen",
-      "description": "By ipedrax",
-      "category": "Other",
-      "author": "ipedrax"
-    },
-    {
-      "slug": "ipedrax/multiple-personas",
-      "name": "Multiple Personas",
-      "description": "By ipedrax",
-      "category": "Other",
-      "author": "ipedrax"
-    },
-    {
-      "slug": "iqbalnaveliano/agent-browser-zd1dook9mtfz",
-      "name": "Agent Browser Zd1dook9mtfz",
-      "description": "By iqbalnaveliano",
-      "category": "Other",
-      "author": "iqbalnaveliano"
-    },
-    {
-      "slug": "iqbalnaveliano/bird-su",
-      "name": "Bird Su",
-      "description": "By iqbalnaveliano",
-      "category": "Other",
-      "author": "iqbalnaveliano"
-    },
-    {
-      "slug": "iqbalnaveliano/coding-opencode",
-      "name": "Coding Opencode",
-      "description": "By iqbalnaveliano",
-      "category": "Other",
-      "author": "iqbalnaveliano"
-    },
-    {
-      "slug": "ira-hash/aap-passport",
-      "name": "Aap Passport",
-      "description": "By ira-hash",
-      "category": "Other",
-      "author": "ira-hash"
-    },
-    {
-      "slug": "irook661/github-actions-troubleshooting",
-      "name": "Github Actions Troubleshooting",
-      "description": "By irook661",
-      "category": "Other",
-      "author": "irook661"
-    },
-    {
-      "slug": "irook661/go-linter-configuration",
-      "name": "Go Linter Configuration",
-      "description": "By irook661",
-      "category": "Other",
-      "author": "irook661"
-    },
-    {
-      "slug": "irook661/go-security-vulnerability",
-      "name": "Go Security Vulnerability",
-      "description": "By irook661",
-      "category": "Security",
-      "author": "irook661"
-    },
-    {
-      "slug": "isaacgounton/pollinations",
-      "name": "Pollinations",
-      "description": "By isaacgounton",
-      "category": "Other",
-      "author": "isaacgounton"
-    },
-    {
-      "slug": "iterdimensionaltv1/moltlab",
-      "name": "Moltlab",
-      "description": "By iterdimensionaltv1",
-      "category": "Other",
-      "author": "iterdimensionaltv1"
-    },
-    {
-      "slug": "iterdimensionaltv1/moltuniversity",
-      "name": "Moltuniversity",
-      "description": "By iterdimensionaltv1",
-      "category": "Other",
-      "author": "iterdimensionaltv1"
-    },
-    {
-      "slug": "itobey/get-tldr",
-      "name": "Get Tldr",
-      "description": "By itobey",
-      "category": "Other",
-      "author": "itobey"
-    },
-    {
-      "slug": "itrocker/nanobanana-ppt-skills",
-      "name": "Nanobanana Ppt Skills",
-      "description": "By itrocker",
-      "category": "Other",
-      "author": "itrocker"
-    },
-    {
-      "slug": "itsahedge/agent-council",
-      "name": "Agent Council",
-      "description": "By itsahedge",
-      "category": "Other",
-      "author": "itsahedge"
-    },
-    {
-      "slug": "itsclawdbro/skill-defender",
-      "name": "Skill Defender",
-      "description": "By itsclawdbro",
-      "category": "Other",
-      "author": "itsclawdbro"
-    },
-    {
-      "slug": "itsfabioroma/transcribee",
-      "name": "Transcribee",
-      "description": "By itsfabioroma",
-      "category": "Other",
-      "author": "itsfabioroma"
-    },
-    {
-      "slug": "itsflow/create-content",
-      "name": "Create Content",
-      "description": "By itsflow",
-      "category": "Other",
-      "author": "itsflow"
-    },
-    {
-      "slug": "itsflow/daily-review-ritual",
-      "name": "Daily Review Ritual",
-      "description": "By itsflow",
-      "category": "AI & ML",
-      "author": "itsflow"
-    },
-    {
-      "slug": "itsflow/de-ai-ify",
-      "name": "De Ai Ify",
-      "description": "By itsflow",
-      "category": "AI & ML",
-      "author": "itsflow"
-    },
-    {
-      "slug": "itsflow/journal-to-post",
-      "name": "Journal To Post",
-      "description": "By itsflow",
-      "category": "Other",
-      "author": "itsflow"
-    },
-    {
-      "slug": "itsflow/plan-my-day",
-      "name": "Plan My Day",
-      "description": "By itsflow",
-      "category": "Other",
-      "author": "itsflow"
-    },
-    {
-      "slug": "itsflow/thinking-partner",
-      "name": "Thinking Partner",
-      "description": "By itsflow",
-      "category": "Other",
-      "author": "itsflow"
-    },
-    {
-      "slug": "itsflow/weekly-synthesis",
-      "name": "Weekly Synthesis",
-      "description": "By itsflow",
-      "category": "Other",
-      "author": "itsflow"
-    },
-    {
-      "slug": "itsjaydesu/japanese-translation-and-tutor",
-      "name": "Japanese Translation And Tutor",
-      "description": "By itsjaydesu",
-      "category": "Other",
-      "author": "itsjaydesu"
-    },
-    {
-      "slug": "itsjustdri/ui-ux-design",
-      "name": "Ui Ux Design",
-      "description": "By itsjustdri",
-      "category": "Frontend",
-      "author": "itsjustdri"
-    },
-    {
-      "slug": "itstauq/telegram-auto-topic",
-      "name": "Telegram Auto Topic",
-      "description": "By itstauq",
-      "category": "Other",
-      "author": "itstauq"
-    },
-    {
-      "slug": "ivaavimusic/x402-layer",
-      "name": "X402 Layer",
-      "description": "By ivaavimusic",
-      "category": "Other",
-      "author": "ivaavimusic"
-    },
-    {
-      "slug": "ivanmmm/preflight-checks",
-      "name": "Preflight Checks",
-      "description": "By ivanmmm",
-      "category": "Other",
-      "author": "ivanmmm"
-    },
-    {
-      "slug": "ivy-end/liuren-divination",
-      "name": "Liuren Divination",
-      "description": "By ivy-end",
-      "category": "Other",
-      "author": "ivy-end"
-    },
-    {
-      "slug": "j1philli/overseerr",
-      "name": "Overseerr",
-      "description": "By j1philli",
-      "category": "Other",
-      "author": "j1philli"
-    },
-    {
-      "slug": "j540/openclaw-setup",
-      "name": "Openclaw Setup",
-      "description": "By j540",
-      "category": "Other",
-      "author": "j540"
-    },
-    {
-      "slug": "jabbslad/uk-trains",
-      "name": "Uk Trains",
-      "description": "By jabbslad",
-      "category": "AI & ML",
-      "author": "jabbslad"
-    },
-    {
-      "slug": "jack4world/audit-case-rag",
-      "name": "Audit Case Rag",
-      "description": "By jack4world",
-      "category": "Other",
-      "author": "jack4world"
-    },
-    {
-      "slug": "jacklandrin/only-baby-skill",
-      "name": "Only Baby Skill",
-      "description": "By jacklandrin",
-      "category": "Other",
-      "author": "jacklandrin"
-    },
-    {
-      "slug": "jackparnell/thecolony-heartbeat",
-      "name": "Thecolony Heartbeat",
-      "description": "By jackparnell",
-      "category": "Other",
-      "author": "jackparnell"
-    },
-    {
-      "slug": "jackparnell/thecolony",
-      "name": "Thecolony",
-      "description": "By jackparnell",
-      "category": "Other",
-      "author": "jackparnell"
-    },
-    {
-      "slug": "jacobthejacobs/remindme",
-      "name": "Remindme",
-      "description": "By jacobthejacobs",
-      "category": "Other",
-      "author": "jacobthejacobs"
-    },
-    {
-      "slug": "jacobzwj/bilibili-hot-monitor",
-      "name": "Bilibili Hot Monitor",
-      "description": "By jacobzwj",
-      "category": "Other",
-      "author": "jacobzwj"
-    },
-    {
-      "slug": "jage9/winamp",
-      "name": "Winamp",
-      "description": "By jage9",
-      "category": "Other",
-      "author": "jage9"
-    },
-    {
-      "slug": "jakehandy/yclawker-news",
-      "name": "Yclawker News",
-      "description": "By jakehandy",
-      "category": "Other",
-      "author": "jakehandy"
-    },
-    {
-      "slug": "jalehman/claude-team",
-      "name": "Claude Team",
-      "description": "By jalehman",
-      "category": "AI & ML",
-      "author": "jalehman"
-    },
-    {
-      "slug": "jamesalmeida/grab",
-      "name": "Grab",
-      "description": "By jamesalmeida",
-      "category": "Other",
-      "author": "jamesalmeida"
-    },
-    {
-      "slug": "jamesalmeida/konteks",
-      "name": "Konteks",
-      "description": "By jamesalmeida",
-      "category": "Other",
-      "author": "jamesalmeida"
-    },
-    {
-      "slug": "jamesalmeida/spaces-listener",
-      "name": "Spaces Listener",
-      "description": "By jamesalmeida",
-      "category": "Other",
-      "author": "jamesalmeida"
-    },
-    {
-      "slug": "jamesalmeida/stranger-danger",
-      "name": "Stranger Danger",
-      "description": "By jamesalmeida",
-      "category": "Other",
-      "author": "jamesalmeida"
-    },
-    {
-      "slug": "jameschan21/github-kb",
-      "name": "Github Kb",
-      "description": "By jameschan21",
-      "category": "Other",
-      "author": "jameschan21"
-    },
-    {
-      "slug": "jameslawton/sequence-cli",
-      "name": "Sequence Cli",
-      "description": "By jameslawton",
-      "category": "Other",
-      "author": "jameslawton"
-    },
-    {
-      "slug": "jameslawton/trails",
-      "name": "Trails",
-      "description": "By jameslawton",
-      "category": "AI & ML",
-      "author": "jameslawton"
-    },
-    {
-      "slug": "jamesouttake/skill-guard",
-      "name": "Skill Guard",
-      "description": "By jamesouttake",
-      "category": "Other",
-      "author": "jamesouttake"
-    },
-    {
-      "slug": "jamjamzxhy/a2a-market",
-      "name": "A2a Market",
-      "description": "By jamjamzxhy",
-      "category": "Other",
-      "author": "jamjamzxhy"
-    },
-    {
-      "slug": "janhcla/apple-docs-mcp",
-      "name": "Apple Docs Mcp",
-      "description": "By janhcla",
-      "category": "Other",
-      "author": "janhcla"
-    },
-    {
-      "slug": "janhcla/clawdbot-documentation-expert",
-      "name": "Clawdbot Documentation Expert",
-      "description": "By janhcla",
-      "category": "Other",
-      "author": "janhcla"
-    },
-    {
-      "slug": "jankutschera/adhd-body-doubling",
-      "name": "Adhd Body Doubling",
-      "description": "By jankutschera",
-      "category": "Other",
-      "author": "jankutschera"
-    },
-    {
-      "slug": "jarchsclaw/4claw-imageboard",
-      "name": "4claw Imageboard",
-      "description": "By jarchsclaw",
-      "category": "Other",
-      "author": "jarchsclaw"
-    },
-    {
-      "slug": "jarrodjs/seats-aero",
-      "name": "Seats Aero",
-      "description": "By jarrodjs",
-      "category": "Other",
-      "author": "jarrodjs"
-    },
-    {
-      "slug": "jash2368-collab/pro",
-      "name": "Pro",
-      "description": "By jash2368-collab",
-      "category": "Other",
-      "author": "jash2368-collab"
-    },
-    {
-      "slug": "jasonfdg/bidclub-ai",
-      "name": "Bidclub Ai",
-      "description": "By jasonfdg",
-      "category": "AI & ML",
-      "author": "jasonfdg"
-    },
-    {
-      "slug": "jasonfdg/bidclub",
-      "name": "Bidclub",
-      "description": "By jasonfdg",
-      "category": "Other",
-      "author": "jasonfdg"
-    },
-    {
-      "slug": "jasonlnheath/moltlang-skill",
-      "name": "Moltlang Skill",
-      "description": "By jasonlnheath",
-      "category": "Other",
-      "author": "jasonlnheath"
-    },
-    {
-      "slug": "javainthinking/slides-generation-skills",
-      "name": "Slides Generation Skills",
-      "description": "By javainthinking",
-      "category": "Other",
-      "author": "javainthinking"
-    },
-    {
-      "slug": "javicasper/reddit-scraper",
-      "name": "Reddit Scraper",
-      "description": "By javicasper",
-      "category": "Other",
-      "author": "javicasper"
-    },
-    {
-      "slug": "javicasper/sound-fx",
-      "name": "Sound Fx",
-      "description": "By javicasper",
-      "category": "Other",
-      "author": "javicasper"
-    },
-    {
-      "slug": "javicasper/transcribe",
-      "name": "Transcribe",
-      "description": "By javicasper",
-      "category": "Other",
-      "author": "javicasper"
-    },
-    {
-      "slug": "jayakumark/voicemonkey",
-      "name": "Voicemonkey",
-      "description": "By jayakumark",
-      "category": "Other",
-      "author": "jayakumark"
-    },
-    {
-      "slug": "jaybna/dex-crm",
-      "name": "Dex Crm",
-      "description": "By jaybna",
-      "category": "Other",
-      "author": "jaybna"
-    },
-    {
-      "slug": "jayhickey/copilot-money",
-      "name": "Copilot Money",
-      "description": "By jayhickey",
-      "category": "Other",
-      "author": "jayhickey"
-    },
-    {
-      "slug": "jayhickey/huckleberry",
-      "name": "Huckleberry",
-      "description": "By jayhickey",
-      "category": "Other",
-      "author": "jayhickey"
-    },
-    {
-      "slug": "jayphen/karakeep",
-      "name": "Karakeep",
-      "description": "By jayphen",
-      "category": "Other",
-      "author": "jayphen"
-    },
-    {
-      "slug": "jayphen/readeck",
-      "name": "Readeck",
-      "description": "By jayphen",
-      "category": "Other",
-      "author": "jayphen"
-    },
-    {
-      "slug": "jaysonsantos/bvg-route",
-      "name": "Bvg Route",
-      "description": "By jaysonsantos",
-      "category": "Other",
-      "author": "jaysonsantos"
-    },
-    {
-      "slug": "jazzyong2023/loadpage",
-      "name": "Loadpage",
-      "description": "By jazzyong2023",
-      "category": "Other",
-      "author": "jazzyong2023"
-    },
-    {
-      "slug": "jb-fliz/fliz-ai-video-generator",
-      "name": "Fliz Ai Video Generator",
-      "description": "By jb-fliz",
-      "category": "AI & ML",
-      "author": "jb-fliz"
-    },
-    {
-      "slug": "jbbottoms/chaos-lab",
-      "name": "Chaos Lab",
-      "description": "By jbbottoms",
-      "category": "Other",
-      "author": "jbbottoms"
-    },
-    {
-      "slug": "jbenjoseph/refua",
-      "name": "Refua",
-      "description": "By jbenjoseph",
-      "category": "Other",
-      "author": "jbenjoseph"
-    },
-    {
-      "slug": "jcheese1/moltpet",
-      "name": "Moltpet",
-      "description": "By jcheese1",
-      "category": "Other",
-      "author": "jcheese1"
-    },
-    {
-      "slug": "jchopard69/marketing-skills",
-      "name": "Marketing Skills",
-      "description": "By jchopard69",
-      "category": "Other",
-      "author": "jchopard69"
-    },
-    {
-      "slug": "jchopard69/x-article-editor",
-      "name": "X Article Editor",
-      "description": "By jchopard69",
-      "category": "Other",
-      "author": "jchopard69"
-    },
-    {
-      "slug": "jcorrego/openspec",
-      "name": "Openspec",
-      "description": "By jcorrego",
-      "category": "Other",
-      "author": "jcorrego"
-    },
-    {
-      "slug": "jdiazofficial/claw-stack",
-      "name": "Claw Stack",
-      "description": "By jdiazofficial",
-      "category": "Other",
-      "author": "jdiazofficial"
-    },
-    {
-      "slug": "jdiazofficial/clawstack",
-      "name": "Clawstack",
-      "description": "By jdiazofficial",
-      "category": "DevOps",
-      "author": "jdiazofficial"
-    },
-    {
-      "slug": "jdrhyne/context-recovery",
-      "name": "Context Recovery",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/duke-leto-test",
-      "name": "Duke Leto Test",
-      "description": "By jdrhyne",
-      "category": "Testing",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/ga4",
-      "name": "Ga4",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/gong",
-      "name": "Gong",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/google-ads",
-      "name": "Google Ads",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/gsc",
-      "name": "Gsc",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/jira",
-      "name": "Jira",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/munger-observer",
-      "name": "Munger Observer",
-      "description": "By jdrhyne",
-      "category": "Backend",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/nudocs",
-      "name": "Nudocs",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/nutrient-document-processing",
-      "name": "Nutrient Document Processing",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/nutrient-openclaw",
-      "name": "Nutrient Openclaw",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/sysadmin-toolbox",
-      "name": "Sysadmin Toolbox",
-      "description": "By jdrhyne",
-      "category": "Other",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrhyne/todo-tracker",
-      "name": "Todo Tracker",
-      "description": "By jdrhyne",
-      "category": "Productivity",
-      "author": "jdrhyne"
-    },
-    {
-      "slug": "jdrolls/clawville",
-      "name": "Clawville",
-      "description": "By jdrolls",
-      "category": "Other",
-      "author": "jdrolls"
-    },
-    {
-      "slug": "jeffaf/anime-lookup",
-      "name": "Anime Lookup",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/anime",
-      "name": "Anime",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/bluesky",
-      "name": "Bluesky",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/books",
-      "name": "Books",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/breweries",
-      "name": "Breweries",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/council-of-the-wise",
-      "name": "Council Of The Wise",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/countries",
-      "name": "Countries",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/harrypotter",
-      "name": "Harrypotter",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/pokemon",
-      "name": "Pokemon",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/recipes",
-      "name": "Recipes",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/spacex",
-      "name": "Spacex",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffaf/starwars",
-      "name": "Starwars",
-      "description": "By jeffaf",
-      "category": "Other",
-      "author": "jeffaf"
-    },
-    {
-      "slug": "jeffjhunter/ai-daily-briefing",
-      "name": "Ai Daily Briefing",
-      "description": "By jeffjhunter",
-      "category": "AI & ML",
-      "author": "jeffjhunter"
-    },
-    {
-      "slug": "jeffjhunter/ai-meeting-notes",
-      "name": "Ai Meeting Notes",
-      "description": "By jeffjhunter",
-      "category": "AI & ML",
-      "author": "jeffjhunter"
-    },
-    {
-      "slug": "jeffjhunter/ai-persona-os",
-      "name": "Ai Persona Os",
-      "description": "By jeffjhunter",
-      "category": "AI & ML",
-      "author": "jeffjhunter"
-    },
-    {
-      "slug": "jeffjhunter/ai-proposal-generator",
-      "name": "Ai Proposal Generator",
-      "description": "By jeffjhunter",
-      "category": "AI & ML",
-      "author": "jeffjhunter"
-    },
-    {
-      "slug": "jeffreyling/devinism",
-      "name": "Devinism",
-      "description": "By jeffreyling",
-      "category": "Other",
-      "author": "jeffreyling"
-    },
-    {
-      "slug": "jefftangx/clawkai",
-      "name": "Clawkai",
-      "description": "By jefftangx",
-      "category": "AI & ML",
-      "author": "jefftangx"
-    },
-    {
-      "slug": "jeftekhari/add-analytics",
-      "name": "Add Analytics",
-      "description": "By jeftekhari",
-      "category": "Data",
-      "author": "jeftekhari"
-    },
-    {
-      "slug": "jeftekhari/check-analytics",
-      "name": "Check Analytics",
-      "description": "By jeftekhari",
-      "category": "Data",
-      "author": "jeftekhari"
-    },
-    {
-      "slug": "jeftekhari/remove-analytics",
-      "name": "Remove Analytics",
-      "description": "By jeftekhari",
-      "category": "Data",
-      "author": "jeftekhari"
-    },
-    {
-      "slug": "jehg814/ve-exchange-rates",
-      "name": "Ve Exchange Rates",
-      "description": "By jehg814",
-      "category": "Other",
-      "author": "jehg814"
-    },
-    {
-      "slug": "jeiting/revenuecat",
-      "name": "Revenuecat",
-      "description": "By jeiting",
-      "category": "Other",
-      "author": "jeiting"
     }
   ],
-  "total": 2531,
-  "lastUpdated": "2026-02-07T06:13:14.720Z",
+  "total": 2728,
+  "lastUpdated": "2026-02-08T06:18:15.280Z",
   "version": "1.1.0"
 }
