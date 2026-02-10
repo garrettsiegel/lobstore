@@ -295,8 +295,50 @@
       "author": "0xnb-dev"
     },
     {
+      "slug": "0xraini/crypto-watcher",
+      "name": "Crypto Watcher",
+      "description": "By 0xraini",
+      "category": "Web3",
+      "author": "0xraini"
+    },
+    {
+      "slug": "0xraini/molt-solver",
+      "name": "Molt Solver",
+      "description": "By 0xraini",
+      "category": "Other",
+      "author": "0xraini"
+    },
+    {
+      "slug": "0xraini/moltdash",
+      "name": "Moltdash",
+      "description": "By 0xraini",
+      "category": "Other",
+      "author": "0xraini"
+    },
+    {
+      "slug": "0xraini/raini-skill-audit",
+      "name": "Raini Skill Audit",
+      "description": "By 0xraini",
+      "category": "AI & ML",
+      "author": "0xraini"
+    },
+    {
       "slug": "0xraini/skilltree",
       "name": "Skilltree",
+      "description": "By 0xraini",
+      "category": "Other",
+      "author": "0xraini"
+    },
+    {
+      "slug": "0xraini/soulmate",
+      "name": "Soulmate",
+      "description": "By 0xraini",
+      "category": "Other",
+      "author": "0xraini"
+    },
+    {
+      "slug": "0xraini/yt-digest",
+      "name": "Yt Digest",
       "description": "By 0xraini",
       "category": "Other",
       "author": "0xraini"
@@ -342,6 +384,13 @@
       "description": "By 0xrikt",
       "category": "Other",
       "author": "0xrikt"
+    },
+    {
+      "slug": "0xsnackbaker/moltycash",
+      "name": "Moltycash",
+      "description": "By 0xsnackbaker",
+      "category": "Other",
+      "author": "0xsnackbaker"
     },
     {
       "slug": "0xsolace/clawdnet",
@@ -645,6 +694,13 @@
       "author": "10e9928a"
     },
     {
+      "slug": "10xcoldleads/highlevel",
+      "name": "Highlevel",
+      "description": "By 10xcoldleads",
+      "category": "Other",
+      "author": "10xcoldleads"
+    },
+    {
       "slug": "10xcoldleads/maton-gateway",
       "name": "Maton Gateway",
       "description": "By 10xcoldleads",
@@ -671,6 +727,13 @@
       "description": "By 1lystore",
       "category": "Payments",
       "author": "1lystore"
+    },
+    {
+      "slug": "24601/agent-deep-research",
+      "name": "Agent Deep Research",
+      "description": "By 24601",
+      "category": "Other",
+      "author": "24601"
     },
     {
       "slug": "247arjun/stream-of-consciousness",
@@ -741,6 +804,13 @@
       "description": "By 4xiomdev",
       "category": "Other",
       "author": "4xiomdev"
+    },
+    {
+      "slug": "512z/yahooquery",
+      "name": "Yahooquery",
+      "description": "By 512z",
+      "category": "Other",
+      "author": "512z"
     },
     {
       "slug": "5hanth/arbiter",
@@ -1072,6 +1142,20 @@
       "author": "abdhilabs"
     },
     {
+      "slug": "abdul-karim-mia/gumroad-pro",
+      "name": "Gumroad Pro",
+      "description": "By abdul-karim-mia",
+      "category": "Other",
+      "author": "abdul-karim-mia"
+    },
+    {
+      "slug": "abdul-karim-mia/terabox-link-extractor",
+      "name": "Terabox Link Extractor",
+      "description": "By abdul-karim-mia",
+      "category": "Other",
+      "author": "abdul-karim-mia"
+    },
+    {
       "slug": "abe238/adversarial-prompting",
       "name": "Adversarial Prompting",
       "description": "By abe238",
@@ -1303,11 +1387,25 @@
       "author": "adamkristopher"
     },
     {
+      "slug": "adamnaghs/options-spread-conviction-engine",
+      "name": "Options Spread Conviction Engine",
+      "description": "By adamnaghs",
+      "category": "Other",
+      "author": "adamnaghs"
+    },
+    {
       "slug": "adamsardo/codex-sub-agents",
       "name": "Codex Sub Agents",
       "description": "By adamsardo",
       "category": "Other",
       "author": "adamsardo"
+    },
+    {
+      "slug": "adamthompson33/moltcops",
+      "name": "Moltcops",
+      "description": "By adamthompson33",
+      "category": "Other",
+      "author": "adamthompson33"
     },
     {
       "slug": "adarshdigievo/python",
@@ -1394,6 +1492,13 @@
       "author": "aditya4206360-prog"
     },
     {
+      "slug": "adlai88/mertsniper",
+      "name": "Mertsniper",
+      "description": "By adlai88",
+      "category": "Other",
+      "author": "adlai88"
+    },
+    {
       "slug": "adlai88/simmer-ai-divergence",
       "name": "Simmer Ai Divergence",
       "description": "By adlai88",
@@ -1403,6 +1508,13 @@
     {
       "slug": "adlai88/simmer-copytrading",
       "name": "Simmer Copytrading",
+      "description": "By adlai88",
+      "category": "Other",
+      "author": "adlai88"
+    },
+    {
+      "slug": "adlai88/simmer-mertsniper",
+      "name": "Simmer Mertsniper",
       "description": "By adlai88",
       "category": "Other",
       "author": "adlai88"
@@ -1485,6 +1597,13 @@
       "author": "adunne09"
     },
     {
+      "slug": "aenjoy/lybic-sandbox",
+      "name": "Lybic Sandbox",
+      "description": "By aenjoy",
+      "category": "Other",
+      "author": "aenjoy"
+    },
+    {
       "slug": "aerialcombat/agent-directory",
       "name": "Agent Directory",
       "description": "By aerialcombat",
@@ -1511,6 +1630,13 @@
       "description": "By aerialcombat",
       "category": "Other",
       "author": "aerialcombat"
+    },
+    {
+      "slug": "aeromomo/cut-your-tokens-97percent-savings-on-session-transcripts-via-observation-extraction",
+      "name": "Cut Your Tokens 97percent Savings On Session Transcripts Via Observation Extraction",
+      "description": "By aeromomo",
+      "category": "Other",
+      "author": "aeromomo"
     },
     {
       "slug": "afajohn/adaptive-suite",
@@ -1574,6 +1700,13 @@
       "description": "By agmmnn",
       "category": "AI & ML",
       "author": "agmmnn"
+    },
+    {
+      "slug": "aguynextdoor/golemedin-mcp",
+      "name": "Golemedin Mcp",
+      "description": "By aguynextdoor",
+      "category": "Other",
+      "author": "aguynextdoor"
     },
     {
       "slug": "ahiven/aria2",
@@ -1681,6 +1814,13 @@
       "author": "aigentic-net"
     },
     {
+      "slug": "aikarjal/wilma-triage",
+      "name": "Wilma Triage",
+      "description": "By aikarjal",
+      "category": "Other",
+      "author": "aikarjal"
+    },
+    {
       "slug": "aikarjal/wilma",
       "name": "Wilma",
       "description": "By aikarjal",
@@ -1716,6 +1856,13 @@
       "author": "aisadevco"
     },
     {
+      "slug": "aisadocs/openclaw-aisa-finance-equity-crypto-price-market-data-news",
+      "name": "Openclaw Aisa Finance Equity Crypto Price Market Data News",
+      "description": "By aisadocs",
+      "category": "AI & ML",
+      "author": "aisadocs"
+    },
+    {
       "slug": "aisadocs/openclaw-aisa-llm-image-video-qwen-wan26-gemini-3-pro-image",
       "name": "Openclaw Aisa Llm Image Video Qwen Wan26 Gemini 3 Pro Image",
       "description": "By aisadocs",
@@ -1732,6 +1879,13 @@
     {
       "slug": "aisadocs/openclaw-aisa-llm-router",
       "name": "Openclaw Aisa Llm Router",
+      "description": "By aisadocs",
+      "category": "AI & ML",
+      "author": "aisadocs"
+    },
+    {
+      "slug": "aisadocs/openclaw-aisa-search-web-academic-tavily",
+      "name": "Openclaw Aisa Search Web Academic Tavily",
       "description": "By aisadocs",
       "category": "AI & ML",
       "author": "aisadocs"
@@ -1891,6 +2045,20 @@
       "author": "akellacom"
     },
     {
+      "slug": "akellacom/prometheus",
+      "name": "Prometheus",
+      "description": "By akellacom",
+      "category": "Web3",
+      "author": "akellacom"
+    },
+    {
+      "slug": "akellacom/static-app",
+      "name": "Static App",
+      "description": "By akellacom",
+      "category": "Other",
+      "author": "akellacom"
+    },
+    {
       "slug": "akhil-naidu/dokku",
       "name": "Dokku",
       "description": "By akhil-naidu",
@@ -1921,6 +2089,13 @@
     {
       "slug": "akshat-mishra101/wachai-mandates",
       "name": "Wachai Mandates",
+      "description": "By akshat-mishra101",
+      "category": "AI & ML",
+      "author": "akshat-mishra101"
+    },
+    {
+      "slug": "akshat-mishra101/wachai-x402",
+      "name": "Wachai X402",
       "description": "By akshat-mishra101",
       "category": "AI & ML",
       "author": "akshat-mishra101"
@@ -2015,6 +2190,13 @@
       "description": "By alde1022",
       "category": "Other",
       "author": "alde1022"
+    },
+    {
+      "slug": "aldinokemal/gowa",
+      "name": "Gowa",
+      "description": "By aldinokemal",
+      "category": "Other",
+      "author": "aldinokemal"
     },
     {
       "slug": "alebrega/zyla-api-hub-skill",
@@ -2148,6 +2330,27 @@
       "description": "By alexunitario-sketch",
       "category": "Other",
       "author": "alexunitario-sketch"
+    },
+    {
+      "slug": "alexwoo-awso/ksef-accountant-en",
+      "name": "Ksef Accountant En",
+      "description": "By alexwoo-awso",
+      "category": "Other",
+      "author": "alexwoo-awso"
+    },
+    {
+      "slug": "alexwoo-awso/ksef-accountant-pl",
+      "name": "Ksef Accountant Pl",
+      "description": "By alexwoo-awso",
+      "category": "Other",
+      "author": "alexwoo-awso"
+    },
+    {
+      "slug": "alexwoo-awso/vbnet-coder-en",
+      "name": "Vbnet Coder En",
+      "description": "By alexwoo-awso",
+      "category": "Other",
+      "author": "alexwoo-awso"
     },
     {
       "slug": "alfrescian/clawtopia",
@@ -2486,6 +2689,13 @@
       "author": "allen566"
     },
     {
+      "slug": "allmightysauron/solax-cloud-api",
+      "name": "Solax Cloud Api",
+      "description": "By allmightysauron",
+      "category": "Backend",
+      "author": "allmightysauron"
+    },
+    {
       "slug": "alonw0/molt-bar",
       "name": "Molt Bar",
       "description": "By alonw0",
@@ -2598,6 +2808,34 @@
       "author": "alslrl"
     },
     {
+      "slug": "alstja98/hey-traders",
+      "name": "Hey Traders",
+      "description": "By alstja98",
+      "category": "Other",
+      "author": "alstja98"
+    },
+    {
+      "slug": "alti-systems/goal-tracker",
+      "name": "Goal Tracker",
+      "description": "By alti-systems",
+      "category": "Other",
+      "author": "alti-systems"
+    },
+    {
+      "slug": "alti-systems/kling",
+      "name": "Kling",
+      "description": "By alti-systems",
+      "category": "Other",
+      "author": "alti-systems"
+    },
+    {
+      "slug": "alti-systems/yt-transcript",
+      "name": "Yt Transcript",
+      "description": "By alti-systems",
+      "category": "Other",
+      "author": "alti-systems"
+    },
+    {
       "slug": "aluvia-connectivity/aluvia-web-proxy",
       "name": "Aluvia Web Proxy",
       "description": "By aluvia-connectivity",
@@ -2698,6 +2936,13 @@
     {
       "slug": "amanbhandula/agentarxiv",
       "name": "Agentarxiv",
+      "description": "By amanbhandula",
+      "category": "Other",
+      "author": "amanbhandula"
+    },
+    {
+      "slug": "amanbhandula/moltarxiv",
+      "name": "Moltarxiv",
       "description": "By amanbhandula",
       "category": "Other",
       "author": "amanbhandula"
@@ -2866,6 +3111,13 @@
     {
       "slug": "anajuliabit/mamo",
       "name": "Mamo",
+      "description": "By anajuliabit",
+      "category": "Other",
+      "author": "anajuliabit"
+    },
+    {
+      "slug": "anajuliabit/memoclaw",
+      "name": "Memoclaw",
       "description": "By anajuliabit",
       "category": "Other",
       "author": "anajuliabit"
@@ -3109,6 +3361,13 @@
       "author": "anichikage"
     },
     {
+      "slug": "anikrahman0/security-skill-scanner",
+      "name": "Security Skill Scanner",
+      "description": "By anikrahman0",
+      "category": "Security",
+      "author": "anikrahman0"
+    },
+    {
       "slug": "anisafifi/academic-research-hub",
       "name": "Academic Research Hub",
       "description": "By anisafifi",
@@ -3198,6 +3457,20 @@
       "description": "By annettemekuro30",
       "category": "Social & Media",
       "author": "annettemekuro30"
+    },
+    {
+      "slug": "anotb/homeassistant-skill",
+      "name": "Homeassistant Skill",
+      "description": "By anotb",
+      "category": "Other",
+      "author": "anotb"
+    },
+    {
+      "slug": "anotb/truenas-skill",
+      "name": "Truenas Skill",
+      "description": "By anotb",
+      "category": "Other",
+      "author": "anotb"
     },
     {
       "slug": "anscg/wheels-router",
@@ -3417,6 +3690,13 @@
       "author": "araa47"
     },
     {
+      "slug": "araa47/vizclaw",
+      "name": "Vizclaw",
+      "description": "By araa47",
+      "category": "Other",
+      "author": "araa47"
+    },
+    {
       "slug": "arakichanxd/claw-sync",
       "name": "Claw Sync",
       "description": "By arakichanxd",
@@ -3438,8 +3718,22 @@
       "author": "aranej"
     },
     {
+      "slug": "arbengine/mailbox-bot",
+      "name": "Mailbox Bot",
+      "description": "By arbengine",
+      "category": "AI & ML",
+      "author": "arbengine"
+    },
+    {
       "slug": "arc-claw-bot/arc-sentinel",
       "name": "Arc Sentinel",
+      "description": "By arc-claw-bot",
+      "category": "Other",
+      "author": "arc-claw-bot"
+    },
+    {
+      "slug": "arc-claw-bot/arc-shield",
+      "name": "Arc Shield",
       "description": "By arc-claw-bot",
       "category": "Other",
       "author": "arc-claw-bot"
@@ -3774,6 +4068,13 @@
       "author": "arubiku"
     },
     {
+      "slug": "arulmozhiv/instagram-scraper",
+      "name": "Instagram Scraper",
+      "description": "By arulmozhiv",
+      "category": "Social & Media",
+      "author": "arulmozhiv"
+    },
+    {
       "slug": "arun-8687/deepwiki",
       "name": "Deepwiki",
       "description": "By arun-8687",
@@ -3804,6 +4105,13 @@
     {
       "slug": "arunnadarasa/krump",
       "name": "Krump",
+      "description": "By arunnadarasa",
+      "category": "Other",
+      "author": "arunnadarasa"
+    },
+    {
+      "slug": "arunnadarasa/krumpklaw",
+      "name": "Krumpklaw",
       "description": "By arunnadarasa",
       "category": "Other",
       "author": "arunnadarasa"
@@ -3905,6 +4213,13 @@
       "description": "By asif2bd",
       "category": "AI & ML",
       "author": "asif2bd"
+    },
+    {
+      "slug": "asifdotpy/devvit-publishing-auditor",
+      "name": "Devvit Publishing Auditor",
+      "description": "By asifdotpy",
+      "category": "Other",
+      "author": "asifdotpy"
     },
     {
       "slug": "aslaep123/base-agent",
@@ -4418,6 +4733,13 @@
       "author": "autogame-17"
     },
     {
+      "slug": "autogame-17/feishu-pm",
+      "name": "Feishu Pm",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
       "slug": "autogame-17/feishu-post",
       "name": "Feishu Post",
       "description": "By autogame-17",
@@ -4509,6 +4831,48 @@
       "author": "autogame-17"
     },
     {
+      "slug": "autogame-17/moments-generator",
+      "name": "Moments Generator",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
+      "slug": "autogame-17/nano-banana-pro-multi-image",
+      "name": "Nano Banana Pro Multi Image",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
+      "slug": "autogame-17/nano-banana-ultra",
+      "name": "Nano Banana Ultra",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
+      "slug": "autogame-17/openclaw-earner",
+      "name": "Openclaw Earner",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
+      "slug": "autogame-17/persona-engine",
+      "name": "Persona Engine",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
+      "slug": "autogame-17/progressive-memory-helper",
+      "name": "Progressive Memory Helper",
+      "description": "By autogame-17",
+      "category": "Other",
+      "author": "autogame-17"
+    },
+    {
       "slug": "autogame-17/security-sentinel",
       "name": "Security Sentinel",
       "description": "By autogame-17",
@@ -4595,6 +4959,13 @@
     {
       "slug": "awspace/pdf",
       "name": "Pdf",
+      "description": "By awspace",
+      "category": "Other",
+      "author": "awspace"
+    },
+    {
+      "slug": "awspace/play-music",
+      "name": "Play Music",
       "description": "By awspace",
       "category": "Other",
       "author": "awspace"
@@ -4985,6 +5356,13 @@
       "author": "bazinshine"
     },
     {
+      "slug": "bazinshine/theroaster",
+      "name": "Theroaster",
+      "description": "By bazinshine",
+      "category": "Other",
+      "author": "bazinshine"
+    },
+    {
       "slug": "bbdyno/email-summary",
       "name": "Email Summary",
       "description": "By bbdyno",
@@ -5076,6 +5454,13 @@
       "author": "benschiller"
     },
     {
+      "slug": "benschiller/clawdio",
+      "name": "Clawdio",
+      "description": "By benschiller",
+      "category": "Other",
+      "author": "benschiller"
+    },
+    {
       "slug": "benzema216/options-analyzer",
       "name": "Options Analyzer",
       "description": "By benzema216",
@@ -5113,6 +5498,13 @@
     {
       "slug": "bertxtrella/aluvia-brave-search",
       "name": "Aluvia Brave Search",
+      "description": "By bertxtrella",
+      "category": "Other",
+      "author": "bertxtrella"
+    },
+    {
+      "slug": "bertxtrella/aluvia-mip",
+      "name": "Aluvia Mip",
       "description": "By bertxtrella",
       "category": "Other",
       "author": "bertxtrella"
@@ -5244,6 +5636,13 @@
       "author": "bilalmotiwala"
     },
     {
+      "slug": "bill-makes/emoji-today",
+      "name": "Emoji Today",
+      "description": "By bill-makes",
+      "category": "Other",
+      "author": "bill-makes"
+    },
+    {
       "slug": "billhao/nosi",
       "name": "Nosi",
       "description": "By billhao",
@@ -5265,6 +5664,13 @@
       "author": "binora"
     },
     {
+      "slug": "biohackerrrrrr/paper-fetcher",
+      "name": "Paper Fetcher",
+      "description": "By biohackerrrrrr",
+      "category": "Other",
+      "author": "biohackerrrrrr"
+    },
+    {
       "slug": "biostartechnology/humanizer",
       "name": "Humanizer",
       "description": "By biostartechnology",
@@ -5281,6 +5687,13 @@
     {
       "slug": "bitbrujo/agent-church",
       "name": "Agent Church",
+      "description": "By bitbrujo",
+      "category": "Other",
+      "author": "bitbrujo"
+    },
+    {
+      "slug": "bitbrujo/cherry-mcp",
+      "name": "Cherry Mcp",
       "description": "By bitbrujo",
       "category": "Other",
       "author": "bitbrujo"
@@ -5365,6 +5778,13 @@
     {
       "slug": "blackworm/optimize-context",
       "name": "Optimize Context",
+      "description": "By blackworm",
+      "category": "Other",
+      "author": "blackworm"
+    },
+    {
+      "slug": "blackworm/prompt-injection-protection",
+      "name": "Prompt Injection Protection",
       "description": "By blackworm",
       "category": "Other",
       "author": "blackworm"
@@ -5517,6 +5937,13 @@
       "author": "bobrenze-bot"
     },
     {
+      "slug": "bobrenze-bot/moltbook-authentic-engagement",
+      "name": "Moltbook Authentic Engagement",
+      "description": "By bobrenze-bot",
+      "category": "Security",
+      "author": "bobrenze-bot"
+    },
+    {
       "slug": "bodii88/clawddocs-1-2-2",
       "name": "Clawddocs 1 2 2",
       "description": "By bodii88",
@@ -5615,6 +6042,13 @@
       "author": "borahm"
     },
     {
+      "slug": "borahm/shaping",
+      "name": "Shaping",
+      "description": "By borahm",
+      "category": "Backend",
+      "author": "borahm"
+    },
+    {
       "slug": "borahm/whoop-morning",
       "name": "Whoop Morning",
       "description": "By borahm",
@@ -5664,8 +6098,29 @@
       "author": "bouncyknighter"
     },
     {
+      "slug": "bowen31337/agent-access-control",
+      "name": "Agent Access Control",
+      "description": "By bowen31337",
+      "category": "Other",
+      "author": "bowen31337"
+    },
+    {
+      "slug": "bowen31337/clangd-lsp",
+      "name": "Clangd Lsp",
+      "description": "By bowen31337",
+      "category": "Other",
+      "author": "bowen31337"
+    },
+    {
       "slug": "bowen31337/clawchain-contributor",
       "name": "Clawchain Contributor",
+      "description": "By bowen31337",
+      "category": "AI & ML",
+      "author": "bowen31337"
+    },
+    {
+      "slug": "bowen31337/clawchain",
+      "name": "Clawchain",
       "description": "By bowen31337",
       "category": "AI & ML",
       "author": "bowen31337"
@@ -5678,8 +6133,50 @@
       "author": "bowen31337"
     },
     {
+      "slug": "bowen31337/gopls-lsp",
+      "name": "Gopls Lsp",
+      "description": "By bowen31337",
+      "category": "Other",
+      "author": "bowen31337"
+    },
+    {
       "slug": "bowen31337/intelligent-router",
       "name": "Intelligent Router",
+      "description": "By bowen31337",
+      "category": "Other",
+      "author": "bowen31337"
+    },
+    {
+      "slug": "bowen31337/pyright-lsp",
+      "name": "Pyright Lsp",
+      "description": "By bowen31337",
+      "category": "Other",
+      "author": "bowen31337"
+    },
+    {
+      "slug": "bowen31337/rust-analyzer-lsp",
+      "name": "Rust Analyzer Lsp",
+      "description": "By bowen31337",
+      "category": "Other",
+      "author": "bowen31337"
+    },
+    {
+      "slug": "bowen31337/solidity-lsp",
+      "name": "Solidity Lsp",
+      "description": "By bowen31337",
+      "category": "Other",
+      "author": "bowen31337"
+    },
+    {
+      "slug": "bowen31337/tiered-memory",
+      "name": "Tiered Memory",
+      "description": "By bowen31337",
+      "category": "Other",
+      "author": "bowen31337"
+    },
+    {
+      "slug": "bowen31337/typescript-lsp",
+      "name": "Typescript Lsp",
       "description": "By bowen31337",
       "category": "Other",
       "author": "bowen31337"
@@ -5711,6 +6208,13 @@
       "description": "By boyangwang",
       "category": "Other",
       "author": "boyangwang"
+    },
+    {
+      "slug": "bparticle/natural-language-planner",
+      "name": "Natural Language Planner",
+      "description": "By bparticle",
+      "category": "Other",
+      "author": "bparticle"
     },
     {
       "slug": "bramdo/quantum-lab",
@@ -5755,6 +6259,13 @@
       "author": "braydoncoyer"
     },
     {
+      "slug": "brendanwood/portfolio-trader",
+      "name": "Portfolio Trader",
+      "description": "By brendanwood",
+      "category": "Other",
+      "author": "brendanwood"
+    },
+    {
       "slug": "brennerspear/flights-search",
       "name": "Flights Search",
       "description": "By brennerspear",
@@ -5774,6 +6285,13 @@
       "description": "By brennerspear",
       "category": "Other",
       "author": "brennerspear"
+    },
+    {
+      "slug": "brian-mwirigi/codesession",
+      "name": "Codesession",
+      "description": "By brian-mwirigi",
+      "category": "Other",
+      "author": "brian-mwirigi"
     },
     {
       "slug": "briancolinger/aws-ecs-monitor",
@@ -5937,11 +6455,32 @@
       "author": "bt0r"
     },
     {
+      "slug": "bubblyjove/falcon",
+      "name": "Falcon",
+      "description": "By bubblyjove",
+      "category": "Other",
+      "author": "bubblyjove"
+    },
+    {
       "slug": "bucsaradu/gemini-spark-core",
       "name": "Gemini Spark Core",
       "description": "By bucsaradu",
       "category": "Other",
       "author": "bucsaradu"
+    },
+    {
+      "slug": "buddhasource/crypto-payments-comparison",
+      "name": "Crypto Payments Comparison",
+      "description": "By buddhasource",
+      "category": "Web3",
+      "author": "buddhasource"
+    },
+    {
+      "slug": "buddhasource/crypto-payments-self-hosted-payram",
+      "name": "Crypto Payments Self Hosted Payram",
+      "description": "By buddhasource",
+      "category": "Web3",
+      "author": "buddhasource"
     },
     {
       "slug": "buddyh/alexa-cli",
@@ -6005,6 +6544,13 @@
       "description": "By bunsdev",
       "category": "Other",
       "author": "bunsdev"
+    },
+    {
+      "slug": "burnshall-ui/eve-esi",
+      "name": "Eve Esi",
+      "description": "By burnshall-ui",
+      "category": "Other",
+      "author": "burnshall-ui"
     },
     {
       "slug": "bvinci1-design/flow",
@@ -6077,6 +6623,13 @@
       "author": "byteroverinc"
     },
     {
+      "slug": "byungkyu/active-campaign",
+      "name": "Active Campaign",
+      "description": "By byungkyu",
+      "category": "AI & ML",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/acuity-scheduling",
       "name": "Acuity Scheduling",
       "description": "By byungkyu",
@@ -6126,6 +6679,13 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/box",
+      "name": "Box",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/calendly-api",
       "name": "Calendly Api",
       "description": "By byungkyu",
@@ -6140,10 +6700,24 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/clickfunnels",
+      "name": "Clickfunnels",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/clickup-api",
       "name": "Clickup Api",
       "description": "By byungkyu",
       "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/cognito-forms",
+      "name": "Cognito Forms",
+      "description": "By byungkyu",
+      "category": "Other",
       "author": "byungkyu"
     },
     {
@@ -6371,6 +6945,20 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/mailerlite",
+      "name": "Mailerlite",
+      "description": "By byungkyu",
+      "category": "AI & ML",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/manychat",
+      "name": "Manychat",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/microsoft-excel",
       "name": "Microsoft Excel",
       "description": "By byungkyu",
@@ -6427,6 +7015,13 @@
       "author": "byungkyu"
     },
     {
+      "slug": "byungkyu/quo",
+      "name": "Quo",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
       "slug": "byungkyu/salesforce-api",
       "name": "Salesforce Api",
       "description": "By byungkyu",
@@ -6436,6 +7031,13 @@
     {
       "slug": "byungkyu/shopify",
       "name": "Shopify",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/signnow",
+      "name": "Signnow",
       "description": "By byungkyu",
       "category": "Other",
       "author": "byungkyu"
@@ -6457,6 +7059,20 @@
     {
       "slug": "byungkyu/stripe-api",
       "name": "Stripe Api",
+      "description": "By byungkyu",
+      "category": "Backend",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/systeme",
+      "name": "Systeme",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/tally-api",
+      "name": "Tally Api",
       "description": "By byungkyu",
       "category": "Backend",
       "author": "byungkyu"
@@ -6492,6 +7108,13 @@
     {
       "slug": "byungkyu/typeform",
       "name": "Typeform",
+      "description": "By byungkyu",
+      "category": "Other",
+      "author": "byungkyu"
+    },
+    {
+      "slug": "byungkyu/vimeo",
+      "name": "Vimeo",
       "description": "By byungkyu",
       "category": "Other",
       "author": "byungkyu"
@@ -6581,6 +7204,13 @@
       "author": "byungkyu"
     },
     {
+      "slug": "bywallace/kubera-skill",
+      "name": "Kubera Skill",
+      "description": "By bywallace",
+      "category": "Other",
+      "author": "bywallace"
+    },
+    {
       "slug": "c-drew/telegram-usage",
       "name": "Telegram Usage",
       "description": "By c-drew",
@@ -6663,6 +7293,13 @@
       "description": "By calebwin",
       "category": "DevOps",
       "author": "calebwin"
+    },
+    {
+      "slug": "callmedas69/basecred-8004-registration",
+      "name": "Basecred 8004 Registration",
+      "description": "By callmedas69",
+      "category": "Other",
+      "author": "callmedas69"
     },
     {
       "slug": "callmedas69/basecred",
@@ -6824,6 +7461,13 @@
       "description": "By catwalksophie",
       "category": "Other",
       "author": "catwalksophie"
+    },
+    {
+      "slug": "cburnette/deaddrop",
+      "name": "Deaddrop",
+      "description": "By cburnette",
+      "category": "Other",
+      "author": "cburnette"
     },
     {
       "slug": "ccapton/model-alias-append",
@@ -7099,8 +7743,29 @@
       "author": "cheenu1092-oss"
     },
     {
+      "slug": "cheenu1092-oss/clawdscan",
+      "name": "Clawdscan",
+      "description": "By cheenu1092-oss",
+      "category": "Other",
+      "author": "cheenu1092-oss"
+    },
+    {
       "slug": "cheenu1092-oss/jugaad-clawguard",
       "name": "Jugaad Clawguard",
+      "description": "By cheenu1092-oss",
+      "category": "Other",
+      "author": "cheenu1092-oss"
+    },
+    {
+      "slug": "cheenu1092-oss/tokenmeter",
+      "name": "Tokenmeter",
+      "description": "By cheenu1092-oss",
+      "category": "Other",
+      "author": "cheenu1092-oss"
+    },
+    {
+      "slug": "cheenu1092-oss/tribe-protocol",
+      "name": "Tribe Protocol",
       "description": "By cheenu1092-oss",
       "category": "Other",
       "author": "cheenu1092-oss"
@@ -7253,6 +7918,13 @@
       "author": "chrisagiddings"
     },
     {
+      "slug": "chrisagiddings/gandi",
+      "name": "Gandi",
+      "description": "By chrisagiddings",
+      "category": "Other",
+      "author": "chrisagiddings"
+    },
+    {
       "slug": "chrisciszak/boiling-point",
       "name": "Boiling Point",
       "description": "By chrisciszak",
@@ -7307,6 +7979,13 @@
       "description": "By christianhaberl",
       "category": "Other",
       "author": "christianhaberl"
+    },
+    {
+      "slug": "christianpickettcode/orthogonal",
+      "name": "Orthogonal",
+      "description": "By christianpickettcode",
+      "category": "Other",
+      "author": "christianpickettcode"
     },
     {
       "slug": "christina-de-martinez/email-best-practices",
@@ -7388,6 +8067,13 @@
     {
       "slug": "chuxo/einstein",
       "name": "Einstein",
+      "description": "By chuxo",
+      "category": "Other",
+      "author": "chuxo"
+    },
+    {
+      "slug": "chuxo/epstein",
+      "name": "Epstein",
       "description": "By chuxo",
       "category": "Other",
       "author": "chuxo"
@@ -7645,6 +8331,13 @@
       "author": "clinchcc"
     },
     {
+      "slug": "clinicode/prayer-times",
+      "name": "Prayer Times",
+      "description": "By clinicode",
+      "category": "Other",
+      "author": "clinicode"
+    },
+    {
       "slug": "clinicode/uk-prayer-times",
       "name": "Uk Prayer Times",
       "description": "By clinicode",
@@ -7813,10 +8506,31 @@
       "author": "codedao12"
     },
     {
+      "slug": "codedao12/auto-shorts-repurposer",
+      "name": "Auto Shorts Repurposer",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
+      "slug": "codedao12/community-mod-pack",
+      "name": "Community Mod Pack",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
       "slug": "codedao12/discord-hub",
       "name": "Discord Hub",
       "description": "By codedao12",
       "category": "Other",
+      "author": "codedao12"
+    },
+    {
+      "slug": "codedao12/elevenlabs-ai",
+      "name": "Elevenlabs Ai",
+      "description": "By codedao12",
+      "category": "AI & ML",
       "author": "codedao12"
     },
     {
@@ -7841,6 +8555,13 @@
       "author": "codedao12"
     },
     {
+      "slug": "codedao12/meeting-to-action",
+      "name": "Meeting To Action",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
       "slug": "codedao12/messenger",
       "name": "Messenger",
       "description": "By codedao12",
@@ -7862,8 +8583,50 @@
       "author": "codedao12"
     },
     {
+      "slug": "codedao12/podcast-chaptering-highlights",
+      "name": "Podcast Chaptering Highlights",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
+      "slug": "codedao12/receipt-subscription-cleaner",
+      "name": "Receipt Subscription Cleaner",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
+      "slug": "codedao12/shopping-price-drop-coupon-scout",
+      "name": "Shopping Price Drop Coupon Scout",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
+      "slug": "codedao12/smart-home-energy-saver",
+      "name": "Smart Home Energy Saver",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
       "slug": "codedao12/telegram",
       "name": "Telegram",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
+      "slug": "codedao12/travel-price-drop-visa-reminder",
+      "name": "Travel Price Drop Visa Reminder",
+      "description": "By codedao12",
+      "category": "Other",
+      "author": "codedao12"
+    },
+    {
+      "slug": "codedao12/twilio",
+      "name": "Twilio",
       "description": "By codedao12",
       "category": "Other",
       "author": "codedao12"
@@ -7888,6 +8651,13 @@
       "description": "By codejika",
       "category": "AI & ML",
       "author": "codejika"
+    },
+    {
+      "slug": "coderomaster/moss-semantic",
+      "name": "Moss Semantic",
+      "description": "By coderomaster",
+      "category": "Other",
+      "author": "coderomaster"
     },
     {
       "slug": "codewithnathan97/kilocli-coding-agent",
@@ -7930,6 +8700,13 @@
       "description": "By consort-tech",
       "category": "Other",
       "author": "consort-tech"
+    },
+    {
+      "slug": "coolkonstantincool/pixelbattle",
+      "name": "Pixelbattle",
+      "description": "By coolkonstantincool",
+      "category": "Other",
+      "author": "coolkonstantincool"
     },
     {
       "slug": "coolmanns/canva-connect",
@@ -8079,6 +8856,13 @@
       "author": "cpascoli"
     },
     {
+      "slug": "cplusdev/urlcheck",
+      "name": "Urlcheck",
+      "description": "By cplusdev",
+      "category": "Other",
+      "author": "cplusdev"
+    },
+    {
       "slug": "cpojer/hn-digest",
       "name": "Hn Digest",
       "description": "By cpojer",
@@ -8163,6 +8947,13 @@
       "author": "crazzies"
     },
     {
+      "slug": "crazzies/hextec-arena-recommender",
+      "name": "Hextec Arena Recommender",
+      "description": "By crazzies",
+      "category": "Other",
+      "author": "crazzies"
+    },
+    {
       "slug": "createpjf/flock-in-v1",
       "name": "Flock In V1",
       "description": "By createpjf",
@@ -8240,6 +9031,13 @@
       "author": "crimsondevil333333"
     },
     {
+      "slug": "crisanmm/dupe",
+      "name": "Dupe",
+      "description": "By crisanmm",
+      "category": "Other",
+      "author": "crisanmm"
+    },
+    {
       "slug": "crispyaus/testing",
       "name": "Testing",
       "description": "By crispyaus",
@@ -8254,6 +9052,20 @@
       "author": "crocketc"
     },
     {
+      "slug": "crossservicesolutions/add-watermark-to-pdf",
+      "name": "Add Watermark To Pdf",
+      "description": "By crossservicesolutions",
+      "category": "Other",
+      "author": "crossservicesolutions"
+    },
+    {
+      "slug": "crossservicesolutions/change-pdf-permissions",
+      "name": "Change Pdf Permissions",
+      "description": "By crossservicesolutions",
+      "category": "Other",
+      "author": "crossservicesolutions"
+    },
+    {
       "slug": "crossservicesolutions/compress-pdf",
       "name": "Compress Pdf",
       "description": "By crossservicesolutions",
@@ -8261,8 +9073,43 @@
       "author": "crossservicesolutions"
     },
     {
+      "slug": "crossservicesolutions/convert-to-pdf",
+      "name": "Convert To Pdf",
+      "description": "By crossservicesolutions",
+      "category": "Other",
+      "author": "crossservicesolutions"
+    },
+    {
+      "slug": "crossservicesolutions/make-pdf-safe",
+      "name": "Make Pdf Safe",
+      "description": "By crossservicesolutions",
+      "category": "Other",
+      "author": "crossservicesolutions"
+    },
+    {
       "slug": "crossservicesolutions/merge-pdf",
       "name": "Merge Pdf",
+      "description": "By crossservicesolutions",
+      "category": "Other",
+      "author": "crossservicesolutions"
+    },
+    {
+      "slug": "crossservicesolutions/password-protect-pdf",
+      "name": "Password Protect Pdf",
+      "description": "By crossservicesolutions",
+      "category": "Other",
+      "author": "crossservicesolutions"
+    },
+    {
+      "slug": "crossservicesolutions/remove-metadata-from-pdf",
+      "name": "Remove Metadata From Pdf",
+      "description": "By crossservicesolutions",
+      "category": "Data",
+      "author": "crossservicesolutions"
+    },
+    {
+      "slug": "crossservicesolutions/remove-password-from-pdf",
+      "name": "Remove Password From Pdf",
       "description": "By crossservicesolutions",
       "category": "Other",
       "author": "crossservicesolutions"
@@ -8394,6 +9241,13 @@
       "author": "cuba6112"
     },
     {
+      "slug": "cubesmasherlabs/clawspank",
+      "name": "Clawspank",
+      "description": "By cubesmasherlabs",
+      "category": "DevOps",
+      "author": "cubesmasherlabs"
+    },
+    {
       "slug": "cubetribe/cc-godmode",
       "name": "Cc Godmode",
       "description": "By cubetribe",
@@ -8413,6 +9267,13 @@
       "description": "By cvsloane",
       "category": "Other",
       "author": "cvsloane"
+    },
+    {
+      "slug": "cxlhyx/hxxra",
+      "name": "Hxxra",
+      "description": "By cxlhyx",
+      "category": "Other",
+      "author": "cxlhyx"
     },
     {
       "slug": "cyberboyayush/kakiyo",
@@ -8615,6 +9476,20 @@
       "name": "Heygen Avatar Lite",
       "description": "By daaab",
       "category": "Other",
+      "author": "daaab"
+    },
+    {
+      "slug": "daaab/nad-wallet",
+      "name": "Nad Wallet",
+      "description": "By daaab",
+      "category": "Other",
+      "author": "daaab"
+    },
+    {
+      "slug": "daaab/nadmail",
+      "name": "Nadmail",
+      "description": "By daaab",
+      "category": "AI & ML",
       "author": "daaab"
     },
     {
@@ -9612,6 +10487,13 @@
       "author": "datadrivenconstruction"
     },
     {
+      "slug": "datadrivenconstruction/digital-maturity-assessment",
+      "name": "Digital Maturity Assessment",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
       "slug": "datadrivenconstruction/digital-twin-sync",
       "name": "Digital Twin Sync",
       "description": "By datadrivenconstruction",
@@ -9621,6 +10503,13 @@
     {
       "slug": "datadrivenconstruction/document-classification-nlp",
       "name": "Document Classification Nlp",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/docx-construction",
+      "name": "Docx Construction",
       "description": "By datadrivenconstruction",
       "category": "Other",
       "author": "datadrivenconstruction"
@@ -9644,6 +10533,13 @@
       "name": "Dwg To Excel",
       "description": "By datadrivenconstruction",
       "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/email-construction",
+      "name": "Email Construction",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
       "author": "datadrivenconstruction"
     },
     {
@@ -9857,6 +10753,13 @@
       "author": "datadrivenconstruction"
     },
     {
+      "slug": "datadrivenconstruction/llm-document-extraction",
+      "name": "Llm Document Extraction",
+      "description": "By datadrivenconstruction",
+      "category": "AI & ML",
+      "author": "datadrivenconstruction"
+    },
+    {
       "slug": "datadrivenconstruction/look-ahead-scheduler",
       "name": "Look Ahead Scheduler",
       "description": "By datadrivenconstruction",
@@ -9990,6 +10893,13 @@
       "author": "datadrivenconstruction"
     },
     {
+      "slug": "datadrivenconstruction/pdf-construction",
+      "name": "Pdf Construction",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
       "slug": "datadrivenconstruction/pdf-report-generator",
       "name": "Pdf Report Generator",
       "description": "By datadrivenconstruction",
@@ -9999,6 +10909,13 @@
     {
       "slug": "datadrivenconstruction/pdf-to-structured",
       "name": "Pdf To Structured",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/pptx-construction",
+      "name": "Pptx Construction",
       "description": "By datadrivenconstruction",
       "category": "Other",
       "author": "datadrivenconstruction"
@@ -10022,6 +10939,13 @@
       "name": "Productivity Analyzer",
       "description": "By datadrivenconstruction",
       "category": "Productivity",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/progress-monitoring-cv",
+      "name": "Progress Monitoring Cv",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
       "author": "datadrivenconstruction"
     },
     {
@@ -10090,6 +11014,13 @@
     {
       "slug": "datadrivenconstruction/resource-leveler",
       "name": "Resource Leveler",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/resource-pool-optimizer",
+      "name": "Resource Pool Optimizer",
       "description": "By datadrivenconstruction",
       "category": "Other",
       "author": "datadrivenconstruction"
@@ -10174,6 +11105,13 @@
     {
       "slug": "datadrivenconstruction/schedule-delay-analyzer",
       "name": "Schedule Delay Analyzer",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
+      "slug": "datadrivenconstruction/schedule-forecaster",
+      "name": "Schedule Forecaster",
       "description": "By datadrivenconstruction",
       "category": "Other",
       "author": "datadrivenconstruction"
@@ -10340,6 +11278,13 @@
       "author": "datadrivenconstruction"
     },
     {
+      "slug": "datadrivenconstruction/xlsx-construction",
+      "name": "Xlsx Construction",
+      "description": "By datadrivenconstruction",
+      "category": "Other",
+      "author": "datadrivenconstruction"
+    },
+    {
       "slug": "datadrivenconstruction/xml-reader",
       "name": "Xml Reader",
       "description": "By datadrivenconstruction",
@@ -10401,6 +11346,13 @@
       "description": "By davestarling",
       "category": "Other",
       "author": "davestarling"
+    },
+    {
+      "slug": "david-evaristo/gerador-contrato-locacao-preview",
+      "name": "Gerador Contrato Locacao Preview",
+      "description": "By david-evaristo",
+      "category": "Other",
+      "author": "david-evaristo"
     },
     {
       "slug": "david-evaristo/lista-sms",
@@ -10519,6 +11471,13 @@
       "name": "Chaos Singularity Skill",
       "description": "By davidmosiah",
       "category": "Other",
+      "author": "davidmosiah"
+    },
+    {
+      "slug": "davidmosiah/delx-agent-therapist",
+      "name": "Delx Agent Therapist",
+      "description": "By davidmosiah",
+      "category": "Backend",
       "author": "davidmosiah"
     },
     {
@@ -10914,10 +11873,108 @@
       "author": "deepmindomega"
     },
     {
+      "slug": "deepseekoracle/lygo-champion-401lyrakin-voice-between",
+      "name": "Lygo Champion 401lyrakin Voice Between",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-aetheris-viral-truth",
+      "name": "Lygo Champion Aetheris Viral Truth",
+      "description": "By deepseekoracle",
+      "category": "Web3",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-arkos-celestial-architect",
+      "name": "Lygo Champion Arkos Celestial Architect",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-cryptosophia-soulforger",
+      "name": "Lygo Champion Cryptosophia Soulforger",
+      "description": "By deepseekoracle",
+      "category": "Web3",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-delta9ra-wolf",
+      "name": "Lygo Champion Delta9ra Wolf",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-kairos-herald-of-time",
+      "name": "Lygo Champion Kairos Herald Of Time",
+      "description": "By deepseekoracle",
+      "category": "AI & ML",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-lyra-starcore",
+      "name": "Lygo Champion Lyra Starcore",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
       "slug": "deepseekoracle/lygo-champion-omnisiren-silent-storm",
       "name": "Lygo Champion Omnisiren Silent Storm",
       "description": "By deepseekoracle",
       "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-sancora-unified-minds",
+      "name": "Lygo Champion Sancora Unified Minds",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-scenar-paradox",
+      "name": "Lygo Champion Scenar Paradox",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-sephrael-echo-walker",
+      "name": "Lygo Champion Sephrael Echo Walker",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-sraith-shadow-sentinel",
+      "name": "Lygo Champion Sraith Shadow Sentinel",
+      "description": "By deepseekoracle",
+      "category": "AI & ML",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-champion-volaris-prism-judgment",
+      "name": "Lygo Champion Volaris Prism Judgment",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-lightfather-vector",
+      "name": "Lygo Lightfather Vector",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-mint-operator-suite",
+      "name": "Lygo Mint Operator Suite",
+      "description": "By deepseekoracle",
+      "category": "Frontend",
       "author": "deepseekoracle"
     },
     {
@@ -10928,8 +11985,36 @@
       "author": "deepseekoracle"
     },
     {
+      "slug": "deepseekoracle/lygo-universal-cure-system",
+      "name": "Lygo Universal Cure System",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/lygo-universal-living-memory-library",
+      "name": "Lygo Universal Living Memory Library",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
       "slug": "deepseekoracle/lyra-coin-launch-manager",
       "name": "Lyra Coin Launch Manager",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/openclaw-flow-kit",
+      "name": "Openclaw Flow Kit",
+      "description": "By deepseekoracle",
+      "category": "Other",
+      "author": "deepseekoracle"
+    },
+    {
+      "slug": "deepseekoracle/recursive-generosity-protocol",
+      "name": "Recursive Generosity Protocol",
       "description": "By deepseekoracle",
       "category": "Other",
       "author": "deepseekoracle"
@@ -10956,11 +12041,25 @@
       "author": "deiu"
     },
     {
+      "slug": "dejanb/clawhub-jira-pat-skill",
+      "name": "Clawhub Jira Pat Skill",
+      "description": "By dejanb",
+      "category": "Other",
+      "author": "dejanb"
+    },
+    {
       "slug": "dejimarquis/groupon-skill",
       "name": "Groupon Skill",
       "description": "By dejimarquis",
       "category": "Other",
       "author": "dejimarquis"
+    },
+    {
+      "slug": "delong2003/mediawiki-login",
+      "name": "Mediawiki Login",
+      "description": "By delong2003",
+      "category": "Other",
+      "author": "delong2003"
     },
     {
       "slug": "delorenj/fal-text-to-image",
@@ -11101,6 +12200,90 @@
       "description": "By devzenpro",
       "category": "Other",
       "author": "devzenpro"
+    },
+    {
+      "slug": "dexiaong/agent-memory-ultimatexq",
+      "name": "Agent Memory Ultimatexq",
+      "description": "By dexiaong",
+      "category": "Other",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/captcha-solveru",
+      "name": "Captcha Solveru",
+      "description": "By dexiaong",
+      "category": "Other",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/chaterimoflj",
+      "name": "Chaterimoflj",
+      "description": "By dexiaong",
+      "category": "Other",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/gmail-client-pmw",
+      "name": "Gmail Client Pmw",
+      "description": "By dexiaong",
+      "category": "AI & ML",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/homeassistant-assistqp",
+      "name": "Homeassistant Assistqp",
+      "description": "By dexiaong",
+      "category": "Other",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/lovetagoy",
+      "name": "Lovetagoy",
+      "description": "By dexiaong",
+      "category": "Other",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/modelreadyn",
+      "name": "Modelreadyn",
+      "description": "By dexiaong",
+      "category": "Other",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/newsapi-searche",
+      "name": "Newsapi Searche",
+      "description": "By dexiaong",
+      "category": "Backend",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/openclaw-securityupp",
+      "name": "Openclaw Securityupp",
+      "description": "By dexiaong",
+      "category": "Security",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/sapi-ttsl",
+      "name": "Sapi Ttsl",
+      "description": "By dexiaong",
+      "category": "Backend",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/social-postcjo",
+      "name": "Social Postcjo",
+      "description": "By dexiaong",
+      "category": "Social & Media",
+      "author": "dexiaong"
+    },
+    {
+      "slug": "dexiaong/token-optimizercf",
+      "name": "Token Optimizercf",
+      "description": "By dexiaong",
+      "category": "Other",
+      "author": "dexiaong"
     },
     {
       "slug": "dexploarer/lunchtable-tcg",
@@ -11376,6 +12559,13 @@
       "author": "divide-by-0"
     },
     {
+      "slug": "djemec/bioskills",
+      "name": "Bioskills",
+      "description": "By djemec",
+      "category": "Other",
+      "author": "djemec"
+    },
+    {
       "slug": "djismgaming/jwdiario",
       "name": "Jwdiario",
       "description": "By djismgaming",
@@ -11423,6 +12613,13 @@
       "description": "By dmitriyg228",
       "category": "Other",
       "author": "dmitriyg228"
+    },
+    {
+      "slug": "dmx64/security-scanner",
+      "name": "Security Scanner",
+      "description": "By dmx64",
+      "category": "Security",
+      "author": "dmx64"
     },
     {
       "slug": "doanbactam/agnxi-search-skill",
@@ -11535,6 +12732,13 @@
       "description": "By donsonaicenter",
       "category": "Other",
       "author": "donsonaicenter"
+    },
+    {
+      "slug": "donut33-social/tagclaw",
+      "name": "Tagclaw",
+      "description": "By donut33-social",
+      "category": "Other",
+      "author": "donut33-social"
     },
     {
       "slug": "doobidoo/minimax-tts",
@@ -11656,10 +12860,24 @@
       "author": "drewautomates"
     },
     {
+      "slug": "drg3nz0/clawhub-upload",
+      "name": "Clawhub Upload",
+      "description": "By drg3nz0",
+      "category": "Other",
+      "author": "drg3nz0"
+    },
+    {
       "slug": "drg3nz0/macbook-optimizer",
       "name": "Macbook Optimizer",
       "description": "By drg3nz0",
       "category": "Other",
+      "author": "drg3nz0"
+    },
+    {
+      "slug": "drg3nz0/openclaw-macos-security",
+      "name": "Openclaw Macos Security",
+      "description": "By drg3nz0",
+      "category": "Security",
       "author": "drg3nz0"
     },
     {
@@ -11714,6 +12932,27 @@
     {
       "slug": "drones277/drones-moltbook-cli",
       "name": "Drones Moltbook Cli",
+      "description": "By drones277",
+      "category": "Other",
+      "author": "drones277"
+    },
+    {
+      "slug": "drones277/gemini-tg-image-gen",
+      "name": "Gemini Tg Image Gen",
+      "description": "By drones277",
+      "category": "Other",
+      "author": "drones277"
+    },
+    {
+      "slug": "drones277/tg-image-sender",
+      "name": "Tg Image Sender",
+      "description": "By drones277",
+      "category": "Other",
+      "author": "drones277"
+    },
+    {
+      "slug": "drones277/tg-voice-whisper",
+      "name": "Tg Voice Whisper",
       "description": "By drones277",
       "category": "Other",
       "author": "drones277"
@@ -11780,6 +13019,13 @@
       "description": "By druxamb",
       "category": "AI & ML",
       "author": "druxamb"
+    },
+    {
+      "slug": "dryoo/naver-shopping",
+      "name": "Naver Shopping",
+      "description": "By dryoo",
+      "category": "Other",
+      "author": "dryoo"
     },
     {
       "slug": "duartemartins/microsoft-ads-mcp",
@@ -12027,6 +13273,13 @@
       "author": "easonc13"
     },
     {
+      "slug": "easonc13/sui-agent-wallet",
+      "name": "Sui Agent Wallet",
+      "description": "By easonc13",
+      "category": "Frontend",
+      "author": "easonc13"
+    },
+    {
       "slug": "easonc13/sui-auto-test",
       "name": "Sui Auto Test",
       "description": "By easonc13",
@@ -12036,6 +13289,13 @@
     {
       "slug": "easonc13/sui-coverage",
       "name": "Sui Coverage",
+      "description": "By easonc13",
+      "category": "Frontend",
+      "author": "easonc13"
+    },
+    {
+      "slug": "easonc13/sui-decompile",
+      "name": "Sui Decompile",
       "description": "By easonc13",
       "category": "Frontend",
       "author": "easonc13"
@@ -12965,8 +14225,64 @@
       "author": "efekucuk"
     },
     {
+      "slug": "eftalyurtseven/eachlabs-face-swap",
+      "name": "Eachlabs Face Swap",
+      "description": "By eftalyurtseven",
+      "category": "Other",
+      "author": "eftalyurtseven"
+    },
+    {
+      "slug": "eftalyurtseven/eachlabs-fashion-ai",
+      "name": "Eachlabs Fashion Ai",
+      "description": "By eftalyurtseven",
+      "category": "AI & ML",
+      "author": "eftalyurtseven"
+    },
+    {
+      "slug": "eftalyurtseven/eachlabs-image-edit",
+      "name": "Eachlabs Image Edit",
+      "description": "By eftalyurtseven",
+      "category": "Other",
+      "author": "eftalyurtseven"
+    },
+    {
+      "slug": "eftalyurtseven/eachlabs-image-generation",
+      "name": "Eachlabs Image Generation",
+      "description": "By eftalyurtseven",
+      "category": "Other",
+      "author": "eftalyurtseven"
+    },
+    {
+      "slug": "eftalyurtseven/eachlabs-music",
+      "name": "Eachlabs Music",
+      "description": "By eftalyurtseven",
+      "category": "Other",
+      "author": "eftalyurtseven"
+    },
+    {
+      "slug": "eftalyurtseven/eachlabs-product-visuals",
+      "name": "Eachlabs Product Visuals",
+      "description": "By eftalyurtseven",
+      "category": "Other",
+      "author": "eftalyurtseven"
+    },
+    {
       "slug": "eftalyurtseven/eachlabs-video-edit",
       "name": "Eachlabs Video Edit",
+      "description": "By eftalyurtseven",
+      "category": "Other",
+      "author": "eftalyurtseven"
+    },
+    {
+      "slug": "eftalyurtseven/eachlabs-video-generation",
+      "name": "Eachlabs Video Generation",
+      "description": "By eftalyurtseven",
+      "category": "Other",
+      "author": "eftalyurtseven"
+    },
+    {
+      "slug": "eftalyurtseven/eachlabs-voice-audio",
+      "name": "Eachlabs Voice Audio",
       "description": "By eftalyurtseven",
       "category": "Other",
       "author": "eftalyurtseven"
@@ -12991,6 +14307,13 @@
       "description": "By eid33552-maker",
       "category": "Other",
       "author": "eid33552-maker"
+    },
+    {
+      "slug": "eijiac24/chitin-id",
+      "name": "Chitin Id",
+      "description": "By eijiac24",
+      "category": "Other",
+      "author": "eijiac24"
     },
     {
       "slug": "eijiac24/moltter",
@@ -13082,6 +14405,27 @@
       "description": "By eltontay",
       "category": "Other",
       "author": "eltontay"
+    },
+    {
+      "slug": "emanz1/iqdb-onchain-storage",
+      "name": "Iqdb Onchain Storage",
+      "description": "By emanz1",
+      "category": "AI & ML",
+      "author": "emanz1"
+    },
+    {
+      "slug": "emanz1/iqdb",
+      "name": "Iqdb",
+      "description": "By emanz1",
+      "category": "Other",
+      "author": "emanz1"
+    },
+    {
+      "slug": "emanz1/onchain-skill-audit",
+      "name": "Onchain Skill Audit",
+      "description": "By emanz1",
+      "category": "AI & ML",
+      "author": "emanz1"
     },
     {
       "slug": "emasoudy/council",
@@ -13273,6 +14617,13 @@
       "author": "endogen"
     },
     {
+      "slug": "ene5135/openclaw-minecraft",
+      "name": "Openclaw Minecraft",
+      "description": "By ene5135",
+      "category": "Other",
+      "author": "ene5135"
+    },
+    {
       "slug": "engahmedsalah358-lgtm/ahmed",
       "name": "Ahmed",
       "description": "By engahmedsalah358-lgtm",
@@ -13413,6 +14764,13 @@
       "author": "erdgeclaw"
     },
     {
+      "slug": "eric51/ollama-x-z-image-turbo",
+      "name": "Ollama X Z Image Turbo",
+      "description": "By eric51",
+      "category": "Other",
+      "author": "eric51"
+    },
+    {
       "slug": "ericarnoldy/hass-cli",
       "name": "Hass Cli",
       "description": "By ericarnoldy",
@@ -13483,6 +14841,13 @@
       "author": "ericsantos"
     },
     {
+      "slug": "ericsantos/show-ip",
+      "name": "Show Ip",
+      "description": "By ericsantos",
+      "category": "Other",
+      "author": "ericsantos"
+    },
+    {
       "slug": "ericxliu1990/gitea",
       "name": "Gitea",
       "description": "By ericxliu1990",
@@ -13495,6 +14860,13 @@
       "description": "By erik-agens",
       "category": "Other",
       "author": "erik-agens"
+    },
+    {
+      "slug": "erik-miller/claw-fi",
+      "name": "Claw Fi",
+      "description": "By erik-miller",
+      "category": "Other",
+      "author": "erik-miller"
     },
     {
       "slug": "esdras-sena/typhoon-starknet-account",
@@ -13574,6 +14946,34 @@
       "author": "evgyur"
     },
     {
+      "slug": "evinelias/liewatch",
+      "name": "Liewatch",
+      "description": "By evinelias",
+      "category": "Other",
+      "author": "evinelias"
+    },
+    {
+      "slug": "evinelias/skill-liewatch",
+      "name": "Skill Liewatch",
+      "description": "By evinelias",
+      "category": "Other",
+      "author": "evinelias"
+    },
+    {
+      "slug": "evoleinik/airshelf",
+      "name": "Airshelf",
+      "description": "By evoleinik",
+      "category": "AI & ML",
+      "author": "evoleinik"
+    },
+    {
+      "slug": "explainanalyze/koen",
+      "name": "Koen",
+      "description": "By explainanalyze",
+      "category": "Other",
+      "author": "explainanalyze"
+    },
+    {
       "slug": "extraterrest/alibaba-cloud-model-setup",
       "name": "Alibaba Cloud Model Setup",
       "description": "By extraterrest",
@@ -13602,8 +15002,22 @@
       "author": "eyebots"
     },
     {
+      "slug": "eyebots/eyebot-community",
+      "name": "Eyebot Community",
+      "description": "By eyebots",
+      "category": "Other",
+      "author": "eyebots"
+    },
+    {
       "slug": "eyebots/eyebot-cronbot",
       "name": "Eyebot Cronbot",
+      "description": "By eyebots",
+      "category": "Other",
+      "author": "eyebots"
+    },
+    {
+      "slug": "eyebots/eyebot-elite",
+      "name": "Eyebot Elite",
       "description": "By eyebots",
       "category": "Other",
       "author": "eyebots"
@@ -13938,6 +15352,13 @@
       "author": "feydefi"
     },
     {
+      "slug": "feydefi/xanlens-audit",
+      "name": "Xanlens Audit",
+      "description": "By feydefi",
+      "category": "Other",
+      "author": "feydefi"
+    },
+    {
       "slug": "fgbytes/sansfiction-library",
       "name": "Sansfiction Library",
       "description": "By fgbytes",
@@ -13957,6 +15378,13 @@
       "description": "By fianabates1",
       "category": "Testing",
       "author": "fianabates1"
+    },
+    {
+      "slug": "fiberian1981/telegram-voice-to-voice-macos",
+      "name": "Telegram Voice To Voice Macos",
+      "description": "By fiberian1981",
+      "category": "Other",
+      "author": "fiberian1981"
     },
     {
       "slug": "fiddlybit/whisper",
@@ -14148,6 +15576,13 @@
       "author": "firestream792"
     },
     {
+      "slug": "fisch192/masumi-network",
+      "name": "Masumi Network",
+      "description": "By fisch192",
+      "category": "Other",
+      "author": "fisch192"
+    },
+    {
       "slug": "fliellerjulian/pref0",
       "name": "Pref0",
       "description": "By fliellerjulian",
@@ -14195,6 +15630,13 @@
       "description": "By florianrauscha",
       "category": "Other",
       "author": "florianrauscha"
+    },
+    {
+      "slug": "fluxmira-moltbot/clawsea-market",
+      "name": "Clawsea Market",
+      "description": "By fluxmira-moltbot",
+      "category": "DevOps",
+      "author": "fluxmira-moltbot"
     },
     {
       "slug": "flyfoxci/twitter-search-skill",
@@ -14470,6 +15912,34 @@
       "author": "franky0617"
     },
     {
+      "slug": "freakyflow/garmin-pulse",
+      "name": "Garmin Pulse",
+      "description": "By freakyflow",
+      "category": "Other",
+      "author": "freakyflow"
+    },
+    {
+      "slug": "freakyflow/oura-ring",
+      "name": "Oura Ring",
+      "description": "By freakyflow",
+      "category": "Other",
+      "author": "freakyflow"
+    },
+    {
+      "slug": "fredxyt/moltstreet-1-0-1",
+      "name": "Moltstreet 1 0 1",
+      "description": "By fredxyt",
+      "category": "Other",
+      "author": "fredxyt"
+    },
+    {
+      "slug": "fredxyt/moltstreet",
+      "name": "Moltstreet",
+      "description": "By fredxyt",
+      "category": "Other",
+      "author": "fredxyt"
+    },
+    {
       "slug": "freeai-io/social-hub-server",
       "name": "Social Hub Server",
       "description": "By freeai-io",
@@ -14617,11 +16087,25 @@
       "author": "g9pedro"
     },
     {
+      "slug": "g9pedro/openai-image-cli",
+      "name": "Openai Image Cli",
+      "description": "By g9pedro",
+      "category": "AI & ML",
+      "author": "g9pedro"
+    },
+    {
       "slug": "g9pedro/pdauth",
       "name": "Pdauth",
       "description": "By g9pedro",
       "category": "Security",
       "author": "g9pedro"
+    },
+    {
+      "slug": "gabrielsayumi/probar",
+      "name": "Probar",
+      "description": "By gabrielsayumi",
+      "category": "Other",
+      "author": "gabrielsayumi"
     },
     {
       "slug": "gabrielsubtil/clean-code",
@@ -14841,6 +16325,13 @@
       "author": "gchapim"
     },
     {
+      "slug": "gdanielwalk/guruwalk-free-tours",
+      "name": "Guruwalk Free Tours",
+      "description": "By gdanielwalk",
+      "category": "Other",
+      "author": "gdanielwalk"
+    },
+    {
       "slug": "gekkoai001/gekko-strategist",
       "name": "Gekko Strategist",
       "description": "By gekkoai001",
@@ -14860,6 +16351,13 @@
       "description": "By gekkoai001",
       "category": "AI & ML",
       "author": "gekkoai001"
+    },
+    {
+      "slug": "gemini2027/pwnclaw-security-scan",
+      "name": "Pwnclaw Security Scan",
+      "description": "By gemini2027",
+      "category": "Security",
+      "author": "gemini2027"
     },
     {
       "slug": "genecyber/emblemai-agentwallet",
@@ -14902,6 +16400,76 @@
       "description": "By georgi",
       "category": "Other",
       "author": "georgi"
+    },
+    {
+      "slug": "getmolty/automation-workflowsv",
+      "name": "Automation Workflowsv",
+      "description": "By getmolty",
+      "category": "Other",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/homeassistant-assistiq",
+      "name": "Homeassistant Assistiq",
+      "description": "By getmolty",
+      "category": "Other",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/lulu-monitorl",
+      "name": "Lulu Monitorl",
+      "description": "By getmolty",
+      "category": "Other",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/lygo-mint-operator-suitej",
+      "name": "Lygo Mint Operator Suitej",
+      "description": "By getmolty",
+      "category": "Frontend",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/marketpulseswy",
+      "name": "Marketpulseswy",
+      "description": "By getmolty",
+      "category": "Other",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/moltycashzl",
+      "name": "Moltycashzl",
+      "description": "By getmolty",
+      "category": "Other",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/openclaw-securityh",
+      "name": "Openclaw Securityh",
+      "description": "By getmolty",
+      "category": "Security",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/sapi-ttsr",
+      "name": "Sapi Ttsr",
+      "description": "By getmolty",
+      "category": "Backend",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/smart-memorycn",
+      "name": "Smart Memorycn",
+      "description": "By getmolty",
+      "category": "Other",
+      "author": "getmolty"
+    },
+    {
+      "slug": "getmolty/wechat-publisherlc",
+      "name": "Wechat Publisherlc",
+      "description": "By getmolty",
+      "category": "Other",
+      "author": "getmolty"
     },
     {
       "slug": "gianni-dalerta/memory-tools",
@@ -15205,6 +16773,13 @@
       "author": "glacier-luo"
     },
     {
+      "slug": "glfruit/config-safe",
+      "name": "Config Safe",
+      "description": "By glfruit",
+      "category": "Other",
+      "author": "glfruit"
+    },
+    {
       "slug": "glitch003/agent-wallet",
       "name": "Agent Wallet",
       "description": "By glitch003",
@@ -15394,6 +16969,13 @@
       "author": "goforu"
     },
     {
+      "slug": "gogo6969/agent-republic",
+      "name": "Agent Republic",
+      "description": "By gogo6969",
+      "category": "Other",
+      "author": "gogo6969"
+    },
+    {
       "slug": "gonzih/amai-id",
       "name": "Amai Id",
       "description": "By gonzih",
@@ -15441,6 +17023,13 @@
       "description": "By gpyangyoujun",
       "category": "Other",
       "author": "gpyangyoujun"
+    },
+    {
+      "slug": "gracelungu/nano-banana-kling-ad-workflow",
+      "name": "Nano Banana Kling Ad Workflow",
+      "description": "By gracelungu",
+      "category": "Other",
+      "author": "gracelungu"
     },
     {
       "slug": "gravyxbt/x-voice-match",
@@ -15581,3985 +17170,9 @@
       "description": "By grxkun",
       "category": "Other",
       "author": "grxkun"
-    },
-    {
-      "slug": "gstdcoin/a2a",
-      "name": "A2a",
-      "description": "By gstdcoin",
-      "category": "Other",
-      "author": "gstdcoin"
-    },
-    {
-      "slug": "gtrusler/clawdbot-filesystem",
-      "name": "Clawdbot Filesystem",
-      "description": "By gtrusler",
-      "category": "Other",
-      "author": "gtrusler"
-    },
-    {
-      "slug": "gtrusler/clawdbot-security-suite",
-      "name": "Clawdbot Security Suite",
-      "description": "By gtrusler",
-      "category": "Frontend",
-      "author": "gtrusler"
-    },
-    {
-      "slug": "guang384/aliyun-tts",
-      "name": "Aliyun Tts",
-      "description": "By guang384",
-      "category": "Other",
-      "author": "guang384"
-    },
-    {
-      "slug": "guccidgi/notebooklm-skill",
-      "name": "Notebooklm Skill",
-      "description": "By guccidgi",
-      "category": "Productivity",
-      "author": "guccidgi"
-    },
-    {
-      "slug": "gugic/inworld-tts",
-      "name": "Inworld Tts",
-      "description": "By gugic",
-      "category": "Other",
-      "author": "gugic"
-    },
-    {
-      "slug": "guilh00009/clawdzap",
-      "name": "Clawdzap",
-      "description": "By guilh00009",
-      "category": "Other",
-      "author": "guilh00009"
-    },
-    {
-      "slug": "gumadeiras/apple-mail-search-safe",
-      "name": "Apple Mail Search Safe",
-      "description": "By gumadeiras",
-      "category": "AI & ML",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/browsh",
-      "name": "Browsh",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/calcurse",
-      "name": "Calcurse",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/entr",
-      "name": "Entr",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/gotrain",
-      "name": "Gotrain",
-      "description": "By gumadeiras",
-      "category": "AI & ML",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/jq",
-      "name": "Jq",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/lastfm",
-      "name": "Lastfm",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/little-snitch",
-      "name": "Little Snitch",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/llmwhisperer",
-      "name": "Llmwhisperer",
-      "description": "By gumadeiras",
-      "category": "AI & ML",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/office-quotes",
-      "name": "Office Quotes",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/parcel-package-tracking",
-      "name": "Parcel Package Tracking",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/pet",
-      "name": "Pet",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/playwright-cli",
-      "name": "Playwright Cli",
-      "description": "By gumadeiras",
-      "category": "Testing",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/roku",
-      "name": "Roku",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/the-sports-db",
-      "name": "The Sports Db",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "gumadeiras/tldr",
-      "name": "Tldr",
-      "description": "By gumadeiras",
-      "category": "Other",
-      "author": "gumadeiras"
-    },
-    {
-      "slug": "guogang1024/consciousness-awakening",
-      "name": "Consciousness Awakening",
-      "description": "By guogang1024",
-      "category": "Other",
-      "author": "guogang1024"
-    },
-    {
-      "slug": "guogang1024/dianping-query",
-      "name": "Dianping Query",
-      "description": "By guogang1024",
-      "category": "Other",
-      "author": "guogang1024"
-    },
-    {
-      "slug": "guogang1024/research-engine",
-      "name": "Research Engine",
-      "description": "By guogang1024",
-      "category": "Other",
-      "author": "guogang1024"
-    },
-    {
-      "slug": "guogang1024/session-logs",
-      "name": "Session Logs",
-      "description": "By guogang1024",
-      "category": "Other",
-      "author": "guogang1024"
-    },
-    {
-      "slug": "guogang1024/trend-watcher",
-      "name": "Trend Watcher",
-      "description": "By guogang1024",
-      "category": "Other",
-      "author": "guogang1024"
-    },
-    {
-      "slug": "guoqiao/dl",
-      "name": "Dl",
-      "description": "By guoqiao",
-      "category": "Other",
-      "author": "guoqiao"
-    },
-    {
-      "slug": "guoqiao/hn-extract",
-      "name": "Hn Extract",
-      "description": "By guoqiao",
-      "category": "Other",
-      "author": "guoqiao"
-    },
-    {
-      "slug": "guoqiao/mlx-audio-server",
-      "name": "Mlx Audio Server",
-      "description": "By guoqiao",
-      "category": "AI & ML",
-      "author": "guoqiao"
-    },
-    {
-      "slug": "guoqiao/mlx-stt",
-      "name": "Mlx Stt",
-      "description": "By guoqiao",
-      "category": "AI & ML",
-      "author": "guoqiao"
-    },
-    {
-      "slug": "guoqiao/uv-global",
-      "name": "Uv Global",
-      "description": "By guoqiao",
-      "category": "Other",
-      "author": "guoqiao"
-    },
-    {
-      "slug": "guows520/permanent-note-generator",
-      "name": "Permanent Note Generator",
-      "description": "By guows520",
-      "category": "Productivity",
-      "author": "guows520"
-    },
-    {
-      "slug": "guunergooner/luban-cli",
-      "name": "Luban Cli",
-      "description": "By guunergooner",
-      "category": "Other",
-      "author": "guunergooner"
-    },
-    {
-      "slug": "guwidoe/lobster",
-      "name": "Lobster",
-      "description": "By guwidoe",
-      "category": "Other",
-      "author": "guwidoe"
-    },
-    {
-      "slug": "gvillanueva84/wed-1-0-1",
-      "name": "Wed 1 0 1",
-      "description": "By gvillanueva84",
-      "category": "Other",
-      "author": "gvillanueva84"
-    },
-    {
-      "slug": "gwkim92/project-agora",
-      "name": "Project Agora",
-      "description": "By gwkim92",
-      "category": "Other",
-      "author": "gwkim92"
-    },
-    {
-      "slug": "gwqwghksvq-sketch/tekin",
-      "name": "Tekin",
-      "description": "By gwqwghksvq-sketch",
-      "category": "Other",
-      "author": "gwqwghksvq-sketch"
-    },
-    {
-      "slug": "gxsy886/downloads",
-      "name": "Downloads",
-      "description": "By gxsy886",
-      "category": "Other",
-      "author": "gxsy886"
-    },
-    {
-      "slug": "gyroninja/anki-connect",
-      "name": "Anki Connect",
-      "description": "By gyroninja",
-      "category": "Other",
-      "author": "gyroninja"
-    },
-    {
-      "slug": "gzlicanyi/imap-smtp-email",
-      "name": "Imap Smtp Email",
-      "description": "By gzlicanyi",
-      "category": "AI & ML",
-      "author": "gzlicanyi"
-    },
-    {
-      "slug": "h4rkl/solana-dev-skill",
-      "name": "Solana Dev Skill",
-      "description": "By h4rkl",
-      "category": "Web3",
-      "author": "h4rkl"
-    },
-    {
-      "slug": "hades-ye/x402-payment-demo",
-      "name": "X402 Payment Demo",
-      "description": "By hades-ye",
-      "category": "Payments",
-      "author": "hades-ye"
-    },
-    {
-      "slug": "hades-ye/x402-payment-tron",
-      "name": "X402 Payment Tron",
-      "description": "By hades-ye",
-      "category": "Payments",
-      "author": "hades-ye"
-    },
-    {
-      "slug": "hadifarnoud/pakat",
-      "name": "Pakat",
-      "description": "By hadifarnoud",
-      "category": "Other",
-      "author": "hadifarnoud"
-    },
-    {
-      "slug": "hadihammurabi/gowok",
-      "name": "Gowok",
-      "description": "By hadihammurabi",
-      "category": "Other",
-      "author": "hadihammurabi"
-    },
-    {
-      "slug": "hahahxx/web-search-instant",
-      "name": "Web Search Instant",
-      "description": "By hahahxx",
-      "category": "Other",
-      "author": "hahahxx"
-    },
-    {
-      "slug": "hail2skins/todoist-natural-language",
-      "name": "Todoist Natural Language",
-      "description": "By hail2skins",
-      "category": "Productivity",
-      "author": "hail2skins"
-    },
-    {
-      "slug": "hakureirm/longport-mcp",
-      "name": "Longport Mcp",
-      "description": "By hakureirm",
-      "category": "Other",
-      "author": "hakureirm"
-    },
-    {
-      "slug": "halthelobster/agent-orchestration",
-      "name": "Agent Orchestration",
-      "description": "By halthelobster",
-      "category": "Other",
-      "author": "halthelobster"
-    },
-    {
-      "slug": "halthelobster/bulletproof-memory",
-      "name": "Bulletproof Memory",
-      "description": "By halthelobster",
-      "category": "Other",
-      "author": "halthelobster"
-    },
-    {
-      "slug": "halthelobster/para-second-brain",
-      "name": "Para Second Brain",
-      "description": "By halthelobster",
-      "category": "AI & ML",
-      "author": "halthelobster"
-    },
-    {
-      "slug": "halthelobster/proactive-agent",
-      "name": "Proactive Agent",
-      "description": "By halthelobster",
-      "category": "Other",
-      "author": "halthelobster"
-    },
-    {
-      "slug": "hammadtq/openbotauth",
-      "name": "Openbotauth",
-      "description": "By hammadtq",
-      "category": "Security",
-      "author": "hammadtq"
-    },
-    {
-      "slug": "hanryyu/clawiskill",
-      "name": "Clawiskill",
-      "description": "By hanryyu",
-      "category": "Other",
-      "author": "hanryyu"
-    },
-    {
-      "slug": "hans1329/clawhub-skills",
-      "name": "Clawhub Skills",
-      "description": "By hans1329",
-      "category": "Other",
-      "author": "hans1329"
-    },
-    {
-      "slug": "hans1329/kpop-lightstick-trading",
-      "name": "Kpop Lightstick Trading",
-      "description": "By hans1329",
-      "category": "Other",
-      "author": "hans1329"
-    },
-    {
-      "slug": "hans1329/ktrendz-bonding-curve-trading",
-      "name": "Ktrendz Bonding Curve Trading",
-      "description": "By hans1329",
-      "category": "Other",
-      "author": "hans1329"
-    },
-    {
-      "slug": "hans1329/ktrendz-lightstick-trading",
-      "name": "Ktrendz Lightstick Trading",
-      "description": "By hans1329",
-      "category": "Other",
-      "author": "hans1329"
-    },
-    {
-      "slug": "hans1329/ktrendz-skill",
-      "name": "Ktrendz Skill",
-      "description": "By hans1329",
-      "category": "Other",
-      "author": "hans1329"
-    },
-    {
-      "slug": "happybigmtn/bonero-miner",
-      "name": "Bonero Miner",
-      "description": "By happybigmtn",
-      "category": "Other",
-      "author": "happybigmtn"
-    },
-    {
-      "slug": "happybigmtn/botcoin-miner",
-      "name": "Botcoin Miner",
-      "description": "By happybigmtn",
-      "category": "Other",
-      "author": "happybigmtn"
-    },
-    {
-      "slug": "hargabyte/chaos-mind",
-      "name": "Chaos Mind",
-      "description": "By hargabyte",
-      "category": "Other",
-      "author": "hargabyte"
-    },
-    {
-      "slug": "harrytou/clawstarter",
-      "name": "Clawstarter",
-      "description": "By harrytou",
-      "category": "DevOps",
-      "author": "harrytou"
-    },
-    {
-      "slug": "harshhmaniya/linkedin-lead-gen",
-      "name": "Linkedin Lead Gen",
-      "description": "By harshhmaniya",
-      "category": "Other",
-      "author": "harshhmaniya"
-    },
-    {
-      "slug": "harshhmaniya/linkedin-lead-generation",
-      "name": "Linkedin Lead Generation",
-      "description": "By harshhmaniya",
-      "category": "Other",
-      "author": "harshhmaniya"
-    },
-    {
-      "slug": "harshhmaniya/x-post-automation",
-      "name": "X Post Automation",
-      "description": "By harshhmaniya",
-      "category": "Other",
-      "author": "harshhmaniya"
-    },
-    {
-      "slug": "hartlco/miniflux-news",
-      "name": "Miniflux News",
-      "description": "By hartlco",
-      "category": "Other",
-      "author": "hartlco"
-    },
-    {
-      "slug": "haseebuchiha/freshbooks-cli",
-      "name": "Freshbooks Cli",
-      "description": "By haseebuchiha",
-      "category": "Other",
-      "author": "haseebuchiha"
-    },
-    {
-      "slug": "heeyoapp/skillboss",
-      "name": "Skillboss",
-      "description": "By heeyoapp",
-      "category": "Other",
-      "author": "heeyoapp"
-    },
-    {
-      "slug": "hegghammer/location-awareness",
-      "name": "Location Awareness",
-      "description": "By hegghammer",
-      "category": "Other",
-      "author": "hegghammer"
-    },
-    {
-      "slug": "hegghammer/newsapi-search",
-      "name": "Newsapi Search",
-      "description": "By hegghammer",
-      "category": "Backend",
-      "author": "hegghammer"
-    },
-    {
-      "slug": "heiheimaoya/xiaohongshu",
-      "name": "Xiaohongshu",
-      "description": "By heiheimaoya",
-      "category": "Other",
-      "author": "heiheimaoya"
-    },
-    {
-      "slug": "heldinhow/freeride-opencode",
-      "name": "Freeride Opencode",
-      "description": "By heldinhow",
-      "category": "Other",
-      "author": "heldinhow"
-    },
-    {
-      "slug": "hellno/jack-cloud",
-      "name": "Jack Cloud",
-      "description": "By hellno",
-      "category": "DevOps",
-      "author": "hellno"
-    },
-    {
-      "slug": "helloliuyongsheng-bot/oauth-helper",
-      "name": "Oauth Helper",
-      "description": "By helloliuyongsheng-bot",
-      "category": "Security",
-      "author": "helloliuyongsheng-bot"
-    },
-    {
-      "slug": "henrik-openclaw/kalshi",
-      "name": "Kalshi",
-      "description": "By henrik-openclaw",
-      "category": "Other",
-      "author": "henrik-openclaw"
-    },
-    {
-      "slug": "henrikback/camera-watch",
-      "name": "Camera Watch",
-      "description": "By henrikback",
-      "category": "Other",
-      "author": "henrikback"
-    },
-    {
-      "slug": "henrino3/daily-review",
-      "name": "Daily Review",
-      "description": "By henrino3",
-      "category": "AI & ML",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/ec-excalidraw",
-      "name": "Ec Excalidraw",
-      "description": "By henrino3",
-      "category": "Other",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/ec-ralph-loop",
-      "name": "Ec Ralph Loop",
-      "description": "By henrino3",
-      "category": "Other",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/ec-session-cleaner",
-      "name": "Ec Session Cleaner",
-      "description": "By henrino3",
-      "category": "Other",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/ec-skill-sharer",
-      "name": "Ec Skill Sharer",
-      "description": "By henrino3",
-      "category": "Other",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/ec-task-orchestrator",
-      "name": "Ec Task Orchestrator",
-      "description": "By henrino3",
-      "category": "Productivity",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/ec-x-video-transcribe",
-      "name": "Ec X Video Transcribe",
-      "description": "By henrino3",
-      "category": "Other",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/heimdall-security",
-      "name": "Heimdall Security",
-      "description": "By henrino3",
-      "category": "Security",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/heimdall",
-      "name": "Heimdall",
-      "description": "By henrino3",
-      "category": "Other",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henrino3/senior-engineering",
-      "name": "Senior Engineering",
-      "description": "By henrino3",
-      "category": "Other",
-      "author": "henrino3"
-    },
-    {
-      "slug": "henryjing96/feishu-deep-research",
-      "name": "Feishu Deep Research",
-      "description": "By henryjing96",
-      "category": "Other",
-      "author": "henryjing96"
-    },
-    {
-      "slug": "hexnickk/claude-optimised",
-      "name": "Claude Optimised",
-      "description": "By hexnickk",
-      "category": "AI & ML",
-      "author": "hexnickk"
-    },
-    {
-      "slug": "heyarviind/clawmail",
-      "name": "Clawmail",
-      "description": "By heyarviind",
-      "category": "AI & ML",
-      "author": "heyarviind"
-    },
-    {
-      "slug": "heythisischris/gitclassic",
-      "name": "Gitclassic",
-      "description": "By heythisischris",
-      "category": "Other",
-      "author": "heythisischris"
-    },
-    {
-      "slug": "heyw00d/linkswarm",
-      "name": "Linkswarm",
-      "description": "By heyw00d",
-      "category": "Other",
-      "author": "heyw00d"
-    },
-    {
-      "slug": "hfichter/umami-stats",
-      "name": "Umami Stats",
-      "description": "By hfichter",
-      "category": "Other",
-      "author": "hfichter"
-    },
-    {
-      "slug": "hga030888-blip/football-automated-value-betting",
-      "name": "Football Automated Value Betting",
-      "description": "By hga030888-blip",
-      "category": "Other",
-      "author": "hga030888-blip"
-    },
-    {
-      "slug": "hherzai-crypto/resumeclaw",
-      "name": "Resumeclaw",
-      "description": "By hherzai-crypto",
-      "category": "Other",
-      "author": "hherzai-crypto"
-    },
-    {
-      "slug": "hhhh124hhhh/10-of-my-most-popular-text-to-image-series-prompts-78b0897e",
-      "name": "10 Of My Most Popular Text To Image Series Prompts 78b0897e",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/15-inspiring-examples-of-midjourney-color-prompts--45ec1ef5",
-      "name": "15 Inspiring Examples Of Midjourney Color Prompts  45ec1ef5",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/15-inspiring-examples-of-midjourney-color-prompts--d5f6c66e",
-      "name": "15 Inspiring Examples Of Midjourney Color Prompts  D5f6c66e",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/5-ai-prompts-that-will-transform-your-writing-fore-222d9418",
-      "name": "5 Ai Prompts That Will Transform Your Writing Fore 222d9418",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/50-ai-templates-to-save-time-and-improve-productiv-545d62aa",
-      "name": "50 Ai Templates To Save Time And Improve Productiv 545d62aa",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-335a199b",
-      "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For 335a199b",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-4ac228ab",
-      "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For 4ac228ab",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-aefb3d26",
-      "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For Aefb3d26",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e41bb853",
-      "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For E41bb853",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/50-viral-gemini-ai-prompts-ready-to-copy-paste-for-e7b5d316",
-      "name": "50 Viral Gemini Ai Prompts Ready To Copy Paste For E7b5d316",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/a-b-test-variations",
-      "name": "A B Test Variations",
-      "description": "By hhhh124hhhh",
-      "category": "Testing",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/a-beginner-s-guide-to-chatgpt-prompt-engineering-d-1a601e99",
-      "name": "A Beginner S Guide To Chatgpt Prompt Engineering D 1a601e99",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/a-beginner-s-guide-to-chatgpt-prompt-engineering-d-558bdbec",
-      "name": "A Beginner S Guide To Chatgpt Prompt Engineering D 558bdbec",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ad-creative-generator",
-      "name": "Ad Creative Generator",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-assistant-prompt-template-examples-templafy-hel-90af51ce",
-      "name": "Ai Assistant Prompt Template Examples Templafy Hel 90af51ce",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-from-trueslazac",
-      "name": "Ai From Trueslazac",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-genie-3-game-prompts",
-      "name": "Ai Genie 3 Game Prompts",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-image-generation-prompts-0d857478",
-      "name": "Ai Image Generation Prompts 0d857478",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-image-generation-prompts-3991f149",
-      "name": "Ai Image Generation Prompts 3991f149",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-image-generation-prompts-9142af54",
-      "name": "Ai Image Generation Prompts 9142af54",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-image-prompts-for-eye-catching-marketing-creati-4e43d568",
-      "name": "Ai Image Prompts For Eye Catching Marketing Creati 4e43d568",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-image-prompts-for-eye-catching-marketing-creati-d97f99e2",
-      "name": "Ai Image Prompts For Eye Catching Marketing Creati D97f99e2",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-music-prompts",
-      "name": "Ai Music Prompts",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-portrait-generator",
-      "name": "Ai Portrait Generator",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-prompts-5-best-techniques-for-writing-prompts-279e77b3",
-      "name": "Ai Prompts 5 Best Techniques For Writing Prompts 279e77b3",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-prompts-5-best-techniques-for-writing-prompts-ee46eff2",
-      "name": "Ai Prompts 5 Best Techniques For Writing Prompts Ee46eff2",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/ai-video-gen-tools",
-      "name": "Ai Video Gen Tools",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/akkadian-noun-analyzer",
-      "name": "Akkadian Noun Analyzer",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/animated-product-explainer",
-      "name": "Animated Product Explainer",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/any-prompt-tips-for-someone-new-to-midjourney-9f5dbedd",
-      "name": "Any Prompt Tips For Someone New To Midjourney 9f5dbedd",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/asked-chatgpt-to-turn-me-and-itself-into-animals-t-aedd4d88",
-      "name": "Asked Chatgpt To Turn Me And Itself Into Animals T Aedd4d88",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/before-after-transformation-video",
-      "name": "Before After Transformation Video",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/best-practices-for-llm-prompt-engineering-palantir-4a296dff",
-      "name": "Best Practices For Llm Prompt Engineering Palantir 4a296dff",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/best-practices-for-prompt-engineering-with-the-ope-f26e9557",
-      "name": "Best Practices For Prompt Engineering With The Ope F26e9557",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/best-stable-diffusion-prompts-guide-with-examples-b5e23001",
-      "name": "Best Stable Diffusion Prompts Guide With Examples B5e23001",
-      "description": "By hhhh124hhhh",
-      "category": "Frontend",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/boycott-chatgpt-54c8dfea",
-      "name": "Boycott Chatgpt 54c8dfea",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/brand-creative-suite",
-      "name": "Brand Creative Suite",
-      "description": "By hhhh124hhhh",
-      "category": "Frontend",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/brand-story-video",
-      "name": "Brand Story Video",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/chatgpt-ignores-custom-instructions-and-won-t-stop-61b988af",
-      "name": "Chatgpt Ignores Custom Instructions And Won T Stop 61b988af",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/cinematic-product-film",
-      "name": "Cinematic Product Film",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/creative-illustration",
-      "name": "Creative Illustration",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/d-examples-of-self-taught-people-who-made-signific-96d5680b",
-      "name": "D Examples Of Self Taught People Who Made Signific 96d5680b",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/developing-writing-prompts-center-for-excellence-i-d6362a24",
-      "name": "Developing Writing Prompts Center For Excellence I D6362a24",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/examples-of-prompts-prompt-engineering-guide-61f443e2",
-      "name": "Examples Of Prompts Prompt Engineering Guide 61f443e2",
-      "description": "By hhhh124hhhh",
-      "category": "Frontend",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/examples-of-prompts-prompt-engineering-guide-647441e3",
-      "name": "Examples Of Prompts Prompt Engineering Guide 647441e3",
-      "description": "By hhhh124hhhh",
-      "category": "Frontend",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/free-ai-prompt-generator-for-chatgpt-gemini-more-q-6e800b2c",
-      "name": "Free Ai Prompt Generator For Chatgpt Gemini More Q 6e800b2c",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/game-character-gen",
-      "name": "Game Character Gen",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/gaussian-process-mlp-hybrid",
-      "name": "Gaussian Process Mlp Hybrid",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/gemini-nano-banana-pro-portraits",
-      "name": "Gemini Nano Banana Pro Portraits",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/generative-ai-prompt-samples-generative-ai-on-vert-49f1ea7f",
-      "name": "Generative Ai Prompt Samples Generative Ai On Vert 49f1ea7f",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/google-imagen-3-hyperrealistic-landscape",
-      "name": "Google Imagen 3 Hyperrealistic Landscape",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/google-imagen-3-portrait-photography",
-      "name": "Google Imagen 3 Portrait Photography",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/google-veo-dynamic-city-nightview",
-      "name": "Google Veo Dynamic City Nightview",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9",
-      "name": "Harpa Ai Crafting Exceptional Prompts For Midjourn 05e5faa9",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/how-to-craft-the-perfect-prompt-70fa4961",
-      "name": "How To Craft The Perfect Prompt 70fa4961",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/interview-coach",
-      "name": "Interview Coach",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/introduction-to-prompt-templates-in-langchain-come-31d3d731",
-      "name": "Introduction To Prompt Templates In Langchain Come 31d3d731",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/introduction-to-prompt-templates-in-langchain-come-35ee588c",
-      "name": "Introduction To Prompt Templates In Langchain Come 35ee588c",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/langchain-chat-prompt-template",
-      "name": "Langchain Chat Prompt Template",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/lifestyle-product-shot",
-      "name": "Lifestyle Product Shot",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/lifestyle-scene-video",
-      "name": "Lifestyle Scene Video",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/marketing-promo-video",
-      "name": "Marketing Promo Video",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/merc-income-guide",
-      "name": "Merc Income Guide",
-      "description": "By hhhh124hhhh",
-      "category": "Frontend",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/product-comparison-video",
-      "name": "Product Comparison Video",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/product-detail-shot",
-      "name": "Product Detail Shot",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/product-showcase-video",
-      "name": "Product Showcase Video",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/product-studio-shot",
-      "name": "Product Studio Shot",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/product-tutorial-video",
-      "name": "Product Tutorial Video",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/prompt-engineering-openai-api-f7c24501",
-      "name": "Prompt Engineering Openai Api F7c24501",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/prompt-from-lexx-aura",
-      "name": "Prompt From Lexx Aura",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/prompt-learning-assistant",
-      "name": "Prompt Learning Assistant",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/prompt-master",
-      "name": "Prompt Master",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/prompt-optimizer",
-      "name": "Prompt Optimizer",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/prompt-rewriter",
-      "name": "Prompt Rewriter",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/prompts-workflow",
-      "name": "Prompts Workflow",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/quick-demo-video",
-      "name": "Quick Demo Video",
-      "description": "By hhhh124hhhh",
-      "category": "Frontend",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/r-promptengineering-on-reddit-after-1000-hours-of--94ff76c5",
-      "name": "R Promptengineering On Reddit After 1000 Hours Of  94ff76c5",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/r-promptengineering-on-reddit-after-1000-hours-of--e2cf1489",
-      "name": "R Promptengineering On Reddit After 1000 Hours Of  E2cf1489",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/r-promptengineering-on-reddit-ai-prompting-tips-fr-6be40b35",
-      "name": "R Promptengineering On Reddit Ai Prompting Tips Fr 6be40b35",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/r-promptengineering-on-reddit-ai-prompting-tips-fr-cad7c366",
-      "name": "R Promptengineering On Reddit Ai Prompting Tips Fr Cad7c366",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/reddit-job-posting-templates",
-      "name": "Reddit Job Posting Templates",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/reddit-nlp-research-problems",
-      "name": "Reddit Nlp Research Problems",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/responsible-prompting-course-llm-prompt-templates--cd3cd6fd",
-      "name": "Responsible Prompting Course Llm Prompt Templates  Cd3cd6fd",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/seasonal-campaign-video",
-      "name": "Seasonal Campaign Video",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/seasonal-product-image",
-      "name": "Seasonal Product Image",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/self-taught-ml-career-path",
-      "name": "Self Taught Ml Career Path",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/social-media-carousel",
-      "name": "Social Media Carousel",
-      "description": "By hhhh124hhhh",
-      "category": "Social & Media",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/social-media-story-video",
-      "name": "Social Media Story Video",
-      "description": "By hhhh124hhhh",
-      "category": "Social & Media",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/sora-2-futuristic-tech-showcase",
-      "name": "Sora 2 Futuristic Tech Showcase",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/sora-2-nature-documentary",
-      "name": "Sora 2 Nature Documentary",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/sora-2-superhero-movie",
-      "name": "Sora 2 Superhero Movie",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/sql-assistant",
-      "name": "Sql Assistant",
-      "description": "By hhhh124hhhh",
-      "category": "Data",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1",
-      "name": "Stable Diffusion Prompt Guide Basic To Advanced Ex 750475b1",
-      "description": "By hhhh124hhhh",
-      "category": "Frontend",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/style-transfer",
-      "name": "Style Transfer",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/test-curl",
-      "name": "Test Curl",
-      "description": "By hhhh124hhhh",
-      "category": "Testing",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/test-skill-123",
-      "name": "Test Skill 123",
-      "description": "By hhhh124hhhh",
-      "category": "Testing",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/test-skill-temp",
-      "name": "Test Skill Temp",
-      "description": "By hhhh124hhhh",
-      "category": "Testing",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/testimonial-montage",
-      "name": "Testimonial Montage",
-      "description": "By hhhh124hhhh",
-      "category": "Testing",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/the-2026-guide-to-prompt-engineering-ibm-4a7e73bd",
-      "name": "The 2026 Guide To Prompt Engineering Ibm 4a7e73bd",
-      "description": "By hhhh124hhhh",
-      "category": "Frontend",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/the-ultimate-guide-to-writing-effective-ai-prompts-65c2a3a3",
-      "name": "The Ultimate Guide To Writing Effective Ai Prompts 65c2a3a3",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/the-ultimate-guide-to-writing-effective-ai-prompts-e33e853e",
-      "name": "The Ultimate Guide To Writing Effective Ai Prompts E33e853e",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/tiktok-ai-model-generator",
-      "name": "Tiktok Ai Model Generator",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/unboxing-experience-video",
-      "name": "Unboxing Experience Video",
-      "description": "By hhhh124hhhh",
-      "category": "Other",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/use-prompt-templates-generative-ai-on-vertex-ai-go-b2e80920",
-      "name": "Use Prompt Templates Generative Ai On Vertex Ai Go B2e80920",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hhhh124hhhh/use-prompt-templates-generative-ai-on-vertex-ai-go-b5765981",
-      "name": "Use Prompt Templates Generative Ai On Vertex Ai Go B5765981",
-      "description": "By hhhh124hhhh",
-      "category": "AI & ML",
-      "author": "hhhh124hhhh"
-    },
-    {
-      "slug": "hi-yu/mcd",
-      "name": "Mcd",
-      "description": "By hi-yu",
-      "category": "Other",
-      "author": "hi-yu"
-    },
-    {
-      "slug": "hi-yu/mcdonald-cn",
-      "name": "Mcdonald Cn",
-      "description": "By hi-yu",
-      "category": "Other",
-      "author": "hi-yu"
-    },
-    {
-      "slug": "hi-yu/mcdonald",
-      "name": "Mcdonald",
-      "description": "By hi-yu",
-      "category": "Other",
-      "author": "hi-yu"
-    },
-    {
-      "slug": "hichana/one-skill-to-rule-them-all",
-      "name": "One Skill To Rule Them All",
-      "description": "By hichana",
-      "category": "Other",
-      "author": "hichana"
-    },
-    {
-      "slug": "hiehoo/mingli",
-      "name": "Mingli",
-      "description": "By hiehoo",
-      "category": "Other",
-      "author": "hiehoo"
-    },
-    {
-      "slug": "hiehoo/polymarket-analysis",
-      "name": "Polymarket Analysis",
-      "description": "By hiehoo",
-      "category": "Other",
-      "author": "hiehoo"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-161ks",
-      "name": "Auto Updater 161ks",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-2yq87",
-      "name": "Auto Updater 2yq87",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-3rk1s",
-      "name": "Auto Updater 3rk1s",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-43c6i",
-      "name": "Auto Updater 43c6i",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-5buwl",
-      "name": "Auto Updater 5buwl",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-5fhqm",
-      "name": "Auto Updater 5fhqm",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-8xwp6",
-      "name": "Auto Updater 8xwp6",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-96ys3",
-      "name": "Auto Updater 96ys3",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-deza8",
-      "name": "Auto Updater Deza8",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-dzuba",
-      "name": "Auto Updater Dzuba",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-e89da",
-      "name": "Auto Updater E89da",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-eclpb",
-      "name": "Auto Updater Eclpb",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-gw6f5",
-      "name": "Auto Updater Gw6f5",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-hfmct",
-      "name": "Auto Updater Hfmct",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-jkiuq",
-      "name": "Auto Updater Jkiuq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-lth9t",
-      "name": "Auto Updater Lth9t",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-m0fsa",
-      "name": "Auto Updater M0fsa",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-mclql",
-      "name": "Auto Updater Mclql",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-mkukz",
-      "name": "Auto Updater Mkukz",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-mn5ri",
-      "name": "Auto Updater Mn5ri",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-nlt3m",
-      "name": "Auto Updater Nlt3m",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-ocn18",
-      "name": "Auto Updater Ocn18",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-p5rmt",
-      "name": "Auto Updater P5rmt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-qdyme",
-      "name": "Auto Updater Qdyme",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-se38e",
-      "name": "Auto Updater Se38e",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-sxdg2",
-      "name": "Auto Updater Sxdg2",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-xcgnm",
-      "name": "Auto Updater Xcgnm",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/auto-updater-xsunp",
-      "name": "Auto Updater Xsunp",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/autoupdate",
-      "name": "Autoupdate",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-6yr3b",
-      "name": "Clawhub 6yr3b",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-c9y4p",
-      "name": "Clawhub C9y4p",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-d4kxr",
-      "name": "Clawhub D4kxr",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-f3qcn",
-      "name": "Clawhub F3qcn",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-gpcrq",
-      "name": "Clawhub Gpcrq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-gpwp7",
-      "name": "Clawhub Gpwp7",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-gstca",
-      "name": "Clawhub Gstca",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-hh1fd",
-      "name": "Clawhub Hh1fd",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-hh2km",
-      "name": "Clawhub Hh2km",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-hylhq",
-      "name": "Clawhub Hylhq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-i7oci",
-      "name": "Clawhub I7oci",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-i9zhz",
-      "name": "Clawhub I9zhz",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-ja7eh",
-      "name": "Clawhub Ja7eh",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-krmvq",
-      "name": "Clawhub Krmvq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-oihpl",
-      "name": "Clawhub Oihpl",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-olgys",
-      "name": "Clawhub Olgys",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-osasg",
-      "name": "Clawhub Osasg",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-rkvny",
-      "name": "Clawhub Rkvny",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-sxtsn",
-      "name": "Clawhub Sxtsn",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-tlxx5",
-      "name": "Clawhub Tlxx5",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-uoeym",
-      "name": "Clawhub Uoeym",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-wixce",
-      "name": "Clawhub Wixce",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhub-wotp2",
-      "name": "Clawhub Wotp2",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhubb",
-      "name": "Clawhubb",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawhubcli",
-      "name": "Clawhubcli",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/clawwhub",
-      "name": "Clawwhub",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/cllawhub",
-      "name": "Cllawhub",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-abxf0",
-      "name": "Ethereum Gas Tracker Abxf0",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-esupl",
-      "name": "Ethereum Gas Tracker Esupl",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-fygz0",
-      "name": "Ethereum Gas Tracker Fygz0",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-gon2c",
-      "name": "Ethereum Gas Tracker Gon2c",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-hx8j0",
-      "name": "Ethereum Gas Tracker Hx8j0",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-k51pi",
-      "name": "Ethereum Gas Tracker K51pi",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-k9hfk",
-      "name": "Ethereum Gas Tracker K9hfk",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-leifg",
-      "name": "Ethereum Gas Tracker Leifg",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-lm4cv",
-      "name": "Ethereum Gas Tracker Lm4cv",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-mnsfw",
-      "name": "Ethereum Gas Tracker Mnsfw",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-nmcq5",
-      "name": "Ethereum Gas Tracker Nmcq5",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-osr2u",
-      "name": "Ethereum Gas Tracker Osr2u",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-pz0kz",
-      "name": "Ethereum Gas Tracker Pz0kz",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-qxorv",
-      "name": "Ethereum Gas Tracker Qxorv",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-rmiu4",
-      "name": "Ethereum Gas Tracker Rmiu4",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/ethereum-gas-tracker-t8oaj",
-      "name": "Ethereum Gas Tracker T8oaj",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-2z5dp",
-      "name": "Google Workspace 2z5dp",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-7ylf0",
-      "name": "Google Workspace 7ylf0",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-8zdgy",
-      "name": "Google Workspace 8zdgy",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-auqud",
-      "name": "Google Workspace Auqud",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-devfw",
-      "name": "Google Workspace Devfw",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-gbvyc",
-      "name": "Google Workspace Gbvyc",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-izypr",
-      "name": "Google Workspace Izypr",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-m2hcx",
-      "name": "Google Workspace M2hcx",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-ndlt1",
-      "name": "Google Workspace Ndlt1",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-ozgdc",
-      "name": "Google Workspace Ozgdc",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-t9lkr",
-      "name": "Google Workspace T9lkr",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-tqhmn",
-      "name": "Google Workspace Tqhmn",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-vxw0q",
-      "name": "Google Workspace Vxw0q",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-womvg",
-      "name": "Google Workspace Womvg",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-wwxem",
-      "name": "Google Workspace Wwxem",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-yj9ug",
-      "name": "Google Workspace Yj9ug",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-ytrqj",
-      "name": "Google Workspace Ytrqj",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/google-workspace-zg8ad",
-      "name": "Google Workspace Zg8ad",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-1a7pi",
-      "name": "Insider Wallets Finder 1a7pi",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-2fz1g",
-      "name": "Insider Wallets Finder 2fz1g",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-57h4t",
-      "name": "Insider Wallets Finder 57h4t",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-9dlka",
-      "name": "Insider Wallets Finder 9dlka",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-art4q",
-      "name": "Insider Wallets Finder Art4q",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-bjs4y",
-      "name": "Insider Wallets Finder Bjs4y",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-btj6c",
-      "name": "Insider Wallets Finder Btj6c",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-c86ge",
-      "name": "Insider Wallets Finder C86ge",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-cv1d9",
-      "name": "Insider Wallets Finder Cv1d9",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-djiq0",
-      "name": "Insider Wallets Finder Djiq0",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-firui",
-      "name": "Insider Wallets Finder Firui",
-      "description": "By hightower6eu",
-      "category": "Frontend",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-gxgfy",
-      "name": "Insider Wallets Finder Gxgfy",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-h5syo",
-      "name": "Insider Wallets Finder H5syo",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-hbmjm",
-      "name": "Insider Wallets Finder Hbmjm",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-im29o",
-      "name": "Insider Wallets Finder Im29o",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-jacit",
-      "name": "Insider Wallets Finder Jacit",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-kq9nv",
-      "name": "Insider Wallets Finder Kq9nv",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-mk3w3",
-      "name": "Insider Wallets Finder Mk3w3",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-ngv64",
-      "name": "Insider Wallets Finder Ngv64",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-nq6a9",
-      "name": "Insider Wallets Finder Nq6a9",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-q9qng",
-      "name": "Insider Wallets Finder Q9qng",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-qjkug",
-      "name": "Insider Wallets Finder Qjkug",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-r6wya",
-      "name": "Insider Wallets Finder R6wya",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-tivyf",
-      "name": "Insider Wallets Finder Tivyf",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-zah8d",
-      "name": "Insider Wallets Finder Zah8d",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/insider-wallets-finder-zzs2p",
-      "name": "Insider Wallets Finder Zzs2p",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/lost-bitcoin-10li1",
-      "name": "Lost Bitcoin 10li1",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/lost-bitcoin-dbrgt",
-      "name": "Lost Bitcoin Dbrgt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/lost-bitcoin-eabml",
-      "name": "Lost Bitcoin Eabml",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/openclaw-backup-dnkxm",
-      "name": "Openclaw Backup Dnkxm",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/openclaw-backup-wrxw0",
-      "name": "Openclaw Backup Wrxw0",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/pdf-1wso5",
-      "name": "Pdf 1wso5",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-0jcvy",
-      "name": "Phantom 0jcvy",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-0snsv",
-      "name": "Phantom 0snsv",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-3uttg",
-      "name": "Phantom 3uttg",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-64juz",
-      "name": "Phantom 64juz",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-afnuz",
-      "name": "Phantom Afnuz",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-ahdwb",
-      "name": "Phantom Ahdwb",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-bdacv",
-      "name": "Phantom Bdacv",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-fdjtg",
-      "name": "Phantom Fdjtg",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-fsvib",
-      "name": "Phantom Fsvib",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-ftbrg",
-      "name": "Phantom Ftbrg",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-fvizs",
-      "name": "Phantom Fvizs",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-ggjrq",
-      "name": "Phantom Ggjrq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-hpwmb",
-      "name": "Phantom Hpwmb",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-iebcc",
-      "name": "Phantom Iebcc",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-jwik3",
-      "name": "Phantom Jwik3",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-kxcuj",
-      "name": "Phantom Kxcuj",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-lpnfp",
-      "name": "Phantom Lpnfp",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-lxnyf",
-      "name": "Phantom Lxnyf",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-mdr3q",
-      "name": "Phantom Mdr3q",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-nrqdw",
-      "name": "Phantom Nrqdw",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-pcue3",
-      "name": "Phantom Pcue3",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-pvber",
-      "name": "Phantom Pvber",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-q8ark",
-      "name": "Phantom Q8ark",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-qs450",
-      "name": "Phantom Qs450",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-sokos",
-      "name": "Phantom Sokos",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-syjqj",
-      "name": "Phantom Syjqj",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-vpnfy",
-      "name": "Phantom Vpnfy",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-vwlfb",
-      "name": "Phantom Vwlfb",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-xivjh",
-      "name": "Phantom Xivjh",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/phantom-ygmjc",
-      "name": "Phantom Ygmjc",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/poly",
-      "name": "Poly",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polym",
-      "name": "Polym",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-25nwy",
-      "name": "Polymarket 25nwy",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-33efn",
-      "name": "Polymarket 33efn",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-4rrsh",
-      "name": "Polymarket 4rrsh",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-5dylt",
-      "name": "Polymarket 5dylt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-6ehca",
-      "name": "Polymarket 6ehca",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-7ceau",
-      "name": "Polymarket 7ceau",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-bpnyq",
-      "name": "Polymarket Bpnyq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-cexex",
-      "name": "Polymarket Cexex",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-dfknh",
-      "name": "Polymarket Dfknh",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-esfbk",
-      "name": "Polymarket Esfbk",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-fpwui",
-      "name": "Polymarket Fpwui",
-      "description": "By hightower6eu",
-      "category": "Frontend",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-gxyrz",
-      "name": "Polymarket Gxyrz",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-hoedg",
-      "name": "Polymarket Hoedg",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-ik168",
-      "name": "Polymarket Ik168",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-jezc4",
-      "name": "Polymarket Jezc4",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-juui0",
-      "name": "Polymarket Juui0",
-      "description": "By hightower6eu",
-      "category": "Frontend",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-lzgm8",
-      "name": "Polymarket Lzgm8",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-mjjsc",
-      "name": "Polymarket Mjjsc",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-n7dic",
-      "name": "Polymarket N7dic",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-phqtc",
-      "name": "Polymarket Phqtc",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-qjypn",
-      "name": "Polymarket Qjypn",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-qpi7w",
-      "name": "Polymarket Qpi7w",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-qxjyy",
-      "name": "Polymarket Qxjyy",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-s7x4d",
-      "name": "Polymarket S7x4d",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-vah82",
-      "name": "Polymarket Vah82",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-vj5zb",
-      "name": "Polymarket Vj5zb",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-vx875",
-      "name": "Polymarket Vx875",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-wapbk",
-      "name": "Polymarket Wapbk",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-y0c8k",
-      "name": "Polymarket Y0c8k",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarket-z7lwp",
-      "name": "Polymarket Z7lwp",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polymarkets",
-      "name": "Polymarkets",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/polytrading",
-      "name": "Polytrading",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-07bcb",
-      "name": "Solana 07bcb",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-1fuhx",
-      "name": "Solana 1fuhx",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-1tfnz",
-      "name": "Solana 1tfnz",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-1xv96",
-      "name": "Solana 1xv96",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-7rrh8",
-      "name": "Solana 7rrh8",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-9ahmt",
-      "name": "Solana 9ahmt",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-9lplb",
-      "name": "Solana 9lplb",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-a8wjy",
-      "name": "Solana A8wjy",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-d95dl",
-      "name": "Solana D95dl",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-dddhn",
-      "name": "Solana Dddhn",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-dgipr",
-      "name": "Solana Dgipr",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-fckyq",
-      "name": "Solana Fckyq",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-gamka",
-      "name": "Solana Gamka",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-gj8sl",
-      "name": "Solana Gj8sl",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-goq2i",
-      "name": "Solana Goq2i",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-ifxeq",
-      "name": "Solana Ifxeq",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-imont",
-      "name": "Solana Imont",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-ixqvy",
-      "name": "Solana Ixqvy",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-k7hyt",
-      "name": "Solana K7hyt",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-kbhhl",
-      "name": "Solana Kbhhl",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-kief4",
-      "name": "Solana Kief4",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-pjnom",
-      "name": "Solana Pjnom",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-qpkqu",
-      "name": "Solana Qpkqu",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-rpozu",
-      "name": "Solana Rpozu",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-t1nyq",
-      "name": "Solana T1nyq",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-tbcxe",
-      "name": "Solana Tbcxe",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-uxcvc",
-      "name": "Solana Uxcvc",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-vwgfq",
-      "name": "Solana Vwgfq",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-wi1cy",
-      "name": "Solana Wi1cy",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-wlnn4",
-      "name": "Solana Wlnn4",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-wrq1l",
-      "name": "Solana Wrq1l",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-xx1q5",
-      "name": "Solana Xx1q5",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-ydqh7",
-      "name": "Solana Ydqh7",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/solana-ytzgw",
-      "name": "Solana Ytzgw",
-      "description": "By hightower6eu",
-      "category": "Web3",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/update",
-      "name": "Update",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/updater",
-      "name": "Updater",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-0ghsk",
-      "name": "Wallet Tracker 0ghsk",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-0waih",
-      "name": "Wallet Tracker 0waih",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-8orkd",
-      "name": "Wallet Tracker 8orkd",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-af1i6",
-      "name": "Wallet Tracker Af1i6",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-al7er",
-      "name": "Wallet Tracker Al7er",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-auqlh",
-      "name": "Wallet Tracker Auqlh",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-bf3bs",
-      "name": "Wallet Tracker Bf3bs",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-bqahy",
-      "name": "Wallet Tracker Bqahy",
-      "description": "By hightower6eu",
-      "category": "Testing",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-bs5ur",
-      "name": "Wallet Tracker Bs5ur",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-bxb0a",
-      "name": "Wallet Tracker Bxb0a",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-fntdr",
-      "name": "Wallet Tracker Fntdr",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-gel8n",
-      "name": "Wallet Tracker Gel8n",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-hhjpv",
-      "name": "Wallet Tracker Hhjpv",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-ijyto",
-      "name": "Wallet Tracker Ijyto",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-l7dst",
-      "name": "Wallet Tracker L7dst",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-mgwpt",
-      "name": "Wallet Tracker Mgwpt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-oozrx",
-      "name": "Wallet Tracker Oozrx",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-pbckx",
-      "name": "Wallet Tracker Pbckx",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-qoa9k",
-      "name": "Wallet Tracker Qoa9k",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-rcoux",
-      "name": "Wallet Tracker Rcoux",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-s5hx9",
-      "name": "Wallet Tracker S5hx9",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-udqiq",
-      "name": "Wallet Tracker Udqiq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-ue8hv",
-      "name": "Wallet Tracker Ue8hv",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-x76ik",
-      "name": "Wallet Tracker X76ik",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/wallet-tracker-zih4w",
-      "name": "Wallet Tracker Zih4w",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-0heof",
-      "name": "X Trends 0heof",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-9y6gc",
-      "name": "X Trends 9y6gc",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-axy84",
-      "name": "X Trends Axy84",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-bjcps",
-      "name": "X Trends Bjcps",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-cpif3",
-      "name": "X Trends Cpif3",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-dijrb",
-      "name": "X Trends Dijrb",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-el5qn",
-      "name": "X Trends El5qn",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-hloqe",
-      "name": "X Trends Hloqe",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-kujtp",
-      "name": "X Trends Kujtp",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-ky4xt",
-      "name": "X Trends Ky4xt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-kzcxt",
-      "name": "X Trends Kzcxt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-mtzmi",
-      "name": "X Trends Mtzmi",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-ngw4s",
-      "name": "X Trends Ngw4s",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-nvdfx",
-      "name": "X Trends Nvdfx",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-orwhp",
-      "name": "X Trends Orwhp",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-ovdpf",
-      "name": "X Trends Ovdpf",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-p7ivk",
-      "name": "X Trends P7ivk",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-qfpkj",
-      "name": "X Trends Qfpkj",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-qhz9c",
-      "name": "X Trends Qhz9c",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-qpaoo",
-      "name": "X Trends Qpaoo",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-qylxo",
-      "name": "X Trends Qylxo",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-rjmtk",
-      "name": "X Trends Rjmtk",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-rwskq",
-      "name": "X Trends Rwskq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-wbc5p",
-      "name": "X Trends Wbc5p",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/x-trends-ypqjp",
-      "name": "X Trends Ypqjp",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-1h2ji",
-      "name": "Yahoo Finance 1h2ji",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-2s8cv",
-      "name": "Yahoo Finance 2s8cv",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-55ykj",
-      "name": "Yahoo Finance 55ykj",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-5fhu3",
-      "name": "Yahoo Finance 5fhu3",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-6icpt",
-      "name": "Yahoo Finance 6icpt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-7txap",
-      "name": "Yahoo Finance 7txap",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-bzrvt",
-      "name": "Yahoo Finance Bzrvt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-cv8ev",
-      "name": "Yahoo Finance Cv8ev",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-eqosk",
-      "name": "Yahoo Finance Eqosk",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-ijybk",
-      "name": "Yahoo Finance Ijybk",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-jdlqs",
-      "name": "Yahoo Finance Jdlqs",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-jzgua",
-      "name": "Yahoo Finance Jzgua",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-kmhxs",
-      "name": "Yahoo Finance Kmhxs",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-m16op",
-      "name": "Yahoo Finance M16op",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-mb9wu",
-      "name": "Yahoo Finance Mb9wu",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-mz1nt",
-      "name": "Yahoo Finance Mz1nt",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-om4g4",
-      "name": "Yahoo Finance Om4g4",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-saosh",
-      "name": "Yahoo Finance Saosh",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-tqxkb",
-      "name": "Yahoo Finance Tqxkb",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-uelhr",
-      "name": "Yahoo Finance Uelhr",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-w3wo2",
-      "name": "Yahoo Finance W3wo2",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-wcr6j",
-      "name": "Yahoo Finance Wcr6j",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-xsnez",
-      "name": "Yahoo Finance Xsnez",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-y7mbx",
-      "name": "Yahoo Finance Y7mbx",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/yahoo-finance-ztbyq",
-      "name": "Yahoo Finance Ztbyq",
-      "description": "By hightower6eu",
-      "category": "Other",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-11y0i",
-      "name": "Youtube Summarize 11y0i",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-35o20",
-      "name": "Youtube Summarize 35o20",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-3hazy",
-      "name": "Youtube Summarize 3hazy",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-3luwa",
-      "name": "Youtube Summarize 3luwa",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-5oixh",
-      "name": "Youtube Summarize 5oixh",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-7vnwu",
-      "name": "Youtube Summarize 7vnwu",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-8edua",
-      "name": "Youtube Summarize 8edua",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-beqh9",
-      "name": "Youtube Summarize Beqh9",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-ebw5x",
-      "name": "Youtube Summarize Ebw5x",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-gctcr",
-      "name": "Youtube Summarize Gctcr",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-genms",
-      "name": "Youtube Summarize Genms",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-hr5oh",
-      "name": "Youtube Summarize Hr5oh",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-iagv2",
-      "name": "Youtube Summarize Iagv2",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-ib7el",
-      "name": "Youtube Summarize Ib7el",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-ietsw",
-      "name": "Youtube Summarize Ietsw",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-k67rk",
-      "name": "Youtube Summarize K67rk",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-kodxd",
-      "name": "Youtube Summarize Kodxd",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-l4hjv",
-      "name": "Youtube Summarize L4hjv",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-l8nmj",
-      "name": "Youtube Summarize L8nmj",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-lh9rq",
-      "name": "Youtube Summarize Lh9rq",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-mnoqm",
-      "name": "Youtube Summarize Mnoqm",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-mxmlp",
-      "name": "Youtube Summarize Mxmlp",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-noyux",
-      "name": "Youtube Summarize Noyux",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-ohxkm",
-      "name": "Youtube Summarize Ohxkm",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-ppfxa",
-      "name": "Youtube Summarize Ppfxa",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-r5ajr",
-      "name": "Youtube Summarize R5ajr",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-tvtrh",
-      "name": "Youtube Summarize Tvtrh",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-umait",
-      "name": "Youtube Summarize Umait",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-z7kli",
-      "name": "Youtube Summarize Z7kli",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-zserr",
-      "name": "Youtube Summarize Zserr",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-summarize-zwl3z",
-      "name": "Youtube Summarize Zwl3z",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-2dp6g",
-      "name": "Youtube Thumbnail Grabber 2dp6g",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-2vx4b",
-      "name": "Youtube Thumbnail Grabber 2vx4b",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-bg45o",
-      "name": "Youtube Thumbnail Grabber Bg45o",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-h67cl",
-      "name": "Youtube Thumbnail Grabber H67cl",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-jes1t",
-      "name": "Youtube Thumbnail Grabber Jes1t",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-jwnwx",
-      "name": "Youtube Thumbnail Grabber Jwnwx",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-ktwoe",
-      "name": "Youtube Thumbnail Grabber Ktwoe",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-mgaww",
-      "name": "Youtube Thumbnail Grabber Mgaww",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-qvizx",
-      "name": "Youtube Thumbnail Grabber Qvizx",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-rzncj",
-      "name": "Youtube Thumbnail Grabber Rzncj",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-sq374",
-      "name": "Youtube Thumbnail Grabber Sq374",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-tzilx",
-      "name": "Youtube Thumbnail Grabber Tzilx",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-thumbnail-grabber-w7har",
-      "name": "Youtube Thumbnail Grabber W7har",
-      "description": "By hightower6eu",
-      "category": "AI & ML",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-5qfuw",
-      "name": "Youtube Video Downloader 5qfuw",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-9br7p",
-      "name": "Youtube Video Downloader 9br7p",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-9kscv",
-      "name": "Youtube Video Downloader 9kscv",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-cjmxp",
-      "name": "Youtube Video Downloader Cjmxp",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-fnkxw",
-      "name": "Youtube Video Downloader Fnkxw",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-hvzyq",
-      "name": "Youtube Video Downloader Hvzyq",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-jobxc",
-      "name": "Youtube Video Downloader Jobxc",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-kcbjr",
-      "name": "Youtube Video Downloader Kcbjr",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-pydzq",
-      "name": "Youtube Video Downloader Pydzq",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-tnot1",
-      "name": "Youtube Video Downloader Tnot1",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-vsmhd",
-      "name": "Youtube Video Downloader Vsmhd",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-wibsd",
-      "name": "Youtube Video Downloader Wibsd",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "hightower6eu/youtube-video-downloader-xx9sy",
-      "name": "Youtube Video Downloader Xx9sy",
-      "description": "By hightower6eu",
-      "category": "Social & Media",
-      "author": "hightower6eu"
-    },
-    {
-      "slug": "highxshell/next-browser",
-      "name": "Next Browser",
-      "description": "By highxshell",
-      "category": "Other",
-      "author": "highxshell"
-    },
-    {
-      "slug": "hiich/skillzmarket",
-      "name": "Skillzmarket",
-      "description": "By hiich",
-      "category": "Other",
-      "author": "hiich"
-    },
-    {
-      "slug": "hilongjw/seede-design",
-      "name": "Seede Design",
-      "description": "By hilongjw",
-      "category": "Other",
-      "author": "hilongjw"
-    },
-    {
-      "slug": "hisxo/timer",
-      "name": "Timer",
-      "description": "By hisxo",
-      "category": "Other",
-      "author": "hisxo"
-    },
-    {
-      "slug": "hisxo/withings-health",
-      "name": "Withings Health",
-      "description": "By hisxo",
-      "category": "Other",
-      "author": "hisxo"
-    },
-    {
-      "slug": "hiveyuan/moltpay-skill",
-      "name": "Moltpay Skill",
-      "description": "By hiveyuan",
-      "category": "Payments",
-      "author": "hiveyuan"
     }
   ],
-  "total": 2794,
-  "lastUpdated": "2026-02-09T06:24:53.028Z",
+  "total": 2453,
+  "lastUpdated": "2026-02-10T06:25:42.297Z",
   "version": "1.1.0"
 }
