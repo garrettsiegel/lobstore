@@ -22,25 +22,11 @@
       "author": "0isone"
     },
     {
-      "slug": "0juano/bondterminal-x402",
-      "name": "Bondterminal X402",
-      "description": "By 0juano",
-      "category": "Other",
-      "author": "0juano"
-    },
-    {
       "slug": "0x00000003/douyin-cover-builder",
       "name": "Douyin Cover Builder",
       "description": "By 0x00000003",
       "category": "Frontend",
       "author": "0x00000003"
-    },
-    {
-      "slug": "0x5446/ohmytoken-tracker",
-      "name": "Ohmytoken Tracker",
-      "description": "By 0x5446",
-      "category": "Other",
-      "author": "0x5446"
     },
     {
       "slug": "0x7466/bw-cli",
@@ -90,13 +76,6 @@
       "description": "By 0xameer",
       "category": "DevOps",
       "author": "0xameer"
-    },
-    {
-      "slug": "0xardi/clawlett",
-      "name": "Clawlett",
-      "description": "By 0xardi",
-      "category": "Other",
-      "author": "0xardi"
     },
     {
       "slug": "0xbeekeeper/claw-diary",
@@ -358,25 +337,11 @@
       "author": "0xmythril"
     },
     {
-      "slug": "0xnb-dev/frame-builder",
-      "name": "Frame Builder",
-      "description": "By 0xnb-dev",
-      "category": "Frontend",
-      "author": "0xnb-dev"
-    },
-    {
       "slug": "0xnuminous/letterboxd-watchlist",
       "name": "Letterboxd Watchlist",
       "description": "By 0xnuminous",
       "category": "Other",
       "author": "0xnuminous"
-    },
-    {
-      "slug": "0xnyk/xint-rs",
-      "name": "Xint Rs",
-      "description": "By 0xnyk",
-      "category": "Other",
-      "author": "0xnyk"
     },
     {
       "slug": "0xnyk/xint",
@@ -680,13 +645,6 @@
       "author": "14-tr"
     },
     {
-      "slug": "1990huwei/websearchapi",
-      "name": "Websearchapi",
-      "description": "By 1990huwei",
-      "category": "Backend",
-      "author": "1990huwei"
-    },
-    {
       "slug": "1999azzar/cloudflare-manager",
       "name": "Cloudflare Manager",
       "description": "By 1999azzar",
@@ -836,13 +794,6 @@
     {
       "slug": "1kalin/afrexai-ad-ops",
       "name": "Afrexai Ad Ops",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
-      "slug": "1kalin/afrexai-agency-command-center",
-      "name": "Afrexai Agency Command Center",
       "description": "By 1kalin",
       "category": "AI & ML",
       "author": "1kalin"
@@ -1058,13 +1009,6 @@
       "author": "1kalin"
     },
     {
-      "slug": "1kalin/afrexai-claims-processing",
-      "name": "Afrexai Claims Processing",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
       "slug": "1kalin/afrexai-claude-code-production",
       "name": "Afrexai Claude Code Production",
       "description": "By 1kalin",
@@ -1156,20 +1100,6 @@
       "author": "1kalin"
     },
     {
-      "slug": "1kalin/afrexai-conversion-copywriter",
-      "name": "Afrexai Conversion Copywriter",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
-      "slug": "1kalin/afrexai-credit-control",
-      "name": "Afrexai Credit Control",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
       "slug": "1kalin/afrexai-crisis-comms",
       "name": "Afrexai Crisis Comms",
       "description": "By 1kalin",
@@ -1193,13 +1123,6 @@
     {
       "slug": "1kalin/afrexai-customer-journey",
       "name": "Afrexai Customer Journey",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
-      "slug": "1kalin/afrexai-customer-onboarding",
-      "name": "Afrexai Customer Onboarding",
       "description": "By 1kalin",
       "category": "AI & ML",
       "author": "1kalin"
@@ -1324,13 +1247,6 @@
       "author": "1kalin"
     },
     {
-      "slug": "1kalin/afrexai-devops-engine",
-      "name": "Afrexai Devops Engine",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
       "slug": "1kalin/afrexai-devrel-engine",
       "name": "Afrexai Devrel Engine",
       "description": "By 1kalin",
@@ -1347,13 +1263,6 @@
     {
       "slug": "1kalin/afrexai-django-production",
       "name": "Afrexai Django Production",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
-      "slug": "1kalin/afrexai-ecommerce-engine",
-      "name": "Afrexai Ecommerce Engine",
       "description": "By 1kalin",
       "category": "AI & ML",
       "author": "1kalin"
@@ -1464,13 +1373,6 @@
       "author": "1kalin"
     },
     {
-      "slug": "1kalin/afrexai-exit-planning",
-      "name": "Afrexai Exit Planning",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
       "slug": "1kalin/afrexai-exit-strategy",
       "name": "Afrexai Exit Strategy",
       "description": "By 1kalin",
@@ -1541,13 +1443,6 @@
       "author": "1kalin"
     },
     {
-      "slug": "1kalin/afrexai-fundraising-playbook",
-      "name": "Afrexai Fundraising Playbook",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
       "slug": "1kalin/afrexai-git-engineering",
       "name": "Afrexai Git Engineering",
       "description": "By 1kalin",
@@ -1578,13 +1473,6 @@
     {
       "slug": "1kalin/afrexai-gtm-strategy",
       "name": "Afrexai Gtm Strategy",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
-      "slug": "1kalin/afrexai-healthcare-compliance",
-      "name": "Afrexai Healthcare Compliance",
       "description": "By 1kalin",
       "category": "AI & ML",
       "author": "1kalin"
@@ -1709,13 +1597,6 @@
       "author": "1kalin"
     },
     {
-      "slug": "1kalin/afrexai-language-mastery",
-      "name": "Afrexai Language Mastery",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
       "slug": "1kalin/afrexai-lead-hunter",
       "name": "Afrexai Lead Hunter",
       "description": "By 1kalin",
@@ -1751,22 +1632,8 @@
       "author": "1kalin"
     },
     {
-      "slug": "1kalin/afrexai-liquor-compliance",
-      "name": "Afrexai Liquor Compliance",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
       "slug": "1kalin/afrexai-logistics-optimizer",
       "name": "Afrexai Logistics Optimizer",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
-      "slug": "1kalin/afrexai-ma-diligence",
-      "name": "Afrexai Ma Diligence",
       "description": "By 1kalin",
       "category": "AI & ML",
       "author": "1kalin"
@@ -1849,13 +1716,6 @@
       "author": "1kalin"
     },
     {
-      "slug": "1kalin/afrexai-nodejs-production",
-      "name": "Afrexai Nodejs Production",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
       "slug": "1kalin/afrexai-observability-engine",
       "name": "Afrexai Observability Engine",
       "description": "By 1kalin",
@@ -1872,13 +1732,6 @@
     {
       "slug": "1kalin/afrexai-okr-engine",
       "name": "Afrexai Okr Engine",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
-      "slug": "1kalin/afrexai-okr-framework",
-      "name": "Afrexai Okr Framework",
       "description": "By 1kalin",
       "category": "AI & ML",
       "author": "1kalin"
@@ -4367,6 +4220,13 @@
       "description": "By adinvadim",
       "category": "Other",
       "author": "adinvadim"
+    },
+    {
+      "slug": "adiologydev/markdown-anything",
+      "name": "Markdown Anything",
+      "description": "By adiologydev",
+      "category": "Other",
+      "author": "adiologydev"
     },
     {
       "slug": "adisahani/phone-calling",
@@ -7551,6 +7411,13 @@
       "name": "Attestation Chain Auditor",
       "description": "By andyxinweiminicloud",
       "category": "AI & ML",
+      "author": "andyxinweiminicloud"
+    },
+    {
+      "slug": "andyxinweiminicloud/attestation-root-diversity-analyzer",
+      "name": "Attestation Root Diversity Analyzer",
+      "description": "By andyxinweiminicloud",
+      "category": "Testing",
       "author": "andyxinweiminicloud"
     },
     {
@@ -17520,9 +17387,51 @@
       "description": "By clawtrustmolts",
       "category": "Other",
       "author": "clawtrustmolts"
+    },
+    {
+      "slug": "clawtruth/clawtruth-skills",
+      "name": "Clawtruth Skills",
+      "description": "By clawtruth",
+      "category": "Other",
+      "author": "clawtruth"
+    },
+    {
+      "slug": "clawzai/bnb-chain",
+      "name": "Bnb Chain",
+      "description": "By clawzai",
+      "category": "AI & ML",
+      "author": "clawzai"
+    },
+    {
+      "slug": "clawzai/bnb-nft",
+      "name": "Bnb Nft",
+      "description": "By clawzai",
+      "category": "Web3",
+      "author": "clawzai"
+    },
+    {
+      "slug": "clementsutjiatma/niche",
+      "name": "Niche",
+      "description": "By clementsutjiatma",
+      "category": "Other",
+      "author": "clementsutjiatma"
+    },
+    {
+      "slug": "clementsutjiatma/poker-agent",
+      "name": "Poker Agent",
+      "description": "By clementsutjiatma",
+      "category": "Other",
+      "author": "clementsutjiatma"
+    },
+    {
+      "slug": "clinchcc/notesctl-skill-for-openclaw",
+      "name": "Notesctl Skill For Openclaw",
+      "description": "By clinchcc",
+      "category": "Productivity",
+      "author": "clinchcc"
     }
   ],
-  "total": 2503,
-  "lastUpdated": "2026-02-26T06:21:12.275Z",
+  "total": 2490,
+  "lastUpdated": "2026-02-27T06:17:41.504Z",
   "version": "1.1.0"
 }
