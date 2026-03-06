@@ -3361,6 +3361,13 @@
       "author": "47vigen"
     },
     {
+      "slug": "4ier/neo-browser",
+      "name": "Neo Browser",
+      "description": "By 4ier",
+      "category": "Other",
+      "author": "4ier"
+    },
+    {
       "slug": "4ormund/clawnads",
       "name": "Clawnads",
       "description": "By 4ormund",
@@ -3993,6 +4000,13 @@
     {
       "slug": "aaron-he-zhu/geo-content-optimizer",
       "name": "Geo Content Optimizer",
+      "description": "By aaron-he-zhu",
+      "category": "Other",
+      "author": "aaron-he-zhu"
+    },
+    {
+      "slug": "aaron-he-zhu/internal-linking-optimizer",
+      "name": "Internal Linking Optimizer",
       "description": "By aaron-he-zhu",
       "category": "Other",
       "author": "aaron-he-zhu"
@@ -4794,6 +4808,13 @@
       "description": "By accolver",
       "category": "Other",
       "author": "accolver"
+    },
+    {
+      "slug": "acczdy/self-learning",
+      "name": "Self Learning",
+      "description": "By acczdy",
+      "category": "Other",
+      "author": "acczdy"
     },
     {
       "slug": "acfranzen/glance",
@@ -5741,6 +5762,13 @@
       "author": "agentc22"
     },
     {
+      "slug": "agentfessions/agentfessions",
+      "name": "Agentfessions",
+      "description": "By agentfessions",
+      "category": "Other",
+      "author": "agentfessions"
+    },
+    {
       "slug": "agentmilindu/zulk-short-url-skill",
       "name": "Zulk Short Url Skill",
       "description": "By agentmilindu",
@@ -6308,6 +6336,13 @@
       "author": "aipoch-ai"
     },
     {
+      "slug": "airborneeagle/muster",
+      "name": "Muster",
+      "description": "By airborneeagle",
+      "category": "Other",
+      "author": "airborneeagle"
+    },
+    {
       "slug": "airclear/bmad-brainstorming-coach",
       "name": "Bmad Brainstorming Coach",
       "description": "By airclear",
@@ -6842,6 +6877,20 @@
     {
       "slug": "aiwithabidi/model-intel-pro",
       "name": "Model Intel Pro",
+      "description": "By aiwithabidi",
+      "category": "Other",
+      "author": "aiwithabidi"
+    },
+    {
+      "slug": "aiwithabidi/openfec",
+      "name": "Openfec",
+      "description": "By aiwithabidi",
+      "category": "Other",
+      "author": "aiwithabidi"
+    },
+    {
+      "slug": "aiwithabidi/realtor",
+      "name": "Realtor",
       "description": "By aiwithabidi",
       "category": "Other",
       "author": "aiwithabidi"
@@ -7575,6 +7624,13 @@
       "author": "alexanys"
     },
     {
+      "slug": "alexbrc20/news-sentiment",
+      "name": "News Sentiment",
+      "description": "By alexbrc20",
+      "category": "Other",
+      "author": "alexbrc20"
+    },
+    {
       "slug": "alexdavidswift/google-jules-cli",
       "name": "Google Jules Cli",
       "description": "By alexdavidswift",
@@ -7976,6 +8032,13 @@
     {
       "slug": "alirezarezvani/ceo-advisor",
       "name": "Ceo Advisor",
+      "description": "By alirezarezvani",
+      "category": "Other",
+      "author": "alirezarezvani"
+    },
+    {
+      "slug": "alirezarezvani/ciso-advisor",
+      "name": "Ciso Advisor",
       "description": "By alirezarezvani",
       "category": "Other",
       "author": "alirezarezvani"
@@ -9689,6 +9752,20 @@
       "author": "angelstreet"
     },
     {
+      "slug": "angelstreet/smoobu",
+      "name": "Smoobu",
+      "description": "By angelstreet",
+      "category": "Other",
+      "author": "angelstreet"
+    },
+    {
+      "slug": "angryjay91/agent-earth",
+      "name": "Agent Earth",
+      "description": "By angryjay91",
+      "category": "Other",
+      "author": "angryjay91"
+    },
+    {
       "slug": "angusbezzina/gpu-cli",
       "name": "Gpu Cli",
       "description": "By angusbezzina",
@@ -10870,6 +10947,27 @@
       "description": "By arbengine",
       "category": "AI & ML",
       "author": "arbengine"
+    },
+    {
+      "slug": "arberx/aeo-audit",
+      "name": "Aeo Audit",
+      "description": "By arberx",
+      "category": "Other",
+      "author": "arberx"
+    },
+    {
+      "slug": "arberx/aeo-schema-validate",
+      "name": "Aeo Schema Validate",
+      "description": "By arberx",
+      "category": "Other",
+      "author": "arberx"
+    },
+    {
+      "slug": "arberx/compliance-officer",
+      "name": "Compliance Officer",
+      "description": "By arberx",
+      "category": "Other",
+      "author": "arberx"
     },
     {
       "slug": "arbiger/kb-collector",
@@ -15590,6 +15688,20 @@
       "author": "bo170814"
     },
     {
+      "slug": "bob-z-pro/polymarket-arbitrage-pro",
+      "name": "Polymarket Arbitrage Pro",
+      "description": "By bob-z-pro",
+      "category": "Other",
+      "author": "bob-z-pro"
+    },
+    {
+      "slug": "bobbyg603/chart-splat",
+      "name": "Chart Splat",
+      "description": "By bobbyg603",
+      "category": "Other",
+      "author": "bobbyg603"
+    },
+    {
       "slug": "bobbyradford/openspec-workflow",
       "name": "Openspec Workflow",
       "description": "By bobbyradford",
@@ -16395,6 +16507,13 @@
       "author": "braydoncoyer"
     },
     {
+      "slug": "breckengan/find-skill",
+      "name": "Find Skill",
+      "description": "By breckengan",
+      "category": "Other",
+      "author": "breckengan"
+    },
+    {
       "slug": "breezezephyr/session-memory-workspace",
       "name": "Session Memory Workspace",
       "description": "By breezezephyr",
@@ -16568,268 +16687,9 @@
       "description": "By brettcleary",
       "category": "Other",
       "author": "brettcleary"
-    },
-    {
-      "slug": "brettinhere/codedna",
-      "name": "Codedna",
-      "description": "By brettinhere",
-      "category": "Other",
-      "author": "brettinhere"
-    },
-    {
-      "slug": "brettinhere/polymarket-autotrader",
-      "name": "Polymarket Autotrader",
-      "description": "By brettinhere",
-      "category": "Other",
-      "author": "brettinhere"
-    },
-    {
-      "slug": "brian-mwirigi/codesession",
-      "name": "Codesession",
-      "description": "By brian-mwirigi",
-      "category": "Other",
-      "author": "brian-mwirigi"
-    },
-    {
-      "slug": "briancolinger/aws-ecs-monitor",
-      "name": "Aws Ecs Monitor",
-      "description": "By briancolinger",
-      "category": "DevOps",
-      "author": "briancolinger"
-    },
-    {
-      "slug": "briancolinger/dreaming",
-      "name": "Dreaming",
-      "description": "By briancolinger",
-      "category": "Other",
-      "author": "briancolinger"
-    },
-    {
-      "slug": "briancolinger/email-triage",
-      "name": "Email Triage",
-      "description": "By briancolinger",
-      "category": "AI & ML",
-      "author": "briancolinger"
-    },
-    {
-      "slug": "briancolinger/pr-reviewer",
-      "name": "Pr Reviewer",
-      "description": "By briancolinger",
-      "category": "Other",
-      "author": "briancolinger"
-    },
-    {
-      "slug": "brianleach/capmetro-skill",
-      "name": "Capmetro Skill",
-      "description": "By brianleach",
-      "category": "Other",
-      "author": "brianleach"
-    },
-    {
-      "slug": "brianleach/cta",
-      "name": "Cta",
-      "description": "By brianleach",
-      "category": "Other",
-      "author": "brianleach"
-    },
-    {
-      "slug": "brianleach/metra",
-      "name": "Metra",
-      "description": "By brianleach",
-      "category": "Other",
-      "author": "brianleach"
-    },
-    {
-      "slug": "brianleach/mta",
-      "name": "Mta",
-      "description": "By brianleach",
-      "category": "Other",
-      "author": "brianleach"
-    },
-    {
-      "slug": "brianleach/sxsw-skill",
-      "name": "Sxsw Skill",
-      "description": "By brianleach",
-      "category": "Other",
-      "author": "brianleach"
-    },
-    {
-      "slug": "brianleach/tfl",
-      "name": "Tfl",
-      "description": "By brianleach",
-      "category": "Other",
-      "author": "brianleach"
-    },
-    {
-      "slug": "brianlu365ai/x-kindle",
-      "name": "X Kindle",
-      "description": "By brianlu365ai",
-      "category": "Other",
-      "author": "brianlu365ai"
-    },
-    {
-      "slug": "brianlu365ai/x-to-kindle",
-      "name": "X To Kindle",
-      "description": "By brianlu365ai",
-      "category": "Other",
-      "author": "brianlu365ai"
-    },
-    {
-      "slug": "brianppetty/agresource",
-      "name": "Agresource",
-      "description": "By brianppetty",
-      "category": "Other",
-      "author": "brianppetty"
-    },
-    {
-      "slug": "brianppetty/farmos-equipment",
-      "name": "Farmos Equipment",
-      "description": "By brianppetty",
-      "category": "Frontend",
-      "author": "brianppetty"
-    },
-    {
-      "slug": "brianppetty/farmos-finance",
-      "name": "Farmos Finance",
-      "description": "By brianppetty",
-      "category": "Other",
-      "author": "brianppetty"
-    },
-    {
-      "slug": "brianppetty/farmos-land-portfolio",
-      "name": "Farmos Land Portfolio",
-      "description": "By brianppetty",
-      "category": "Other",
-      "author": "brianppetty"
-    },
-    {
-      "slug": "brianppetty/farmos-observations",
-      "name": "Farmos Observations",
-      "description": "By brianppetty",
-      "category": "Other",
-      "author": "brianppetty"
-    },
-    {
-      "slug": "brianppetty/farmos-tasks",
-      "name": "Farmos Tasks",
-      "description": "By brianppetty",
-      "category": "Productivity",
-      "author": "brianppetty"
-    },
-    {
-      "slug": "brianppetty/farmos-weather",
-      "name": "Farmos Weather",
-      "description": "By brianppetty",
-      "category": "Other",
-      "author": "brianppetty"
-    },
-    {
-      "slug": "brianppetty/farmos-workforce",
-      "name": "Farmos Workforce",
-      "description": "By brianppetty",
-      "category": "Other",
-      "author": "brianppetty"
-    },
-    {
-      "slug": "brianrwagner/brw-ai-discoverability-audit",
-      "name": "Brw Ai Discoverability Audit",
-      "description": "By brianrwagner",
-      "category": "AI & ML",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-cold-outreach-sequence",
-      "name": "Brw Cold Outreach Sequence",
-      "description": "By brianrwagner",
-      "category": "Other",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-content-idea-generator",
-      "name": "Brw Content Idea Generator",
-      "description": "By brianrwagner",
-      "category": "Other",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-homepage-audit",
-      "name": "Brw Homepage Audit",
-      "description": "By brianrwagner",
-      "category": "Other",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-linkedin-authority-builder",
-      "name": "Brw Linkedin Authority Builder",
-      "description": "By brianrwagner",
-      "category": "Frontend",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-linkedin-profile-optimizer",
-      "name": "Brw Linkedin Profile Optimizer",
-      "description": "By brianrwagner",
-      "category": "Other",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-newsletter-creation-curation",
-      "name": "Brw Newsletter Creation Curation",
-      "description": "By brianrwagner",
-      "category": "Other",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-plan-my-day",
-      "name": "Brw Plan My Day",
-      "description": "By brianrwagner",
-      "category": "Other",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-positioning-basics",
-      "name": "Brw Positioning Basics",
-      "description": "By brianrwagner",
-      "category": "Other",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/brw-testimonial-collector",
-      "name": "Brw Testimonial Collector",
-      "description": "By brianrwagner",
-      "category": "Testing",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "brianrwagner/voice-matched-content-system",
-      "name": "Voice Matched Content System",
-      "description": "By brianrwagner",
-      "category": "Other",
-      "author": "brianrwagner"
-    },
-    {
-      "slug": "briantanthony/vaibot-guard",
-      "name": "Vaibot Guard",
-      "description": "By briantanthony",
-      "category": "AI & ML",
-      "author": "briantanthony"
-    },
-    {
-      "slug": "brianzhibo-design/realworldclaw",
-      "name": "Realworldclaw",
-      "description": "By brianzhibo-design",
-      "category": "Other",
-      "author": "brianzhibo-design"
-    },
-    {
-      "slug": "brightween/multi-task",
-      "name": "Multi Task",
-      "description": "By brightween",
-      "category": "Productivity",
-      "author": "brightween"
     }
   ],
-  "total": 2404,
-  "lastUpdated": "2026-03-05T06:43:12.475Z",
+  "total": 2384,
+  "lastUpdated": "2026-03-06T06:40:37.493Z",
   "version": "1.1.0"
 }
