@@ -575,6 +575,13 @@
       "author": "0xnuminous"
     },
     {
+      "slug": "0xnyk/xint-rs",
+      "name": "Xint Rs",
+      "description": "By 0xnyk",
+      "category": "Other",
+      "author": "0xnyk"
+    },
+    {
       "slug": "0xnyk/xint",
       "name": "Xint",
       "description": "By 0xnyk",
@@ -4040,6 +4047,13 @@
       "author": "aahuaxu"
     },
     {
+      "slug": "aaigotchi/aavegotchi-traits",
+      "name": "Aavegotchi Traits",
+      "description": "By aaigotchi",
+      "category": "AI & ML",
+      "author": "aaigotchi"
+    },
+    {
       "slug": "aaigotchi/gotchi-channeling",
       "name": "Gotchi Channeling",
       "description": "By aaigotchi",
@@ -6054,6 +6068,13 @@
       "description": "By agentfessions",
       "category": "Other",
       "author": "agentfessions"
+    },
+    {
+      "slug": "agenticio/todo",
+      "name": "Todo",
+      "description": "By agenticio",
+      "category": "Productivity",
+      "author": "agenticio"
     },
     {
       "slug": "agentmilindu/zulk-short-url-skill",
@@ -8464,6 +8485,13 @@
       "author": "alexyuui"
     },
     {
+      "slug": "alfaromeo9527/article-summarizer",
+      "name": "Article Summarizer",
+      "description": "By alfaromeo9527",
+      "category": "Other",
+      "author": "alfaromeo9527"
+    },
+    {
       "slug": "alfathsyahrian/idx-scalper",
       "name": "Idx Scalper",
       "description": "By alfathsyahrian",
@@ -9638,6 +9666,13 @@
       "description": "By amanbhandula",
       "category": "Other",
       "author": "amanbhandula"
+    },
+    {
+      "slug": "amandaclarke61/venus-ble-vibrator",
+      "name": "Venus Ble Vibrator",
+      "description": "By amandaclarke61",
+      "category": "Other",
+      "author": "amandaclarke61"
     },
     {
       "slug": "amandiwakar/ai-sentinel",
@@ -16995,30 +17030,9 @@
       "description": "By bobbycats",
       "category": "Other",
       "author": "bobbycats"
-    },
-    {
-      "slug": "bobbyg603/chart-splat",
-      "name": "Chart Splat",
-      "description": "By bobbyg603",
-      "category": "Other",
-      "author": "bobbyg603"
-    },
-    {
-      "slug": "bobbyradford/openspec-workflow",
-      "name": "Openspec Workflow",
-      "description": "By bobbyradford",
-      "category": "Other",
-      "author": "bobbyradford"
-    },
-    {
-      "slug": "bobbyzzhao/gmail-1-0-6",
-      "name": "Gmail 1 0 6",
-      "description": "By bobbyzzhao",
-      "category": "AI & ML",
-      "author": "bobbyzzhao"
     }
   ],
-  "total": 2431,
-  "lastUpdated": "2026-03-07T06:32:46.154Z",
+  "total": 2433,
+  "lastUpdated": "2026-03-08T06:35:53.967Z",
   "version": "1.1.0"
 }
