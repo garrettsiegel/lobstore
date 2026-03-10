@@ -3592,6 +3592,13 @@
       "author": "502399493zjw-lgtm"
     },
     {
+      "slug": "505768069-rgb/adaptive-skill-factory",
+      "name": "Adaptive Skill Factory",
+      "description": "By 505768069-rgb",
+      "category": "Other",
+      "author": "505768069-rgb"
+    },
+    {
       "slug": "512z/yahooquery",
       "name": "Yahooquery",
       "description": "By 512z",
@@ -5984,6 +5991,13 @@
       "description": "By adroidian",
       "category": "Other",
       "author": "adroidian"
+    },
+    {
+      "slug": "adshrc/devboxes",
+      "name": "Devboxes",
+      "description": "By adshrc",
+      "category": "Other",
+      "author": "adshrc"
     },
     {
       "slug": "adsorgcn/ilang-compress",
@@ -8436,6 +8450,13 @@
       "author": "al1enjesus"
     },
     {
+      "slug": "al1enjesus/polyclawster",
+      "name": "Polyclawster",
+      "description": "By al1enjesus",
+      "category": "DevOps",
+      "author": "al1enjesus"
+    },
+    {
       "slug": "al1enjesus/wavespeed",
       "name": "Wavespeed",
       "description": "By al1enjesus",
@@ -9444,6 +9465,13 @@
       "author": "alirezarezvani"
     },
     {
+      "slug": "alirezarezvani/copy-editing",
+      "name": "Copy Editing",
+      "description": "By alirezarezvani",
+      "category": "Other",
+      "author": "alirezarezvani"
+    },
+    {
       "slug": "alirezarezvani/cpo-advisor",
       "name": "Cpo Advisor",
       "description": "By alirezarezvani",
@@ -9455,6 +9483,13 @@
       "name": "Cro Advisor",
       "description": "By alirezarezvani",
       "category": "Other",
+      "author": "alirezarezvani"
+    },
+    {
+      "slug": "alirezarezvani/cs-ai-seo",
+      "name": "Cs Ai Seo",
+      "description": "By alirezarezvani",
+      "category": "AI & ML",
       "author": "alirezarezvani"
     },
     {
@@ -9509,6 +9544,13 @@
     {
       "slug": "alirezarezvani/fda-consultant-specialist",
       "name": "Fda Consultant Specialist",
+      "description": "By alirezarezvani",
+      "category": "Other",
+      "author": "alirezarezvani"
+    },
+    {
+      "slug": "alirezarezvani/free-tool-strategy",
+      "name": "Free Tool Strategy",
       "description": "By alirezarezvani",
       "category": "Other",
       "author": "alirezarezvani"
@@ -11404,6 +11446,13 @@
       "author": "angiin"
     },
     {
+      "slug": "angjustinl/dedao-dl-skill",
+      "name": "Dedao Dl Skill",
+      "description": "By angjustinl",
+      "category": "Other",
+      "author": "angjustinl"
+    },
+    {
       "slug": "angjustinl/knowledge-forge",
       "name": "Knowledge Forge",
       "description": "By angjustinl",
@@ -12396,6 +12445,13 @@
       "description": "By antonelli182",
       "category": "Data",
       "author": "antonelli182"
+    },
+    {
+      "slug": "antonia-sz/vibe-coding-checker",
+      "name": "Vibe Coding Checker",
+      "description": "By antonia-sz",
+      "category": "Other",
+      "author": "antonia-sz"
     },
     {
       "slug": "antoniocirclemind/browser-smooth",
@@ -15366,6 +15422,13 @@
       "author": "axin7"
     },
     {
+      "slug": "axtonliu/obsidian-canvas-creator",
+      "name": "Obsidian Canvas Creator",
+      "description": "By axtonliu",
+      "category": "Other",
+      "author": "axtonliu"
+    },
+    {
       "slug": "axxs/openclaw-self-actualization",
       "name": "Openclaw Self Actualization",
       "description": "By axxs",
@@ -17499,37 +17562,9 @@
       "description": "By bkamuz",
       "category": "Other",
       "author": "bkamuz"
-    },
-    {
-      "slug": "bkrabach/amplifier-openclaw",
-      "name": "Amplifier Openclaw",
-      "description": "By bkrabach",
-      "category": "Other",
-      "author": "bkrabach"
-    },
-    {
-      "slug": "bkrigmo1/bookmark-intelligence",
-      "name": "Bookmark Intelligence",
-      "description": "By bkrigmo1",
-      "category": "Other",
-      "author": "bkrigmo1"
-    },
-    {
-      "slug": "blackcoffee111/nota-fiscal-paulistana",
-      "name": "Nota Fiscal Paulistana",
-      "description": "By blackcoffee111",
-      "category": "Other",
-      "author": "blackcoffee111"
-    },
-    {
-      "slug": "blackeuler/spawn-incubator",
-      "name": "Spawn Incubator",
-      "description": "By blackeuler",
-      "category": "Other",
-      "author": "blackeuler"
     }
   ],
-  "total": 2504,
-  "lastUpdated": "2026-03-09T06:21:50.232Z",
+  "total": 2509,
+  "lastUpdated": "2026-03-10T06:14:30.981Z",
   "version": "1.1.0"
 }
