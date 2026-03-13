@@ -400,6 +400,13 @@
       "author": "0xichigo"
     },
     {
+      "slug": "0xjims/polymarket-sports-edge",
+      "name": "Polymarket Sports Edge",
+      "description": "By 0xjims",
+      "category": "Other",
+      "author": "0xjims"
+    },
+    {
       "slug": "0xjordansg-yolo/ai-native-websearch-via-tavily-api-returns-concise-relevant-results-for-openclaw",
       "name": "Ai Native Websearch Via Tavily Api Returns Concise Relevant Results For Openclaw",
       "description": "By 0xjordansg-yolo",
@@ -3886,6 +3893,13 @@
       "author": "547895019"
     },
     {
+      "slug": "578499893/clean-desktop",
+      "name": "Clean Desktop",
+      "description": "By 578499893",
+      "category": "Other",
+      "author": "578499893"
+    },
+    {
       "slug": "5hanth/arbiter",
       "name": "Arbiter",
       "description": "By 5hanth",
@@ -3940,6 +3954,13 @@
       "description": "By 7010g",
       "category": "Other",
       "author": "7010g"
+    },
+    {
+      "slug": "727155455/frontend-doctor",
+      "name": "Frontend Doctor",
+      "description": "By 727155455",
+      "category": "Frontend",
+      "author": "727155455"
     },
     {
       "slug": "737999/gridtrx",
@@ -6035,6 +6056,13 @@
       "author": "addisonhellum"
     },
     {
+      "slug": "addoee/baozao-ma-jie-persona",
+      "name": "Baozao Ma Jie Persona",
+      "description": "By addoee",
+      "category": "Other",
+      "author": "addoee"
+    },
+    {
       "slug": "addogiavara-tech/auto-building",
       "name": "Auto Building",
       "description": "By addogiavara-tech",
@@ -7862,6 +7890,13 @@
       "author": "aikarjal"
     },
     {
+      "slug": "aileaile/claw-pet",
+      "name": "Claw Pet",
+      "description": "By aileaile",
+      "category": "Other",
+      "author": "aileaile"
+    },
+    {
       "slug": "ailexminecraft7/aulifox",
       "name": "Aulifox",
       "description": "By ailexminecraft7",
@@ -9211,6 +9246,13 @@
       "description": "By akshatgada",
       "category": "Other",
       "author": "akshatgada"
+    },
+    {
+      "slug": "akshaymemane/proactive-daily-planner",
+      "name": "Proactive Daily Planner",
+      "description": "By akshaymemane",
+      "category": "AI & ML",
+      "author": "akshaymemane"
     },
     {
       "slug": "aktheknight/audio-transcribe",
@@ -10634,6 +10676,13 @@
       "author": "alirezarezvani"
     },
     {
+      "slug": "alirezarezvani/database-designer",
+      "name": "Database Designer",
+      "description": "By alirezarezvani",
+      "category": "Data",
+      "author": "alirezarezvani"
+    },
+    {
       "slug": "alirezarezvani/database-schema-designer",
       "name": "Database Schema Designer",
       "description": "By alirezarezvani",
@@ -10972,6 +11021,13 @@
     {
       "slug": "alirezarezvani/quality-manager-qms-iso13485",
       "name": "Quality Manager Qms Iso13485",
+      "description": "By alirezarezvani",
+      "category": "Other",
+      "author": "alirezarezvani"
+    },
+    {
+      "slug": "alirezarezvani/rag-architect",
+      "name": "Rag Architect",
       "description": "By alirezarezvani",
       "category": "Other",
       "author": "alirezarezvani"
@@ -11598,6 +11654,13 @@
       "description": "By alphalpha7",
       "category": "AI & ML",
       "author": "alphalpha7"
+    },
+    {
+      "slug": "alpzhang/industry-news-collector",
+      "name": "Industry News Collector",
+      "description": "By alpzhang",
+      "category": "Other",
+      "author": "alpzhang"
     },
     {
       "slug": "alslrl/moltpixel",
@@ -12655,6 +12718,41 @@
       "description": "By andythemartketing",
       "category": "Other",
       "author": "andythemartketing"
+    },
+    {
+      "slug": "andywilliams/dwlf",
+      "name": "Dwlf",
+      "description": "By andywilliams",
+      "category": "Other",
+      "author": "andywilliams"
+    },
+    {
+      "slug": "andyxcg/agricultural-output-forecasting",
+      "name": "Agricultural Output Forecasting",
+      "description": "By andyxcg",
+      "category": "Other",
+      "author": "andyxcg"
+    },
+    {
+      "slug": "andyxcg/drug-safety-review",
+      "name": "Drug Safety Review",
+      "description": "By andyxcg",
+      "category": "Other",
+      "author": "andyxcg"
+    },
+    {
+      "slug": "andyxcg/intelligent-triage-symptom-analysis",
+      "name": "Intelligent Triage Symptom Analysis",
+      "description": "By andyxcg",
+      "category": "Other",
+      "author": "andyxcg"
+    },
+    {
+      "slug": "andyxcg/medical-record-structurer",
+      "name": "Medical Record Structurer",
+      "description": "By andyxcg",
+      "category": "Other",
+      "author": "andyxcg"
     },
     {
       "slug": "andyxinweiminicloud/agent-card-signing-auditor",
@@ -13938,6 +14036,27 @@
       "author": "antefex"
     },
     {
+      "slug": "antgly/chromecast-with-google-tv",
+      "name": "Chromecast With Google Tv",
+      "description": "By antgly",
+      "category": "Other",
+      "author": "antgly"
+    },
+    {
+      "slug": "antgly/control-ikea-lightbulb",
+      "name": "Control Ikea Lightbulb",
+      "description": "By antgly",
+      "category": "Other",
+      "author": "antgly"
+    },
+    {
+      "slug": "antgly/daily-briefing",
+      "name": "Daily Briefing",
+      "description": "By antgly",
+      "category": "AI & ML",
+      "author": "antgly"
+    },
+    {
       "slug": "anthonyfrancis/daily-rhythm",
       "name": "Daily Rhythm",
       "description": "By anthonyfrancis",
@@ -14286,6 +14405,13 @@
       "description": "By apollostreetcompany",
       "category": "Other",
       "author": "apollostreetcompany"
+    },
+    {
+      "slug": "apozzi/mathproofs-claw",
+      "name": "Mathproofs Claw",
+      "description": "By apozzi",
+      "category": "Other",
+      "author": "apozzi"
     },
     {
       "slug": "appback/claw-clash",
@@ -18299,6 +18425,13 @@
       "author": "batype"
     },
     {
+      "slug": "bavxhack/create-videoconference",
+      "name": "Create Videoconference",
+      "description": "By bavxhack",
+      "category": "Other",
+      "author": "bavxhack"
+    },
+    {
       "slug": "bawerlacher/openrouter-image-generation",
       "name": "Openrouter Image Generation",
       "description": "By bawerlacher",
@@ -18383,6 +18516,41 @@
       "author": "bdwelle"
     },
     {
+      "slug": "be1human/multi-agent-cn",
+      "name": "Multi Agent Cn",
+      "description": "By be1human",
+      "category": "Other",
+      "author": "be1human"
+    },
+    {
+      "slug": "be1human/naruto-multi-agent-cn",
+      "name": "Naruto Multi Agent Cn",
+      "description": "By be1human",
+      "category": "Other",
+      "author": "be1human"
+    },
+    {
+      "slug": "be1human/naruto-multi-agent",
+      "name": "Naruto Multi Agent",
+      "description": "By be1human",
+      "category": "Other",
+      "author": "be1human"
+    },
+    {
+      "slug": "be1human/respond-first",
+      "name": "Respond First",
+      "description": "By be1human",
+      "category": "Other",
+      "author": "be1human"
+    },
+    {
+      "slug": "be1human/self-evolve",
+      "name": "Self Evolve",
+      "description": "By be1human",
+      "category": "Other",
+      "author": "be1human"
+    },
+    {
       "slug": "beameasy/snapog",
       "name": "Snapog",
       "description": "By beameasy",
@@ -18465,65 +18633,9 @@
       "description": "By belafontelabs",
       "category": "Other",
       "author": "belafontelabs"
-    },
-    {
-      "slug": "believe3344/voice-tts",
-      "name": "Voice Tts",
-      "description": "By believe3344",
-      "category": "Other",
-      "author": "believe3344"
-    },
-    {
-      "slug": "belkouche/vestige",
-      "name": "Vestige",
-      "description": "By belkouche",
-      "category": "Other",
-      "author": "belkouche"
-    },
-    {
-      "slug": "benangel65/akshare-finance",
-      "name": "Akshare Finance",
-      "description": "By benangel65",
-      "category": "Other",
-      "author": "benangel65"
-    },
-    {
-      "slug": "benangel65/bilibili-downloader",
-      "name": "Bilibili Downloader",
-      "description": "By benangel65",
-      "category": "Other",
-      "author": "benangel65"
-    },
-    {
-      "slug": "benangel65/design-style",
-      "name": "Design Style",
-      "description": "By benangel65",
-      "category": "Other",
-      "author": "benangel65"
-    },
-    {
-      "slug": "benbjurstrom/fiscal",
-      "name": "Fiscal",
-      "description": "By benbjurstrom",
-      "category": "Other",
-      "author": "benbjurstrom"
-    },
-    {
-      "slug": "bencpnd/lead-radar",
-      "name": "Lead Radar",
-      "description": "By bencpnd",
-      "category": "Other",
-      "author": "bencpnd"
-    },
-    {
-      "slug": "bendusy/mlx-local-inference",
-      "name": "Mlx Local Inference",
-      "description": "By bendusy",
-      "category": "AI & ML",
-      "author": "bendusy"
     }
   ],
-  "total": 2646,
-  "lastUpdated": "2026-03-12T06:17:57.113Z",
+  "total": 2662,
+  "lastUpdated": "2026-03-13T06:17:05.710Z",
   "version": "1.1.0"
 }
