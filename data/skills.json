@@ -1009,6 +1009,13 @@
       "author": "0xsoydev"
     },
     {
+      "slug": "0xspeter/klaviyo-1-0-4",
+      "name": "Klaviyo 1 0 4",
+      "description": "By 0xspeter",
+      "category": "Other",
+      "author": "0xspeter"
+    },
+    {
       "slug": "0xtimi/agent-squad",
       "name": "Agent Squad",
       "description": "By 0xtimi",
@@ -2306,13 +2313,6 @@
     {
       "slug": "1kalin/afrexai-hvac",
       "name": "Afrexai Hvac",
-      "description": "By 1kalin",
-      "category": "AI & ML",
-      "author": "1kalin"
-    },
-    {
-      "slug": "1kalin/afrexai-immigration-compliance",
-      "name": "Afrexai Immigration Compliance",
       "description": "By 1kalin",
       "category": "AI & ML",
       "author": "1kalin"
@@ -3620,27 +3620,6 @@
       "author": "2404589803"
     },
     {
-      "slug": "2426758093/auto-logger",
-      "name": "Auto Logger",
-      "description": "By 2426758093",
-      "category": "Other",
-      "author": "2426758093"
-    },
-    {
-      "slug": "2426758093/cross-session-memory",
-      "name": "Cross Session Memory",
-      "description": "By 2426758093",
-      "category": "Other",
-      "author": "2426758093"
-    },
-    {
-      "slug": "2426758093/feishu-message-fallback",
-      "name": "Feishu Message Fallback",
-      "description": "By 2426758093",
-      "category": "Other",
-      "author": "2426758093"
-    },
-    {
       "slug": "24601/agent-deep-research",
       "name": "Agent Deep Research",
       "description": "By 24601",
@@ -4138,6 +4117,13 @@
       "author": "52yuanchangxing"
     },
     {
+      "slug": "52yuanchangxing/changelog-curator",
+      "name": "Changelog Curator",
+      "description": "By 52yuanchangxing",
+      "category": "Other",
+      "author": "52yuanchangxing"
+    },
+    {
       "slug": "52yuanchangxing/claim-risk-auditor",
       "name": "Claim Risk Auditor",
       "description": "By 52yuanchangxing",
@@ -4152,8 +4138,22 @@
       "author": "52yuanchangxing"
     },
     {
+      "slug": "52yuanchangxing/clinic-visit-prep",
+      "name": "Clinic Visit Prep",
+      "description": "By 52yuanchangxing",
+      "category": "Other",
+      "author": "52yuanchangxing"
+    },
+    {
       "slug": "52yuanchangxing/collab-offer-polisher",
       "name": "Collab Offer Polisher",
+      "description": "By 52yuanchangxing",
+      "category": "Other",
+      "author": "52yuanchangxing"
+    },
+    {
+      "slug": "52yuanchangxing/compliance-evidence-assembler",
+      "name": "Compliance Evidence Assembler",
       "description": "By 52yuanchangxing",
       "category": "Other",
       "author": "52yuanchangxing"
@@ -4912,6 +4912,20 @@
       "name": "Sih Ai Photo Editor",
       "description": "By a3273283",
       "category": "AI & ML",
+      "author": "a3273283"
+    },
+    {
+      "slug": "a3273283/vwu-doubao",
+      "name": "Vwu Doubao",
+      "description": "By a3273283",
+      "category": "Other",
+      "author": "a3273283"
+    },
+    {
+      "slug": "a3273283/vwu-minimax",
+      "name": "Vwu Minimax",
+      "description": "By a3273283",
+      "category": "Other",
       "author": "a3273283"
     },
     {
@@ -7344,6 +7358,13 @@
       "author": "adsorgcn"
     },
     {
+      "slug": "adsorgcn/less-token",
+      "name": "Less Token",
+      "description": "By adsorgcn",
+      "category": "Other",
+      "author": "adsorgcn"
+    },
+    {
       "slug": "adspower/adspower-browser",
       "name": "Adspower Browser",
       "description": "By adspower",
@@ -7545,6 +7566,20 @@
       "description": "By afeef23",
       "category": "Other",
       "author": "afeef23"
+    },
+    {
+      "slug": "afk101/feishu-card-v2",
+      "name": "Feishu Card V2",
+      "description": "By afk101",
+      "category": "Other",
+      "author": "afk101"
+    },
+    {
+      "slug": "afrexai-cto/afrexai-business-process-audit",
+      "name": "Afrexai Business Process Audit",
+      "description": "By afrexai-cto",
+      "category": "AI & ML",
+      "author": "afrexai-cto"
     },
     {
       "slug": "afterself/afterself",
@@ -13378,6 +13413,13 @@
       "author": "amitaybohadana"
     },
     {
+      "slug": "amitbiswas1992/soho",
+      "name": "Soho",
+      "description": "By amitbiswas1992",
+      "category": "Other",
+      "author": "amitbiswas1992"
+    },
+    {
       "slug": "amittell/agentx-news",
       "name": "Agentx News",
       "description": "By amittell",
@@ -19144,65 +19186,9 @@
       "description": "By axtonliu",
       "category": "Other",
       "author": "axtonliu"
-    },
-    {
-      "slug": "axxs/openclaw-self-actualization",
-      "name": "Openclaw Self Actualization",
-      "description": "By axxs",
-      "category": "Other",
-      "author": "axxs"
-    },
-    {
-      "slug": "ayalili/env-secure-manager",
-      "name": "Env Secure Manager",
-      "description": "By ayalili",
-      "category": "Other",
-      "author": "ayalili"
-    },
-    {
-      "slug": "ayalili/multimodal-parser",
-      "name": "Multimodal Parser",
-      "description": "By ayalili",
-      "category": "Other",
-      "author": "ayalili"
-    },
-    {
-      "slug": "ayalili/resume-parser",
-      "name": "Resume Parser",
-      "description": "By ayalili",
-      "category": "Other",
-      "author": "ayalili"
-    },
-    {
-      "slug": "ayalili/smart-memory-manager",
-      "name": "Smart Memory Manager",
-      "description": "By ayalili",
-      "category": "Other",
-      "author": "ayalili"
-    },
-    {
-      "slug": "ayalili/stream-formatter",
-      "name": "Stream Formatter",
-      "description": "By ayalili",
-      "category": "Other",
-      "author": "ayalili"
-    },
-    {
-      "slug": "ayalili/tool-call-retry",
-      "name": "Tool Call Retry",
-      "description": "By ayalili",
-      "category": "Other",
-      "author": "ayalili"
-    },
-    {
-      "slug": "ayangai/three-shrimp-collab",
-      "name": "Three Shrimp Collab",
-      "description": "By ayangai",
-      "category": "Other",
-      "author": "ayangai"
     }
   ],
-  "total": 2743,
-  "lastUpdated": "2026-03-15T06:20:51.334Z",
+  "total": 2741,
+  "lastUpdated": "2026-03-16T06:32:22.422Z",
   "version": "1.1.0"
 }
