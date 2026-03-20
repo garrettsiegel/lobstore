@@ -1436,6 +1436,13 @@
       "author": "15349185792"
     },
     {
+      "slug": "1580021414-afk/xiaoqian-systems-thinking",
+      "name": "Xiaoqian Systems Thinking",
+      "description": "By 1580021414-afk",
+      "category": "Other",
+      "author": "1580021414-afk"
+    },
+    {
       "slug": "15910701838/axure-prototype-generator",
       "name": "Axure Prototype Generator",
       "description": "By 15910701838",
@@ -5300,6 +5307,13 @@
       "author": "52yuanchangxing"
     },
     {
+      "slug": "52yuanchangxing/skill-install-checker",
+      "name": "Skill Install Checker",
+      "description": "By 52yuanchangxing",
+      "category": "Other",
+      "author": "52yuanchangxing"
+    },
+    {
       "slug": "52yuanchangxing/sop-factory",
       "name": "Sop Factory",
       "description": "By 52yuanchangxing",
@@ -5508,6 +5522,13 @@
       "description": "By 77spongebob",
       "category": "Other",
       "author": "77spongebob"
+    },
+    {
+      "slug": "786793119/emotion-memory-assistant",
+      "name": "Emotion Memory Assistant",
+      "description": "By 786793119",
+      "category": "Other",
+      "author": "786793119"
     },
     {
       "slug": "7d-codes/memory-pill",
@@ -8531,6 +8552,13 @@
       "name": "Nanoclaw Ai Assistant",
       "description": "By adisinghstudent",
       "category": "AI & ML",
+      "author": "adisinghstudent"
+    },
+    {
+      "slug": "adisinghstudent/netryx-street-level-geolocation",
+      "name": "Netryx Street Level Geolocation",
+      "description": "By adisinghstudent",
+      "category": "Other",
       "author": "adisinghstudent"
     },
     {
@@ -12258,13 +12286,6 @@
       "author": "ajaxhe"
     },
     {
-      "slug": "ajaxhe/lexiang-skill",
-      "name": "Lexiang Skill",
-      "description": "By ajaxhe",
-      "category": "Other",
-      "author": "ajaxhe"
-    },
-    {
       "slug": "ajayk47/trugenai",
       "name": "Trugenai",
       "description": "By ajayk47",
@@ -12438,13 +12459,6 @@
       "description": "By aka-anoop",
       "category": "Other",
       "author": "aka-anoop"
-    },
-    {
-      "slug": "akang943578/klingai-video",
-      "name": "Klingai Video",
-      "description": "By akang943578",
-      "category": "AI & ML",
-      "author": "akang943578"
     },
     {
       "slug": "akang943578/network-hot-topics",
@@ -13091,20 +13105,6 @@
       "author": "alex1389"
     },
     {
-      "slug": "alex1389/toggl-optimized",
-      "name": "Toggl Optimized",
-      "description": "By alex1389",
-      "category": "Other",
-      "author": "alex1389"
-    },
-    {
-      "slug": "alex1389/weather-location",
-      "name": "Weather Location",
-      "description": "By alex1389",
-      "category": "Other",
-      "author": "alex1389"
-    },
-    {
       "slug": "alex1389/weather-webcam-v2",
       "name": "Weather Webcam V2",
       "description": "By alex1389",
@@ -13649,13 +13649,6 @@
       "description": "By alexyuui",
       "category": "Other",
       "author": "alexyuui"
-    },
-    {
-      "slug": "alfaromeo9527/article-summarizer",
-      "name": "Article Summarizer",
-      "description": "By alfaromeo9527",
-      "category": "Other",
-      "author": "alfaromeo9527"
     },
     {
       "slug": "alfathsyahrian/idx-scalper",
@@ -15623,6 +15616,13 @@
       "description": "By alvinecarn",
       "category": "Other",
       "author": "alvinecarn"
+    },
+    {
+      "slug": "alvinhotro-nb/moltme",
+      "name": "Moltme",
+      "description": "By alvinhotro-nb",
+      "category": "Other",
+      "author": "alvinhotro-nb"
     },
     {
       "slug": "alvinperson/reddit-engagement",
@@ -17914,6 +17914,13 @@
       "author": "anna-claudette"
     },
     {
+      "slug": "anna4lucky-stack/adp-skill",
+      "name": "Adp Skill",
+      "description": "By anna4lucky-stack",
+      "category": "Other",
+      "author": "anna4lucky-stack"
+    },
+    {
       "slug": "annata/coinank-openapi",
       "name": "Coinank Openapi",
       "description": "By annata",
@@ -20201,156 +20208,9 @@
       "description": "By arubiku",
       "category": "Social & Media",
       "author": "arubiku"
-    },
-    {
-      "slug": "arulmozhiv/facebook-scraper",
-      "name": "Facebook Scraper",
-      "description": "By arulmozhiv",
-      "category": "Social & Media",
-      "author": "arulmozhiv"
-    },
-    {
-      "slug": "arulmozhiv/instagram-scraper",
-      "name": "Instagram Scraper",
-      "description": "By arulmozhiv",
-      "category": "Social & Media",
-      "author": "arulmozhiv"
-    },
-    {
-      "slug": "arulmozhiv/x-twitter-scraper",
-      "name": "X Twitter Scraper",
-      "description": "By arulmozhiv",
-      "category": "Social & Media",
-      "author": "arulmozhiv"
-    },
-    {
-      "slug": "arulmozhiv/youtube-scrapper",
-      "name": "Youtube Scrapper",
-      "description": "By arulmozhiv",
-      "category": "Social & Media",
-      "author": "arulmozhiv"
-    },
-    {
-      "slug": "arun-8687/deepwiki",
-      "name": "Deepwiki",
-      "description": "By arun-8687",
-      "category": "Other",
-      "author": "arun-8687"
-    },
-    {
-      "slug": "arun-8687/gemini-deep-research",
-      "name": "Gemini Deep Research",
-      "description": "By arun-8687",
-      "category": "Other",
-      "author": "arun-8687"
-    },
-    {
-      "slug": "arun-8687/linkedin-cli",
-      "name": "Linkedin Cli",
-      "description": "By arun-8687",
-      "category": "Other",
-      "author": "arun-8687"
-    },
-    {
-      "slug": "arun-8687/tavily-search",
-      "name": "Tavily Search",
-      "description": "By arun-8687",
-      "category": "Other",
-      "author": "arun-8687"
-    },
-    {
-      "slug": "arunnadarasa/asura",
-      "name": "Asura",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/digitalhealth",
-      "name": "Digitalhealth",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/elevenlabsclaw",
-      "name": "Elevenlabsclaw",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/krump",
-      "name": "Krump",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/krumpklaw",
-      "name": "Krumpklaw",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/krumpkraft",
-      "name": "Krumpkraft",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/krumpphysio",
-      "name": "Krumpphysio",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/krumpsocial",
-      "name": "Krumpsocial",
-      "description": "By arunnadarasa",
-      "category": "Social & Media",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/krumpverify",
-      "name": "Krumpverify",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/lovable",
-      "name": "Lovable",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/quantinuumclaw",
-      "name": "Quantinuumclaw",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/quantum",
-      "name": "Quantum",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
-    },
-    {
-      "slug": "arunnadarasa/swarm-coding-skill",
-      "name": "Swarm Coding Skill",
-      "description": "By arunnadarasa",
-      "category": "Other",
-      "author": "arunnadarasa"
     }
   ],
-  "total": 2907,
-  "lastUpdated": "2026-03-19T06:21:34.371Z",
+  "total": 2887,
+  "lastUpdated": "2026-03-20T06:17:47.678Z",
   "version": "1.1.0"
 }
