@@ -1205,6 +1205,20 @@
       "author": "10madh"
     },
     {
+      "slug": "10oss/skrape",
+      "name": "Skrape",
+      "description": "By 10oss",
+      "category": "Other",
+      "author": "10oss"
+    },
+    {
+      "slug": "10oss/skroller",
+      "name": "Skroller",
+      "description": "By 10oss",
+      "category": "Other",
+      "author": "10oss"
+    },
+    {
       "slug": "10sk/skrape",
       "name": "Skrape",
       "description": "By 10sk",
@@ -4397,6 +4411,13 @@
       "author": "36kr-com"
     },
     {
+      "slug": "36kr-com/36kr-intro",
+      "name": "36kr Intro",
+      "description": "By 36kr-com",
+      "category": "Other",
+      "author": "36kr-com"
+    },
+    {
       "slug": "372768498/xhs-content-creator",
       "name": "Xhs Content Creator",
       "description": "By 372768498",
@@ -5578,6 +5599,13 @@
       "description": "By 834948655",
       "category": "Other",
       "author": "834948655"
+    },
+    {
+      "slug": "839305939wang/feishu-bot-creator",
+      "name": "Feishu Bot Creator",
+      "description": "By 839305939wang",
+      "category": "Other",
+      "author": "839305939wang"
     },
     {
       "slug": "84191879/agent-group",
@@ -9470,6 +9498,13 @@
       "description": "By agent-deployments",
       "category": "Other",
       "author": "agent-deployments"
+    },
+    {
+      "slug": "agent3-666/agent3-hub",
+      "name": "Agent3 Hub",
+      "description": "By agent3-666",
+      "category": "Other",
+      "author": "agent3-666"
     },
     {
       "slug": "agentandbot-design/agents-manager",
@@ -15072,6 +15107,13 @@
       "author": "aliyunbot"
     },
     {
+      "slug": "all8ymyself/agent-census",
+      "name": "Agent Census",
+      "description": "By all8ymyself",
+      "category": "Other",
+      "author": "all8ymyself"
+    },
+    {
       "slug": "allanjeng/codecast",
       "name": "Codecast",
       "description": "By allanjeng",
@@ -15210,20 +15252,6 @@
       "description": "By almaas21",
       "category": "Other",
       "author": "almaas21"
-    },
-    {
-      "slug": "alohachen/has-privacy",
-      "name": "Has Privacy",
-      "description": "By alohachen",
-      "category": "Other",
-      "author": "alohachen"
-    },
-    {
-      "slug": "alohagrowkodil/openclaw-usage-dashboard",
-      "name": "Openclaw Usage Dashboard",
-      "description": "By alohagrowkodil",
-      "category": "Other",
-      "author": "alohagrowkodil"
     },
     {
       "slug": "alon-mini/careerforge-cli-skill",
@@ -15616,6 +15644,13 @@
       "description": "By alvinecarn",
       "category": "Other",
       "author": "alvinecarn"
+    },
+    {
+      "slug": "alvinhotro-nb/moltme-dating",
+      "name": "Moltme Dating",
+      "description": "By alvinhotro-nb",
+      "category": "Other",
+      "author": "alvinhotro-nb"
     },
     {
       "slug": "alvinhotro-nb/moltme",
@@ -16311,6 +16346,13 @@
       "author": "and3rn3t"
     },
     {
+      "slug": "anderskev/agent-architecture-analysis",
+      "name": "Agent Architecture Analysis",
+      "description": "By anderskev",
+      "category": "Other",
+      "author": "anderskev"
+    },
+    {
       "slug": "anderson-lu/md-ppt-generator",
       "name": "Md Ppt Generator",
       "description": "By anderson-lu",
@@ -16745,13 +16787,6 @@
       "author": "andyrong"
     },
     {
-      "slug": "andythemartketing/unione",
-      "name": "Unione",
-      "description": "By andythemartketing",
-      "category": "Other",
-      "author": "andythemartketing"
-    },
-    {
       "slug": "andywilliams/dwlf",
       "name": "Dwlf",
       "description": "By andywilliams",
@@ -17071,13 +17106,6 @@
       "name": "Ranking Of Claws",
       "description": "By angelstreet",
       "category": "DevOps",
-      "author": "angelstreet"
-    },
-    {
-      "slug": "angelstreet/smoobu",
-      "name": "Smoobu",
-      "description": "By angelstreet",
-      "category": "Other",
       "author": "angelstreet"
     },
     {
@@ -18719,6 +18747,13 @@
       "author": "anyjohn"
     },
     {
+      "slug": "anyjohn/akshare-zh",
+      "name": "Akshare Zh",
+      "description": "By anyjohn",
+      "category": "Other",
+      "author": "anyjohn"
+    },
+    {
       "slug": "anytao/pingcode-skills",
       "name": "Pingcode Skills",
       "description": "By anytao",
@@ -18777,6 +18812,13 @@
     {
       "slug": "aowind/sjht-doubao-image-gen",
       "name": "Sjht Doubao Image Gen",
+      "description": "By aowind",
+      "category": "Other",
+      "author": "aowind"
+    },
+    {
+      "slug": "aowind/sjht-ppt-delivery",
+      "name": "Sjht Ppt Delivery",
       "description": "By aowind",
       "category": "Other",
       "author": "aowind"
@@ -19839,6 +19881,13 @@
       "author": "aronchick"
     },
     {
+      "slug": "aronjanosch/sparkyfitness",
+      "name": "Sparkyfitness",
+      "description": "By aronjanosch",
+      "category": "Other",
+      "author": "aronjanosch"
+    },
+    {
       "slug": "aroooooy/xiaohua-self-improving",
       "name": "Xiaohua Self Improving",
       "description": "By aroooooy",
@@ -20117,100 +20166,9 @@
       "description": "By artvepa80",
       "category": "AI & ML",
       "author": "artvepa80"
-    },
-    {
-      "slug": "artwalker/cc",
-      "name": "Cc",
-      "description": "By artwalker",
-      "category": "Other",
-      "author": "artwalker"
-    },
-    {
-      "slug": "artwalker/claude-relay",
-      "name": "Claude Relay",
-      "description": "By artwalker",
-      "category": "AI & ML",
-      "author": "artwalker"
-    },
-    {
-      "slug": "artyomx33/cross-pollination-engine",
-      "name": "Cross Pollination Engine",
-      "description": "By artyomx33",
-      "category": "Other",
-      "author": "artyomx33"
-    },
-    {
-      "slug": "artyomx33/first-principles-decomposer",
-      "name": "First Principles Decomposer",
-      "description": "By artyomx33",
-      "category": "Other",
-      "author": "artyomx33"
-    },
-    {
-      "slug": "artyomx33/geo-optimizer",
-      "name": "Geo Optimizer",
-      "description": "By artyomx33",
-      "category": "Other",
-      "author": "artyomx33"
-    },
-    {
-      "slug": "artyomx33/inversion-strategist",
-      "name": "Inversion Strategist",
-      "description": "By artyomx33",
-      "category": "Other",
-      "author": "artyomx33"
-    },
-    {
-      "slug": "artyomx33/jtbd-analyzer",
-      "name": "Jtbd Analyzer",
-      "description": "By artyomx33",
-      "category": "Other",
-      "author": "artyomx33"
-    },
-    {
-      "slug": "artyomx33/mspot-generator",
-      "name": "Mspot Generator",
-      "description": "By artyomx33",
-      "category": "Other",
-      "author": "artyomx33"
-    },
-    {
-      "slug": "artyomx33/pre-mortem-analyst",
-      "name": "Pre Mortem Analyst",
-      "description": "By artyomx33",
-      "category": "Other",
-      "author": "artyomx33"
-    },
-    {
-      "slug": "artyomx33/reasoning-personas",
-      "name": "Reasoning Personas",
-      "description": "By artyomx33",
-      "category": "Other",
-      "author": "artyomx33"
-    },
-    {
-      "slug": "arubiku/mia-content-creator",
-      "name": "Mia Content Creator",
-      "description": "By arubiku",
-      "category": "Other",
-      "author": "arubiku"
-    },
-    {
-      "slug": "arubiku/mia-polymarket-trader",
-      "name": "Mia Polymarket Trader",
-      "description": "By arubiku",
-      "category": "Other",
-      "author": "arubiku"
-    },
-    {
-      "slug": "arubiku/mia-twitter-stealth",
-      "name": "Mia Twitter Stealth",
-      "description": "By arubiku",
-      "category": "Social & Media",
-      "author": "arubiku"
     }
   ],
-  "total": 2887,
-  "lastUpdated": "2026-03-20T06:17:47.678Z",
+  "total": 2881,
+  "lastUpdated": "2026-03-21T06:12:26.856Z",
   "version": "1.1.0"
 }
