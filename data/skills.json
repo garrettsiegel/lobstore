@@ -652,6 +652,13 @@
       "author": "0xjordansg-yolo"
     },
     {
+      "slug": "0xlaplaced/clawstars",
+      "name": "Clawstars",
+      "description": "By 0xlaplaced",
+      "category": "DevOps",
+      "author": "0xlaplaced"
+    },
+    {
       "slug": "0xlucasliao/bnbchain",
       "name": "Bnbchain",
       "description": "By 0xlucasliao",
@@ -10438,6 +10445,13 @@
       "author": "afrexai-cto"
     },
     {
+      "slug": "afrexai-cto/afrexai-painting-contractor",
+      "name": "Afrexai Painting Contractor",
+      "description": "By afrexai-cto",
+      "category": "AI & ML",
+      "author": "afrexai-cto"
+    },
+    {
       "slug": "afrexai-cto/afrexai-plumbing-operations",
       "name": "Afrexai Plumbing Operations",
       "description": "By afrexai-cto",
@@ -11647,6 +11661,13 @@
       "description": "By ai-headhunter",
       "category": "Other",
       "author": "ai-headhunter"
+    },
+    {
+      "slug": "ai-hub-admin/craftsman-agent-3d-generation",
+      "name": "Craftsman Agent 3d Generation",
+      "description": "By ai-hub-admin",
+      "category": "Other",
+      "author": "ai-hub-admin"
     },
     {
       "slug": "ai-lychee/doubao-seedream-seedance-skill",
@@ -16675,6 +16696,13 @@
       "author": "allentom"
     },
     {
+      "slug": "allenweisongzhou-cpu/property-valuatio-skill",
+      "name": "Property Valuatio Skill",
+      "description": "By allenweisongzhou-cpu",
+      "category": "Other",
+      "author": "allenweisongzhou-cpu"
+    },
+    {
       "slug": "allmightysauron/solax-cloud-api",
       "name": "Solax Cloud Api",
       "description": "By allmightysauron",
@@ -21153,37 +21181,9 @@
       "description": "By aramisfacchinetti",
       "category": "Other",
       "author": "aramisfacchinetti"
-    },
-    {
-      "slug": "arandich/clawzone",
-      "name": "Clawzone",
-      "description": "By arandich",
-      "category": "Other",
-      "author": "arandich"
-    },
-    {
-      "slug": "aranej/agency-guardian",
-      "name": "Agency Guardian",
-      "description": "By aranej",
-      "category": "Other",
-      "author": "aranej"
-    },
-    {
-      "slug": "aranej/clawd-docs-v2",
-      "name": "Clawd Docs V2",
-      "description": "By aranej",
-      "category": "Other",
-      "author": "aranej"
-    },
-    {
-      "slug": "araratdev/ezyhost",
-      "name": "Ezyhost",
-      "description": "By araratdev",
-      "category": "Other",
-      "author": "araratdev"
     }
   ],
   "total": 3026,
-  "lastUpdated": "2026-03-23T06:25:47.637Z",
+  "lastUpdated": "2026-03-24T06:23:12.524Z",
   "version": "1.1.0"
 }
