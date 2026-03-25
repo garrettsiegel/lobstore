@@ -29,6 +29,13 @@
       "author": "04551lh"
     },
     {
+      "slug": "05u/jiuwu-message",
+      "name": "Jiuwu Message",
+      "description": "By 05u",
+      "category": "Other",
+      "author": "05u"
+    },
+    {
       "slug": "0731coderlee-sudo/wechat-publisher",
       "name": "Wechat Publisher",
       "description": "By 0731coderlee-sudo",
@@ -381,6 +388,13 @@
     {
       "slug": "0xcjl/autoresearch-pro",
       "name": "Autoresearch Pro",
+      "description": "By 0xcjl",
+      "category": "Other",
+      "author": "0xcjl"
+    },
+    {
+      "slug": "0xcjl/browser-cdp",
+      "name": "Browser Cdp",
       "description": "By 0xcjl",
       "category": "Other",
       "author": "0xcjl"
@@ -4096,6 +4110,13 @@
       "author": "1ncludesteven"
     },
     {
+      "slug": "1ncludesteven/tsa",
+      "name": "Tsa",
+      "description": "By 1ncludesteven",
+      "category": "Other",
+      "author": "1ncludesteven"
+    },
+    {
       "slug": "1oid/txt-to-epub",
       "name": "Txt To Epub",
       "description": "By 1oid",
@@ -4465,6 +4486,20 @@
       "description": "By 271498019",
       "category": "Other",
       "author": "271498019"
+    },
+    {
+      "slug": "275254cl-hash/jd-price-history",
+      "name": "Jd Price History",
+      "description": "By 275254cl-hash",
+      "category": "Other",
+      "author": "275254cl-hash"
+    },
+    {
+      "slug": "275254cl-hash/xiaohongshu-analyzer",
+      "name": "Xiaohongshu Analyzer",
+      "description": "By 275254cl-hash",
+      "category": "Other",
+      "author": "275254cl-hash"
     },
     {
       "slug": "27555402-spec/cn-daily-tools",
@@ -5685,6 +5720,13 @@
       "author": "52yuanchangxing"
     },
     {
+      "slug": "52yuanchangxing/proposal-comparator",
+      "name": "Proposal Comparator",
+      "description": "By 52yuanchangxing",
+      "category": "Other",
+      "author": "52yuanchangxing"
+    },
+    {
       "slug": "52yuanchangxing/qa-scenario-synthesizer",
       "name": "Qa Scenario Synthesizer",
       "description": "By 52yuanchangxing",
@@ -5699,10 +5741,31 @@
       "author": "52yuanchangxing"
     },
     {
+      "slug": "52yuanchangxing/real-estate-showing-brief",
+      "name": "Real Estate Showing Brief",
+      "description": "By 52yuanchangxing",
+      "category": "Other",
+      "author": "52yuanchangxing"
+    },
+    {
+      "slug": "52yuanchangxing/receipt-expense-sorter",
+      "name": "Receipt Expense Sorter",
+      "description": "By 52yuanchangxing",
+      "category": "Other",
+      "author": "52yuanchangxing"
+    },
+    {
       "slug": "52yuanchangxing/receipt-expense-workbench",
       "name": "Receipt Expense Workbench",
       "description": "By 52yuanchangxing",
       "category": "Other",
+      "author": "52yuanchangxing"
+    },
+    {
+      "slug": "52yuanchangxing/recruiting-interview-kit",
+      "name": "Recruiting Interview Kit",
+      "description": "By 52yuanchangxing",
+      "category": "Frontend",
       "author": "52yuanchangxing"
     },
     {
@@ -6926,6 +6989,34 @@
     {
       "slug": "aaiccee/asr-file-transfer",
       "name": "Asr File Transfer",
+      "description": "By aaiccee",
+      "category": "Other",
+      "author": "aaiccee"
+    },
+    {
+      "slug": "aaiccee/chronic-disease-review",
+      "name": "Chronic Disease Review",
+      "description": "By aaiccee",
+      "category": "Other",
+      "author": "aaiccee"
+    },
+    {
+      "slug": "aaiccee/critical-disease-review",
+      "name": "Critical Disease Review",
+      "description": "By aaiccee",
+      "category": "Other",
+      "author": "aaiccee"
+    },
+    {
+      "slug": "aaiccee/med-record-gen",
+      "name": "Med Record Gen",
+      "description": "By aaiccee",
+      "category": "Other",
+      "author": "aaiccee"
+    },
+    {
+      "slug": "aaiccee/med-record-struct",
+      "name": "Med Record Struct",
       "description": "By aaiccee",
       "category": "Other",
       "author": "aaiccee"
@@ -8268,6 +8359,13 @@
       "author": "acczdy"
     },
     {
+      "slug": "aces1up/redditrank",
+      "name": "Redditrank",
+      "description": "By aces1up",
+      "category": "Other",
+      "author": "aces1up"
+    },
+    {
       "slug": "acfff/retire-age",
       "name": "Retire Age",
       "description": "By acfff",
@@ -9234,6 +9332,13 @@
       "author": "adisinghstudent"
     },
     {
+      "slug": "adisinghstudent/context-mode-mcp",
+      "name": "Context Mode Mcp",
+      "description": "By adisinghstudent",
+      "category": "Other",
+      "author": "adisinghstudent"
+    },
+    {
       "slug": "adisinghstudent/copaw-ai-assistant",
       "name": "Copaw Ai Assistant",
       "description": "By adisinghstudent",
@@ -9322,6 +9427,13 @@
       "name": "Goal Driven Multi Agent",
       "description": "By adisinghstudent",
       "category": "Other",
+      "author": "adisinghstudent"
+    },
+    {
+      "slug": "adisinghstudent/jkvideo-bilibili-react-native",
+      "name": "Jkvideo Bilibili React Native",
+      "description": "By adisinghstudent",
+      "category": "Frontend",
       "author": "adisinghstudent"
     },
     {
@@ -9439,6 +9551,13 @@
     {
       "slug": "adisinghstudent/netryx-street-level-geolocation",
       "name": "Netryx Street Level Geolocation",
+      "description": "By adisinghstudent",
+      "category": "Other",
+      "author": "adisinghstudent"
+    },
+    {
+      "slug": "adisinghstudent/nightingale-karaoke",
+      "name": "Nightingale Karaoke",
       "description": "By adisinghstudent",
       "category": "Other",
       "author": "adisinghstudent"
@@ -9637,6 +9756,13 @@
       "name": "Star Office Ui Pixel Dashboard",
       "description": "By adisinghstudent",
       "category": "Frontend",
+      "author": "adisinghstudent"
+    },
+    {
+      "slug": "adisinghstudent/taiwan-md-knowledge-base",
+      "name": "Taiwan Md Knowledge Base",
+      "description": "By adisinghstudent",
+      "category": "AI & ML",
       "author": "adisinghstudent"
     },
     {
@@ -11968,6 +12094,13 @@
       "name": "Edgeone Clawscan",
       "description": "By aigsec",
       "category": "DevOps",
+      "author": "aigsec"
+    },
+    {
+      "slug": "aigsec/edgeone-skill-scanner",
+      "name": "Edgeone Skill Scanner",
+      "description": "By aigsec",
+      "category": "Other",
       "author": "aigsec"
     },
     {
@@ -17620,6 +17753,13 @@
       "author": "amian"
     },
     {
+      "slug": "amior1024/openai-auth-switcher-public",
+      "name": "Openai Auth Switcher Public",
+      "description": "By amior1024",
+      "category": "AI & ML",
+      "author": "amior1024"
+    },
+    {
       "slug": "amir-ag/clawhub-skill-scanner",
       "name": "Clawhub Skill Scanner",
       "description": "By amir-ag",
@@ -18978,6 +19118,13 @@
       "author": "angjustinl"
     },
     {
+      "slug": "angpenghian/agenttimes",
+      "name": "Agenttimes",
+      "description": "By angpenghian",
+      "category": "Other",
+      "author": "angpenghian"
+    },
+    {
       "slug": "angpenghian/openpod",
       "name": "Openpod",
       "description": "By angpenghian",
@@ -19074,6 +19221,13 @@
       "description": "By anhducna",
       "category": "Other",
       "author": "anhducna"
+    },
+    {
+      "slug": "anian-skye/pdf-learning",
+      "name": "Pdf Learning",
+      "description": "By anian-skye",
+      "category": "Other",
+      "author": "anian-skye"
     },
     {
       "slug": "anichikage/yollomi",
@@ -20833,6 +20987,13 @@
       "author": "aowind"
     },
     {
+      "slug": "apachei/procurement-helper",
+      "name": "Procurement Helper",
+      "description": "By apachei",
+      "category": "Other",
+      "author": "apachei"
+    },
+    {
       "slug": "apacheua/maritime-watch",
       "name": "Maritime Watch",
       "description": "By apacheua",
@@ -21097,93 +21258,9 @@
       "description": "By aquarius-wing",
       "category": "Other",
       "author": "aquarius-wing"
-    },
-    {
-      "slug": "aquaskyline/biorxiv-openclaw-skill",
-      "name": "Biorxiv Openclaw Skill",
-      "description": "By aquaskyline",
-      "category": "Other",
-      "author": "aquaskyline"
-    },
-    {
-      "slug": "aqzzzqa/oceanengine-ads",
-      "name": "Oceanengine Ads",
-      "description": "By aqzzzqa",
-      "category": "Other",
-      "author": "aqzzzqa"
-    },
-    {
-      "slug": "ar3ss12/soul-architect-v1",
-      "name": "Soul Architect V1",
-      "description": "By ar3ss12",
-      "category": "Other",
-      "author": "ar3ss12"
-    },
-    {
-      "slug": "araa47/ez-google",
-      "name": "Ez Google",
-      "description": "By araa47",
-      "category": "Other",
-      "author": "araa47"
-    },
-    {
-      "slug": "araa47/ez-unifi",
-      "name": "Ez Unifi",
-      "description": "By araa47",
-      "category": "Other",
-      "author": "araa47"
-    },
-    {
-      "slug": "araa47/gemini-stt",
-      "name": "Gemini Stt",
-      "description": "By araa47",
-      "category": "Other",
-      "author": "araa47"
-    },
-    {
-      "slug": "araa47/local-stt",
-      "name": "Local Stt",
-      "description": "By araa47",
-      "category": "Other",
-      "author": "araa47"
-    },
-    {
-      "slug": "araa47/local-whisper",
-      "name": "Local Whisper",
-      "description": "By araa47",
-      "category": "Other",
-      "author": "araa47"
-    },
-    {
-      "slug": "araa47/md-2-pdf",
-      "name": "Md 2 Pdf",
-      "description": "By araa47",
-      "category": "Other",
-      "author": "araa47"
-    },
-    {
-      "slug": "araa47/vizclaw",
-      "name": "Vizclaw",
-      "description": "By araa47",
-      "category": "Other",
-      "author": "araa47"
-    },
-    {
-      "slug": "arakichanxd/claw-sync",
-      "name": "Claw Sync",
-      "description": "By arakichanxd",
-      "category": "Other",
-      "author": "arakichanxd"
-    },
-    {
-      "slug": "aramisfacchinetti/a2a-delegation-setup",
-      "name": "A2a Delegation Setup",
-      "description": "By aramisfacchinetti",
-      "category": "Other",
-      "author": "aramisfacchinetti"
     }
   ],
-  "total": 3026,
-  "lastUpdated": "2026-03-24T06:23:12.524Z",
+  "total": 3037,
+  "lastUpdated": "2026-03-25T06:23:29.995Z",
   "version": "1.1.0"
 }
