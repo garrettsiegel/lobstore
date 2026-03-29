@@ -1737,6 +1737,20 @@
       "author": "14686039"
     },
     {
+      "slug": "1477009639zw-blip/betabacktestr",
+      "name": "Betabacktestr",
+      "description": "By 1477009639zw-blip",
+      "category": "Testing",
+      "author": "1477009639zw-blip"
+    },
+    {
+      "slug": "1477009639zw-blip/betabrandvoic",
+      "name": "Betabrandvoic",
+      "description": "By 1477009639zw-blip",
+      "category": "Other",
+      "author": "1477009639zw-blip"
+    },
+    {
       "slug": "15027302155/douyin-push-video",
       "name": "Douyin Push Video",
       "description": "By 15027302155",
@@ -7883,6 +7897,13 @@
       "author": "a64307410"
     },
     {
+      "slug": "a799549967-lang/smart-data-analyst",
+      "name": "Smart Data Analyst",
+      "description": "By a799549967-lang",
+      "category": "Data",
+      "author": "a799549967-lang"
+    },
+    {
       "slug": "a851445115/daily-market-insight",
       "name": "Daily Market Insight",
       "description": "By a851445115",
@@ -10620,6 +10641,13 @@
       "author": "adisinghstudent"
     },
     {
+      "slug": "adisinghstudent/ai-website-cloner-template",
+      "name": "Ai Website Cloner Template",
+      "description": "By adisinghstudent",
+      "category": "AI & ML",
+      "author": "adisinghstudent"
+    },
+    {
       "slug": "adisinghstudent/anthropic-cybersecurity-skills-agent-library",
       "name": "Anthropic Cybersecurity Skills Agent Library",
       "description": "By adisinghstudent",
@@ -10813,6 +10841,13 @@
       "name": "Codex Console Openai Registration",
       "description": "By adisinghstudent",
       "category": "AI & ML",
+      "author": "adisinghstudent"
+    },
+    {
+      "slug": "adisinghstudent/codex-session-patcher",
+      "name": "Codex Session Patcher",
+      "description": "By adisinghstudent",
+      "category": "Other",
       "author": "adisinghstudent"
     },
     {
@@ -16155,6 +16190,13 @@
       "description": "By aiwithabidi",
       "category": "Other",
       "author": "aiwithabidi"
+    },
+    {
+      "slug": "aiwork4me/bb-browser-autoclaw",
+      "name": "Bb Browser Autoclaw",
+      "description": "By aiwork4me",
+      "category": "Other",
+      "author": "aiwork4me"
     },
     {
       "slug": "aixvcteam/axelrod",
@@ -22058,6 +22100,13 @@
       "author": "andy825lay-tech"
     },
     {
+      "slug": "andy8647/one-page-cv",
+      "name": "One Page Cv",
+      "description": "By andy8647",
+      "category": "Other",
+      "author": "andy8647"
+    },
+    {
       "slug": "andybold/obsidian-sync",
       "name": "Obsidian Sync",
       "description": "By andybold",
@@ -22441,86 +22490,9 @@
       "description": "By angelandpeiqi",
       "category": "Other",
       "author": "angelandpeiqi"
-    },
-    {
-      "slug": "angelstreet/clawsgames",
-      "name": "Clawsgames",
-      "description": "By angelstreet",
-      "category": "DevOps",
-      "author": "angelstreet"
-    },
-    {
-      "slug": "angelstreet/konto-api",
-      "name": "Konto Api",
-      "description": "By angelstreet",
-      "category": "Backend",
-      "author": "angelstreet"
-    },
-    {
-      "slug": "angelstreet/konto",
-      "name": "Konto",
-      "description": "By angelstreet",
-      "category": "Other",
-      "author": "angelstreet"
-    },
-    {
-      "slug": "angelstreet/pikaboard",
-      "name": "Pikaboard",
-      "description": "By angelstreet",
-      "category": "Other",
-      "author": "angelstreet"
-    },
-    {
-      "slug": "angelstreet/play-heartclaws",
-      "name": "Play Heartclaws",
-      "description": "By angelstreet",
-      "category": "DevOps",
-      "author": "angelstreet"
-    },
-    {
-      "slug": "angelstreet/ranking-of-claws",
-      "name": "Ranking Of Claws",
-      "description": "By angelstreet",
-      "category": "DevOps",
-      "author": "angelstreet"
-    },
-    {
-      "slug": "angiin/xiaohongshu-skills",
-      "name": "Xiaohongshu Skills",
-      "description": "By angiin",
-      "category": "Other",
-      "author": "angiin"
-    },
-    {
-      "slug": "angjustinl/dedao-dl-skill",
-      "name": "Dedao Dl Skill",
-      "description": "By angjustinl",
-      "category": "Other",
-      "author": "angjustinl"
-    },
-    {
-      "slug": "angjustinl/knowledge-forge",
-      "name": "Knowledge Forge",
-      "description": "By angjustinl",
-      "category": "Other",
-      "author": "angjustinl"
-    },
-    {
-      "slug": "angpenghian/agenttimes",
-      "name": "Agenttimes",
-      "description": "By angpenghian",
-      "category": "Other",
-      "author": "angpenghian"
-    },
-    {
-      "slug": "angpenghian/openpod",
-      "name": "Openpod",
-      "description": "By angpenghian",
-      "category": "Other",
-      "author": "angpenghian"
     }
   ],
-  "total": 3217,
-  "lastUpdated": "2026-03-28T06:20:33.224Z",
+  "total": 3213,
+  "lastUpdated": "2026-03-29T06:24:35.317Z",
   "version": "1.1.0"
 }
