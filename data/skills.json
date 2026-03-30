@@ -1737,6 +1737,13 @@
       "author": "14686039"
     },
     {
+      "slug": "1477009639zw-blip/authorized-session-scrape",
+      "name": "Authorized Session Scrape",
+      "description": "By 1477009639zw-blip",
+      "category": "Security",
+      "author": "1477009639zw-blip"
+    },
+    {
       "slug": "1477009639zw-blip/betabacktestr",
       "name": "Betabacktestr",
       "description": "By 1477009639zw-blip",
@@ -1746,6 +1753,20 @@
     {
       "slug": "1477009639zw-blip/betabrandvoic",
       "name": "Betabrandvoic",
+      "description": "By 1477009639zw-blip",
+      "category": "Other",
+      "author": "1477009639zw-blip"
+    },
+    {
+      "slug": "1477009639zw-blip/blocked-page-fallback",
+      "name": "Blocked Page Fallback",
+      "description": "By 1477009639zw-blip",
+      "category": "Other",
+      "author": "1477009639zw-blip"
+    },
+    {
+      "slug": "1477009639zw-blip/citation-audit",
+      "name": "Citation Audit",
       "description": "By 1477009639zw-blip",
       "category": "Other",
       "author": "1477009639zw-blip"
@@ -7603,6 +7624,13 @@
       "author": "a-anand-91119"
     },
     {
+      "slug": "a-din/xiaopi-skill-finder-cn",
+      "name": "Xiaopi Skill Finder Cn",
+      "description": "By a-din",
+      "category": "Other",
+      "author": "a-din"
+    },
+    {
       "slug": "a-i-r/mineru-pdf-extractor",
       "name": "Mineru Pdf Extractor",
       "description": "By a-i-r",
@@ -9738,6 +9766,13 @@
       "author": "acogkr"
     },
     {
+      "slug": "actual-software-inc/actual",
+      "name": "Actual",
+      "description": "By actual-software-inc",
+      "category": "Other",
+      "author": "actual-software-inc"
+    },
+    {
       "slug": "actualcwhitlock/humanizer-2",
       "name": "Humanizer 2",
       "description": "By actualcwhitlock",
@@ -10788,6 +10823,13 @@
       "author": "adisinghstudent"
     },
     {
+      "slug": "adisinghstudent/claude-better-cli",
+      "name": "Claude Better Cli",
+      "description": "By adisinghstudent",
+      "category": "AI & ML",
+      "author": "adisinghstudent"
+    },
+    {
       "slug": "adisinghstudent/claude-hud-statusline",
       "name": "Claude Hud Statusline",
       "description": "By adisinghstudent",
@@ -11142,6 +11184,13 @@
       "name": "Minecraftconsoles Lce",
       "description": "By adisinghstudent",
       "category": "Other",
+      "author": "adisinghstudent"
+    },
+    {
+      "slug": "adisinghstudent/ministack-aws-emulator",
+      "name": "Ministack Aws Emulator",
+      "description": "By adisinghstudent",
+      "category": "DevOps",
       "author": "adisinghstudent"
     },
     {
@@ -17333,6 +17382,13 @@
       "author": "alex3alex"
     },
     {
+      "slug": "alex4xu/acmg-variant-classification",
+      "name": "Acmg Variant Classification",
+      "description": "By alex4xu",
+      "category": "Other",
+      "author": "alex4xu"
+    },
+    {
       "slug": "alexander-lq/aicreat",
       "name": "Aicreat",
       "description": "By alexander-lq",
@@ -17380,6 +17436,13 @@
       "description": "By alexander-spring",
       "category": "Other",
       "author": "alexander-spring"
+    },
+    {
+      "slug": "alexander10011/twitter-query",
+      "name": "Twitter Query",
+      "description": "By alexander10011",
+      "category": "Social & Media",
+      "author": "alexander10011"
     },
     {
       "slug": "alexander10011/web3-daily",
@@ -20910,6 +20973,13 @@
       "author": "amulettliu-dot"
     },
     {
+      "slug": "amuletxheart/ibkr-openclaw",
+      "name": "Ibkr Openclaw",
+      "description": "By amuletxheart",
+      "category": "Other",
+      "author": "amuletxheart"
+    },
+    {
       "slug": "amumulam/diataxis-writing",
       "name": "Diataxis Writing",
       "description": "By amumulam",
@@ -22455,44 +22525,9 @@
       "description": "By andyylin",
       "category": "Other",
       "author": "andyylin"
-    },
-    {
-      "slug": "andyzwp/image-read",
-      "name": "Image Read",
-      "description": "By andyzwp",
-      "category": "Other",
-      "author": "andyzwp"
-    },
-    {
-      "slug": "andyzwp/scholar-paper-downloader",
-      "name": "Scholar Paper Downloader",
-      "description": "By andyzwp",
-      "category": "Other",
-      "author": "andyzwp"
-    },
-    {
-      "slug": "anecdotes-yair/trust-my-agent-ai",
-      "name": "Trust My Agent Ai",
-      "description": "By anecdotes-yair",
-      "category": "AI & ML",
-      "author": "anecdotes-yair"
-    },
-    {
-      "slug": "anegash/meshcore-marketplace",
-      "name": "Meshcore Marketplace",
-      "description": "By anegash",
-      "category": "Other",
-      "author": "anegash"
-    },
-    {
-      "slug": "angelandpeiqi/desearch-skill",
-      "name": "Desearch Skill",
-      "description": "By angelandpeiqi",
-      "category": "Other",
-      "author": "angelandpeiqi"
     }
   ],
-  "total": 3213,
-  "lastUpdated": "2026-03-29T06:24:35.317Z",
+  "total": 3218,
+  "lastUpdated": "2026-03-30T06:37:14.218Z",
   "version": "1.1.0"
 }
