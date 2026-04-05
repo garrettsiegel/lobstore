@@ -5279,13 +5279,6 @@
       "author": "228998098"
     },
     {
-      "slug": "228998098/novel-plus",
-      "name": "Novel Plus",
-      "description": "By 228998098",
-      "category": "Other",
-      "author": "228998098"
-    },
-    {
       "slug": "2320117707/tg-mysql-design",
       "name": "Tg Mysql Design",
       "description": "By 2320117707",
@@ -5298,13 +5291,6 @@
       "description": "By 23396599",
       "category": "Data",
       "author": "23396599"
-    },
-    {
-      "slug": "2361359008/doc-web-assistant",
-      "name": "Doc Web Assistant",
-      "description": "By 2361359008",
-      "category": "Other",
-      "author": "2361359008"
     },
     {
       "slug": "2367961075/api-test",
@@ -6380,13 +6366,6 @@
     {
       "slug": "43622283/li-python-sec-check",
       "name": "Li Python Sec Check",
-      "description": "By 43622283",
-      "category": "Other",
-      "author": "43622283"
-    },
-    {
-      "slug": "43622283/ll-feishu-audio",
-      "name": "Ll Feishu Audio",
       "description": "By 43622283",
       "category": "Other",
       "author": "43622283"
@@ -7755,41 +7734,6 @@
       "description": "By 618dt",
       "category": "Other",
       "author": "618dt"
-    },
-    {
-      "slug": "632657122/character-image-generator",
-      "name": "Character Image Generator",
-      "description": "By 632657122",
-      "category": "Other",
-      "author": "632657122"
-    },
-    {
-      "slug": "632657122/comic",
-      "name": "Comic",
-      "description": "By 632657122",
-      "category": "Other",
-      "author": "632657122"
-    },
-    {
-      "slug": "632657122/cover-image",
-      "name": "Cover Image",
-      "description": "By 632657122",
-      "category": "Other",
-      "author": "632657122"
-    },
-    {
-      "slug": "632657122/infographic",
-      "name": "Infographic",
-      "description": "By 632657122",
-      "category": "Other",
-      "author": "632657122"
-    },
-    {
-      "slug": "632657122/rednote-images",
-      "name": "Rednote Images",
-      "description": "By 632657122",
-      "category": "Productivity",
-      "author": "632657122"
     },
     {
       "slug": "664624249/feishu-bitable-builder",
@@ -11262,6 +11206,13 @@
       "description": "By adamwestland",
       "category": "Other",
       "author": "adamwestland"
+    },
+    {
+      "slug": "adamwgp/our-autoskills",
+      "name": "Our Autoskills",
+      "description": "By adamwgp",
+      "category": "Other",
+      "author": "adamwgp"
     },
     {
       "slug": "adarshdigievo/python",
@@ -23260,9 +23211,23 @@
       "description": "By amokay",
       "category": "Other",
       "author": "amokay"
+    },
+    {
+      "slug": "amoldericksoans/molt-connect",
+      "name": "Molt Connect",
+      "description": "By amoldericksoans",
+      "category": "Other",
+      "author": "amoldericksoans"
+    },
+    {
+      "slug": "amoldericksoans/revenue-studio",
+      "name": "Revenue Studio",
+      "description": "By amoldericksoans",
+      "category": "Other",
+      "author": "amoldericksoans"
     }
   ],
-  "total": 3323,
-  "lastUpdated": "2026-04-04T06:21:49.146Z",
+  "total": 3318,
+  "lastUpdated": "2026-04-05T06:26:24.960Z",
   "version": "1.1.0"
 }
