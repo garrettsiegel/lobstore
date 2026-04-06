@@ -5013,6 +5013,13 @@
       "author": "1ncludesteven"
     },
     {
+      "slug": "1ncludesteven/tsa-risk",
+      "name": "Tsa Risk",
+      "description": "By 1ncludesteven",
+      "category": "Other",
+      "author": "1ncludesteven"
+    },
+    {
       "slug": "1ncludesteven/tsa",
       "name": "Tsa",
       "description": "By 1ncludesteven",
@@ -10767,13 +10774,6 @@
       "author": "actuallymentor"
     },
     {
-      "slug": "aculy/lucaljyang-test-1",
-      "name": "Lucaljyang Test 1",
-      "description": "By aculy",
-      "category": "Testing",
-      "author": "aculy"
-    },
-    {
       "slug": "acwxpunh/binance-event-contract-fetcher",
       "name": "Binance Event Contract Fetcher",
       "description": "By acwxpunh",
@@ -11446,62 +11446,6 @@
       "author": "adeline18"
     },
     {
-      "slug": "adelpro/agent-self-improvement",
-      "name": "Agent Self Improvement",
-      "description": "By adelpro",
-      "category": "Other",
-      "author": "adelpro"
-    },
-    {
-      "slug": "adelpro/council-of-wisdom",
-      "name": "Council Of Wisdom",
-      "description": "By adelpro",
-      "category": "Other",
-      "author": "adelpro"
-    },
-    {
-      "slug": "adelpro/openclaw-backup-automation",
-      "name": "Openclaw Backup Automation",
-      "description": "By adelpro",
-      "category": "Other",
-      "author": "adelpro"
-    },
-    {
-      "slug": "adelpro/openclaw-continuous-learning",
-      "name": "Openclaw Continuous Learning",
-      "description": "By adelpro",
-      "category": "Other",
-      "author": "adelpro"
-    },
-    {
-      "slug": "adelpro/openclaw-daily-tips",
-      "name": "Openclaw Daily Tips",
-      "description": "By adelpro",
-      "category": "AI & ML",
-      "author": "adelpro"
-    },
-    {
-      "slug": "adelpro/private-web-search-searchxng",
-      "name": "Private Web Search Searchxng",
-      "description": "By adelpro",
-      "category": "Other",
-      "author": "adelpro"
-    },
-    {
-      "slug": "adelpro/purple-cow-content",
-      "name": "Purple Cow Content",
-      "description": "By adelpro",
-      "category": "Other",
-      "author": "adelpro"
-    },
-    {
-      "slug": "adelpro/socraticode-mcp",
-      "name": "Socraticode Mcp",
-      "description": "By adelpro",
-      "category": "Other",
-      "author": "adelpro"
-    },
-    {
       "slug": "ademczuk/grok-imagine-extended",
       "name": "Grok Imagine Extended",
       "description": "By ademczuk",
@@ -11626,146 +11570,6 @@
       "description": "By adisahani",
       "category": "Other",
       "author": "adisahani"
-    },
-    {
-      "slug": "adisinghstudent/724-office-ai-agent",
-      "name": "724 Office Ai Agent",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/aeris10-plfm-radar",
-      "name": "Aeris10 Plfm Radar",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/agency-agents-ai-specialists",
-      "name": "Agency Agents Ai Specialists",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/agent-browser-automation",
-      "name": "Agent Browser Automation",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/agent-flow-visualization",
-      "name": "Agent Flow Visualization",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/agent-reach-internet-access",
-      "name": "Agent Reach Internet Access",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/ai-engineering-interview-questions",
-      "name": "Ai Engineering Interview Questions",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/ai-scanner-garak",
-      "name": "Ai Scanner Garak",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/ai-website-cloner-template",
-      "name": "Ai Website Cloner Template",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/anthropic-cybersecurity-skills-agent-library",
-      "name": "Anthropic Cybersecurity Skills Agent Library",
-      "description": "By adisinghstudent",
-      "category": "Security",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/antigravity-awesome-skills",
-      "name": "Antigravity Awesome Skills",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/antigravity-manager",
-      "name": "Antigravity Manager",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/app-store-preflight-skills",
-      "name": "App Store Preflight Skills",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/app-store-screenshots-generator",
-      "name": "App Store Screenshots Generator",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/aris-autonomous-ml-research",
-      "name": "Aris Autonomous Ml Research",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/aris-autonomous-research",
-      "name": "Aris Autonomous Research",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/autoresearch-genealogy",
-      "name": "Autoresearch Genealogy",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/autoresearchclaw-autonomous-research",
-      "name": "Autoresearchclaw Autonomous Research",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/awesome-ai-research-writing",
-      "name": "Awesome Ai Research Writing",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/awesome-autoresearch",
-      "name": "Awesome Autoresearch",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
     },
     {
       "slug": "adisinghstudent/awesome-codex-subagents",
@@ -19195,6 +18999,13 @@
       "author": "alessandro-brucato-tracebit"
     },
     {
+      "slug": "alessandro-brucato-tracebit/tracebit-canary-honeytokens",
+      "name": "Tracebit Canary Honeytokens",
+      "description": "By alessandro-brucato-tracebit",
+      "category": "Other",
+      "author": "alessandro-brucato-tracebit"
+    },
+    {
       "slug": "alessandropcostabr/clawhub-quarantine-installer",
       "name": "Clawhub Quarantine Installer",
       "description": "By alessandropcostabr",
@@ -22366,6 +22177,13 @@
       "author": "alsoforever"
     },
     {
+      "slug": "alsoforever/finance-bp-core",
+      "name": "Finance Bp Core",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
       "slug": "alsoforever/financial-news",
       "name": "Financial News",
       "description": "By alsoforever",
@@ -22373,8 +22191,22 @@
       "author": "alsoforever"
     },
     {
+      "slug": "alsoforever/gungun-12-clo",
+      "name": "Gungun 12 Clo",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
       "slug": "alsoforever/industry-compare",
       "name": "Industry Compare",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/memory-stack-gungun",
+      "name": "Memory Stack Gungun",
       "description": "By alsoforever",
       "category": "Other",
       "author": "alsoforever"
@@ -23225,9 +23057,23 @@
       "description": "By amoldericksoans",
       "category": "Other",
       "author": "amoldericksoans"
+    },
+    {
+      "slug": "amonter/attention-os",
+      "name": "Attention Os",
+      "description": "By amonter",
+      "category": "Other",
+      "author": "amonter"
+    },
+    {
+      "slug": "amor71/session-history",
+      "name": "Session History",
+      "description": "By amor71",
+      "category": "Other",
+      "author": "amor71"
     }
   ],
-  "total": 3318,
-  "lastUpdated": "2026-04-05T06:26:24.960Z",
+  "total": 3296,
+  "lastUpdated": "2026-04-06T06:37:20.577Z",
   "version": "1.1.0"
 }
