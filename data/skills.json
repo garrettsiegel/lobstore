@@ -1555,6 +1555,13 @@
       "author": "112297720"
     },
     {
+      "slug": "1126053051-lgtm/leadership-coach",
+      "name": "Leadership Coach",
+      "description": "By 1126053051-lgtm",
+      "category": "Other",
+      "author": "1126053051-lgtm"
+    },
+    {
       "slug": "1126053051-lgtm/legal-brief-drafter",
       "name": "Legal Brief Drafter",
       "description": "By 1126053051-lgtm",
@@ -1858,6 +1865,13 @@
     {
       "slug": "141553/honest-agent",
       "name": "Honest Agent",
+      "description": "By 141553",
+      "category": "Other",
+      "author": "141553"
+    },
+    {
+      "slug": "141553/long-term-plan",
+      "name": "Long Term Plan",
       "description": "By 141553",
       "category": "Other",
       "author": "141553"
@@ -2220,6 +2234,13 @@
       "author": "15349185792"
     },
     {
+      "slug": "156554395/doubao-image-video",
+      "name": "Doubao Image Video",
+      "description": "By 156554395",
+      "category": "Other",
+      "author": "156554395"
+    },
+    {
       "slug": "1580021414-afk/cognitive-agent",
       "name": "Cognitive Agent",
       "description": "By 1580021414-afk",
@@ -2463,6 +2484,20 @@
       "description": "By 17oko",
       "category": "Other",
       "author": "17oko"
+    },
+    {
+      "slug": "1808182171/ex-example-liuzhimin",
+      "name": "Ex Example Liuzhimin",
+      "description": "By 1808182171",
+      "category": "Other",
+      "author": "1808182171"
+    },
+    {
+      "slug": "1808182171/ex-skill",
+      "name": "Ex Skill",
+      "description": "By 1808182171",
+      "category": "Other",
+      "author": "1808182171"
     },
     {
       "slug": "18108851659-yzh/test000-my-skill",
@@ -5538,6 +5573,13 @@
       "author": "2719040953"
     },
     {
+      "slug": "2720480371/08-proactive-agent",
+      "name": "08 Proactive Agent",
+      "description": "By 2720480371",
+      "category": "Other",
+      "author": "2720480371"
+    },
+    {
       "slug": "275254cl-hash/1688-price-monitor",
       "name": "1688 Price Monitor",
       "description": "By 275254cl-hash",
@@ -5846,6 +5888,13 @@
       "author": "30sec-heat"
     },
     {
+      "slug": "31504254/resume-generator-clean",
+      "name": "Resume Generator Clean",
+      "description": "By 31504254",
+      "category": "Other",
+      "author": "31504254"
+    },
+    {
       "slug": "315133264/learn-anything-in-one-hour",
       "name": "Learn Anything In One Hour",
       "description": "By 315133264",
@@ -6152,6 +6201,13 @@
       "description": "By 3d-era",
       "category": "Other",
       "author": "3d-era"
+    },
+    {
+      "slug": "3mper0rr/ai-neural-agent-lead-qualification-framework",
+      "name": "Ai Neural Agent Lead Qualification Framework",
+      "description": "By 3mper0rr",
+      "category": "AI & ML",
+      "author": "3mper0rr"
     },
     {
       "slug": "3rdbrain/hn-prospecting",
@@ -7715,6 +7771,13 @@
       "author": "596655510-wang"
     },
     {
+      "slug": "5eun/custom-youtube-summarize",
+      "name": "Custom Youtube Summarize",
+      "description": "By 5eun",
+      "category": "Social & Media",
+      "author": "5eun"
+    },
+    {
       "slug": "5hanth/arbiter",
       "name": "Arbiter",
       "description": "By 5hanth",
@@ -8347,6 +8410,41 @@
     {
       "slug": "a-din/mockplus-reader",
       "name": "Mockplus Reader",
+      "description": "By a-din",
+      "category": "Other",
+      "author": "a-din"
+    },
+    {
+      "slug": "a-din/self-improving-agent-cn-skip",
+      "name": "Self Improving Agent Cn Skip",
+      "description": "By a-din",
+      "category": "Other",
+      "author": "a-din"
+    },
+    {
+      "slug": "a-din/xiaopi-agent-browser",
+      "name": "Xiaopi Agent Browser",
+      "description": "By a-din",
+      "category": "Other",
+      "author": "a-din"
+    },
+    {
+      "slug": "a-din/xiaopi-auto-updater",
+      "name": "Xiaopi Auto Updater",
+      "description": "By a-din",
+      "category": "Other",
+      "author": "a-din"
+    },
+    {
+      "slug": "a-din/xiaopi-chrome-devtools",
+      "name": "Xiaopi Chrome Devtools",
+      "description": "By a-din",
+      "category": "Other",
+      "author": "a-din"
+    },
+    {
+      "slug": "a-din/xiaopi-self-improving",
+      "name": "Xiaopi Self Improving",
       "description": "By a-din",
       "category": "Other",
       "author": "a-din"
@@ -9479,6 +9577,20 @@
       "author": "aaronzoe"
     },
     {
+      "slug": "aas-ee/open-websearch",
+      "name": "Open Websearch",
+      "description": "By aas-ee",
+      "category": "Other",
+      "author": "aas-ee"
+    },
+    {
+      "slug": "aas-ee/openwebsearch",
+      "name": "Openwebsearch",
+      "description": "By aas-ee",
+      "category": "Other",
+      "author": "aas-ee"
+    },
+    {
       "slug": "aatmaan1/agent-orchestrator",
       "name": "Agent Orchestrator",
       "description": "By aatmaan1",
@@ -10023,6 +10135,13 @@
       "description": "By abhibavishi",
       "category": "Other",
       "author": "abhibavishi"
+    },
+    {
+      "slug": "abhinas90/multi-agent-deployment",
+      "name": "Multi Agent Deployment",
+      "description": "By abhinas90",
+      "category": "Other",
+      "author": "abhinas90"
     },
     {
       "slug": "abhinavjp/ms-outlook-teams-assistant",
@@ -10737,6 +10856,13 @@
       "description": "By acse-yz219",
       "category": "Other",
       "author": "acse-yz219"
+    },
+    {
+      "slug": "actabi/beepack-deprecated",
+      "name": "Beepack Deprecated",
+      "description": "By actabi",
+      "category": "Other",
+      "author": "actabi"
     },
     {
       "slug": "actabi/beepack-registry",
@@ -11572,916 +11698,6 @@
       "author": "adisahani"
     },
     {
-      "slug": "adisinghstudent/awesome-codex-subagents",
-      "name": "Awesome Codex Subagents",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/awesome-free-llm-apis",
-      "name": "Awesome Free Llm Apis",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/awesome-openclaw-skills",
-      "name": "Awesome Openclaw Skills",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/awesome-openclaw-usecases",
-      "name": "Awesome Openclaw Usecases",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/awesome-opensource-ai",
-      "name": "Awesome Opensource Ai",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/awesome-phd-cv",
-      "name": "Awesome Phd Cv",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/boss-cli-job-search",
-      "name": "Boss Cli Job Search",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/cc-skills-golang",
-      "name": "Cc Skills Golang",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/chops-ai-skills-manager",
-      "name": "Chops Ai Skills Manager",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/chrome-cdp-live-browser",
-      "name": "Chrome Cdp Live Browser",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/citadel-agent-orchestration",
-      "name": "Citadel Agent Orchestration",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/claude-better-cli",
-      "name": "Claude Better Cli",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/claude-hud-statusline",
-      "name": "Claude Hud Statusline",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/claude-peers-mcp",
-      "name": "Claude Peers Mcp",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/clawteam-agent-swarm",
-      "name": "Clawteam Agent Swarm",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/clawteam-openclaw-swarm",
-      "name": "Clawteam Openclaw Swarm",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/clui-cc-claude-overlay",
-      "name": "Clui Cc Claude Overlay",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/codebase-to-course",
-      "name": "Codebase To Course",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/codex-autoresearch-loop",
-      "name": "Codex Autoresearch Loop",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/codex-console-openai-registration",
-      "name": "Codex Console Openai Registration",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/codex-session-patcher",
-      "name": "Codex Session Patcher",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/collaborator-ai-canvas",
-      "name": "Collaborator Ai Canvas",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/context-mode-mcp",
-      "name": "Context Mode Mcp",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/copaw-ai-assistant",
-      "name": "Copaw Ai Assistant",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/corridorkey-green-screen",
-      "name": "Corridorkey Green Screen",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/creationix-rx-data-store",
-      "name": "Creationix Rx Data Store",
-      "description": "By adisinghstudent",
-      "category": "Data",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/crucix-intelligence-dashboard",
-      "name": "Crucix Intelligence Dashboard",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/darksword-kexploit",
-      "name": "Darksword Kexploit",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/deepseek-ocr",
-      "name": "Deepseek Ocr",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/deerflow-super-agent-harness",
-      "name": "Deerflow Super Agent Harness",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/does-it-age-verify",
-      "name": "Does It Age Verify",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/dontbesilent-business-diagnosis",
-      "name": "Dontbesilent Business Diagnosis",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/dontbesilent-business-diagnostics",
-      "name": "Dontbesilent Business Diagnostics",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/dontbesilent-dbskill",
-      "name": "Dontbesilent Dbskill",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/edict-multi-agent-orchestration",
-      "name": "Edict Multi Agent Orchestration",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/everything-claude-code-harness",
-      "name": "Everything Claude Code Harness",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/fabro-workflow-factory",
-      "name": "Fabro Workflow Factory",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/flash-moe-inference",
-      "name": "Flash Moe Inference",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/flipoff-split-flap-display",
-      "name": "Flipoff Split Flap Display",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/g0dm0d3-liberated-ai-chat",
-      "name": "G0dm0d3 Liberated Ai Chat",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/ghostling-libghostty-terminal",
-      "name": "Ghostling Libghostty Terminal",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/goal-driven-multi-agent",
-      "name": "Goal Driven Multi Agent",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/holyclaude-ai-workstation",
-      "name": "Holyclaude Ai Workstation",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/hyperagents-self-improving",
-      "name": "Hyperagents Self Improving",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/jkvideo-bilibili-react-native",
-      "name": "Jkvideo Bilibili React Native",
-      "description": "By adisinghstudent",
-      "category": "Frontend",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/json-render-generative-ui",
-      "name": "Json Render Generative Ui",
-      "description": "By adisinghstudent",
-      "category": "Frontend",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/k-dense-byok-ai-scientist",
-      "name": "K Dense Byok Ai Scientist",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/k-skill-korean-ai-tools",
-      "name": "K Skill Korean Ai Tools",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/karpathy-jobs-bls-visualizer",
-      "name": "Karpathy Jobs Bls Visualizer",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/keyid-agent-kit-mcp",
-      "name": "Keyid Agent Kit Mcp",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/kimodo-motion-diffusion",
-      "name": "Kimodo Motion Diffusion",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/lil-agents-macos-dock",
-      "name": "Lil Agents Macos Dock",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/llm-architecture-gallery",
-      "name": "Llm Architecture Gallery",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/llmfit-hardware-model-matcher",
-      "name": "Llmfit Hardware Model Matcher",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/mac-code-local-ai-agent",
-      "name": "Mac Code Local Ai Agent",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/markdown-proxy-url-fetcher",
-      "name": "Markdown Proxy Url Fetcher",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/marketingskills-ai-agents",
-      "name": "Marketingskills Ai Agents",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/markit-markdown-converter",
-      "name": "Markit Markdown Converter",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/mcp-brasil-public-apis",
-      "name": "Mcp Brasil Public Apis",
-      "description": "By adisinghstudent",
-      "category": "Backend",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/memory-lancedb-pro-openclaw",
-      "name": "Memory Lancedb Pro Openclaw",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/microsoft-rust-training",
-      "name": "Microsoft Rust Training",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/microwarp-cloudflare-proxy",
-      "name": "Microwarp Cloudflare Proxy",
-      "description": "By adisinghstudent",
-      "category": "DevOps",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/minecraftconsoles-lce",
-      "name": "Minecraftconsoles Lce",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/ministack-aws-emulator",
-      "name": "Ministack Aws Emulator",
-      "description": "By adisinghstudent",
-      "category": "DevOps",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/mirofish-offline-simulation",
-      "name": "Mirofish Offline Simulation",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/mirofish-swarm-intelligence",
-      "name": "Mirofish Swarm Intelligence",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/modly-image-to-3d",
-      "name": "Modly Image To 3d",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/mole-mac-cleaner",
-      "name": "Mole Mac Cleaner",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/my-brain-is-full-crew",
-      "name": "My Brain Is Full Crew",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/nanobot-ai-assistant",
-      "name": "Nanobot Ai Assistant",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/nanoclaw-ai-assistant",
-      "name": "Nanoclaw Ai Assistant",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/netryx-street-level-geolocation",
-      "name": "Netryx Street Level Geolocation",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/nightingale-karaoke",
-      "name": "Nightingale Karaoke",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/nopua-ai-agent-skill",
-      "name": "Nopua Ai Agent Skill",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/nvidia-nemoclaw",
-      "name": "Nvidia Nemoclaw",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/obliteratus-abliteration",
-      "name": "Obliteratus Abliteration",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/obra-superpowers-agentic-workflow",
-      "name": "Obra Superpowers Agentic Workflow",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/obsidian-skills-agent",
-      "name": "Obsidian Skills Agent",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/oh-my-openagent-omo",
-      "name": "Oh My Openagent Omo",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/open-autoglm-phone-agent",
-      "name": "Open Autoglm Phone Agent",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openai-symphony-autonomous-agents",
-      "name": "Openai Symphony Autonomous Agents",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openbrand-asset-extraction",
-      "name": "Openbrand Asset Extraction",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openclaw-rl-training",
-      "name": "Openclaw Rl Training",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/opencli-social-platforms",
-      "name": "Opencli Social Platforms",
-      "description": "By adisinghstudent",
-      "category": "Social & Media",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/opencli-web-automation",
-      "name": "Opencli Web Automation",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/opencode-claude-auth",
-      "name": "Opencode Claude Auth",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openfang-agent-os",
-      "name": "Openfang Agent Os",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openhanako-personal-ai-agent",
-      "name": "Openhanako Personal Ai Agent",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openmaic-classroom",
-      "name": "Openmaic Classroom",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openspace-self-evolving-agents",
-      "name": "Openspace Self Evolving Agents",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/opensquirrel-agent-control-plane",
-      "name": "Opensquirrel Agent Control Plane",
-      "description": "By adisinghstudent",
-      "category": "Frontend",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openviking-context-database",
-      "name": "Openviking Context Database",
-      "description": "By adisinghstudent",
-      "category": "Data",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/openyak-desktop-agent",
-      "name": "Openyak Desktop Agent",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/paperclip-ai-orchestration",
-      "name": "Paperclip Ai Orchestration",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/picoclaw-ai-assistant",
-      "name": "Picoclaw Ai Assistant",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/planning-with-files-manus-workflow",
-      "name": "Planning With Files Manus Workflow",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/pm-skills-marketplace",
-      "name": "Pm Skills Marketplace",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/polymarket-arbitrage-trading-bot",
-      "name": "Polymarket Arbitrage Trading Bot",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/posterskill-academic-posters",
-      "name": "Posterskill Academic Posters",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/pua-agent-performance-skill",
-      "name": "Pua Agent Performance Skill",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/ralph-autonomous-agent-loop",
-      "name": "Ralph Autonomous Agent Loop",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/recordly-screen-recorder",
-      "name": "Recordly Screen Recorder",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/regplatform-multi-account-registration",
-      "name": "Regplatform Multi Account Registration",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/regplatformm-multi-platform-registration",
-      "name": "Regplatformm Multi Platform Registration",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/rtk-token-optimizer",
-      "name": "Rtk Token Optimizer",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/seoul-world-model",
-      "name": "Seoul World Model",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/shadowbroker-osint-platform",
-      "name": "Shadowbroker Osint Platform",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/shannon-ai-pentester",
-      "name": "Shannon Ai Pentester",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/slides-style-prompt-studio",
-      "name": "Slides Style Prompt Studio",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/slug-font-rendering",
-      "name": "Slug Font Rendering",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/star-office-ui-pixel-dashboard",
-      "name": "Star Office Ui Pixel Dashboard",
-      "description": "By adisinghstudent",
-      "category": "Frontend",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/taiwan-md-knowledge-base",
-      "name": "Taiwan Md Knowledge Base",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/taste-skill-frontend-design",
-      "name": "Taste Skill Frontend Design",
-      "description": "By adisinghstudent",
-      "category": "Frontend",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/tg-ws-proxy-telegram-socks5",
-      "name": "Tg Ws Proxy Telegram Socks5",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/tiktok-views-likes-followers-shares-bot-2026",
-      "name": "Tiktok Views Likes Followers Shares Bot 2026",
-      "description": "By adisinghstudent",
-      "category": "Social & Media",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/toon-format",
-      "name": "Toon Format",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/translate-book-parallel",
-      "name": "Translate Book Parallel",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/trump-code-market-signals",
-      "name": "Trump Code Market Signals",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/type4me-macos-voice-input",
-      "name": "Type4me Macos Voice Input",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/typeno-voice-input",
-      "name": "Typeno Voice Input",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/ui-ux-pro-max-skill",
-      "name": "Ui Ux Pro Max Skill",
-      "description": "By adisinghstudent",
-      "category": "Frontend",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/understand-anything-knowledge-graph",
-      "name": "Understand Anything Knowledge Graph",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/vercel-labs-emulate",
-      "name": "Vercel Labs Emulate",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/vinext-vite-nextjs",
-      "name": "Vinext Vite Nextjs",
-      "description": "By adisinghstudent",
-      "category": "Frontend",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/voicebox-voice-synthesis",
-      "name": "Voicebox Voice Synthesis",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/web-access-claude-skill",
-      "name": "Web Access Claude Skill",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/wewrite-wechat-ai-publishing",
-      "name": "Wewrite Wechat Ai Publishing",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/x-algorithm-feed",
-      "name": "X Algorithm Feed",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/zeroboot-vm-sandbox",
-      "name": "Zeroboot Vm Sandbox",
-      "description": "By adisinghstudent",
-      "category": "Other",
-      "author": "adisinghstudent"
-    },
-    {
-      "slug": "adisinghstudent/zeroclaw-ai-agent-runtime",
-      "name": "Zeroclaw Ai Agent Runtime",
-      "description": "By adisinghstudent",
-      "category": "AI & ML",
-      "author": "adisinghstudent"
-    },
-    {
       "slug": "aditya4206360-prog/sr1",
       "name": "Sr1",
       "description": "By aditya4206360-prog",
@@ -12508,6 +11724,13 @@
       "description": "By adityasagar2",
       "category": "Other",
       "author": "adityasagar2"
+    },
+    {
+      "slug": "adivyas99/aaddyy-ai-tools",
+      "name": "Aaddyy Ai Tools",
+      "description": "By adivyas99",
+      "category": "AI & ML",
+      "author": "adivyas99"
     },
     {
       "slug": "adjia/mail-mcp",
@@ -12811,6 +12034,20 @@
       "author": "admiralkittysdad"
     },
     {
+      "slug": "admirobot/autoresearch-loop-agent",
+      "name": "Autoresearch Loop Agent",
+      "description": "By admirobot",
+      "category": "Other",
+      "author": "admirobot"
+    },
+    {
+      "slug": "admirobot/moa-team-orchestration",
+      "name": "Moa Team Orchestration",
+      "description": "By admirobot",
+      "category": "Other",
+      "author": "admirobot"
+    },
+    {
       "slug": "adolago/meta-business",
       "name": "Meta Business",
       "description": "By adolago",
@@ -12970,13 +12207,6 @@
       "description": "By adwilkinson",
       "category": "Other",
       "author": "adwilkinson"
-    },
-    {
-      "slug": "aegeanragdolls/aegean-clawdefender",
-      "name": "Aegean Clawdefender",
-      "description": "By aegeanragdolls",
-      "category": "Other",
-      "author": "aegeanragdolls"
     },
     {
       "slug": "aeggerd/retarus-sms4a",
@@ -13719,6 +12949,13 @@
       "description": "By agentsleader",
       "category": "Other",
       "author": "agentsleader"
+    },
+    {
+      "slug": "agenttax/agenttax",
+      "name": "Agenttax",
+      "description": "By agenttax",
+      "category": "Other",
+      "author": "agenttax"
     },
     {
       "slug": "agenttrust/agenttrust",
@@ -15891,6 +15128,13 @@
       "author": "aipoch-ai"
     },
     {
+      "slug": "aipoch-ai/ectd-xml-compiler",
+      "name": "Ectd Xml Compiler",
+      "description": "By aipoch-ai",
+      "category": "AI & ML",
+      "author": "aipoch-ai"
+    },
+    {
       "slug": "aipoch-ai/ehr-semantic-compressor",
       "name": "Ehr Semantic Compressor",
       "description": "By aipoch-ai",
@@ -16696,6 +15940,13 @@
       "author": "aipoch-ai"
     },
     {
+      "slug": "aipoch-ai/sds-msds-risk-scanner",
+      "name": "Sds Msds Risk Scanner",
+      "description": "By aipoch-ai",
+      "category": "Other",
+      "author": "aipoch-ai"
+    },
+    {
       "slug": "aipoch-ai/semantic-consistency-auditor",
       "name": "Semantic Consistency Auditor",
       "description": "By aipoch-ai",
@@ -16733,6 +15984,13 @@
     {
       "slug": "aipoch-ai/smart-journal-monitor",
       "name": "Smart Journal Monitor",
+      "description": "By aipoch-ai",
+      "category": "Other",
+      "author": "aipoch-ai"
+    },
+    {
+      "slug": "aipoch-ai/smiles-de-salter",
+      "name": "Smiles De Salter",
       "description": "By aipoch-ai",
       "category": "Other",
       "author": "aipoch-ai"
@@ -19123,6 +18381,13 @@
       "description": "By alex-vy",
       "category": "Other",
       "author": "alex-vy"
+    },
+    {
+      "slug": "alex-wuhu/trade-audit",
+      "name": "Trade Audit",
+      "description": "By alex-wuhu",
+      "category": "Other",
+      "author": "alex-wuhu"
     },
     {
       "slug": "alex-zxyz/mineru-pdf-parser",
@@ -21694,6 +20959,41 @@
       "author": "allenkwok"
     },
     {
+      "slug": "allens0104/adapt",
+      "name": "Adapt",
+      "description": "By allens0104",
+      "category": "Other",
+      "author": "allens0104"
+    },
+    {
+      "slug": "allens0104/adapter-audit",
+      "name": "Adapter Audit",
+      "description": "By allens0104",
+      "category": "Other",
+      "author": "allens0104"
+    },
+    {
+      "slug": "allens0104/browser-profile",
+      "name": "Browser Profile",
+      "description": "By allens0104",
+      "category": "Other",
+      "author": "allens0104"
+    },
+    {
+      "slug": "allens0104/content-summary",
+      "name": "Content Summary",
+      "description": "By allens0104",
+      "category": "Other",
+      "author": "allens0104"
+    },
+    {
+      "slug": "allens0104/site-profile",
+      "name": "Site Profile",
+      "description": "By allens0104",
+      "category": "Other",
+      "author": "allens0104"
+    },
+    {
       "slug": "allentom/surf-paipai-ai",
       "name": "Surf Paipai Ai",
       "description": "By allentom",
@@ -21713,6 +21013,13 @@
       "description": "By allenweisongzhou-cpu",
       "category": "Other",
       "author": "allenweisongzhou-cpu"
+    },
+    {
+      "slug": "allinaigc/dirs-submit",
+      "name": "Dirs Submit",
+      "description": "By allinaigc",
+      "category": "Other",
+      "author": "allinaigc"
     },
     {
       "slug": "allinherog-star/bilibili-sentiment-dashboard",
@@ -21754,6 +21061,13 @@
       "name": "Douyin Traffic Dashboard",
       "description": "By allinherog-star",
       "category": "Other",
+      "author": "allinherog-star"
+    },
+    {
+      "slug": "allinherog-star/kuaishou-sentiment-dashboard",
+      "name": "Kuaishou Sentiment Dashboard",
+      "description": "By allinherog-star",
+      "category": "AI & ML",
       "author": "allinherog-star"
     },
     {
@@ -21839,6 +21153,20 @@
       "description": "By alondai",
       "category": "Other",
       "author": "alondai"
+    },
+    {
+      "slug": "alondotsh/alon-github-security-audit",
+      "name": "Alon Github Security Audit",
+      "description": "By alondotsh",
+      "category": "Security",
+      "author": "alondotsh"
+    },
+    {
+      "slug": "alondotsh/alon-search-skill-plus",
+      "name": "Alon Search Skill Plus",
+      "description": "By alondotsh",
+      "category": "Other",
+      "author": "alondotsh"
     },
     {
       "slug": "alone55/shortvideo-hook",
@@ -22959,121 +22287,9 @@
       "description": "By amirmabhout",
       "category": "Other",
       "author": "amirmabhout"
-    },
-    {
-      "slug": "amitabhainarunachala/agentic-ai-gold",
-      "name": "Agentic Ai Gold",
-      "description": "By amitabhainarunachala",
-      "category": "AI & ML",
-      "author": "amitabhainarunachala"
-    },
-    {
-      "slug": "amitabhainarunachala/rv-measure",
-      "name": "Rv Measure",
-      "description": "By amitabhainarunachala",
-      "category": "Other",
-      "author": "amitabhainarunachala"
-    },
-    {
-      "slug": "amitaybohadana/paygents",
-      "name": "Paygents",
-      "description": "By amitaybohadana",
-      "category": "Payments",
-      "author": "amitaybohadana"
-    },
-    {
-      "slug": "amitbiswas1992/soho",
-      "name": "Soho",
-      "description": "By amitbiswas1992",
-      "category": "Other",
-      "author": "amitbiswas1992"
-    },
-    {
-      "slug": "amittell/agentx-news",
-      "name": "Agentx News",
-      "description": "By amittell",
-      "category": "Other",
-      "author": "amittell"
-    },
-    {
-      "slug": "amlyx/three-dimensional-memory",
-      "name": "Three Dimensional Memory",
-      "description": "By amlyx",
-      "category": "Other",
-      "author": "amlyx"
-    },
-    {
-      "slug": "amlyx/web-publish",
-      "name": "Web Publish",
-      "description": "By amlyx",
-      "category": "Other",
-      "author": "amlyx"
-    },
-    {
-      "slug": "ammkode/solana-scam-detector",
-      "name": "Solana Scam Detector",
-      "description": "By ammkode",
-      "category": "Web3",
-      "author": "ammkode"
-    },
-    {
-      "slug": "amoghacloud/openclaws",
-      "name": "Openclaws",
-      "description": "By amoghacloud",
-      "category": "DevOps",
-      "author": "amoghacloud"
-    },
-    {
-      "slug": "amoghpurohit/job-search-mcp",
-      "name": "Job Search Mcp",
-      "description": "By amoghpurohit",
-      "category": "Other",
-      "author": "amoghpurohit"
-    },
-    {
-      "slug": "amogower/nest-devices",
-      "name": "Nest Devices",
-      "description": "By amogower",
-      "category": "Other",
-      "author": "amogower"
-    },
-    {
-      "slug": "amokay/island-selector",
-      "name": "Island Selector",
-      "description": "By amokay",
-      "category": "Other",
-      "author": "amokay"
-    },
-    {
-      "slug": "amoldericksoans/molt-connect",
-      "name": "Molt Connect",
-      "description": "By amoldericksoans",
-      "category": "Other",
-      "author": "amoldericksoans"
-    },
-    {
-      "slug": "amoldericksoans/revenue-studio",
-      "name": "Revenue Studio",
-      "description": "By amoldericksoans",
-      "category": "Other",
-      "author": "amoldericksoans"
-    },
-    {
-      "slug": "amonter/attention-os",
-      "name": "Attention Os",
-      "description": "By amonter",
-      "category": "Other",
-      "author": "amonter"
-    },
-    {
-      "slug": "amor71/session-history",
-      "name": "Session History",
-      "description": "By amor71",
-      "category": "Other",
-      "author": "amor71"
     }
   ],
-  "total": 3296,
-  "lastUpdated": "2026-04-06T06:37:20.577Z",
+  "total": 3184,
+  "lastUpdated": "2026-04-07T06:31:24.277Z",
   "version": "1.1.0"
 }
