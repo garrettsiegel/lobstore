@@ -5685,6 +5685,13 @@
       "author": "24k-handsomer"
     },
     {
+      "slug": "2513483494/1123",
+      "name": "1123",
+      "description": "By 2513483494",
+      "category": "Other",
+      "author": "2513483494"
+    },
+    {
       "slug": "2513483494/arch-sla-cloudq",
       "name": "Arch Sla Cloudq",
       "description": "By 2513483494",
@@ -8245,6 +8252,13 @@
       "description": "By 6e6e6e",
       "category": "AI & ML",
       "author": "6e6e6e"
+    },
+    {
+      "slug": "6eanut/sessions-manager",
+      "name": "Sessions Manager",
+      "description": "By 6eanut",
+      "category": "Other",
+      "author": "6eanut"
     },
     {
       "slug": "6leonardo/m2m-ads",
@@ -15247,13 +15261,6 @@
       "author": "aibenyclaude-coder"
     },
     {
-      "slug": "aibgsps-sys/superpowers-cn",
-      "name": "Superpowers Cn",
-      "description": "By aibgsps-sys",
-      "category": "Other",
-      "author": "aibgsps-sys"
-    },
-    {
       "slug": "aicadegalaxy/aicade-create-app-builder",
       "name": "Aicade Create App Builder",
       "description": "By aicadegalaxy",
@@ -18157,13 +18164,6 @@
       "description": "By aiwithabidi",
       "category": "Other",
       "author": "aiwithabidi"
-    },
-    {
-      "slug": "aiwork4me/bb-browser-autoclaw",
-      "name": "Bb Browser Autoclaw",
-      "description": "By aiwork4me",
-      "category": "Other",
-      "author": "aiwork4me"
     },
     {
       "slug": "aixbinge/rag-knowledge-assistant",
@@ -22602,9 +22602,16 @@
       "description": "By alshowse-tech",
       "category": "Other",
       "author": "alshowse-tech"
+    },
+    {
+      "slug": "alslrl/moltpixel",
+      "name": "Moltpixel",
+      "description": "By alslrl",
+      "category": "Other",
+      "author": "alslrl"
     }
   ],
-  "total": 3229,
-  "lastUpdated": "2026-04-09T06:32:59.463Z",
+  "total": 3230,
+  "lastUpdated": "2026-04-10T06:36:41.094Z",
   "version": "1.1.0"
 }
