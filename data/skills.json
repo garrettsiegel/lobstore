@@ -13469,6 +13469,13 @@
       "author": "agenthyjack"
     },
     {
+      "slug": "agenthyjack/marrs",
+      "name": "Marrs",
+      "description": "By agenthyjack",
+      "category": "Other",
+      "author": "agenthyjack"
+    },
+    {
       "slug": "agenthyjack/multi-agent-status",
       "name": "Multi Agent Status",
       "description": "By agenthyjack",
@@ -13751,6 +13758,13 @@
     {
       "slug": "agents365-ai/drawio-pro-skill",
       "name": "Drawio Pro Skill",
+      "description": "By agents365-ai",
+      "category": "Other",
+      "author": "agents365-ai"
+    },
+    {
+      "slug": "agents365-ai/paper-fetch",
+      "name": "Paper Fetch",
       "description": "By agents365-ai",
       "category": "Other",
       "author": "agents365-ai"
@@ -18285,20 +18299,6 @@
       "author": "ajeenkya"
     },
     {
-      "slug": "ajian11/top-ai-news",
-      "name": "Top Ai News",
-      "description": "By ajian11",
-      "category": "AI & ML",
-      "author": "ajian11"
-    },
-    {
-      "slug": "ajian11/top-baidu-hot",
-      "name": "Top Baidu Hot",
-      "description": "By ajian11",
-      "category": "AI & ML",
-      "author": "ajian11"
-    },
-    {
       "slug": "ajie1024/a-stock-ai-monitor",
       "name": "A Stock Ai Monitor",
       "description": "By ajie1024",
@@ -18817,13 +18817,6 @@
       "author": "akolotov"
     },
     {
-      "slug": "akrimm702/autoforge",
-      "name": "Autoforge",
-      "description": "By akrimm702",
-      "category": "Other",
-      "author": "akrimm702"
-    },
-    {
       "slug": "aksenkin/voice-stt-tts",
       "name": "Voice Stt Tts",
       "description": "By aksenkin",
@@ -19011,13 +19004,6 @@
       "description": "By alamby",
       "category": "Other",
       "author": "alamby"
-    },
-    {
-      "slug": "alaminedits/boot-installer",
-      "name": "Boot Installer",
-      "description": "By alaminedits",
-      "category": "Other",
-      "author": "alaminedits"
     },
     {
       "slug": "alaminrifat/file-to-markdown",
@@ -19235,13 +19221,6 @@
       "description": "By alebrega",
       "category": "Backend",
       "author": "alebrega"
-    },
-    {
-      "slug": "alecfritsch/ovra-payments",
-      "name": "Ovra Payments",
-      "description": "By alecfritsch",
-      "category": "Payments",
-      "author": "alecfritsch"
     },
     {
       "slug": "alech44/founder-briefing",
@@ -22609,9 +22588,149 @@
       "description": "By alslrl",
       "category": "Other",
       "author": "alslrl"
+    },
+    {
+      "slug": "alsoforever/api-integration",
+      "name": "Api Integration",
+      "description": "By alsoforever",
+      "category": "Backend",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/do-it-gungun",
+      "name": "Do It Gungun",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/do-it",
+      "name": "Do It",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/excel-finance",
+      "name": "Excel Finance",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/finance-analysis",
+      "name": "Finance Analysis",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/finance-bp-core",
+      "name": "Finance Bp Core",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/financial-news",
+      "name": "Financial News",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/gungun-12-clo",
+      "name": "Gungun 12 Clo",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/industry-compare",
+      "name": "Industry Compare",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/memory-stack-gungun",
+      "name": "Memory Stack Gungun",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/product-design-gungun",
+      "name": "Product Design Gungun",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/tushare-cli",
+      "name": "Tushare Cli",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/user-growth-gungun",
+      "name": "User Growth Gungun",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alsoforever/xuanxuan",
+      "name": "Xuanxuan",
+      "description": "By alsoforever",
+      "category": "Other",
+      "author": "alsoforever"
+    },
+    {
+      "slug": "alstja98/heytraders",
+      "name": "Heytraders",
+      "description": "By alstja98",
+      "category": "Other",
+      "author": "alstja98"
+    },
+    {
+      "slug": "altaircardinal/config-tracker",
+      "name": "Config Tracker",
+      "description": "By altaircardinal",
+      "category": "Other",
+      "author": "altaircardinal"
+    },
+    {
+      "slug": "altaircardinal/project-watcher",
+      "name": "Project Watcher",
+      "description": "By altaircardinal",
+      "category": "Other",
+      "author": "altaircardinal"
+    },
+    {
+      "slug": "alti-systems/goal-tracker",
+      "name": "Goal Tracker",
+      "description": "By alti-systems",
+      "category": "Other",
+      "author": "alti-systems"
+    },
+    {
+      "slug": "alti-systems/kling",
+      "name": "Kling",
+      "description": "By alti-systems",
+      "category": "Other",
+      "author": "alti-systems"
+    },
+    {
+      "slug": "alti-systems/yt-transcript",
+      "name": "Yt Transcript",
+      "description": "By alti-systems",
+      "category": "Other",
+      "author": "alti-systems"
     }
   ],
-  "total": 3230,
-  "lastUpdated": "2026-04-10T06:36:41.094Z",
+  "total": 3247,
+  "lastUpdated": "2026-04-11T06:22:34.179Z",
   "version": "1.1.0"
 }
