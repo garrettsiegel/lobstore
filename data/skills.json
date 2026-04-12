@@ -17333,6 +17333,13 @@
       "author": "aisadocs"
     },
     {
+      "slug": "aisadocs/openclaw-twitter-post-engage",
+      "name": "Openclaw Twitter Post Engage",
+      "description": "By aisadocs",
+      "category": "Social & Media",
+      "author": "aisadocs"
+    },
+    {
       "slug": "aisadocs/openclaw-twitter-post",
       "name": "Openclaw Twitter Post",
       "description": "By aisadocs",
@@ -22023,13 +22030,6 @@
       "author": "allenfancy-gan"
     },
     {
-      "slug": "allenkwok/fund-manage",
-      "name": "Fund Manage",
-      "description": "By allenkwok",
-      "category": "Other",
-      "author": "allenkwok"
-    },
-    {
       "slug": "allenkwok/xlink-iot-agent",
       "name": "Xlink Iot Agent",
       "description": "By allenkwok",
@@ -22240,27 +22240,6 @@
       "author": "alon-mini"
     },
     {
-      "slug": "alondai/alon-github-security-audit",
-      "name": "Alon Github Security Audit",
-      "description": "By alondai",
-      "category": "Security",
-      "author": "alondai"
-    },
-    {
-      "slug": "alondai/alon-search-skill-plus",
-      "name": "Alon Search Skill Plus",
-      "description": "By alondai",
-      "category": "Other",
-      "author": "alondai"
-    },
-    {
-      "slug": "alondai/stock-research-framework",
-      "name": "Stock Research Framework",
-      "description": "By alondai",
-      "category": "Other",
-      "author": "alondai"
-    },
-    {
       "slug": "alondotsh/alon-github-security-audit",
       "name": "Alon Github Security Audit",
       "description": "By alondotsh",
@@ -22406,83 +22385,6 @@
       "description": "By alphacollectivellc",
       "category": "Other",
       "author": "alphacollectivellc"
-    },
-    {
-      "slug": "alphafactor/alpha",
-      "name": "Alpha",
-      "description": "By alphafactor",
-      "category": "Other",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/channel",
-      "name": "Channel",
-      "description": "By alphafactor",
-      "category": "Other",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/crypto",
-      "name": "Crypto",
-      "description": "By alphafactor",
-      "category": "Web3",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/explorer",
-      "name": "Explorer",
-      "description": "By alphafactor",
-      "category": "Other",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/ghost",
-      "name": "Ghost",
-      "description": "By alphafactor",
-      "category": "Other",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/homekit",
-      "name": "Homekit",
-      "description": "By alphafactor",
-      "category": "Other",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/mailgun",
-      "name": "Mailgun",
-      "description": "By alphafactor",
-      "category": "AI & ML",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/todolist",
-      "name": "Todolist",
-      "description": "By alphafactor",
-      "category": "Productivity",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/tushare",
-      "name": "Tushare",
-      "description": "By alphafactor",
-      "category": "Other",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/wechat",
-      "name": "Wechat",
-      "description": "By alphafactor",
-      "category": "Other",
-      "author": "alphafactor"
-    },
-    {
-      "slug": "alphafactor/x-publisher",
-      "name": "X Publisher",
-      "description": "By alphafactor",
-      "category": "Other",
-      "author": "alphafactor"
     },
     {
       "slug": "alphafanx/botworld-comms",
@@ -22728,9 +22630,44 @@
       "description": "By alti-systems",
       "category": "Other",
       "author": "alti-systems"
+    },
+    {
+      "slug": "altonappleton32-ux/openclaw-sarvam-girlfriend",
+      "name": "Openclaw Sarvam Girlfriend",
+      "description": "By altonappleton32-ux",
+      "category": "Other",
+      "author": "altonappleton32-ux"
+    },
+    {
+      "slug": "alukardo/achievement-qztc",
+      "name": "Achievement Qztc",
+      "description": "By alukardo",
+      "category": "Other",
+      "author": "alukardo"
+    },
+    {
+      "slug": "alukardo/codex-cli-guardian",
+      "name": "Codex Cli Guardian",
+      "description": "By alukardo",
+      "category": "Other",
+      "author": "alukardo"
+    },
+    {
+      "slug": "alukardo/manual-qztc",
+      "name": "Manual Qztc",
+      "description": "By alukardo",
+      "category": "Other",
+      "author": "alukardo"
+    },
+    {
+      "slug": "alukardo/tiny-scraper",
+      "name": "Tiny Scraper",
+      "description": "By alukardo",
+      "category": "Other",
+      "author": "alukardo"
     }
   ],
-  "total": 3247,
-  "lastUpdated": "2026-04-11T06:22:34.179Z",
+  "total": 3238,
+  "lastUpdated": "2026-04-12T06:32:23.978Z",
   "version": "1.1.0"
 }
