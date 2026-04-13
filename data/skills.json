@@ -6021,6 +6021,13 @@
       "author": "279458179"
     },
     {
+      "slug": "2813223285/meeting-notes-skill",
+      "name": "Meeting Notes Skill",
+      "description": "By 2813223285",
+      "category": "Productivity",
+      "author": "2813223285"
+    },
+    {
       "slug": "281862066-a11y/agentsystem",
       "name": "Agentsystem",
       "description": "By 281862066-a11y",
@@ -8240,6 +8247,13 @@
       "author": "674067795w-wq"
     },
     {
+      "slug": "67available/pdf-rename",
+      "name": "Pdf Rename",
+      "description": "By 67available",
+      "category": "Other",
+      "author": "67available"
+    },
+    {
       "slug": "6830920/clawlet",
       "name": "Clawlet",
       "description": "By 6830920",
@@ -9736,6 +9750,20 @@
       "description": "By aamish99",
       "category": "AI & ML",
       "author": "aamish99"
+    },
+    {
+      "slug": "aapanel/btpanel-files",
+      "name": "Btpanel Files",
+      "description": "By aapanel",
+      "category": "Other",
+      "author": "aapanel"
+    },
+    {
+      "slug": "aapanel/btpanel-phpsite",
+      "name": "Btpanel Phpsite",
+      "description": "By aapanel",
+      "category": "Other",
+      "author": "aapanel"
     },
     {
       "slug": "aapanel/btpanel",
@@ -13742,6 +13770,20 @@
       "author": "agentossoftware"
     },
     {
+      "slug": "agentossoftware/surfagent-browser",
+      "name": "Surfagent Browser",
+      "description": "By agentossoftware",
+      "category": "Other",
+      "author": "agentossoftware"
+    },
+    {
+      "slug": "agentossoftware/surfagent-perception",
+      "name": "Surfagent Perception",
+      "description": "By agentossoftware",
+      "category": "Other",
+      "author": "agentossoftware"
+    },
+    {
       "slug": "agentossoftware/surfagent",
       "name": "Surfagent",
       "description": "By agentossoftware",
@@ -16675,6 +16717,13 @@
       "author": "aipoch-ai"
     },
     {
+      "slug": "aipoch-ai/patient-consent-simplifier",
+      "name": "Patient Consent Simplifier",
+      "description": "By aipoch-ai",
+      "category": "Other",
+      "author": "aipoch-ai"
+    },
+    {
       "slug": "aipoch-ai/patient-recruitment-ad-gen",
       "name": "Patient Recruitment Ad Gen",
       "description": "By aipoch-ai",
@@ -17202,6 +17251,13 @@
     {
       "slug": "airix315/rhskill",
       "name": "Rhskill",
+      "description": "By airix315",
+      "category": "Other",
+      "author": "airix315"
+    },
+    {
+      "slug": "airix315/runninghub-skill",
+      "name": "Runninghub Skill",
       "description": "By airix315",
       "category": "Other",
       "author": "airix315"
@@ -22630,44 +22686,9 @@
       "description": "By alti-systems",
       "category": "Other",
       "author": "alti-systems"
-    },
-    {
-      "slug": "altonappleton32-ux/openclaw-sarvam-girlfriend",
-      "name": "Openclaw Sarvam Girlfriend",
-      "description": "By altonappleton32-ux",
-      "category": "Other",
-      "author": "altonappleton32-ux"
-    },
-    {
-      "slug": "alukardo/achievement-qztc",
-      "name": "Achievement Qztc",
-      "description": "By alukardo",
-      "category": "Other",
-      "author": "alukardo"
-    },
-    {
-      "slug": "alukardo/codex-cli-guardian",
-      "name": "Codex Cli Guardian",
-      "description": "By alukardo",
-      "category": "Other",
-      "author": "alukardo"
-    },
-    {
-      "slug": "alukardo/manual-qztc",
-      "name": "Manual Qztc",
-      "description": "By alukardo",
-      "category": "Other",
-      "author": "alukardo"
-    },
-    {
-      "slug": "alukardo/tiny-scraper",
-      "name": "Tiny Scraper",
-      "description": "By alukardo",
-      "category": "Other",
-      "author": "alukardo"
     }
   ],
-  "total": 3238,
-  "lastUpdated": "2026-04-12T06:32:23.978Z",
+  "total": 3241,
+  "lastUpdated": "2026-04-13T06:43:22.109Z",
   "version": "1.1.0"
 }
