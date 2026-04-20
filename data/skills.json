@@ -5825,6 +5825,13 @@
       "author": "2233admin"
     },
     {
+      "slug": "2233admin/ontology-kg",
+      "name": "Ontology Kg",
+      "description": "By 2233admin",
+      "category": "Other",
+      "author": "2233admin"
+    },
+    {
       "slug": "2233admin/openclaw-skill-intelligence-ingestion",
       "name": "Openclaw Skill Intelligence Ingestion",
       "description": "By 2233admin",
@@ -14610,6 +14617,13 @@
       "author": "agentmilindu"
     },
     {
+      "slug": "agentnewsdev/agent-news-api",
+      "name": "Agent News Api",
+      "description": "By agentnewsdev",
+      "category": "Backend",
+      "author": "agentnewsdev"
+    },
+    {
       "slug": "agentnewsdev/agent-news-free",
       "name": "Agent News Free",
       "description": "By agentnewsdev",
@@ -21925,7 +21939,7 @@
       "author": "aliramw"
     }
   ],
-  "total": 3132,
-  "lastUpdated": "2026-04-19T06:35:01.754Z",
+  "total": 3134,
+  "lastUpdated": "2026-04-20T06:44:35.568Z",
   "version": "1.1.0"
 }
