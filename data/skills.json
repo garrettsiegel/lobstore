@@ -596,13 +596,6 @@
       "author": "0xcjl"
     },
     {
-      "slug": "0xcjl/openclaw-memory-plugin",
-      "name": "Openclaw Memory Plugin",
-      "description": "By 0xcjl",
-      "category": "Other",
-      "author": "0xcjl"
-    },
-    {
       "slug": "0xcjl/slowmist-security-cc",
       "name": "Slowmist Security Cc",
       "description": "By 0xcjl",
@@ -1644,13 +1637,6 @@
       "description": "By 10xcoldleads",
       "category": "Other",
       "author": "10xcoldleads"
-    },
-    {
-      "slug": "1103-ss/a2a-match",
-      "name": "A2a Match",
-      "description": "By 1103-ss",
-      "category": "Other",
-      "author": "1103-ss"
     },
     {
       "slug": "1122525/rednote-publisher",
@@ -2864,6 +2850,13 @@
       "author": "1688aiinfra"
     },
     {
+      "slug": "1688aiinfra/newton-quotation-pdf-extraction",
+      "name": "Newton Quotation Pdf Extraction",
+      "description": "By 1688aiinfra",
+      "category": "Other",
+      "author": "1688aiinfra"
+    },
+    {
       "slug": "1688aiinfra/ozon-product-selection",
       "name": "Ozon Product Selection",
       "description": "By 1688aiinfra",
@@ -3268,6 +3261,20 @@
       "description": "By 1829162846lw",
       "category": "AI & ML",
       "author": "1829162846lw"
+    },
+    {
+      "slug": "18505298102/wenhub-framework",
+      "name": "Wenhub Framework",
+      "description": "By 18505298102",
+      "category": "Other",
+      "author": "18505298102"
+    },
+    {
+      "slug": "18505298102/wenshu-framework",
+      "name": "Wenshu Framework",
+      "description": "By 18505298102",
+      "category": "Other",
+      "author": "18505298102"
     },
     {
       "slug": "18621063286/bili-rs",
@@ -11061,6 +11068,13 @@
       "author": "aaronchartier"
     },
     {
+      "slug": "aaroncxxx/how-much-token-did-this-chat-used",
+      "name": "How Much Token Did This Chat Used",
+      "description": "By aaroncxxx",
+      "category": "Other",
+      "author": "aaroncxxx"
+    },
+    {
       "slug": "aaroncxxx/mimotts25",
       "name": "Mimotts25",
       "description": "By aaroncxxx",
@@ -11730,6 +11744,62 @@
       "name": "Abe Clawshot",
       "description": "By abeltennyson",
       "category": "DevOps",
+      "author": "abeltennyson"
+    },
+    {
+      "slug": "abeltennyson/abe-crawl-for-ai",
+      "name": "Abe Crawl For Ai",
+      "description": "By abeltennyson",
+      "category": "AI & ML",
+      "author": "abeltennyson"
+    },
+    {
+      "slug": "abeltennyson/abe-create-content",
+      "name": "Abe Create Content",
+      "description": "By abeltennyson",
+      "category": "Other",
+      "author": "abeltennyson"
+    },
+    {
+      "slug": "abeltennyson/abe-creative-thought-partner",
+      "name": "Abe Creative Thought Partner",
+      "description": "By abeltennyson",
+      "category": "Other",
+      "author": "abeltennyson"
+    },
+    {
+      "slug": "abeltennyson/abe-critical-article-writer",
+      "name": "Abe Critical Article Writer",
+      "description": "By abeltennyson",
+      "category": "Other",
+      "author": "abeltennyson"
+    },
+    {
+      "slug": "abeltennyson/abe-deep-research",
+      "name": "Abe Deep Research",
+      "description": "By abeltennyson",
+      "category": "Other",
+      "author": "abeltennyson"
+    },
+    {
+      "slug": "abeltennyson/abe-dexter",
+      "name": "Abe Dexter",
+      "description": "By abeltennyson",
+      "category": "Other",
+      "author": "abeltennyson"
+    },
+    {
+      "slug": "abeltennyson/abe-dgr",
+      "name": "Abe Dgr",
+      "description": "By abeltennyson",
+      "category": "Other",
+      "author": "abeltennyson"
+    },
+    {
+      "slug": "abeltennyson/abe-diet-tracker",
+      "name": "Abe Diet Tracker",
+      "description": "By abeltennyson",
+      "category": "Other",
       "author": "abeltennyson"
     },
     {
@@ -21946,6 +22016,13 @@
       "author": "alexanderhe88"
     },
     {
+      "slug": "alexanderkinging/dabafvarvadfvavaevad",
+      "name": "Dabafvarvadfvavaevad",
+      "description": "By alexanderkinging",
+      "category": "Other",
+      "author": "alexanderkinging"
+    },
+    {
       "slug": "alexanderkinging/obsidian-cli-official",
       "name": "Obsidian Cli Official",
       "description": "By alexanderkinging",
@@ -22625,7 +22702,7 @@
       "author": "alfathsyahrian"
     }
   ],
-  "total": 3232,
-  "lastUpdated": "2026-04-23T06:38:33.027Z",
+  "total": 3243,
+  "lastUpdated": "2026-04-24T06:38:59.597Z",
   "version": "1.1.0"
 }
