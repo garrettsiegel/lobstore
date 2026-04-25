@@ -3263,20 +3263,6 @@
       "author": "1829162846lw"
     },
     {
-      "slug": "18505298102/wenhub-framework",
-      "name": "Wenhub Framework",
-      "description": "By 18505298102",
-      "category": "Other",
-      "author": "18505298102"
-    },
-    {
-      "slug": "18505298102/wenshu-framework",
-      "name": "Wenshu Framework",
-      "description": "By 18505298102",
-      "category": "Other",
-      "author": "18505298102"
-    },
-    {
       "slug": "18621063286/bili-rs",
       "name": "Bili Rs",
       "description": "By 18621063286",
@@ -21127,6 +21113,13 @@
       "author": "alan-silverstreams"
     },
     {
+      "slug": "alan-stratcraftsai/clawnexus",
+      "name": "Clawnexus",
+      "description": "By alan-stratcraftsai",
+      "category": "Other",
+      "author": "alan-stratcraftsai"
+    },
+    {
       "slug": "alan-stratcraftsai/nexusfix",
       "name": "Nexusfix",
       "description": "By alan-stratcraftsai",
@@ -22700,9 +22693,16 @@
       "description": "By alfathsyahrian",
       "category": "Other",
       "author": "alfathsyahrian"
+    },
+    {
+      "slug": "alfonso46674/openclaw-sage",
+      "name": "Openclaw Sage",
+      "description": "By alfonso46674",
+      "category": "Other",
+      "author": "alfonso46674"
     }
   ],
   "total": 3243,
-  "lastUpdated": "2026-04-24T06:38:59.597Z",
+  "lastUpdated": "2026-04-25T06:31:02.967Z",
   "version": "1.1.0"
 }
