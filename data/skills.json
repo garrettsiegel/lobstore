@@ -10648,20 +10648,6 @@
       "author": "aadipapp"
     },
     {
-      "slug": "aahuaxu/auto-updater-skill",
-      "name": "Auto Updater Skill",
-      "description": "By aahuaxu",
-      "category": "Other",
-      "author": "aahuaxu"
-    },
-    {
-      "slug": "aahuaxu/hello-world-skill",
-      "name": "Hello World Skill",
-      "description": "By aahuaxu",
-      "category": "Other",
-      "author": "aahuaxu"
-    },
-    {
       "slug": "aaiccee/asr-file-transfer",
       "name": "Asr File Transfer",
       "description": "By aaiccee",
@@ -12613,20 +12599,6 @@
       "description": "By abuiles",
       "category": "Other",
       "author": "abuiles"
-    },
-    {
-      "slug": "abuzerasr/asrai-x402",
-      "name": "Asrai X402",
-      "description": "By abuzerasr",
-      "category": "AI & ML",
-      "author": "abuzerasr"
-    },
-    {
-      "slug": "abuzerasr/intel-asrai",
-      "name": "Intel Asrai",
-      "description": "By abuzerasr",
-      "category": "AI & ML",
-      "author": "abuzerasr"
     },
     {
       "slug": "abycloudcn-jpg/dream-journal",
@@ -14878,6 +14850,13 @@
     {
       "slug": "afrexai-cto/afrexai-plumbing-operations",
       "name": "Afrexai Plumbing Operations",
+      "description": "By afrexai-cto",
+      "category": "AI & ML",
+      "author": "afrexai-cto"
+    },
+    {
+      "slug": "afrexai-cto/afrexai-pool-service",
+      "name": "Afrexai Pool Service",
       "description": "By afrexai-cto",
       "category": "AI & ML",
       "author": "afrexai-cto"
@@ -22714,9 +22693,23 @@
       "description": "By alfathsyahrian",
       "category": "Other",
       "author": "alfathsyahrian"
+    },
+    {
+      "slug": "alfonso46674/openclaw-sage",
+      "name": "Openclaw Sage",
+      "description": "By alfonso46674",
+      "category": "Other",
+      "author": "alfonso46674"
+    },
+    {
+      "slug": "alfred-intel-handler-source/liteparse",
+      "name": "Liteparse",
+      "description": "By alfred-intel-handler-source",
+      "category": "Other",
+      "author": "alfred-intel-handler-source"
     }
   ],
-  "total": 3245,
-  "lastUpdated": "2026-04-26T06:38:10.746Z",
+  "total": 3244,
+  "lastUpdated": "2026-04-27T06:52:48.406Z",
   "version": "1.1.0"
 }
