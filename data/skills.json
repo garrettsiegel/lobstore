@@ -2591,6 +2591,13 @@
       "author": "156554395"
     },
     {
+      "slug": "156554395/tx-cos",
+      "name": "Tx Cos",
+      "description": "By 156554395",
+      "category": "Other",
+      "author": "156554395"
+    },
+    {
       "slug": "156554395/zhipu-free-image-video",
       "name": "Zhipu Free Image Video",
       "description": "By 156554395",
@@ -6056,6 +6063,13 @@
       "author": "21j3phy"
     },
     {
+      "slug": "2233admin/adaptive-review",
+      "name": "Adaptive Review",
+      "description": "By 2233admin",
+      "category": "Other",
+      "author": "2233admin"
+    },
+    {
       "slug": "2233admin/api-monitor",
       "name": "Api Monitor",
       "description": "By 2233admin",
@@ -6362,6 +6376,13 @@
       "description": "By 2513483494",
       "category": "DevOps",
       "author": "2513483494"
+    },
+    {
+      "slug": "258468639/backend-admin-dev-skill",
+      "name": "Backend Admin Dev Skill",
+      "description": "By 258468639",
+      "category": "Backend",
+      "author": "258468639"
     },
     {
       "slug": "260335325why-prog/suno-music-composer",
@@ -7692,6 +7713,13 @@
       "description": "By 4ier",
       "category": "Other",
       "author": "4ier"
+    },
+    {
+      "slug": "4myhime/narrator-ai-cli-skill",
+      "name": "Narrator Ai Cli Skill",
+      "description": "By 4myhime",
+      "category": "AI & ML",
+      "author": "4myhime"
     },
     {
       "slug": "4myhime/test-for-wang",
@@ -12013,6 +12041,13 @@
       "author": "abhi152003"
     },
     {
+      "slug": "abhi152003/tally-skill",
+      "name": "Tally Skill",
+      "description": "By abhi152003",
+      "category": "Other",
+      "author": "abhi152003"
+    },
+    {
       "slug": "abhibavishi/azure-image-gen",
       "name": "Azure Image Gen",
       "description": "By abhibavishi",
@@ -14930,13 +14965,6 @@
       "description": "By aga-j",
       "category": "Other",
       "author": "aga-j"
-    },
-    {
-      "slug": "againcrazycode/cnbblogs-pick",
-      "name": "Cnbblogs Pick",
-      "description": "By againcrazycode",
-      "category": "Other",
-      "author": "againcrazycode"
     },
     {
       "slug": "againta/fluid-memory",
@@ -18530,8 +18558,36 @@
       "author": "aipoch-ai"
     },
     {
+      "slug": "aipoch-ai/postdoc-fellowship-matcher",
+      "name": "Postdoc Fellowship Matcher",
+      "description": "By aipoch-ai",
+      "category": "Other",
+      "author": "aipoch-ai"
+    },
+    {
+      "slug": "aipoch-ai/poster-layout-planner",
+      "name": "Poster Layout Planner",
+      "description": "By aipoch-ai",
+      "category": "Other",
+      "author": "aipoch-ai"
+    },
+    {
       "slug": "aipoch-ai/pptx-posters",
       "name": "Pptx Posters",
+      "description": "By aipoch-ai",
+      "category": "Other",
+      "author": "aipoch-ai"
+    },
+    {
+      "slug": "aipoch-ai/preclinical-pkpd-analyst",
+      "name": "Preclinical Pkpd Analyst",
+      "description": "By aipoch-ai",
+      "category": "Other",
+      "author": "aipoch-ai"
+    },
+    {
+      "slug": "aipoch-ai/presentation-hook",
+      "name": "Presentation Hook",
       "description": "By aipoch-ai",
       "category": "Other",
       "author": "aipoch-ai"
@@ -18943,6 +18999,13 @@
       "author": "aipoch-ai"
     },
     {
+      "slug": "aipoch-ai/volcano-plot-script-1",
+      "name": "Volcano Plot Script 1",
+      "description": "By aipoch-ai",
+      "category": "Other",
+      "author": "aipoch-ai"
+    },
+    {
       "slug": "aipoch-ai/waste-disposal-guide-1",
       "name": "Waste Disposal Guide 1",
       "description": "By aipoch-ai",
@@ -19206,6 +19269,27 @@
       "name": "Openclaw Twitter Post",
       "description": "By aisadocs",
       "category": "Social & Media",
+      "author": "aisadocs"
+    },
+    {
+      "slug": "aisadocs/perplexity-sonar-search",
+      "name": "Perplexity Sonar Search",
+      "description": "By aisadocs",
+      "category": "Other",
+      "author": "aisadocs"
+    },
+    {
+      "slug": "aisadocs/polymarket-arb",
+      "name": "Polymarket Arb",
+      "description": "By aisadocs",
+      "category": "Other",
+      "author": "aisadocs"
+    },
+    {
+      "slug": "aisadocs/pred-polymarket",
+      "name": "Pred Polymarket",
+      "description": "By aisadocs",
+      "category": "Other",
       "author": "aisadocs"
     },
     {
@@ -20170,6 +20254,41 @@
     {
       "slug": "aiworkskills/aws-wechat-article-assets",
       "name": "Aws Wechat Article Assets",
+      "description": "By aiworkskills",
+      "category": "DevOps",
+      "author": "aiworkskills"
+    },
+    {
+      "slug": "aiworkskills/aws-wechat-article-formatting",
+      "name": "Aws Wechat Article Formatting",
+      "description": "By aiworkskills",
+      "category": "DevOps",
+      "author": "aiworkskills"
+    },
+    {
+      "slug": "aiworkskills/aws-wechat-article-images",
+      "name": "Aws Wechat Article Images",
+      "description": "By aiworkskills",
+      "category": "DevOps",
+      "author": "aiworkskills"
+    },
+    {
+      "slug": "aiworkskills/aws-wechat-article-main",
+      "name": "Aws Wechat Article Main",
+      "description": "By aiworkskills",
+      "category": "AI & ML",
+      "author": "aiworkskills"
+    },
+    {
+      "slug": "aiworkskills/aws-wechat-article-publish",
+      "name": "Aws Wechat Article Publish",
+      "description": "By aiworkskills",
+      "category": "DevOps",
+      "author": "aiworkskills"
+    },
+    {
+      "slug": "aiworkskills/aws-wechat-article-review",
+      "name": "Aws Wechat Article Review",
       "description": "By aiworkskills",
       "category": "DevOps",
       "author": "aiworkskills"
@@ -22709,7 +22828,7 @@
       "author": "alfred-intel-handler-source"
     }
   ],
-  "total": 3244,
-  "lastUpdated": "2026-04-27T06:52:48.406Z",
+  "total": 3261,
+  "lastUpdated": "2026-04-28T06:54:29.021Z",
   "version": "1.1.0"
 }
