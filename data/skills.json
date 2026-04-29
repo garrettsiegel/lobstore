@@ -7771,6 +7771,13 @@
       "author": "4xiomdev"
     },
     {
+      "slug": "4ydx3906/git-mender",
+      "name": "Git Mender",
+      "description": "By 4ydx3906",
+      "category": "Other",
+      "author": "4ydx3906"
+    },
+    {
       "slug": "4ydx3906/issue-to-pr",
       "name": "Issue To Pr",
       "description": "By 4ydx3906",
@@ -8907,6 +8914,13 @@
     {
       "slug": "547895019/esp-idf-helper",
       "name": "Esp Idf Helper",
+      "description": "By 547895019",
+      "category": "Other",
+      "author": "547895019"
+    },
+    {
+      "slug": "547895019/obsidian-helper",
+      "name": "Obsidian Helper",
       "description": "By 547895019",
       "category": "Other",
       "author": "547895019"
@@ -14043,6 +14057,13 @@
       "author": "adlai88"
     },
     {
+      "slug": "adlai88/polymarket-nothing-ever-happens",
+      "name": "Polymarket Nothing Ever Happens",
+      "description": "By adlai88",
+      "category": "Other",
+      "author": "adlai88"
+    },
+    {
       "slug": "adlai88/polymarket-signal-sniper",
       "name": "Polymarket Signal Sniper",
       "description": "By adlai88",
@@ -15396,6 +15417,13 @@
     {
       "slug": "agents365-ai/drawio-pro-skill",
       "name": "Drawio Pro Skill",
+      "description": "By agents365-ai",
+      "category": "Other",
+      "author": "agents365-ai"
+    },
+    {
+      "slug": "agents365-ai/figshare-skill",
+      "name": "Figshare Skill",
       "description": "By agents365-ai",
       "category": "Other",
       "author": "agents365-ai"
@@ -17506,13 +17534,6 @@
       "description": "By aingestigate",
       "category": "Other",
       "author": "aingestigate"
-    },
-    {
-      "slug": "aiot-f2e-team/aqara-open-api",
-      "name": "Aqara Open Api",
-      "description": "By aiot-f2e-team",
-      "category": "Backend",
-      "author": "aiot-f2e-team"
     },
     {
       "slug": "aipoch-ai/3d-molecule-ray-tracer-1",
@@ -21540,8 +21561,22 @@
       "author": "albionaiinc-del"
     },
     {
+      "slug": "albionaiinc-del/logfmt",
+      "name": "Logfmt",
+      "description": "By albionaiinc-del",
+      "category": "Other",
+      "author": "albionaiinc-del"
+    },
+    {
       "slug": "albionaiinc-del/logvance",
       "name": "Logvance",
+      "description": "By albionaiinc-del",
+      "category": "Other",
+      "author": "albionaiinc-del"
+    },
+    {
+      "slug": "albionaiinc-del/logvibe",
+      "name": "Logvibe",
       "description": "By albionaiinc-del",
       "category": "Other",
       "author": "albionaiinc-del"
@@ -21598,6 +21633,13 @@
     {
       "slug": "albionaiinc-del/txt-chunker",
       "name": "Txt Chunker",
+      "description": "By albionaiinc-del",
+      "category": "Other",
+      "author": "albionaiinc-del"
+    },
+    {
+      "slug": "albionaiinc-del/txt-col-align",
+      "name": "Txt Col Align",
       "description": "By albionaiinc-del",
       "category": "Other",
       "author": "albionaiinc-del"
@@ -22289,6 +22331,13 @@
       "author": "alexdavidswift"
     },
     {
+      "slug": "alexduming/wechat-article-fetcher-alexdu",
+      "name": "Wechat Article Fetcher Alexdu",
+      "description": "By alexduming",
+      "category": "Other",
+      "author": "alexduming"
+    },
+    {
       "slug": "alexduming/xhs-mcp-installer",
       "name": "Xhs Mcp Installer",
       "description": "By alexduming",
@@ -22826,9 +22875,16 @@
       "description": "By alfred-intel-handler-source",
       "category": "Other",
       "author": "alfred-intel-handler-source"
+    },
+    {
+      "slug": "alfredjamesli/gui-claw",
+      "name": "Gui Claw",
+      "description": "By alfredjamesli",
+      "category": "Frontend",
+      "author": "alfredjamesli"
     }
   ],
-  "total": 3261,
-  "lastUpdated": "2026-04-28T06:54:29.021Z",
+  "total": 3269,
+  "lastUpdated": "2026-04-29T06:49:35.941Z",
   "version": "1.1.0"
 }
