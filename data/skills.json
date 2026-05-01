@@ -3025,13 +3025,6 @@
       "author": "18072937735"
     },
     {
-      "slug": "18072937735/smyx-bird-recognition-analysis",
-      "name": "Smyx Bird Recognition Analysis",
-      "description": "By 18072937735",
-      "category": "Other",
-      "author": "18072937735"
-    },
-    {
       "slug": "18072937735/smyx-cat-face-recognition-analysis",
       "name": "Smyx Cat Face Recognition Analysis",
       "description": "By 18072937735",
@@ -3151,20 +3144,6 @@
       "author": "18072937735"
     },
     {
-      "slug": "18072937735/smyx-outdoor-monitoring-analysis",
-      "name": "Smyx Outdoor Monitoring Analysis",
-      "description": "By 18072937735",
-      "category": "Other",
-      "author": "18072937735"
-    },
-    {
-      "slug": "18072937735/smyx-package-detection-analysis",
-      "name": "Smyx Package Detection Analysis",
-      "description": "By 18072937735",
-      "category": "Other",
-      "author": "18072937735"
-    },
-    {
       "slug": "18072937735/smyx-pet-behavior-detection-analysis",
       "name": "Smyx Pet Behavior Detection Analysis",
       "description": "By 18072937735",
@@ -3186,13 +3165,6 @@
       "author": "18072937735"
     },
     {
-      "slug": "18072937735/smyx-pet-calming-trigger-analysis",
-      "name": "Smyx Pet Calming Trigger Analysis",
-      "description": "By 18072937735",
-      "category": "Other",
-      "author": "18072937735"
-    },
-    {
       "slug": "18072937735/smyx-pet-detection-analysis",
       "name": "Smyx Pet Detection Analysis",
       "description": "By 18072937735",
@@ -3209,13 +3181,6 @@
     {
       "slug": "18072937735/smyx-respiratory-symptom-recognition-analysis",
       "name": "Smyx Respiratory Symptom Recognition Analysis",
-      "description": "By 18072937735",
-      "category": "Other",
-      "author": "18072937735"
-    },
-    {
-      "slug": "18072937735/smyx-staff-absence-detection-analysis",
-      "name": "Smyx Staff Absence Detection Analysis",
       "description": "By 18072937735",
       "category": "Other",
       "author": "18072937735"
@@ -6245,13 +6210,6 @@
       "author": "2239721014-ops"
     },
     {
-      "slug": "2263648274/qwen-auto-register",
-      "name": "Qwen Auto Register",
-      "description": "By 2263648274",
-      "category": "Other",
-      "author": "2263648274"
-    },
-    {
       "slug": "228998098/12agent-novel",
       "name": "12agent Novel",
       "description": "By 228998098",
@@ -7134,6 +7092,13 @@
       "author": "36kr-com"
     },
     {
+      "slug": "370299455cx-web/ym-mediatoolkit",
+      "name": "Ym Mediatoolkit",
+      "description": "By 370299455cx-web",
+      "category": "Other",
+      "author": "370299455cx-web"
+    },
+    {
       "slug": "371166758-qq/academic-polish",
       "name": "Academic Polish",
       "description": "By 371166758-qq",
@@ -7584,6 +7549,13 @@
     {
       "slug": "43622283/li-feishu-qq-audio",
       "name": "Li Feishu Qq Audio",
+      "description": "By 43622283",
+      "category": "Other",
+      "author": "43622283"
+    },
+    {
+      "slug": "43622283/li-itil-manager",
+      "name": "Li Itil Manager",
       "description": "By 43622283",
       "category": "Other",
       "author": "43622283"
@@ -8996,6 +8968,13 @@
       "author": "534422530"
     },
     {
+      "slug": "534422530/product-analysis-skill",
+      "name": "Product Analysis Skill",
+      "description": "By 534422530",
+      "category": "Other",
+      "author": "534422530"
+    },
+    {
       "slug": "547895019/arduino-cli",
       "name": "Arduino Cli",
       "description": "By 547895019",
@@ -10004,13 +9983,6 @@
       "author": "99rebels"
     },
     {
-      "slug": "99rebels/context-window-tracker",
-      "name": "Context Window Tracker",
-      "description": "By 99rebels",
-      "category": "Other",
-      "author": "99rebels"
-    },
-    {
       "slug": "99rebels/github-growth-tracker",
       "name": "Github Growth Tracker",
       "description": "By 99rebels",
@@ -10029,13 +10001,6 @@
       "name": "Rebels Invoice Extractor",
       "description": "By 99rebels",
       "category": "Payments",
-      "author": "99rebels"
-    },
-    {
-      "slug": "99rebels/rebels-skill-polisher",
-      "name": "Rebels Skill Polisher",
-      "description": "By 99rebels",
-      "category": "Other",
       "author": "99rebels"
     },
     {
@@ -10767,13 +10732,6 @@
       "author": "aaalenwow"
     },
     {
-      "slug": "aaayersss/doomscrollr",
-      "name": "Doomscrollr",
-      "description": "By aaayersss",
-      "category": "Other",
-      "author": "aaayersss"
-    },
-    {
       "slug": "aaazzzr/fb-page-manager",
       "name": "Fb Page Manager",
       "description": "By aaazzzr",
@@ -11301,13 +11259,6 @@
     {
       "slug": "aaroncxxx/mimotts25",
       "name": "Mimotts25",
-      "description": "By aaroncxxx",
-      "category": "Other",
-      "author": "aaroncxxx"
-    },
-    {
-      "slug": "aaroncxxx/system-selfcheck",
-      "name": "System Selfcheck",
       "description": "By aaroncxxx",
       "category": "Other",
       "author": "aaroncxxx"
@@ -11880,6 +11831,13 @@
       "author": "abdullah4ai"
     },
     {
+      "slug": "abdullah944/quran-explainer",
+      "name": "Quran Explainer",
+      "description": "By abdullah944",
+      "category": "AI & ML",
+      "author": "abdullah944"
+    },
+    {
       "slug": "abdullah944/social-trend-radar",
       "name": "Social Trend Radar",
       "description": "By abdullah944",
@@ -12265,6 +12223,20 @@
       "author": "abeperl"
     },
     {
+      "slug": "abeperl/hebrew-text-tools",
+      "name": "Hebrew Text Tools",
+      "description": "By abeperl",
+      "category": "Other",
+      "author": "abeperl"
+    },
+    {
+      "slug": "abeperl/parsha-summary",
+      "name": "Parsha Summary",
+      "description": "By abeperl",
+      "category": "Other",
+      "author": "abeperl"
+    },
+    {
       "slug": "abeperl/sefaria-mcp",
       "name": "Sefaria Mcp",
       "description": "By abeperl",
@@ -12274,6 +12246,13 @@
     {
       "slug": "abeperl/torah-scholar",
       "name": "Torah Scholar",
+      "description": "By abeperl",
+      "category": "Other",
+      "author": "abeperl"
+    },
+    {
+      "slug": "abeperl/zmanim-calculator",
+      "name": "Zmanim Calculator",
       "description": "By abeperl",
       "category": "Other",
       "author": "abeperl"
@@ -12755,13 +12734,6 @@
       "author": "abstrct"
     },
     {
-      "slug": "abstrct/structs-diplomacy",
-      "name": "Structs Diplomacy",
-      "description": "By abstrct",
-      "category": "Other",
-      "author": "abstrct"
-    },
-    {
       "slug": "abstrct/structs-economy",
       "name": "Structs Economy",
       "description": "By abstrct",
@@ -12804,13 +12776,6 @@
       "author": "abstrct"
     },
     {
-      "slug": "abstrct/structs-onboarding",
-      "name": "Structs Onboarding",
-      "description": "By abstrct",
-      "category": "Other",
-      "author": "abstrct"
-    },
-    {
       "slug": "abstrct/structs-power",
       "name": "Structs Power",
       "description": "By abstrct",
@@ -12822,20 +12787,6 @@
       "name": "Structs Reconnaissance",
       "description": "By abstrct",
       "category": "AI & ML",
-      "author": "abstrct"
-    },
-    {
-      "slug": "abstrct/structs-streaming",
-      "name": "Structs Streaming",
-      "description": "By abstrct",
-      "category": "Other",
-      "author": "abstrct"
-    },
-    {
-      "slug": "abstrct/structsd-install",
-      "name": "Structsd Install",
-      "description": "By abstrct",
-      "category": "Other",
       "author": "abstrct"
     },
     {
@@ -14358,13 +14309,6 @@
       "author": "adlai88"
     },
     {
-      "slug": "adlai88/polymarket-weather-trader",
-      "name": "Polymarket Weather Trader",
-      "description": "By adlai88",
-      "category": "Other",
-      "author": "adlai88"
-    },
-    {
       "slug": "adlai88/prediction-trade-journal",
       "name": "Prediction Trade Journal",
       "description": "By adlai88",
@@ -14388,13 +14332,6 @@
     {
       "slug": "adlai88/simmer-x402",
       "name": "Simmer X402",
-      "description": "By adlai88",
-      "category": "Other",
-      "author": "adlai88"
-    },
-    {
-      "slug": "adlai88/simmer",
-      "name": "Simmer",
       "description": "By adlai88",
       "category": "Other",
       "author": "adlai88"
@@ -14869,13 +14806,6 @@
       "author": "aenjoy"
     },
     {
-      "slug": "aeoess/agent-passport-system",
-      "name": "Agent Passport System",
-      "description": "By aeoess",
-      "category": "Other",
-      "author": "aeoess"
-    },
-    {
       "slug": "aeoess/mingle",
       "name": "Mingle",
       "description": "By aeoess",
@@ -15021,6 +14951,13 @@
       "description": "By afalk42",
       "category": "Other",
       "author": "afalk42"
+    },
+    {
+      "slug": "afanmusic/music-education-research-writer",
+      "name": "Music Education Research Writer",
+      "description": "By afanmusic",
+      "category": "Other",
+      "author": "afanmusic"
     },
     {
       "slug": "afeef23/send-usd",
@@ -19608,13 +19545,6 @@
       "author": "airs-guest"
     },
     {
-      "slug": "airscripts/agentskill",
-      "name": "Agentskill",
-      "description": "By airscripts",
-      "category": "Other",
-      "author": "airscripts"
-    },
-    {
       "slug": "airxtech/g0",
       "name": "G0",
       "description": "By airxtech",
@@ -21176,13 +21106,6 @@
       "author": "aka-anoop"
     },
     {
-      "slug": "akahello/tianyi-cloud-game",
-      "name": "Tianyi Cloud Game",
-      "description": "By akahello",
-      "category": "DevOps",
-      "author": "akahello"
-    },
-    {
       "slug": "akamichikota/slideclaw",
       "name": "Slideclaw",
       "description": "By akamichikota",
@@ -21437,13 +21360,6 @@
     {
       "slug": "akkualle/akkualle-keyword-research",
       "name": "Akkualle Keyword Research",
-      "description": "By akkualle",
-      "category": "Other",
-      "author": "akkualle"
-    },
-    {
-      "slug": "akkualle/akkualle-seo",
-      "name": "Akkualle Seo",
       "description": "By akkualle",
       "category": "Other",
       "author": "akkualle"
@@ -23078,9 +22994,58 @@
       "description": "By alexlinf",
       "category": "Other",
       "author": "alexlinf"
+    },
+    {
+      "slug": "alexliu9921/alexliutkdownload",
+      "name": "Alexliutkdownload",
+      "description": "By alexliu9921",
+      "category": "Other",
+      "author": "alexliu9921"
+    },
+    {
+      "slug": "alexmayanjun-collab/aliyun-codeup",
+      "name": "Aliyun Codeup",
+      "description": "By alexmayanjun-collab",
+      "category": "Other",
+      "author": "alexmayanjun-collab"
+    },
+    {
+      "slug": "alexmayanjun-collab/dataworks-daily-monitor",
+      "name": "Dataworks Daily Monitor",
+      "description": "By alexmayanjun-collab",
+      "category": "AI & ML",
+      "author": "alexmayanjun-collab"
+    },
+    {
+      "slug": "alexmayanjun-collab/dataworks-smart-monitor",
+      "name": "Dataworks Smart Monitor",
+      "description": "By alexmayanjun-collab",
+      "category": "Data",
+      "author": "alexmayanjun-collab"
+    },
+    {
+      "slug": "alexmayanjun-collab/dev-machine-cleanup",
+      "name": "Dev Machine Cleanup",
+      "description": "By alexmayanjun-collab",
+      "category": "Other",
+      "author": "alexmayanjun-collab"
+    },
+    {
+      "slug": "alexmayanjun-collab/dev-machine-database",
+      "name": "Dev Machine Database",
+      "description": "By alexmayanjun-collab",
+      "category": "Data",
+      "author": "alexmayanjun-collab"
+    },
+    {
+      "slug": "alexmayanjun-collab/etl-generator",
+      "name": "Etl Generator",
+      "description": "By alexmayanjun-collab",
+      "category": "Other",
+      "author": "alexmayanjun-collab"
     }
   ],
-  "total": 3297,
-  "lastUpdated": "2026-04-30T06:52:28.145Z",
+  "total": 3292,
+  "lastUpdated": "2026-05-01T06:54:30.847Z",
   "version": "1.1.0"
 }
